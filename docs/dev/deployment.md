@@ -510,7 +510,6 @@ curl -I https://fonts.googleapis.com/css2?family=Vazirmatn
 ## 📚 Related Documentation
 
 - [Installation Guide](installation.md)
-- [Troubleshooting Guide](troubleshooting.md)
 - [Development Overview](overview.md)
 
 ---

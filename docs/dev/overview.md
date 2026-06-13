@@ -48,7 +48,7 @@ All content lives in `data.js` as three structures: `ERAS`, `CITIES` (each with 
 
 ## Scalability
 
-The current dataset ([X] poets, [X] cities, 6 eras) is well within what the map and panel system are designed for — the architecture comfortably supports significantly more without changes to the rendering logic.
+The current dataset (1 poets, 1 cities, 6 eras) is well within what the map and panel system are designed for — the architecture comfortably supports significantly more without changes to the rendering logic.
 
 ## Next steps
 
