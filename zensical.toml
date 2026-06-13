@@ -1,0 +1,100 @@
+[project]
+site_name = "Chekameh Documentation"
+site_url = "https://docs.chekameh.xyz"
+site_description = "Complete guide to the Persian Poetry Map - explore poets, eras, and interactive mapping"
+site_author = "Mohammad Davari & Contributors"
+docs_dir = "docs"
+site_dir = "md_site"
+repo_url = "https://github.com/MDaV05/PersianCultureMap"
+repo_name = "GitHub"
+
+[project.theme]
+name = "material"
+variant = "modern"
+primary_color = "#009688"
+accent_color = "#C5A059"
+language = "en"
+custom_dir = "overrides"
+
+[markdown_extensions.pymdownx.emoji]
+emoji_index = "material.extensions.emoji.twemoji"
+emoji_generator = "material.extensions.emoji.to_svg"
+
+[markdown_extensions.pymdownx.emoji.options]
+custom_icons = ["overrides/icons"]
+
+# Light mode (default)
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "teal"
+accent = "amber"
+toggle.icon = "material/brightness-7"
+toggle.name = "Dark mode"
+
+# Dark mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "teal"
+accent = "amber"
+toggle.icon = "material/brightness-4"
+toggle.name = "Light mode"
+
+# Font configuration
+[project.theme.font]
+text = "Vazirmatn"
+code = "Roboto Mono"
+
+# Navigation structure
+nav = [
+  {"🏠 Home" = "index.md"},
+  {"📖 Guide" = [
+    {"Getting Started" = "guide/getting-started.md"},
+    {"Interactive Map" = "map.md"},
+    {"AI Chatbot" = "chatbot.md"},
+    {"About Project" = "about.md"}
+  ]},
+  {"👨‍💻 Development" = [
+    {"Overview" = "dev/overview.md"},
+    {"Features" = "dev/features.md"},
+    {"Architecture" = "dev/architecture.md"},
+    {"Installation" = "dev/installation.md"},
+    {"API Reference" = "dev/api.md"},
+    {"Contributing" = "dev/contributing.md"},
+    {"Requirements" = "dev/requirements.md"},
+    {"Roadmap" = "dev/tasks.md"}
+  ]},
+  {"🎨 Design" = [
+    {"UI Components" = "design/components.md"},
+    {"Color Palette" = "design/colors.md"},
+    {"Typography" = "design/typography.md"}
+  ]},
+  {"📚 Resources" = [
+    {"Markdown Guide" = "markdown.md"},
+    {"FAQ" = "resources/faq.md"},
+    {"Glossary" = "resources/glossary.md"},
+    {"Links" = "resources/links.md"}
+  ]},
+  {"🔗 Quick Links" = [
+    {"Live Demo" = "https://chekameh.xyz"},
+    {"GitHub Repo" = "https://github.com/MDaV05/PersianCultureMap"}
+  ]}
+]
+
+# Extra features
+[project.plugins]
+search = {}
+social = {}
+
+[project.extra]
+social = [
+  {"icon" = "fontawesome/brands/github", "link" = "https://github.com/MDaV05/PersianCultureMap"},
+  {"icon" = "material/web", "link" = "https://chekameh.xyz"},
+  {"icon" = "custom/46", "link" = "https://web.bale.ai/@FerdowsBaleBot"}
+]
+
+alternate = [
+    { name = "English", link = "/en/", lang = "en" },
+    { name = "فارسی", link = "/fa/", lang = "fa" }
+]
