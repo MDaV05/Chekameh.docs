@@ -1,0 +1,128 @@
+{
+  "data": {
+    "meta": {
+      "template": "main.html",
+      "title": "User Guide - Chekameh"
+    },
+    "content": "<h1 id=\"user-guide\">User Guide<a class=\"headerlink\" href=\"#user-guide\" title=\"Permanent link\">&para;</a></h1>\n<p>Learn how to get the most out of Chekameh.</p>\n<h2 id=\"navigating-the-site\">Navigating the Site<a class=\"headerlink\" href=\"#navigating-the-site\" title=\"Permanent link\">&para;</a></h2>\n<p>The site has four main sections:</p>\n<ol>\n<li><strong>Home</strong> — Project overview and introduction</li>\n<li><strong>Data</strong> — Poets, eras, cities, and poem collections</li>\n<li><strong>Technical</strong> — How the site was built</li>\n<li><strong>Resources</strong> — Guides, FAQ, and contribution info</li>\n</ol>\n<h2 id=\"using-the-interactive-map\">Using the Interactive Map<a class=\"headerlink\" href=\"#using-the-interactive-map\" title=\"Permanent link\">&para;</a></h2>\n<!-- Detailed map guide to be added -->\n\n<p>The map shows literary centers across the Persian-speaking world. Features include:</p>\n<ul>\n<li>Zoom and pan to explore regions</li>\n<li>Click cities for poet information</li>\n<li>Filter by era using the timeline</li>\n<li>Search for specific poets or locations</li>\n</ul>\n<h2 id=\"timeline-feature\">Timeline Feature<a class=\"headerlink\" href=\"#timeline-feature\" title=\"Permanent link\">&para;</a></h2>\n<!-- Timeline guide to be added -->\n\n<p>Slide through centuries to see when poets were active. The timeline syncs with the map.</p>\n<h2 id=\"poet-profiles\">Poet Profiles<a class=\"headerlink\" href=\"#poet-profiles\" title=\"Permanent link\">&para;</a></h2>\n<!-- Profile guide to be added -->\n\n<p>Each poet page includes biographical info, major works, and connections.</p>\n<h2 id=\"search\">Search<a class=\"headerlink\" href=\"#search\" title=\"Permanent link\">&para;</a></h2>\n<!-- Search guide to be added -->\n\n<p>Find poets by name, era, location, or keywords.</p>\n<h2 id=\"language-switching\">Language Switching<a class=\"headerlink\" href=\"#language-switching\" title=\"Permanent link\">&para;</a></h2>\n<p>Use the language toggle in the navigation bar to switch between English and Persian. Content is available in both languages.</p>\n<hr />\n<p><em>More detailed guides coming soon.</em></p>",
+    "search": [
+      {
+        "location": null,
+        "level": 1,
+        "title": "User Guide",
+        "text": "<p>Learn how to get the most out of Chekameh.</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "navigating-the-site",
+        "level": 2,
+        "title": "Navigating the Site",
+        "text": "<p>The site has four main sections:</p> <ol> <li>Home — Project overview and introduction</li> <li>Data — Poets, eras, cities, and poem collections</li> <li>Technical — How the site was built</li> <li>Resources — Guides, FAQ, and contribution info</li> </ol>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "using-the-interactive-map",
+        "level": 2,
+        "title": "Using the Interactive Map",
+        "text": "<p>The map shows literary centers across the Persian-speaking world. Features include:</p> <ul> <li>Zoom and pan to explore regions</li> <li>Click cities for poet information</li> <li>Filter by era using the timeline</li> <li>Search for specific poets or locations</li> </ul>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "timeline-feature",
+        "level": 2,
+        "title": "Timeline Feature",
+        "text": "<p>Slide through centuries to see when poets were active. The timeline syncs with the map.</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "poet-profiles",
+        "level": 2,
+        "title": "Poet Profiles",
+        "text": "<p>Each poet page includes biographical info, major works, and connections.</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "search",
+        "level": 2,
+        "title": "Search",
+        "text": "<p>Find poets by name, era, location, or keywords.</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "language-switching",
+        "level": 2,
+        "title": "Language Switching",
+        "text": "<p>Use the language toggle in the navigation bar to switch between English and Persian. Content is available in both languages.</p> <p>More detailed guides coming soon.</p>",
+        "path": [],
+        "tags": []
+      }
+    ],
+    "title": "User Guide - Chekameh",
+    "toc": [
+      {
+        "title": "User Guide",
+        "content": "User Guide",
+        "id": "user-guide",
+        "url": "#user-guide",
+        "children": [
+          {
+            "title": "Navigating the Site",
+            "content": "Navigating the Site",
+            "id": "navigating-the-site",
+            "url": "#navigating-the-site",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "Using the Interactive Map",
+            "content": "Using the Interactive Map",
+            "id": "using-the-interactive-map",
+            "url": "#using-the-interactive-map",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "Timeline Feature",
+            "content": "Timeline Feature",
+            "id": "timeline-feature",
+            "url": "#timeline-feature",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "Poet Profiles",
+            "content": "Poet Profiles",
+            "id": "poet-profiles",
+            "url": "#poet-profiles",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "Search",
+            "content": "Search",
+            "id": "search",
+            "url": "#search",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "Language Switching",
+            "content": "Language Switching",
+            "id": "language-switching",
+            "url": "#language-switching",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ]
+  },
+  "hash": 17959643179301119407
+}

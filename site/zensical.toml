@@ -1,0 +1,88 @@
+[project]
+site_name = "Chekameh — Persian Poetry Map"
+site_url = "https://docs.chekameh.xyz"
+site_description = "Interactive map and timeline of Persian poetry — explore poets, eras, and literary centers"
+site_author = "Mohammad Davari & Contributors"
+docs_dir = "."
+site_dir = "site"
+repo_url = "https://github.com/MDaV05/PersianCultureMap"
+repo_name = "GitHub"
+
+[project.theme]
+name = "material"
+variant = "modern"
+primary_color = "#009688"
+accent_color = "#C5A059"
+language = "en"
+custom_dir = "overrides"
+
+[markdown_extensions.pymdownx.emoji]
+emoji_index = "material.extensions.emoji.twemoji"
+emoji_generator = "material.extensions.emoji.to_svg"
+
+[markdown_extensions.pymdownx.emoji.options]
+custom_icons = ["overrides/icons"]
+
+# Light mode (default)
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "teal"
+accent = "amber"
+toggle.icon = "material/brightness-7"
+toggle.name = "Dark mode"
+
+# Dark mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "teal"
+accent = "amber"
+toggle.icon = "material/brightness-4"
+toggle.name = "Light mode"
+
+# Font configuration
+[project.theme.font]
+text = "Vazirmatn"
+code = "Roboto Mono"
+
+# Navigation structure
+nav = [
+  {"🏠 Home" = [
+    {"English" = "en/index.md"},
+    {"فارسی" = "fa/index.md"}
+  ]},
+  {"📊 Data" = [
+    {"English" = "en/data/index.md"},
+    {"فارسی" = "fa/data/index.md"}
+  ]},
+  {"⚙️ Technical" = [
+    {"English" = "en/technical/index.md"},
+    {"فارسی" = "fa/technical/index.md"}
+  ]},
+  {"📚 Resources" = [
+    {"English" = "en/resources/index.md"},
+    {"فارسی" = "fa/resources/index.md"}
+  ]},
+  {"🔗 Quick Links" = [
+    {"Live Demo" = "https://chekameh.xyz"},
+    {"GitHub Repo" = "https://github.com/MDaV05/PersianCultureMap"}
+  ]}
+]
+
+# Extra features
+[project.plugins]
+search = {}
+social = {}
+
+[project.extra]
+social = [
+  {"icon" = "fontawesome/brands/github", "link" = "https://github.com/MDaV05/PersianCultureMap"},
+  {"icon" = "material/web", "link" = "https://chekameh.xyz"},
+  {"icon" = "custom/46", "link" = "https://web.bale.ai/@FerdowsBaleBot"}
+]
+
+alternate = [
+    { name = "English", link = "/en/", lang = "en" },
+    { name = "فارسی", link = "/fa/", lang = "fa" }
+]

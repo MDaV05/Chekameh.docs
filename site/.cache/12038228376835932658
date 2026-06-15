@@ -1,0 +1,96 @@
+{
+  "data": {
+    "meta": {
+      "template": "main.html",
+      "title": "Home - Chekameh"
+    },
+    "content": "<h1 id=\"welcome-to-chekameh\">Welcome to Chekameh<a class=\"headerlink\" href=\"#welcome-to-chekameh\" title=\"Permanent link\">&para;</a></h1>\n<p>Chekameh is an interactive map and timeline of Persian poetry. We trace poets and literary centers across six historical eras, from the Samanid period (875 CE) to the end of the Safavid era (1736 CE).</p>\n<p>Explore where poets like Rudaki, Ferdowsi, Rumi, and Hafez lived and worked. See how literary centers shifted across the Persian cultural sphere over time. Ask the built-in chatbot about poets, poems, and historical context.</p>\n<p>The name comes from چکامه (chakāmeh) — Persian for \"ode\" or \"poem.\"</p>\n<h2 id=\"what-this-project-is-about\">What This Project Is About<a class=\"headerlink\" href=\"#what-this-project-is-about\" title=\"Permanent link\">&para;</a></h2>\n<p>This site documents the Chekameh project — a digital humanities effort to visualize the geography and history of Persian poetry. It's part documentation, part exploration, and part technical guide.</p>\n<p>You'll find:</p>\n<ul>\n<li><strong>Historical Context</strong> — Six eras of Persian poetry, from Samanid to Safavid</li>\n<li><strong>Interactive Map</strong> — See where poets lived, worked, and traveled</li>\n<li><strong>Poet Profiles</strong> — Biographical info, key works, and connections</li>\n<li><strong>City Data</strong> — Literary centers across the Persian-speaking world</li>\n<li><strong>Timeline View</strong> — Watch poetry evolve across centuries</li>\n<li><strong>AI Chatbot</strong> — Ask questions about poets and their work</li>\n</ul>\n<h2 id=\"why-we-built-this\">Why We Built This<a class=\"headerlink\" href=\"#why-we-built-this\" title=\"Permanent link\">&para;</a></h2>\n<p>Persian poetry spans over a thousand years and covers a vast geographic area. Traditional books and static maps can't show how literary centers shifted, how poets influenced each other across time and place, or how historical events shaped the poetry.</p>\n<p>Chekameh makes this visible. You can see patterns that aren't obvious in text alone — which cities were important when, how poets moved, and what regions produced which styles of poetry.</p>\n<h2 id=\"quick-links\">Quick Links<a class=\"headerlink\" href=\"#quick-links\" title=\"Permanent link\">&para;</a></h2>\n<ul>\n<li><strong><a href=\"https://chekameh.xyz\">Open the Live Map</a></strong> — Try the interactive version</li>\n<li><strong><a href=\"/en/guide/\">Getting Started Guide</a></strong> — Learn how to use the site</li>\n<li><strong><a href=\"/en/data/\">Data Overview</a></strong> — Explore poets, eras, and cities</li>\n<li><strong><a href=\"/en/technical/\">Technical Details</a></strong> — How we built this</li>\n<li><strong><a href=\"/en/resources/\">Resources &amp; Contribution</a></strong> — Help us improve</li>\n</ul>\n<h2 id=\"faq\">FAQ<a class=\"headerlink\" href=\"#faq\" title=\"Permanent link\">&para;</a></h2>\n<p><strong>Who is this for?</strong>\nAnyone interested in Persian poetry, history, or digital humanities. Students, researchers, or just curious readers.</p>\n<p><strong>Do I need to know Persian?</strong>\nNo. The interface works in both English and Persian. Poet names and poem titles appear in both scripts.</p>\n<p><strong>Is the data complete?</strong>\nWe're adding more poets and cities over time. The core figures are here, but there's always more to include.</p>\n<p><strong>Can I contribute?</strong>\nYes. Check the <a href=\"/en/resources/\">Resources section</a> for guidelines on adding poets, correcting data, or improving the site.</p>\n<p><strong>What sources did you use?</strong>\nWe drew from academic databases, classical anthologies, and historical records. Full citations are in the technical documentation.</p>\n<hr />\n<p><em>This project is open source. See the GitHub repo for code, issues, and contribution guidelines.</em></p>",
+    "search": [
+      {
+        "location": null,
+        "level": 1,
+        "title": "Welcome to Chekameh",
+        "text": "<p>Chekameh is an interactive map and timeline of Persian poetry. We trace poets and literary centers across six historical eras, from the Samanid period (875 CE) to the end of the Safavid era (1736 CE).</p> <p>Explore where poets like Rudaki, Ferdowsi, Rumi, and Hafez lived and worked. See how literary centers shifted across the Persian cultural sphere over time. Ask the built-in chatbot about poets, poems, and historical context.</p> <p>The name comes from چکامه (chakāmeh) — Persian for \"ode\" or \"poem.\"</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "what-this-project-is-about",
+        "level": 2,
+        "title": "What This Project Is About",
+        "text": "<p>This site documents the Chekameh project — a digital humanities effort to visualize the geography and history of Persian poetry. It's part documentation, part exploration, and part technical guide.</p> <p>You'll find:</p> <ul> <li>Historical Context — Six eras of Persian poetry, from Samanid to Safavid</li> <li>Interactive Map — See where poets lived, worked, and traveled</li> <li>Poet Profiles — Biographical info, key works, and connections</li> <li>City Data — Literary centers across the Persian-speaking world</li> <li>Timeline View — Watch poetry evolve across centuries</li> <li>AI Chatbot — Ask questions about poets and their work</li> </ul>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "why-we-built-this",
+        "level": 2,
+        "title": "Why We Built This",
+        "text": "<p>Persian poetry spans over a thousand years and covers a vast geographic area. Traditional books and static maps can't show how literary centers shifted, how poets influenced each other across time and place, or how historical events shaped the poetry.</p> <p>Chekameh makes this visible. You can see patterns that aren't obvious in text alone — which cities were important when, how poets moved, and what regions produced which styles of poetry.</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "quick-links",
+        "level": 2,
+        "title": "Quick Links",
+        "text": "<ul> <li>Open the Live Map — Try the interactive version</li> <li>Getting Started Guide — Learn how to use the site</li> <li>Data Overview — Explore poets, eras, and cities</li> <li>Technical Details — How we built this</li> <li>Resources &amp; Contribution — Help us improve</li> </ul>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "faq",
+        "level": 2,
+        "title": "FAQ",
+        "text": "<p>Who is this for? Anyone interested in Persian poetry, history, or digital humanities. Students, researchers, or just curious readers.</p> <p>Do I need to know Persian? No. The interface works in both English and Persian. Poet names and poem titles appear in both scripts.</p> <p>Is the data complete? We're adding more poets and cities over time. The core figures are here, but there's always more to include.</p> <p>Can I contribute? Yes. Check the Resources section for guidelines on adding poets, correcting data, or improving the site.</p> <p>What sources did you use? We drew from academic databases, classical anthologies, and historical records. Full citations are in the technical documentation.</p> <p>This project is open source. See the GitHub repo for code, issues, and contribution guidelines.</p>",
+        "path": [],
+        "tags": []
+      }
+    ],
+    "title": "Home - Chekameh",
+    "toc": [
+      {
+        "title": "Welcome to Chekameh",
+        "content": "Welcome to Chekameh",
+        "id": "welcome-to-chekameh",
+        "url": "#welcome-to-chekameh",
+        "children": [
+          {
+            "title": "What This Project Is About",
+            "content": "What This Project Is About",
+            "id": "what-this-project-is-about",
+            "url": "#what-this-project-is-about",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "Why We Built This",
+            "content": "Why We Built This",
+            "id": "why-we-built-this",
+            "url": "#why-we-built-this",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "Quick Links",
+            "content": "Quick Links",
+            "id": "quick-links",
+            "url": "#quick-links",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "FAQ",
+            "content": "FAQ",
+            "id": "faq",
+            "url": "#faq",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ]
+  },
+  "hash": 879685575254365102
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "meta": {
+      "template": "main.html",
+      "title": "Resources - Chekameh"
+    },
+    "content": "<h1 id=\"resources-contribution\">Resources &amp; Contribution<a class=\"headerlink\" href=\"#resources-contribution\" title=\"Permanent link\">&para;</a></h1>\n<p>This section covers how to use Chekameh, contribute to the project, and find related materials.</p>\n<h2 id=\"getting-started\">Getting Started<a class=\"headerlink\" href=\"#getting-started\" title=\"Permanent link\">&para;</a></h2>\n<p>New to the site? Start here:</p>\n<ul>\n<li><strong><a href=\"/en/guide/\">User Guide</a></strong> — Learn how to navigate the map, use the timeline, and explore poet profiles</li>\n<li><strong><a href=\"/en/guide/faq/\">FAQ</a></strong> — Common questions answered</li>\n<li><strong><a href=\"/en/guide/glossary/\">Glossary</a></strong> — Terms and concepts explained</li>\n</ul>\n<h2 id=\"contribute-data\">Contribute Data<a class=\"headerlink\" href=\"#contribute-data\" title=\"Permanent link\">&para;</a></h2>\n<p>We welcome contributions from anyone with knowledge of Persian poetry or history.</p>\n<h3 id=\"adding-poets\">Adding Poets<a class=\"headerlink\" href=\"#adding-poets\" title=\"Permanent link\">&para;</a></h3>\n<p>If you know of a poet who should be included:</p>\n<ol>\n<li>Gather biographical info (birth/death dates, locations)</li>\n<li>List major works</li>\n<li>Note connections to other poets or literary movements</li>\n<li>Submit via GitHub or contact form</li>\n</ol>\n<h3 id=\"correcting-information\">Correcting Information<a class=\"headerlink\" href=\"#correcting-information\" title=\"Permanent link\">&para;</a></h3>\n<p>Found an error? Let us know:</p>\n<ul>\n<li>Wrong dates or locations</li>\n<li>Missing works</li>\n<li>Incorrect associations</li>\n</ul>\n<h3 id=\"cities-and-regions\">Cities and Regions<a class=\"headerlink\" href=\"#cities-and-regions\" title=\"Permanent link\">&para;</a></h3>\n<p>Help us map historical cities to modern coordinates:</p>\n<ul>\n<li>Provide historical names and variants</li>\n<li>Modern location (city, country, coordinates)</li>\n<li>Time periods of literary activity</li>\n</ul>\n<h2 id=\"contribute-code\">Contribute Code<a class=\"headerlink\" href=\"#contribute-code\" title=\"Permanent link\">&para;</a></h2>\n<p>Developers can help improve the site itself:</p>\n<ul>\n<li>Fix bugs</li>\n<li>Add features</li>\n<li>Improve performance</li>\n<li>Enhance accessibility</li>\n</ul>\n<p>See the <a href=\"https://github.com/MDaV05/PersianCultureMap\">GitHub repo</a> for issues and pull requests.</p>\n<h2 id=\"translation\">Translation<a class=\"headerlink\" href=\"#translation\" title=\"Permanent link\">&para;</a></h2>\n<p>The site supports English and Persian. Help us improve translations:</p>\n<ul>\n<li>Correct existing translations</li>\n<li>Add missing content in either language</li>\n<li>Suggest better terminology</li>\n</ul>\n<h2 id=\"resources\">Resources<a class=\"headerlink\" href=\"#resources\" title=\"Permanent link\">&para;</a></h2>\n<h3 id=\"external-links\">External Links<a class=\"headerlink\" href=\"#external-links\" title=\"Permanent link\">&para;</a></h3>\n<ul>\n<li>Academic databases on Persian poetry</li>\n<li>Digital archives of manuscripts</li>\n<li>Related projects and research</li>\n</ul>\n<h3 id=\"citation\">Citation<a class=\"headerlink\" href=\"#citation\" title=\"Permanent link\">&para;</a></h3>\n<p>If you use Chekameh in academic work, please cite:</p>\n<blockquote>\n<p>Chekameh: Persian Poetry Map. <a href=\"https://chekameh.xyz\">https://chekameh.xyz</a></p>\n</blockquote>\n<h3 id=\"license\">License<a class=\"headerlink\" href=\"#license\" title=\"Permanent link\">&para;</a></h3>\n<ul>\n<li>Content: Open license (details TBD)</li>\n<li>Code: MIT License</li>\n</ul>\n<h2 id=\"contact\">Contact<a class=\"headerlink\" href=\"#contact\" title=\"Permanent link\">&para;</a></h2>\n<p>Questions or suggestions? Reach out via:</p>\n<ul>\n<li>GitHub Issues</li>\n<li>Email (coming soon)</li>\n<li>Social media links</li>\n</ul>\n<hr />\n<p><em>Thanks to everyone who contributes. This project grows because of community support.</em></p>",
+    "search": [
+      {
+        "location": null,
+        "level": 1,
+        "title": "Resources &amp; Contribution",
+        "text": "<p>This section covers how to use Chekameh, contribute to the project, and find related materials.</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "getting-started",
+        "level": 2,
+        "title": "Getting Started",
+        "text": "<p>New to the site? Start here:</p> <ul> <li>User Guide — Learn how to navigate the map, use the timeline, and explore poet profiles</li> <li>FAQ — Common questions answered</li> <li>Glossary — Terms and concepts explained</li> </ul>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "contribute-data",
+        "level": 2,
+        "title": "Contribute Data",
+        "text": "<p>We welcome contributions from anyone with knowledge of Persian poetry or history.</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "adding-poets",
+        "level": 3,
+        "title": "Adding Poets",
+        "text": "<p>If you know of a poet who should be included:</p> <ol> <li>Gather biographical info (birth/death dates, locations)</li> <li>List major works</li> <li>Note connections to other poets or literary movements</li> <li>Submit via GitHub or contact form</li> </ol>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "correcting-information",
+        "level": 3,
+        "title": "Correcting Information",
+        "text": "<p>Found an error? Let us know:</p> <ul> <li>Wrong dates or locations</li> <li>Missing works</li> <li>Incorrect associations</li> </ul>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "cities-and-regions",
+        "level": 3,
+        "title": "Cities and Regions",
+        "text": "<p>Help us map historical cities to modern coordinates:</p> <ul> <li>Provide historical names and variants</li> <li>Modern location (city, country, coordinates)</li> <li>Time periods of literary activity</li> </ul>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "contribute-code",
+        "level": 2,
+        "title": "Contribute Code",
+        "text": "<p>Developers can help improve the site itself:</p> <ul> <li>Fix bugs</li> <li>Add features</li> <li>Improve performance</li> <li>Enhance accessibility</li> </ul> <p>See the GitHub repo for issues and pull requests.</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "translation",
+        "level": 2,
+        "title": "Translation",
+        "text": "<p>The site supports English and Persian. Help us improve translations:</p> <ul> <li>Correct existing translations</li> <li>Add missing content in either language</li> <li>Suggest better terminology</li> </ul>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "resources",
+        "level": 2,
+        "title": "Resources",
+        "text": "",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "external-links",
+        "level": 3,
+        "title": "External Links",
+        "text": "<ul> <li>Academic databases on Persian poetry</li> <li>Digital archives of manuscripts</li> <li>Related projects and research</li> </ul>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "citation",
+        "level": 3,
+        "title": "Citation",
+        "text": "<p>If you use Chekameh in academic work, please cite:</p> <p>Chekameh: Persian Poetry Map. https://chekameh.xyz</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "license",
+        "level": 3,
+        "title": "License",
+        "text": "<ul> <li>Content: Open license (details TBD)</li> <li>Code: MIT License</li> </ul>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "contact",
+        "level": 2,
+        "title": "Contact",
+        "text": "<p>Questions or suggestions? Reach out via:</p> <ul> <li>GitHub Issues</li> <li>Email (coming soon)</li> <li>Social media links</li> </ul> <p>Thanks to everyone who contributes. This project grows because of community support.</p>",
+        "path": [],
+        "tags": []
+      }
+    ],
+    "title": "Resources - Chekameh",
+    "toc": [
+      {
+        "title": "Resources &amp; Contribution",
+        "content": "Resources &amp; Contribution",
+        "id": "resources-contribution",
+        "url": "#resources-contribution",
+        "children": [
+          {
+            "title": "Getting Started",
+            "content": "Getting Started",
+            "id": "getting-started",
+            "url": "#getting-started",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "Contribute Data",
+            "content": "Contribute Data",
+            "id": "contribute-data",
+            "url": "#contribute-data",
+            "children": [
+              {
+                "title": "Adding Poets",
+                "content": "Adding Poets",
+                "id": "adding-poets",
+                "url": "#adding-poets",
+                "children": [],
+                "level": 3
+              },
+              {
+                "title": "Correcting Information",
+                "content": "Correcting Information",
+                "id": "correcting-information",
+                "url": "#correcting-information",
+                "children": [],
+                "level": 3
+              },
+              {
+                "title": "Cities and Regions",
+                "content": "Cities and Regions",
+                "id": "cities-and-regions",
+                "url": "#cities-and-regions",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "title": "Contribute Code",
+            "content": "Contribute Code",
+            "id": "contribute-code",
+            "url": "#contribute-code",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "Translation",
+            "content": "Translation",
+            "id": "translation",
+            "url": "#translation",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "Resources",
+            "content": "Resources",
+            "id": "resources",
+            "url": "#resources",
+            "children": [
+              {
+                "title": "External Links",
+                "content": "External Links",
+                "id": "external-links",
+                "url": "#external-links",
+                "children": [],
+                "level": 3
+              },
+              {
+                "title": "Citation",
+                "content": "Citation",
+                "id": "citation",
+                "url": "#citation",
+                "children": [],
+                "level": 3
+              },
+              {
+                "title": "License",
+                "content": "License",
+                "id": "license",
+                "url": "#license",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "title": "Contact",
+            "content": "Contact",
+            "id": "contact",
+            "url": "#contact",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ]
+  },
+  "hash": 16576551575999921403
+}

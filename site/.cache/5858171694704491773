@@ -1,0 +1,112 @@
+{
+  "data": {
+    "meta": {
+      "template": "main.html",
+      "title": "Data - Chekameh"
+    },
+    "content": "<h1 id=\"poets-eras-and-cities\">Poets, Eras, and Cities<a class=\"headerlink\" href=\"#poets-eras-and-cities\" title=\"Permanent link\">&para;</a></h1>\n<p>This section holds the structured data behind Chekameh. Browse poets by era, explore literary centers, or dig into specific poem collections.</p>\n<h2 id=\"whats-here\">What's Here<a class=\"headerlink\" href=\"#whats-here\" title=\"Permanent link\">&para;</a></h2>\n<ul>\n<li><strong>Eras</strong> — The six historical periods of Persian poetry</li>\n<li><strong>Poets</strong> — Biographical profiles and works</li>\n<li><strong>Cities</strong> — Literary centers across the Persian-speaking world</li>\n<li><strong>Poem Books</strong> — Collections and anthologies</li>\n</ul>\n<hr />\n<h2 id=\"eras\">Eras<a class=\"headerlink\" href=\"#eras\" title=\"Permanent link\">&para;</a></h2>\n<!-- Structure placeholder - content to be added -->\n\n<table>\n<thead>\n<tr>\n<th>Era</th>\n<th>Period</th>\n<th>Status</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Samanid</td>\n<td>875–1000 CE</td>\n<td>Coming soon</td>\n</tr>\n<tr>\n<td>Ghaznavid</td>\n<td>1000–1150 CE</td>\n<td>Coming soon</td>\n</tr>\n<tr>\n<td>Seljuk</td>\n<td>1150–1300 CE</td>\n<td>Coming soon</td>\n</tr>\n<tr>\n<td>Ilkhanate</td>\n<td>1260–1370 CE</td>\n<td>Coming soon</td>\n</tr>\n<tr>\n<td>Timurid</td>\n<td>1370–1500 CE</td>\n<td>Coming soon</td>\n</tr>\n<tr>\n<td>Safavid</td>\n<td>1500–1736 CE</td>\n<td>Coming soon</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2 id=\"poets\">Poets<a class=\"headerlink\" href=\"#poets\" title=\"Permanent link\">&para;</a></h2>\n<!-- Structure placeholder - content to be added -->\n\n<p>Profiles for each poet will include:</p>\n<ul>\n<li>Birth and death dates</li>\n<li>Key locations</li>\n<li>Major works</li>\n<li>Literary style and influences</li>\n<li>Connections to other poets</li>\n</ul>\n<hr />\n<h2 id=\"cities\">Cities<a class=\"headerlink\" href=\"#cities\" title=\"Permanent link\">&para;</a></h2>\n<!-- Structure placeholder - content to be added -->\n\n<p>City entries will cover:</p>\n<ul>\n<li>Historical names and modern equivalents</li>\n<li>Time periods of literary activity</li>\n<li>Notable poets associated with the city</li>\n<li>Geographic and cultural context</li>\n</ul>\n<hr />\n<h2 id=\"poem-books\">Poem Books<a class=\"headerlink\" href=\"#poem-books\" title=\"Permanent link\">&para;</a></h2>\n<!-- Structure placeholder - content to be added -->\n\n<p>Information on major collections:</p>\n<ul>\n<li>Shahnameh</li>\n<li>Masnavi</li>\n<li>Divan-e Hafez</li>\n<li>Bustan and Gulistan</li>\n<li>And more</li>\n</ul>\n<hr />\n<p><em>Data is being added progressively. Check back for updates.</em></p>",
+    "search": [
+      {
+        "location": null,
+        "level": 1,
+        "title": "Poets, Eras, and Cities",
+        "text": "<p>This section holds the structured data behind Chekameh. Browse poets by era, explore literary centers, or dig into specific poem collections.</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "whats-here",
+        "level": 2,
+        "title": "What's Here",
+        "text": "<ul> <li>Eras — The six historical periods of Persian poetry</li> <li>Poets — Biographical profiles and works</li> <li>Cities — Literary centers across the Persian-speaking world</li> <li>Poem Books — Collections and anthologies</li> </ul>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "eras",
+        "level": 2,
+        "title": "Eras",
+        "text": "Era Period Status Samanid 875–1000 CE Coming soon Ghaznavid 1000–1150 CE Coming soon Seljuk 1150–1300 CE Coming soon Ilkhanate 1260–1370 CE Coming soon Timurid 1370–1500 CE Coming soon Safavid 1500–1736 CE Coming soon",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "poets",
+        "level": 2,
+        "title": "Poets",
+        "text": "<p>Profiles for each poet will include:</p> <ul> <li>Birth and death dates</li> <li>Key locations</li> <li>Major works</li> <li>Literary style and influences</li> <li>Connections to other poets</li> </ul>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "cities",
+        "level": 2,
+        "title": "Cities",
+        "text": "<p>City entries will cover:</p> <ul> <li>Historical names and modern equivalents</li> <li>Time periods of literary activity</li> <li>Notable poets associated with the city</li> <li>Geographic and cultural context</li> </ul>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "poem-books",
+        "level": 2,
+        "title": "Poem Books",
+        "text": "<p>Information on major collections:</p> <ul> <li>Shahnameh</li> <li>Masnavi</li> <li>Divan-e Hafez</li> <li>Bustan and Gulistan</li> <li>And more</li> </ul> <p>Data is being added progressively. Check back for updates.</p>",
+        "path": [],
+        "tags": []
+      }
+    ],
+    "title": "Data - Chekameh",
+    "toc": [
+      {
+        "title": "Poets, Eras, and Cities",
+        "content": "Poets, Eras, and Cities",
+        "id": "poets-eras-and-cities",
+        "url": "#poets-eras-and-cities",
+        "children": [
+          {
+            "title": "What's Here",
+            "content": "What's Here",
+            "id": "whats-here",
+            "url": "#whats-here",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "Eras",
+            "content": "Eras",
+            "id": "eras",
+            "url": "#eras",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "Poets",
+            "content": "Poets",
+            "id": "poets",
+            "url": "#poets",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "Cities",
+            "content": "Cities",
+            "id": "cities",
+            "url": "#cities",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "Poem Books",
+            "content": "Poem Books",
+            "id": "poem-books",
+            "url": "#poem-books",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ]
+  },
+  "hash": 7140885463537022357
+}

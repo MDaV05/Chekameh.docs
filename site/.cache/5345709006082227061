@@ -1,0 +1,290 @@
+{
+  "data": {
+    "meta": {
+      "template": "main.html",
+      "title": "Technical Details - Chekameh"
+    },
+    "content": "<h1 id=\"technical-documentation\">Technical Documentation<a class=\"headerlink\" href=\"#technical-documentation\" title=\"Permanent link\">&para;</a></h1>\n<p>This section covers how Chekameh was built — the architecture, tools, and decisions behind the project.</p>\n<h2 id=\"overview\">Overview<a class=\"headerlink\" href=\"#overview\" title=\"Permanent link\">&para;</a></h2>\n<p>Chekameh combines historical research with modern web technology. The goal was to make Persian poetry accessible through interactive visualization while maintaining academic rigor.</p>\n<h2 id=\"stack-tools\">Stack &amp; Tools<a class=\"headerlink\" href=\"#stack-tools\" title=\"Permanent link\">&para;</a></h2>\n<h3 id=\"frontend\">Frontend<a class=\"headerlink\" href=\"#frontend\" title=\"Permanent link\">&para;</a></h3>\n<ul>\n<li>Interactive map library</li>\n<li>Timeline visualization</li>\n<li>Responsive design for mobile and desktop</li>\n<li>Bilingual support (English and Persian)</li>\n</ul>\n<h3 id=\"backend\">Backend<a class=\"headerlink\" href=\"#backend\" title=\"Permanent link\">&para;</a></h3>\n<ul>\n<li>Data processing pipelines</li>\n<li>API for poet, city, and era information</li>\n<li>Search functionality</li>\n</ul>\n<h3 id=\"data\">Data<a class=\"headerlink\" href=\"#data\" title=\"Permanent link\">&para;</a></h3>\n<ul>\n<li>Structured poet biographies</li>\n<li>Geographic coordinates for historical cities</li>\n<li>Timeline metadata</li>\n<li>Poem collections and references</li>\n</ul>\n<h3 id=\"ai-features\">AI Features<a class=\"headerlink\" href=\"#ai-features\" title=\"Permanent link\">&para;</a></h3>\n<ul>\n<li>Chatbot for answering questions about poets and poems</li>\n<li>Contextual suggestions based on location and era</li>\n</ul>\n<h2 id=\"key-features\">Key Features<a class=\"headerlink\" href=\"#key-features\" title=\"Permanent link\">&para;</a></h2>\n<h3 id=\"interactive-map\">Interactive Map<a class=\"headerlink\" href=\"#interactive-map\" title=\"Permanent link\">&para;</a></h3>\n<p>The map shows literary centers across the Persian-speaking world. Toggle between eras to see how centers of poetry shifted over time. Click on cities to see which poets lived or worked there.</p>\n<h3 id=\"timeline\">Timeline<a class=\"headerlink\" href=\"#timeline\" title=\"Permanent link\">&para;</a></h3>\n<p>Slide through centuries to see when each poet was active. The timeline syncs with the map — select a time period and the map updates to show relevant locations.</p>\n<h3 id=\"poet-profiles\">Poet Profiles<a class=\"headerlink\" href=\"#poet-profiles\" title=\"Permanent link\">&para;</a></h3>\n<p>Each poet has a dedicated page with biographical info, major works, associated cities, and connections to other poets.</p>\n<h3 id=\"search\">Search<a class=\"headerlink\" href=\"#search\" title=\"Permanent link\">&para;</a></h3>\n<p>Find poets by name, era, location, or keywords in their work.</p>\n<h3 id=\"chatbot\">Chatbot<a class=\"headerlink\" href=\"#chatbot\" title=\"Permanent link\">&para;</a></h3>\n<p>Ask natural language questions about Persian poetry. The bot draws from the site's data to provide context-aware answers.</p>\n<h2 id=\"architecture\">Architecture<a class=\"headerlink\" href=\"#architecture\" title=\"Permanent link\">&para;</a></h2>\n<!-- Detailed architecture docs to be added -->\n\n<p>The system is designed to separate data from presentation. This makes it easier to update content without touching the codebase.</p>\n<h2 id=\"development-setup\">Development Setup<a class=\"headerlink\" href=\"#development-setup\" title=\"Permanent link\">&para;</a></h2>\n<!-- Installation and setup instructions to be added -->\n\n<h2 id=\"api-reference\">API Reference<a class=\"headerlink\" href=\"#api-reference\" title=\"Permanent link\">&para;</a></h2>\n<!-- API documentation to be added -->\n\n<h2 id=\"contributing-code\">Contributing Code<a class=\"headerlink\" href=\"#contributing-code\" title=\"Permanent link\">&para;</a></h2>\n<p>See the <a href=\"/en/resources/\">Resources section</a> for guidelines on contributing to the codebase.</p>\n<hr />\n<p><em>More technical details coming soon.</em></p>",
+    "search": [
+      {
+        "location": null,
+        "level": 1,
+        "title": "Technical Documentation",
+        "text": "<p>This section covers how Chekameh was built — the architecture, tools, and decisions behind the project.</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "overview",
+        "level": 2,
+        "title": "Overview",
+        "text": "<p>Chekameh combines historical research with modern web technology. The goal was to make Persian poetry accessible through interactive visualization while maintaining academic rigor.</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "stack-tools",
+        "level": 2,
+        "title": "Stack &amp; Tools",
+        "text": "",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "frontend",
+        "level": 3,
+        "title": "Frontend",
+        "text": "<ul> <li>Interactive map library</li> <li>Timeline visualization</li> <li>Responsive design for mobile and desktop</li> <li>Bilingual support (English and Persian)</li> </ul>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "backend",
+        "level": 3,
+        "title": "Backend",
+        "text": "<ul> <li>Data processing pipelines</li> <li>API for poet, city, and era information</li> <li>Search functionality</li> </ul>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "data",
+        "level": 3,
+        "title": "Data",
+        "text": "<ul> <li>Structured poet biographies</li> <li>Geographic coordinates for historical cities</li> <li>Timeline metadata</li> <li>Poem collections and references</li> </ul>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "ai-features",
+        "level": 3,
+        "title": "AI Features",
+        "text": "<ul> <li>Chatbot for answering questions about poets and poems</li> <li>Contextual suggestions based on location and era</li> </ul>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "key-features",
+        "level": 2,
+        "title": "Key Features",
+        "text": "",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "interactive-map",
+        "level": 3,
+        "title": "Interactive Map",
+        "text": "<p>The map shows literary centers across the Persian-speaking world. Toggle between eras to see how centers of poetry shifted over time. Click on cities to see which poets lived or worked there.</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "timeline",
+        "level": 3,
+        "title": "Timeline",
+        "text": "<p>Slide through centuries to see when each poet was active. The timeline syncs with the map — select a time period and the map updates to show relevant locations.</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "poet-profiles",
+        "level": 3,
+        "title": "Poet Profiles",
+        "text": "<p>Each poet has a dedicated page with biographical info, major works, associated cities, and connections to other poets.</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "search",
+        "level": 3,
+        "title": "Search",
+        "text": "<p>Find poets by name, era, location, or keywords in their work.</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "chatbot",
+        "level": 3,
+        "title": "Chatbot",
+        "text": "<p>Ask natural language questions about Persian poetry. The bot draws from the site's data to provide context-aware answers.</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "architecture",
+        "level": 2,
+        "title": "Architecture",
+        "text": "<p>The system is designed to separate data from presentation. This makes it easier to update content without touching the codebase.</p>",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "development-setup",
+        "level": 2,
+        "title": "Development Setup",
+        "text": "",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "api-reference",
+        "level": 2,
+        "title": "API Reference",
+        "text": "",
+        "path": [],
+        "tags": []
+      },
+      {
+        "location": "contributing-code",
+        "level": 2,
+        "title": "Contributing Code",
+        "text": "<p>See the Resources section for guidelines on contributing to the codebase.</p> <p>More technical details coming soon.</p>",
+        "path": [],
+        "tags": []
+      }
+    ],
+    "title": "Technical Details - Chekameh",
+    "toc": [
+      {
+        "title": "Technical Documentation",
+        "content": "Technical Documentation",
+        "id": "technical-documentation",
+        "url": "#technical-documentation",
+        "children": [
+          {
+            "title": "Overview",
+            "content": "Overview",
+            "id": "overview",
+            "url": "#overview",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "Stack &amp; Tools",
+            "content": "Stack &amp; Tools",
+            "id": "stack-tools",
+            "url": "#stack-tools",
+            "children": [
+              {
+                "title": "Frontend",
+                "content": "Frontend",
+                "id": "frontend",
+                "url": "#frontend",
+                "children": [],
+                "level": 3
+              },
+              {
+                "title": "Backend",
+                "content": "Backend",
+                "id": "backend",
+                "url": "#backend",
+                "children": [],
+                "level": 3
+              },
+              {
+                "title": "Data",
+                "content": "Data",
+                "id": "data",
+                "url": "#data",
+                "children": [],
+                "level": 3
+              },
+              {
+                "title": "AI Features",
+                "content": "AI Features",
+                "id": "ai-features",
+                "url": "#ai-features",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "title": "Key Features",
+            "content": "Key Features",
+            "id": "key-features",
+            "url": "#key-features",
+            "children": [
+              {
+                "title": "Interactive Map",
+                "content": "Interactive Map",
+                "id": "interactive-map",
+                "url": "#interactive-map",
+                "children": [],
+                "level": 3
+              },
+              {
+                "title": "Timeline",
+                "content": "Timeline",
+                "id": "timeline",
+                "url": "#timeline",
+                "children": [],
+                "level": 3
+              },
+              {
+                "title": "Poet Profiles",
+                "content": "Poet Profiles",
+                "id": "poet-profiles",
+                "url": "#poet-profiles",
+                "children": [],
+                "level": 3
+              },
+              {
+                "title": "Search",
+                "content": "Search",
+                "id": "search",
+                "url": "#search",
+                "children": [],
+                "level": 3
+              },
+              {
+                "title": "Chatbot",
+                "content": "Chatbot",
+                "id": "chatbot",
+                "url": "#chatbot",
+                "children": [],
+                "level": 3
+              }
+            ],
+            "level": 2
+          },
+          {
+            "title": "Architecture",
+            "content": "Architecture",
+            "id": "architecture",
+            "url": "#architecture",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "Development Setup",
+            "content": "Development Setup",
+            "id": "development-setup",
+            "url": "#development-setup",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "API Reference",
+            "content": "API Reference",
+            "id": "api-reference",
+            "url": "#api-reference",
+            "children": [],
+            "level": 2
+          },
+          {
+            "title": "Contributing Code",
+            "content": "Contributing Code",
+            "id": "contributing-code",
+            "url": "#contributing-code",
+            "children": [],
+            "level": 2
+          }
+        ],
+        "level": 1
+      }
+    ]
+  },
+  "hash": 6077123323250580045
+}
