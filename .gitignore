@@ -1,0 +1,39 @@
+```
+# Build artifacts
+md_site/
+*.min.js
+*.min.css
+*.html
+search.json
+sitemap.xml
+objects.inv
+
+# Dependencies and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage/
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+```

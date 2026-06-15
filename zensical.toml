@@ -1,10 +1,10 @@
 [project]
-site_name = "Chekameh Documentation"
+site_name = "Chekameh — Persian Poetry Map"
 site_url = "https://docs.chekameh.xyz"
-site_description = "Complete guide to the Persian Poetry Map - explore poets, eras, and interactive mapping"
+site_description = "Interactive map and timeline of Persian poetry — explore poets, eras, and literary centers"
 site_author = "Mohammad Davari & Contributors"
-docs_dir = "docs"
-site_dir = "md_site"
+docs_dir = "."
+site_dir = "site"
 repo_url = "https://github.com/MDaV05/PersianCultureMap"
 repo_name = "GitHub"
 
@@ -48,33 +48,21 @@ code = "Roboto Mono"
 
 # Navigation structure
 nav = [
-  {"🏠 Home" = "index.md"},
-  {"📖 Guide" = [
-    {"Getting Started" = "guide/getting-started.md"},
-    {"Interactive Map" = "map.md"},
-    {"AI Chatbot" = "chatbot.md"},
-    {"About Project" = "about.md"}
+  {"🏠 Home" = [
+    {"English" = "en/index.md"},
+    {"فارسی" = "fa/index.md"}
   ]},
-  {"👨‍💻 Development" = [
-    {"Overview" = "dev/overview.md"},
-    {"Features" = "dev/features.md"},
-    {"Architecture" = "dev/architecture.md"},
-    {"Installation" = "dev/installation.md"},
-    {"API Reference" = "dev/api.md"},
-    {"Contributing" = "dev/contributing.md"},
-    {"Requirements" = "dev/requirements.md"},
-    {"Roadmap" = "dev/tasks.md"}
+  {"📊 Data" = [
+    {"English" = "en/data/index.md"},
+    {"فارسی" = "fa/data/index.md"}
   ]},
-  {"🎨 Design" = [
-    {"UI Components" = "design/components.md"},
-    {"Color Palette" = "design/colors.md"},
-    {"Typography" = "design/typography.md"}
+  {"⚙️ Technical" = [
+    {"English" = "en/technical/index.md"},
+    {"فارسی" = "fa/technical/index.md"}
   ]},
   {"📚 Resources" = [
-    {"Markdown Guide" = "markdown.md"},
-    {"FAQ" = "resources/faq.md"},
-    {"Glossary" = "resources/glossary.md"},
-    {"Links" = "resources/links.md"}
+    {"English" = "en/resources/index.md"},
+    {"فارسی" = "fa/resources/index.md"}
   ]},
   {"🔗 Quick Links" = [
     {"Live Demo" = "https://chekameh.xyz"},
