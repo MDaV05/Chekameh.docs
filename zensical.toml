@@ -9,6 +9,10 @@ repo_url = "https://github.com/MDaV05/PersianCultureMap"
 repo_name = "GitHub"
 
 [project.theme]
+features = [
+    "navigation.tabs",
+    "navigation.tabs.sticky"
+]
 name = "material"
 variant = "modern"
 primary_color = "#009688"
