@@ -9,9 +9,17 @@ repo_url = "https://github.com/MDaV05/PersianCultureMap"
 repo_name = "GitHub"
 
 [project.theme]
+direction = "ltr"
 features = [
     "navigation.tabs",
-    "navigation.tabs.sticky"
+    "navigation.tabs.sticky",
+    "navigation.path",
+    "navigation.expand",
+    "navigation.sections",
+    "toc.follow",
+    "toc.integrate",
+    "navigation.top",
+    "navigation.footer"
 ]
 name = "material"
 variant = "modern"
@@ -19,13 +27,6 @@ primary_color = "#009688"
 accent_color = "#C5A059"
 language = "en"
 custom_dir = "overrides"
-
-[markdown_extensions.pymdownx.emoji]
-emoji_index = "material.extensions.emoji.twemoji"
-emoji_generator = "material.extensions.emoji.to_svg"
-
-[markdown_extensions.pymdownx.emoji.options]
-custom_icons = ["overrides/icons"]
 
 # Light mode (default)
 [[project.theme.palette]]
@@ -50,24 +51,12 @@ toggle.name = "Light mode"
 text = "Vazirmatn"
 code = "Roboto Mono"
 
-# Navigation structure
+# Navigation structure - English version
 nav = [
-  {"🏠 Home" = [
-    {"English" = "en/index.md"},
-    {"فارسی" = "fa/index.md"}
-  ]},
-  {"📊 Data" = [
-    {"English" = "en/data/index.md"},
-    {"فارسی" = "fa/data/index.md"}
-  ]},
-  {"⚙️ Technical" = [
-    {"English" = "en/technical/index.md"},
-    {"فارسی" = "fa/technical/index.md"}
-  ]},
-  {"📚 Resources" = [
-    {"English" = "en/resources/index.md"},
-    {"فارسی" = "fa/resources/index.md"}
-  ]},
+  {"🏠 Home" = "en/index.md"},
+  {"📊 Data" = "en/data/index.md"},
+  {"⚙️ Technical" = "en/technical/index.md"},
+  {"📚 Resources" = "en/resources/index.md"},
   {"🔗 Quick Links" = [
     {"Live Demo" = "https://chekameh.xyz"},
     {"GitHub Repo" = "https://github.com/MDaV05/PersianCultureMap"}
@@ -77,16 +66,24 @@ nav = [
 # Extra features
 [project.plugins]
 search = {}
-social = {}
 
 [project.extra]
+alternate = [
+    { name = "English", link = "/en/", lang = "en" },
+    { name = "فارسی", link = "/fa/", lang = "fa" }
+]
 social = [
   {"icon" = "fontawesome/brands/github", "link" = "https://github.com/MDaV05/PersianCultureMap"},
   {"icon" = "material/web", "link" = "https://chekameh.xyz"},
   {"icon" = "custom/46", "link" = "https://web.bale.ai/@FerdowsBaleBot"}
 ]
 
-alternate = [
-    { name = "English", link = "/en/", lang = "en" },
-    { name = "فارسی", link = "/fa/", lang = "fa" }
-]
+[markdown_extensions.pymdownx.emoji]
+emoji_index = "material.extensions.emoji.twemoji"
+emoji_generator = "material.extensions.emoji.to_svg"
+
+[project.markdown_extensions.toc]
+permalink = true
+
+[markdown_extensions.pymdownx.emoji.options]
+custom_icons = ["overrides/icons"]

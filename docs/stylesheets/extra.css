@@ -1,0 +1,619 @@
+/* ========================================
+   1. RTL / Farsi Support
+   ======================================== */
+html[lang="fa"] {
+  direction: rtl;
+  font-family: 'Vazirmatn', 'ESTEDAD', sans-serif;
+}
+
+html[lang="fa"] .md-sidebar--primary {
+  right: 0;
+  left: auto;
+  width: 11rem;
+}
+
+html[lang="fa"] .md-sidebar__scrollwrap {
+  max-width: 11rem;
+}
+
+html[lang="fa"] .md-sidebar--secondary {
+  left: 0;
+  right: auto;
+}
+
+html[lang="fa"] .md-content {
+  margin-right: 12.1rem;
+  margin-left: 0;
+  text-align: right;
+}
+
+html[lang="fa"] .md-header__topic {
+  direction: rtl;
+}
+
+html[lang="fa"] .md-typeset h1,
+html[lang="fa"] .md-typeset h2,
+html[lang="fa"] .md-typeset h3 {
+  text-align: right;
+}
+
+html[lang="fa"] .md-nav__item .md-nav__link {
+  font-size: 0.82rem;
+  padding: 0.2rem 0.6rem;
+}
+
+html[lang="fa"] .md-tabs__list {
+  direction: rtl;
+}
+
+html[lang="fa"] .md-tabs__item {
+  float: right;
+}
+
+/* ========================================
+   2. Header Fixes (search + github collision)
+   ======================================== */
+.md-header__inner {
+  gap: 0.5rem;
+  max-width: 100%;
+}
+
+.md-header__source {
+  margin-left: 0.5rem;
+  min-width: auto;
+}
+
+/* ========================================
+   3. Language Selector (Symmetrical, Clean, & Centered)
+   ======================================== */
+.md-select {
+  min-width: 6.5rem;
+  max-width: 8rem;
+}
+
+.md-select__inner {
+  max-height: 10rem;
+  padding: 0.3rem 0; /* Perfectly uniform top/bottom interior padding */
+  border-radius: 12px !important;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15) !important;
+  border: 1px solid rgba(0, 150, 136, 0.25) !important;
+  background: linear-gradient(180deg, #ffffff 0%, #f5f9f8 100%);
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.md-select__inner::-webkit-scrollbar {
+  display: none;
+}
+
+.md-select__list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.md-select__list li {
+  padding: 0;
+  margin: 0.2rem 0.4rem; /* Creates perfectly uniform margins on both sides of the box */
+}
+
+.md-select__link {
+  padding: 0.4rem 0.6rem !important;
+  font-size: 0.78rem !important;
+  border-radius: 7px !important;
+  margin: 0 !important; /* Resets any compounding lopsided margins */
+  width: 100%; /* Spans exactly to the uniform outer boundaries of the li */
+  box-sizing: border-box; 
+  transition: all 0.22s ease-in-out !important;
+  background: linear-gradient(135deg, rgba(0, 150, 136, 0.06), rgba(0, 121, 107, 0.04)) !important;
+  color: #00796b !important;
+  text-align: center !important; /* Forces perfect centering for both English and Farsi text */
+  display: block;
+}
+
+.md-select__link:hover {
+  background: linear-gradient(135deg, rgba(0, 150, 136, 0.18), rgba(0, 121, 107, 0.12)) !important;
+  color: #009688 !important;
+  transform: scale(1.03); /* Clean, centered scale zoom instead of pushing it lopsidedly to the right */
+}
+
+.md-select__link span {
+  font-size: 0.78rem;
+  line-height: 1.4;
+  display: inline-block;
+}
+
+.md-header__option {
+  padding: 0.2rem 0.4rem;
+}
+
+.md-header__option[for="__language"] {
+  border-radius: 20px !important;
+  background: rgba(255, 255, 255, 0.2) !important;
+  padding: 0.3rem 0.8rem !important;
+  border: 1px solid rgba(255, 255, 255, 0.35) !important;
+  transition: all 0.3s ease !important;
+}
+
+.md-header__option[for="__language"]:hover {
+  background: rgba(255, 255, 255, 0.35) !important;
+  border-color: rgba(255, 255, 255, 0.6) !important;
+}
+
+.md-header__option[for="__language"] .md-icon {
+  color: white !important;
+}
+
+/* ========================================
+   4. Back to Top Button (centered, indigo border)
+   ======================================== */
+.md-top {
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  right: auto !important;
+  bottom: 2rem !important;
+  top: auto !important;
+  border: 2px solid #3f51b5 !important;
+  background: white !important;
+  color: #3f51b5 !important;
+  border-radius: 50px !important;
+  padding: 0.6rem 1.2rem !important;
+  box-shadow: 0 4px 12px rgba(63, 81, 181, 0.3) !important;
+  font-weight: 600 !important;
+  font-size: 0.85rem !important;
+  transition: all 0.3s ease !important;
+}
+
+.md-top:hover {
+  background: #3f51b5 !important;
+  color: white !important;
+  box-shadow: 0 6px 20px rgba(63, 81, 181, 0.45) !important;
+  transform: translateX(-50%) translateY(-2px) !important;
+}
+
+/* ========================================
+   5. Modern Design Enhancements
+   ======================================== */
+
+.md-header {
+  background: linear-gradient(135deg, #009688 0%, #00796b 100%);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  backdrop-filter: blur(10px);
+}
+
+.md-tabs {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+}
+
+.md-tabs__item:hover {
+  transform: translateY(-2px);
+  transition: all 0.3s ease;
+}
+
+.md-content {
+  background: #fafafa;
+  border-radius: 12px;
+  padding: 2rem;
+  margin: 1rem 0;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+}
+
+.md-typeset table {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border: none;
+}
+
+.md-typeset table thead {
+  background: linear-gradient(135deg, #009688, #00796b);
+  color: white;
+}
+
+.md-typeset table th {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.5px;
+}
+
+.md-typeset table tr:hover {
+  background: rgba(0, 150, 136, 0.05);
+}
+
+.md-typeset ul li,
+.md-typeset ol li {
+  margin-bottom: 0.5rem;
+  padding-left: 0.5rem;
+}
+
+.md-typeset ul li::marker {
+  color: #009688;
+  font-size: 1.2em;
+}
+
+.md-typeset a {
+  color: #009688;
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+}
+
+.md-typeset a:hover {
+  color: #00796b;
+}
+
+.md-typeset a::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: #009688;
+  transition: width 0.3s ease;
+}
+
+.md-typeset a:hover::after {
+  width: 100%;
+}
+
+.md-typeset code {
+  background: rgba(0, 150, 136, 0.1);
+  color: #00796b;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+.md-sidebar__scrollwrap {
+  padding-right: 0;
+}
+
+.md-nav__item--active > .md-nav__link {
+  color: #009688;
+  font-weight: 600;
+}
+
+.md-nav__link:hover {
+  color: #009688;
+}
+
+.md-typeset h1 {
+  color: #00796b;
+  font-weight: 700;
+  border-bottom: 3px solid #009688;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.md-typeset h2 {
+  color: #00897b;
+  font-weight: 600;
+  margin-top: 2rem;
+}
+
+.md-typeset .md-button {
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  transition: all 0.3s ease;
+}
+
+.md-typeset .md-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 150, 136, 0.3);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* ========================================
+   6. Search — magnifier always visible +
+      "Ctrl K" hint, opening a centered
+      floating dark modal (mkdocstrings.
+      github.io style).
+
+   Requires docs/overrides/partials/header.html
+   which keeps the magnifier icon AND adds a
+   "Ctrl K" hint next to it inside the SAME
+   <label for="__search">. The underlying
+   #__search checkbox/dialog and its JS are
+   untouched — only re-skinned below.
+
+   IMPORTANT: Material's own stylesheet sets
+   .md-search__inner, .md-search__overlay and
+   .md-search__output to height:100% / width:100%
+   / bottom:0 when [data-md-toggle=search]:checked.
+   Every one of those rules is re-declared here
+   with equal-or-higher specificity so the modal
+   renders as a fixed small card instead of a
+   full-viewport overlay (this was the bug in the
+   previous version — the box was inheriting
+   Material's full-screen checked-state sizing).
+   ======================================== */
+/* ========================================
+   6. Search — Adaptive Floating Modal (Light / Dark)
+   ======================================== */
+
+/* --- Trigger: magnifier + "Ctrl K" pill, always visible --- */
+.kbd-search-trigger {
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+  width: 14rem;
+  height: 2.2rem;
+  padding: 0 0.6rem;
+  margin: 0 0.5rem;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  cursor: pointer;
+  transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.kbd-search-trigger:hover {
+  background: rgba(255, 255, 255, 0.18);
+  border-color: rgba(255, 255, 255, 0.35);
+}
+
+.kbd-search-trigger svg {
+  fill: rgba(255, 255, 255, 0.9);
+  width: 1.15rem;
+  height: 1.15rem;
+  flex-shrink: 0;
+}
+
+.kbd-search-trigger__inner {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.kbd-search-trigger__text {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 0.85rem;
+}
+
+/* --- Overlay Dim Background --- */
+[data-md-toggle="search"]:checked ~ .md-header .md-search__overlay {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100vw !important;
+  height: 100vh !important;
+  opacity: 1 !important;
+  background: rgba(15, 23, 42, 0.4) !important;
+  backdrop-filter: blur(8px) !important;
+  -webkit-backdrop-filter: blur(8px) !important;
+  z-index: 99 !important;
+  pointer-events: auto !important;
+}
+
+/* --- Adaptive Modal Shell --- */
+.md-search__inner,
+[data-md-toggle="search"]:checked ~ .md-header .md-search__inner {
+  position: fixed;
+  z-index: 100 !important;
+  top: 8vh;
+  left: 50%;
+  right: auto;
+  bottom: auto;
+  height: auto;
+  max-height: 80vh;
+  width: min(640px, 90vw);
+  transform: translateX(-50%);
+  margin: 0;
+  padding: 0;
+  border-radius: 14px;
+  overflow: hidden;
+  background: var(--md-default-bg-color) !important; /* Dynamic theme background */
+  color: var(--md-default-fg-color) !important;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.15), 0 0 0 1px var(--md-default-fg-color--slowest);
+  display: flex;
+  flex-direction: column;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+[data-md-toggle="search"]:checked ~ .md-header .md-search__inner {
+  opacity: 1;
+}
+
+.md-search__inner .md-search__icon {
+  top: 50% !important;
+  transform: translateY(-50%) !important;
+  margin-top: 0 !important;
+}
+
+/* --- Form Row Inside Modal --- */
+.md-search__form {
+  background: var(--md-default-bg-color) !important;
+  border-radius: 0;
+  height: 3.2rem;
+  flex: 0 0 auto;
+  margin: 0;
+  padding: 0 1rem;
+  border-bottom: 1px solid var(--md-default-fg-color--slowest);
+  display: flex;
+  align-items: center;
+}
+
+.md-search__input {
+  background: transparent !important;
+  color: var(--md-default-fg-color) !important;
+  height: 3.2rem;
+  width: 100%;
+  font-size: 0.95rem;
+  padding: 0 2.4rem;
+  text-align: left;
+}
+
+html[lang="fa"] .md-search__input {
+  text-align: right;
+}
+
+.md-search__input::placeholder {
+  color: var(--md-default-fg-color--light) !important;
+}
+
+.md-search__icon.md-icon--search {
+  left: 1rem;
+  right: auto;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--md-default-fg-color--light) !important;
+}
+
+html[lang="fa"] .md-search__icon.md-icon--search {
+  right: 1rem;
+  left: auto;
+}
+
+.md-search__icon.md-icon--back {
+  display: none;
+}
+
+.md-search__options {
+  position: absolute;
+  right: 1rem;
+  left: auto;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+}
+
+html[lang="fa"] .md-search__options {
+  left: 1rem;
+  right: auto;
+}
+
+.md-search__options .md-icon {
+  color: var(--md-default-fg-color--light) !important;
+}
+
+/* --- Search Results Area --- */
+.md-search__output {
+  position: relative;
+  background: var(--md-default-bg-color) !important;
+}
+
+.md-search__scrollwrap {
+  overflow-y: auto !important;
+  background: var(--md-default-bg-color) !important;
+  height: 100%;
+  scrollbar-width: none;
+}
+
+.md-search__scrollwrap::-webkit-scrollbar {
+  display: none;
+}
+
+.md-search-result {
+  background: var(--md-default-bg-color) !important;
+}
+
+.md-search-result__meta {
+  background: var(--md-default-fg-color--slowest) !important;
+  color: var(--md-default-fg-color--light) !important;
+  font-size: 0.72rem;
+  padding: 0.5rem 1rem;
+}
+
+.md-search-result__item {
+  border-bottom: 1px solid var(--md-default-fg-color--slowest);
+  padding: 0.7rem 1rem;
+  background: var(--md-default-bg-color) !important;
+}
+
+.md-search-result__item:hover,
+.md-search-result__item:focus-within {
+  background: rgba(0, 150, 136, 0.08) !important;
+}
+
+.md-search-result__article {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-inline-start: 1rem !important;
+}
+
+html[lang="fa"] .md-search-result__article {
+  margin-left: 0 !important;
+  margin-right: 1rem !important;
+}
+
+.md-search-result__title {
+  color: var(--md-default-fg-color) !important;
+  font-weight: 600;
+  font-size: 0.88rem;
+  margin: 0 0 0.2rem;
+}
+
+.md-search-result__teaser {
+  color: var(--md-default-fg-color--light) !important;
+  font-size: 0.8rem;
+  margin: 0;
+}
+
+.md-search-result__teaser mark,
+.md-search-result__title mark {
+  background: rgba(0, 150, 136, 0.2) !important;
+  color: #00796b !important;
+}
+
+html[lang="fa"] .md-search-result__title,
+html[lang="fa"] .md-search-result__teaser {
+  text-align: right;
+}
+
+.md-search-result__link {
+  color: var(--md-typeset-a-color) !important;
+}
+
+.md-search-result__icon {
+  display: none !important;
+}
+
+/* ========================================
+   7. Dark Mode Enhancements
+   ======================================== */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #1a1a2e;
+  --md-typeset-a-color: #4db6ac;
+}
+
+[data-md-color-scheme="slate"] .md-content {
+  background: #16213e;
+}
+
+[data-md-color-scheme="slate"] .md-header {
+  background: linear-gradient(135deg, #00796b 0%, #004d40 100%);
+}
+
+[data-md-color-scheme="slate"] .md-select__inner {
+  background: linear-gradient(180deg, #1e293b 0%, #0f172a 100%);
+  border-color: rgba(77, 182, 172, 0.3) !important;
+}
+
+[data-md-color-scheme="slate"] .md-select__link {
+  background: linear-gradient(135deg, rgba(77, 182, 172, 0.12), rgba(38, 166, 154, 0.08)) !important;
+  color: #4db6ac !important;
+}
+
+[data-md-color-scheme="slate"] .md-select__link:hover {
+  background: linear-gradient(135deg, rgba(77, 182, 172, 0.25), rgba(38, 166, 154, 0.18)) !important;
+  color: #80cbc4 !important;
+}
+
+[data-md-color-scheme="slate"] .md-top {
+  background: #1a1a2e !important;
+  color: #80cbc4 !important;
+  border-color: #3f51b5 !important;
+}
+
+[data-md-color-scheme="slate"] .md-top:hover {
+  background: #3f51b5 !important;
+  color: white !important;
+}

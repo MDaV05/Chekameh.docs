@@ -1,0 +1,127 @@
+site_name: "Chekameh — Persian Poetry Map"
+site_url: "https://docs.chekameh.xyz"
+site_description: "Interactive map and timeline of Persian poetry — explore poets, eras, and literary centers"
+site_author: "Mohammad Davari & Contributors"
+docs_dir: "docs"
+site_dir: "site"
+repo_url: "https://github.com/MDaV05/PersianCultureMap"
+repo_name: "GitHub"
+theme:
+  name: material
+  direction: auto
+  custom_dir: docs/overrides
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: cyan
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Light mode
+  features:
+    - navigation.tabs
+    - navigation.tracking
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.expand
+    - navigation.sections
+    - navigation.indexes
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+  font:
+    text: Vazirmatn
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+
+# ----------------------------------------------------------------
+# Single nav, written using DEFAULT-LANGUAGE (English) filenames
+# only. The i18n plugin resolves each entry to the matching
+# fa/<page>.md (or index.fa.md, depending on which structure your
+# docs/ folder actually uses) automatically when serving /fa/.
+# Do NOT list Farsi paths here — that was the bug.
+# ----------------------------------------------------------------
+nav:
+  - 🏠 Home: index.md
+  - 📊 Data: 
+      - data/index.md
+      - Eras:
+        - data/eras/index.md # The main eras landing page
+        - Samanid Era:
+          - data/eras/samanid/index.md # Clicking this shows Era info
+          - Bukhara:
+            - data/eras/samanid/bukhara/index.md # Clicking this shows City info
+            - Rudaki:
+              - data/eras/samanid/bukhara/rudaki/index.md # Poet info & list of works
+              - Divan-e-Rudaki: data/eras/samanid/bukhara/rudaki/divan.md # The actual text
+  - ⚙️ Technical: technical/index.md
+  - 📚 Resources: resources/index.md
+  - 🔗 Quick Links:
+    - Live Demo: https://chekameh.xyz
+    - GitHub Repo: https://github.com/MDaV05/PersianCultureMap
+
+plugins:
+  - search
+  - awesome-pages
+  - i18n:
+      docs_structure: suffix
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: fa
+          name: فارسی
+          build: true
+          site_name: "چکامه — نقشه‌ی شعر پارسی"
+          nav_translations:
+            🏠 Home: 🏠 خانه
+            📊 Data: 📊 داده‌ها
+            ⚙️ Technical: ⚙️ فنی
+            📚 Resources: 📚 منابع
+            🔗 Quick Links: 🔗 لینک‌های سریع
+            Live Demo: نمایش زنده
+            GitHub Repo: مخزن گیت‌هاب
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/MDaV05/PersianCultureMap
+    - icon: material/web
+      link: https://chekameh.xyz
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/search-shortcut.js
