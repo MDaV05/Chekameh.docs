@@ -69,11 +69,11 @@ nav:
           - isfahan: data/cities/isfahan.md
       - Poets:
           - Rudaki: data/poets/rudaki.md
-          - daqiqi: data/poets/khayyam.md
+          - daqiqi: data/poets/daqiqi.md
           - Ferdowsi: data/poets/ferdowsi.md
           - Attar: data/poets/attar.md
           - Khayyam: data/poets/khayyam.md
-          - saddi: data/poets/saadi.md
+          - saadi: data/poets/saadi.md
           - hafez: data/poets/hafez.md
           - molana: data/poets/molana.md
           - jami: data/poets/jami.md
@@ -101,47 +101,47 @@ plugins:
           site_name: "چکامه — نقشه‌ی شعر پارسی"
           nav_translations:
             fa:
-            # Eras
-            Samanid: سامانیان
-            Ghaznavid: غزنویان
-            Seljuk: سلجوقیان
-            Ilkhanate: ایلخانیان
-            Timurid: تیموریان
-            Safavid: صفویان
-            
-            # Cities
-            Isfahan: اصفهان
-            Shiraz: شیراز
-            Balkh: بلخ
-            Bukhara: بخارا
-            Samarkand: سمرقند
-            Nishapur: نیشابور
-            Tus: توس
-            
-            # Poets
-            Saadi: سعدی
-            Hafez: حافظ
-            Jami: جامی
-            Molana: مولانا
-            Rudaki: رودکی
-            Daqiqi: دقیقی
-            Saeb Tabrizi: صائب تبریزی
-            Ferdowsi: فردوسی
-            Khayyam: خیام
-            Attar: عطار
+              # Eras
+              Samanid: سامانیان
+              Ghaznavid: غزنویان
+              Seljuk: سلجوقیان
+              Ilkhanate: ایلخانیان
+              Timurid: تیموریان
+              Safavid: صفویان
+              
+              # Cities
+              Isfahan: اصفهان
+              Shiraz: شیراز
+              Balkh: بلخ
+              Bukhara: بخارا
+              Samarkand: سمرقند
+              Nishapur: نیشابور
+              Tus: توس
+              
+              # Poets
+              Saadi: سعدی
+              Hafez: حافظ
+              Jami: جامی
+              Molana: مولانا
+              Rudaki: رودکی
+              Daqiqi: دقیقی
+              Saeb Tabrizi: صائب تبریزی
+              Ferdowsi: فردوسی
+              Khayyam: خیام
+              Attar: عطار
 
-            🏠 Home: 🏠 خانه
-            📊 Data: 📊 داده‌ها
-            Overview: نمای کلی
-            Eras: دوران‌ها
-            Cities: شهرها
-            Poets: شاعران
-            Divan-e-Rudaki: دیوان رودکی
-            ⚙️ Technical: ⚙️ فنی
-            📚 Resources: 📚 منابع
-            🔗 Quick Links: 🔗 لینک‌های سریع
-            Live Demo: نمایش زنده
-            GitHub Repo: مخزن گیت‌هاب
+              🏠 Home: 🏠 خانه
+              📊 Data: 📊 داده‌ها
+              Overview: نمای کلی
+              Eras: دوران‌ها
+              Cities: شهرها
+              Poets: شاعران
+              Divan-e-Rudaki: دیوان رودکی
+              ⚙️ Technical: ⚙️ فنی
+              📚 Resources: 📚 منابع
+              🔗 Quick Links: 🔗 لینک‌های سریع
+              Live Demo: نمایش زنده
+              GitHub Repo: مخزن گیت‌هاب
 
 markdown_extensions:
   - tables

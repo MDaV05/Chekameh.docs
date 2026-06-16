@@ -323,5 +323,4 @@
 - [دانشنامه ایرانیکا: صائب تبریزی](https://www.iranicaonline.org/articles/saeb-tabrizi)
 - [گنجور: دیوان صائب](https://ganjoor.net/saeb)
 - [دوره صفویان](../eras/safavid.fa.md) - زمینه تاریخی زندگی و کار صائب
-- [شهر تبریز](../cities/tabriz.fa.md) - زادگاه صائب
 - [شهر اصفهان](../cities/isfahan.fa.md) - محل زندگی و وفات صائب
