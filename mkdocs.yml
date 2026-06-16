@@ -6,6 +6,7 @@ docs_dir: "docs"
 site_dir: "site"
 repo_url: "https://github.com/MDaV05/PersianCultureMap"
 repo_name: "GitHub"
+
 theme:
   name: material
   direction: auto
@@ -34,7 +35,6 @@ theme:
     - navigation.sections
     - navigation.indexes
     - toc.follow
-    - toc.integrate
     - navigation.top
     - navigation.footer
     - search.highlight
@@ -48,35 +48,44 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
-# ----------------------------------------------------------------
-# Single nav, written using DEFAULT-LANGUAGE (English) filenames
-# only. The i18n plugin resolves each entry to the matching
-# fa/<page>.md (or index.fa.md, depending on which structure your
-# docs/ folder actually uses) automatically when serving /fa/.
-# Do NOT list Farsi paths here — that was the bug.
-# ----------------------------------------------------------------
+# Navigation - English only (i18n plugin handles Farsi)
 nav:
   - 🏠 Home: index.md
-  - 📊 Data: 
-      - data/index.md
+  - 📊 Data:
       - Eras:
-        - data/eras/index.md # The main eras landing page
-        - Samanid Era:
-          - data/eras/samanid/index.md # Clicking this shows Era info
-          - Bukhara:
-            - data/eras/samanid/bukhara/index.md # Clicking this shows City info
-            - Rudaki:
-              - data/eras/samanid/bukhara/rudaki/index.md # Poet info & list of works
-              - Divan-e-Rudaki: data/eras/samanid/bukhara/rudaki/divan.md # The actual text
+          - Samanid: data/eras/samanid.md
+          - Ghaznavid: data/eras/ghaznavid.md
+          - Seljuk: data/eras/seljuk.md
+          - ilkhanate: data/eras/ilkhanate.md
+          - timurid: data/eras/timurid.md
+          - safavid: data/eras/safavid.md
+      - Cities:
+          - Bukhara: data/cities/bukhara.md
+          - Nishapur: data/cities/nishapur.md
+          - Samarkand: data/cities/samarkand.md
+          - tus: data/cities/tus.md
+          - balkh: data/cities/balkh.md
+          - shiraz: data/cities/shiraz.md
+          - isfahan: data/cities/isfahan.md
+      - Poets:
+          - Rudaki: data/poets/rudaki.md
+          - daqiqi: data/poets/khayyam.md
+          - Ferdowsi: data/poets/ferdowsi.md
+          - Attar: data/poets/attar.md
+          - Khayyam: data/poets/khayyam.md
+          - saddi: data/poets/saadi.md
+          - hafez: data/poets/hafez.md
+          - molana: data/poets/molana.md
+          - jami: data/poets/jami.md
+          - saeb: data/poets/saeb-tabrizi.md
   - ⚙️ Technical: technical/index.md
   - 📚 Resources: resources/index.md
   - 🔗 Quick Links:
-    - Live Demo: https://chekameh.xyz
-    - GitHub Repo: https://github.com/MDaV05/PersianCultureMap
+      - Live Demo: https://chekameh.xyz
+      - GitHub Repo: https://github.com/MDaV05/PersianCultureMap
 
 plugins:
   - search
-  - awesome-pages
   - i18n:
       docs_structure: suffix
       reconfigure_material: true
@@ -91,8 +100,43 @@ plugins:
           build: true
           site_name: "چکامه — نقشه‌ی شعر پارسی"
           nav_translations:
+            fa:
+            # Eras
+            Samanid: سامانیان
+            Ghaznavid: غزنویان
+            Seljuk: سلجوقیان
+            Ilkhanate: ایلخانیان
+            Timurid: تیموریان
+            Safavid: صفویان
+            
+            # Cities
+            Isfahan: اصفهان
+            Shiraz: شیراز
+            Balkh: بلخ
+            Bukhara: بخارا
+            Samarkand: سمرقند
+            Nishapur: نیشابور
+            Tus: توس
+            
+            # Poets
+            Saadi: سعدی
+            Hafez: حافظ
+            Jami: جامی
+            Molana: مولانا
+            Rudaki: رودکی
+            Daqiqi: دقیقی
+            Saeb Tabrizi: صائب تبریزی
+            Ferdowsi: فردوسی
+            Khayyam: خیام
+            Attar: عطار
+
             🏠 Home: 🏠 خانه
             📊 Data: 📊 داده‌ها
+            Overview: نمای کلی
+            Eras: دوران‌ها
+            Cities: شهرها
+            Poets: شاعران
+            Divan-e-Rudaki: دیوان رودکی
             ⚙️ Technical: ⚙️ فنی
             📚 Resources: 📚 منابع
             🔗 Quick Links: 🔗 لینک‌های سریع
@@ -100,6 +144,7 @@ plugins:
             GitHub Repo: مخزن گیت‌هاب
 
 markdown_extensions:
+  - tables
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
