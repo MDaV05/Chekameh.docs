@@ -1,4 +1,4 @@
-name: Deploy Zensical Site
+name: Deploy MkDocs Material Site
 
 on:
   push:
@@ -21,21 +21,28 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-      
-      - name: Install Zensical
-        run: pip install zensical
-      
+
+      # 👇 Changed: install MkDocs and the Material theme
+      - name: Install MkDocs Material
+        run: pip install mkdocs mkdocs-material
+
+      # 👇 Changed: build with MkDocs (outputs to ./site by default)
       - name: Build Site
-        run: zensical build --clean
-      
+        run: mkdocs build --clean
+
       - name: Setup Pages
+        id: pages
         uses: actions/configure-pages@v5
-      
+        with:
+          # automatically inject CORS headers
+          enablement: true
+          token: ${{ secrets.PAT_TOKEN }}
+
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
