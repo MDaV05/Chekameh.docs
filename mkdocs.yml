@@ -1,7 +1,7 @@
-site_name: "چکامه — نقشه‌ی شعر پارسی"
+site_name: "چکامه"
 site_url: "https://docs.chekameh.xyz"
 site_description: "نقشه و خط زمانی تعاملی شعر فارسی — کاوش در شاعران، دوران‌ها و مراکز ادبی"
-site_author: "محمد داوری و مشارکت‌کنندگان"
+site_author: "Mohammad Davari"
 docs_dir: "docs"
 site_dir: "site"
 repo_url: "https://github.com/MDaV05/PersianCultureMap"
@@ -53,14 +53,15 @@ theme:
 nav:
   - 🏠 خانه: index.md
   - 📊 داده‌ها:
-      - دوران‌ها:
+        - 📊 داده‌ها: data/index.md
+        - دوران‌ها:
           - سامانیان: data/eras/samanid.md
           - غزنویان: data/eras/ghaznavid.md
           - سلجوقیان: data/eras/seljuk.md
           - ایلخانیان: data/eras/ilkhanate.md
           - تیموریان: data/eras/timurid.md
           - صفویان: data/eras/safavid.md
-      - شهرها:
+        - شهرها:
           - بخارا: data/cities/bukhara.md
           - نیشابور: data/cities/nishapur.md
           - سمرقند: data/cities/samarkand.md
@@ -68,7 +69,7 @@ nav:
           - بلخ: data/cities/balkh.md
           - شیراز: data/cities/shiraz.md
           - اصفهان: data/cities/isfahan.md
-      - شاعران:
+        - شاعران:
           - رودکی: data/poets/rudaki.md
           - دقیقی: data/poets/daqiqi.md
           - فردوسی: data/poets/ferdowsi.md
