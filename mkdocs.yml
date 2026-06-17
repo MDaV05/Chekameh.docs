@@ -29,11 +29,10 @@ theme:
         name: حالت روشن
   features:
     - navigation.tabs
+    - navigation.instant.progress
     - navigation.tracking
     - navigation.tabs.sticky
     - navigation.path
-    - navigation.expand
-    - navigation.sections
     - navigation.indexes
     - toc.follow
     - navigation.top
@@ -53,38 +52,38 @@ theme:
 nav:
   - 🏠 خانه: index.md
   - 📊 داده‌ها:
-        - 📊 داده‌ها: data/index.md
-        - دوران‌ها:
-          - سامانیان: data/eras/samanid.md
-          - غزنویان: data/eras/ghaznavid.md
-          - سلجوقیان: data/eras/seljuk.md
-          - ایلخانیان: data/eras/ilkhanate.md
-          - تیموریان: data/eras/timurid.md
-          - صفویان: data/eras/safavid.md
-        - شهرها:
-          - بخارا: data/cities/bukhara.md
-          - نیشابور: data/cities/nishapur.md
-          - سمرقند: data/cities/samarkand.md
-          - توس: data/cities/tus.md
-          - بلخ: data/cities/balkh.md
-          - شیراز: data/cities/shiraz.md
-          - اصفهان: data/cities/isfahan.md
-        - شاعران:
-          - رودکی: data/poets/rudaki.md
-          - دقیقی: data/poets/daqiqi.md
-          - فردوسی: data/poets/ferdowsi.md
-          - عطار: data/poets/attar.md
-          - خیام: data/poets/khayyam.md
-          - سعدی: data/poets/saadi.md
-          - حافظ: data/poets/hafez.md
-          - مولانا: data/poets/molana.md
-          - جامی: data/poets/jami.md
-          - صائب تبریزی: data/poets/saeb-tabrizi.md
+    - 📊 داده‌ها: data/index.md
+    - دوران‌ها:
+      - سامانیان: data/eras/samanid.md
+      - غزنویان: data/eras/ghaznavid.md
+      - سلجوقیان: data/eras/seljuk.md
+      - ایلخانیان: data/eras/ilkhanate.md
+      - تیموریان: data/eras/timurid.md
+      - صفویان: data/eras/safavid.md
+    - شهرها:
+      - بخارا: data/cities/bukhara.md
+      - نیشابور: data/cities/nishapur.md
+      - سمرقند: data/cities/samarkand.md
+      - توس: data/cities/tus.md
+      - بلخ: data/cities/balkh.md
+      - شیراز: data/cities/shiraz.md
+      - اصفهان: data/cities/isfahan.md
+    - شاعران:
+      - رودکی: data/poets/rudaki.md
+      - دقیقی: data/poets/daqiqi.md
+      - فردوسی: data/poets/ferdowsi.md
+      - عطار: data/poets/attar.md
+      - خیام: data/poets/khayyam.md
+      - سعدی: data/poets/saadi.md
+      - حافظ: data/poets/hafez.md
+      - مولانا: data/poets/molana.md
+      - جامی: data/poets/jami.md
+      - صائب تبریزی: data/poets/saeb-tabrizi.md
   - ⚙️ فنی: technical/index.md
   - 📚 منابع: resources/index.md
-  - 🔗 لینک‌های سریع:
-      - نمایش زنده: https://chekameh.xyz
-      - مخزن گیت‌هاب: https://github.com/MDaV05/PersianCultureMap
+  - 🔗 لینک‌ سریع:
+    - نمایش زنده: https://chekameh.xyz
+    - مخزن گیت‌هاب: https://github.com/MDaV05/PersianCultureMap
 
 plugins:
   - search
