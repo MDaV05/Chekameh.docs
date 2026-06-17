@@ -445,7 +445,7 @@ html {
   background: transparent !important;
   color: var(--md-default-fg-color) !important;
   height: 3.2rem;
-  width: 100%;
+  width: 50%;
   font-size: 0.95rem;
   padding: 0 2.4rem;
   text-align: left;
@@ -503,7 +503,7 @@ html[lang="fa"] .md-search__options {
 .md-search__scrollwrap {
   overflow-y: auto !important;
   background: var(--md-default-bg-color) !important;
-  height: 100%;
+  height: 50%;
   scrollbar-width: none;
 }
 
