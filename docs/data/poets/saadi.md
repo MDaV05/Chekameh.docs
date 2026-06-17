@@ -1,363 +1,362 @@
-# Saadi Shirazi (c. 1210–1292 CE)
+# سعدی شیرازی (حدود ۱۲۱۰–۱۲۹۲ میلادی)
 
-!!! info "Quick Facts"
+!!! info "اطلاعات کلی"
     | | |
     |---|---|
-    | **Full Name** | Abu Muhammad Muslih ibn Abdullah ibn Mushrif al-Shirazi |
-    | **Persian Name** | ابومحمد مصلح بن عبدالله بن مشرف شیرازی |
-    | **Pen Name (Takhallus)** | Saadi (derived from his patron, Sa'd ibn Zangi) |
-    | **Born** | c. 1210 CE, Shiraz, Ilkhanate Persia |
-    | **Died** | 1291–1292 CE (aged ~80), Shiraz |
-    | **Occupation** | Poet, Writer, Sufi mystic, Traveler |
-    | **Era** | Ilkhanate / Mongol Period |
-    | **Masterpieces** | Gulistan (The Rose Garden), Bustan (The Orchard) |
-    | **Known For** | Master of Persian prose and didactic poetry, "Master of Speech" (Ustad-e Sukhan) |
+    | **نام کامل** | ابومحمد مصلح بن عبدالله بن مشرف شیرازی |
+    | **تخلص** | سعدی (برگرفته از حامی‌اش، سعد بن زنگی) |
+    | **تولد** | حدود ۱۲۱۰ میلادی، شیراز، ایران ایلخانی |
+    | **وفات** | ۱۲۹۱–۱۲۹۲ میلادی (حدود ۸۰ سالگی)، شیراز |
+    | **پیشه** | شاعر، نویسنده، عارف صوفی، جهانگرد |
+    | **دوره** | ایلخانی / دوره مغول |
+    | **شاهکارها** | گلستان، بوستان |
+    | **معروف به** | استاد نثر و شعر تعلیمی فارسی، «استاد سخن» |
 
-## Early Life and Background
+## زندگی اولیه و زمینه خانوادگی
 
-Saadi was born around 1210 CE in **Shiraz**, one of the most culturally significant cities of Persia. His family name "Saadi" is derived from his patron, **Sa'd ibn Zangi**, a local ruler of the Salghurid dynasty who governed Fars province under the Ilkhanate (Mongol) overlords.
+سعدی در حدود ۱۲۱۰ میلادی در **شیراز**، یکی از مهم‌ترین شهرهای فرهنگی ایران متولد شد. نام خانوادگی او «سعدی» از حامی‌اش، **سعد بن زنگی**، حاکم محلی سلسله اتابکان سلغری که استان فارس را تحت ایلخانان (مغولان) اداره می‌کرد، گرفته شده است.
 
-His father, Abdullah, was a minor official or teacher, and the family appears to have been of modest means. Saadi received a solid education in Shiraz, studying theology, jurisprudence, literature, and the Islamic sciences. He showed exceptional intellectual gifts from an early age and quickly mastered Arabic and Persian literature.
+پدرش، عبدالله، یک مقام جزئی یا معلم بود، و خانواده به نظر می‌رسد از طبقه متوسط بوده‌اند. سعدی آموزش محکمی در شیراز دریافت کرد و در الهیات، فقه، ادبیات و علوم اسلامی تحصیل کرد. او از سنین اولیه استعدادهای فکری استثنایی نشان داد و به سرعت به ادبیات عربی و فارسی تسلط یافت.
 
-### The Mongol Invasion
+### حمله مغول
 
-Saadi's formative years coincided with one of the most catastrophic events in Iranian history: the **Mongol invasion** led by Genghis Khan and his successors. Beginning in 1219, the Mongol armies devastated much of Persia, destroying cities, libraries, and irrigation systems, and causing massive loss of life.
+سال‌های شکل‌گیری سعدی با یکی از فاجعه‌بارترین رویدادها در تاریخ ایران همزمان بود: **حمله مغول** به رهبری چنگیزخان و جانشینانش. از ۱۲۱۹ میلادی، ارتش‌های مغول بخش بزرگی از ایران را ویران کردند، شهرها، کتابخانه‌ها و سیستم‌های آبیاری را نابود کردند و تلفات انسانی عظیمی به بار آوردند.
 
-This traumatic period profoundly shaped Saadi's worldview. He witnessed the collapse of established social orders, the suffering of ordinary people, and the fragility of human civilization. These experiences would later inform the moral philosophy and humanistic outlook that characterize his major works.
+این دوره تراژیک به طور عمیقی جهان‌بینی سعدی را شکل داد. او شاهد فروپاشی نظم‌های اجتماعی مستقر، رنج مردم عادی و شکنندگی تمدن انسانی بود. این تجربیات بعداً فلسفه اخلاقی و دیدگاه انسان‌دوستانه‌ای را که آثار اصلی او را مشخص می‌کند، آگاه کرد.
 
-## The Years of Travel (c. 1226–1256)
+## سال‌های سفر (حدود ۱۲۲۶–۱۲۵۶)
 
-### Extensive Journeys
+### سفرهای گسترده
 
-After completing his education, Saadi embarked on an extraordinary period of travel that lasted approximately **thirty years**. His journeys took him across the Islamic world and beyond:
+پس از تکمیل آموزش خود، سعدی سفری فوق‌العاده را آغاز کرد که حدود **سی سال** طول کشید. سفرهای او او را به سراسر جهان اسلامی و فراتر از آن برد:
 
-- **The Middle East:** He visited Iraq, Syria, Egypt, and the Hejaz (including Mecca and Medina)
-- **Central Asia:** He traveled to Transoxiana and the regions around the Caspian Sea
-- **South Asia:** He reached India, possibly as far as the Deccan plateau
-- **Anatolia:** He visited the Seljuk territories in modern-day Turkey
-- **North Africa:** Some accounts suggest he may have reached Morocco
+- **خاورمیانه:** او از عراق، سوریه، مصر و حجاز (از جمله مکه و مدینه) بازدید کرد
+- **آسیای مرکزی:** او به ماوراءالنهر و مناطق اطراف دریای خزر سفر کرد
+- **جنوب آسیا:** او به هند رسید، احتمالاً تا فلات دکن
+- **آناتولی:** او از قلمروهای سلجوقی در ترکیه امروزی بازدید کرد
+- **شمال آفریقا:** برخی گزارش‌ها نشان می‌دهند او ممکن است به مراکش رسیده باشد
 
-### Purpose and Experiences
+### هدف و تجربیات
 
-Saadi's travels were not mere tourism but served multiple purposes:
+سفرهای سعدی صرفاً گردشگری نبودند بلکه اهداف متعددی داشتند:
 
-- **Pilgrimage:** He performed the Hajj to Mecca multiple times
-- **Religious study:** He studied with scholars and Sufi masters in various centers of learning
-- **Observation:** He carefully observed different cultures, social customs, and political systems
-- **Survival:** Like many scholars of his time, he supported himself through preaching, teaching, and composing occasional poetry for patrons
+- **زیارت:** او چندین بار حج به مکه انجام داد
+- **مطالعه دینی:** او با عالمان و استادان صوفی در مراکز مختلف دانش مطالعه کرد
+- **مشاهده:** او به دقت فرهنگ‌های مختلف، آداب اجتماعی و سیستم‌های سیاسی را مشاهده کرد
+- **بقا:** مانند بسیاری از عالمان زمان خود، او از طریق موعظه، تدریس و سرودن شعر مناسبتی برای حامیان امرار معاش می‌کرد
 
-These extensive travels gave Saadi an unparalleled breadth of experience and a cosmopolitan perspective that would distinguish his writing from that of more sedentary poets. He encountered people from all walks of life—kings and beggars, scholars and merchants, saints and sinners—and this diversity of experience enriched his understanding of human nature.
+این سفرهای گسترده به سعدی وسعت بی‌نظیری از تجربه و دیدگاه کسموپولیتن داد که نوشتن او را از شاعران کم‌تحرک‌تر متمایز می‌کرد. او با مردم از همه اقشار زندگی ملاقات کرد—پادشاهان و گدایان، عالمان و بازرگانان، قدیسان و گناهکاران—و این تنوع تجربه درک او از طبیعت انسانی را غنی کرد.
 
-### Captivity and Hardship
+### اسارت و سختی
 
-Not all of Saadi's travels were voluntary. According to his own accounts, he was captured by the Crusaders (Franks) during his time in Syria and was forced to work as a laborer, digging trenches and carrying earth. He was eventually ransomed by a fellow merchant from Aleppo.
+همه سفرهای سعدی داوطلبانه نبودند. طبق گزارش‌های خودش، او در زمان حضورش در سوریه توسط صلیبیون (فرنگیان) دستگیر شد و مجبور شد به عنوان کارگر کار کند، خندق حفر کند و خاک حمل کند. او سرانجام توسط یک بازرگان همشهری از حلب خریداری و آزاد شد.
 
-This experience of captivity and manual labor gave Saadi firsthand knowledge of suffering and humility. It also deepened his empathy for the poor and oppressed, themes that would recur throughout his work.
+این تجربه اسارت و کار دستی به سعدی دانش دست اول از رنج و فروتنی داد. همچنین همدردی او را با فقرا و ستمدیدگان عمیق‌تر کرد، مضامینی که در سراسر کار او تکرار می‌شوند.
 
-## Return to Shiraz and Literary Maturity
+## بازگشت به شیراز و بلوغ ادبی
 
-### Homecoming
+### بازگشت به خانه
 
-After three decades of wandering, Saadi returned to his beloved Shiraz around 1256–1257. He found the city relatively intact compared to the devastation elsewhere in Persia, thanks to the relatively enlightened rule of the Salghurid atabegs who governed Fars as vassals of the Ilkhanate.
+پس از سه دهه سرگردانی، سعدی در حدود ۱۲۵۶–۱۲۵۷ به شیراز محبوب خود بازگشت. او شهر را نسبتاً دست‌نخورده در مقایسه با ویرانی‌های elsewhere در ایران یافت، به لطف حکومت نسبتاً روشنگرانه اتابکان سلغری که فارس را به عنوان وابستگان ایلخانی اداره می‌کردند.
 
-Saadi settled into a life of writing, teaching, and spiritual practice. He had accumulated a vast store of experiences, stories, and wisdom during his travels, and he now devoted himself to organizing this material into lasting literary form.
+سعدی به زندگی نوشتن، تدریس و عمل معنوی پرداخت. او در طول سفرهای خود انباشتی عظیم از تجربیات، داستان‌ها و خرد جمع‌آوری کرده بود، و اکنون خود را به سازماندهی این مواد به قالب ادبی پایدار اختصاص داد.
 
-### Patronage and Recognition
+### حمایت و به رسمیت شناختن
 
-Saadi enjoyed the patronage of several local rulers and notables in Shiraz. His reputation as a wise counselor, gifted poet, and accomplished scholar grew steadily. He was respected not only for his literary talents but also for his moral character and spiritual insight.
+سعدی از حمایت چندین حاکم محلی و شخصیت‌های برجسته در شیراز برخوردار بود. شهرت او به عنوان مشاور خردمند، شاعر با استعداد و عالم موفق به طور پیوسته رشد کرد. او نه تنها برای استعداد ادبی‌اش بلکه برای شخصیت اخلاقی و بینش معنوی‌اش مورد احترام بود.
 
-He lived modestly, maintaining his independence and refusing to compromise his principles for material gain. This integrity enhanced his reputation and made his moral teachings more credible.
+او به طور متواضع زندگی می‌کرد، استقلال خود را حفظ می‌کرد و از به خطر انداختن اصول خود برای سود مادی امتناع می‌ورزید. این یکپارچگی شهرت او را افزایش داد و تعالیم اخلاقی او را معتبرتر کرد.
 
-## Major Works
+## آثار اصلی
 
-### Gulistan (The Rose Garden) — 1258
+### گلستان — ۱۲۵۸
 
-The **Gulistan** is Saadi's masterpiece of Persian prose, completed in 1258. It is one of the most influential and widely read works in the entire Persian literary canon.
+**گلستان** شاهکار نثر فارسی سعدی است، که در ۱۲۵۸ تکمیل شد. این یکی از تأثیرگذارترین و پرخواننده‌ترین آثار در کل قانون ادبی فارسی است.
 
-#### Structure and Content
+#### ساختار و محتوا
 
-The Gulistan is organized into **eight chapters**, each focusing on a different aspect of life and ethics:
+گلستان به **هشت فصل** سازماندهی شده است، هر کدام بر جنبه‌ای متفاوت از زندگی و اخلاق تمرکز دارند:
 
-1. **The Manners of Kings:** Stories and advice about rulership, justice, and governance
-2. **On the Morals of Dervishes:** Tales of Sufi saints, spiritual practice, and religious devotion
-3. **On the Excellence of Contentment:** Stories praising知足 (qana'at) or contentment with one's lot
-4. **On the Benefits of Silence:** Wisdom about knowing when to speak and when to remain silent
-5. **On Love and Youth:** Tales of young people, romance, and the passions of youth
-6. **On Weakness and Old Age:** Reflections on aging, physical decline, and the approach of death
-7. **On the Effects of Education:** Stories about the importance of learning and the value of good upbringing
-8. **On Rules for Conduct in Life:** Practical advice for navigating social relationships and daily life
+۱. **آداب پادشاهان:** داستان‌ها و توصیه‌هایی درباره حکومت، عدالت و اداره
+۲. **درباره اخلاق درویشان:** حکایات اولیای صوفی، عمل معنوی و devotion دینی
+۳. **درباره فضیلت قناعت:** داستان‌هایی که ستایش قناعت یا رضایت از قسمت خود را می‌کنند
+۴. **درباره فواید سکوت:** خرد درباره دانستن زمان سخن گفتن و زمان سکوت
+۵. **درباره عشق و جوانی:** حکایات جوانان، عاشقانه و شور و اشتیاق جوانی
+۶. **درباره ضعف و پیری:** تأملات درباره پیری، زوال جسمانی و نزدیک شدن مرگ
+۷. **درباره آثار آموزش:** داستان‌هایی درباره اهمیت یادگیری و ارزش تربیت خوب
+۸. **درباره قوانین رفتار در زندگی:** توصیه‌های عملی برای هدایت روابط اجتماعی و زندگی روزمره
 
-#### Literary Innovation
+#### نوآوری ادبی
 
-The Gulistan represents a remarkable innovation in Persian literature:
+گلستان نمایانگر یک نوآوری قابل توجه در ادبیات فارسی است:
 
-- **Mixed prose and verse:** Each chapter combines elegant prose narratives with poetic verses that summarize or amplify the moral point
-- **Anecdotal structure:** Short, memorable stories illustrate ethical principles
-- **Accessible style:** Written in clear, elegant Persian that is both sophisticated and understandable
-- **Practical wisdom:** Focuses on real-world ethics rather than abstract philosophy
+- **نثر و نظم آمیخته:** هر فصل روایت‌های نثر ظریف را با ابیات شعری که نکته اخلاقی را خلاصه یا تقویت می‌کنند، ترکیب می‌کند
+- **ساختار حکایتی:** داستان‌های کوتاه و به یادماندنی اصول اخلاقی را نشان می‌دهند
+- **سبک قابل دسترس:** نوشته شده به فارسی روشن و ظریف که هم پیچیده و هم قابل فهم است
+- **خرد عملی:** بر اخلاق دنیای واقعی به جای فلسفه انتزاعی تمرکز می‌کند
 
-The Gulistan's style was so influential that it became a model for Persian prose writing for centuries. It is still used today as a textbook for teaching Persian to native speakers and learners alike.
+سبک گلستان چنان تأثیرگذار بود که برای قرن‌ها الگویی برای نوشتن نثر فارسی شد. این اثر هنوز امروز به عنوان کتاب درسی برای آموزش فارسی به فارسی‌زبانان و یادگیرندگان استفاده می‌شود.
 
-### Bustan (The Orchard) — 1257
+### بوستان — ۱۲۵۷
 
-Completed in 1257, just before the Gulistan, the **Bustan** is Saadi's major work of poetry. It is a long didactic poem (mathnawi) consisting of approximately **10,000 couplets** organized into ten chapters.
+تکمیل شده در ۱۲۵۷، درست قبل از گلستان، **بوستان** اثر اصلی شعر سعدی است. این یک شعر طولانی تعلیمی (مثنوی) است که شامل حدود **۱۰٬۰۰۰ بیت** سازماندهی شده در ده فصل است.
 
-#### Structure and Themes
+#### ساختار و مضامین
 
-The Bustan is organized into ten chapters, each exploring a different virtue or moral theme:
+بوستان به ده فصل سازماندهی شده است، هر کدام یک فضیلت یا مضمون اخلاقی متفاوت را کاوش می‌کنند:
 
-1. **Justice (Adl):** The importance of just rulership and fair governance
-2. **Benevolence (Ehsan):** The virtue of kindness and generosity
-3. **Divine Love (Eshq):** The nature of love, both human and divine
-4. **Humility (Tavazo):** The importance of modesty and lack of pride
-5. **Contentment (Qana'at):** Being satisfied with what one has
-6. **Patience (Sabr):** The virtue of endurance and forbearance
-7. **Gratitude (Shukr):** Thankfulness for God's blessings
-8. **Repentance (Tawba):** The importance of turning back to God
-9. **Supplication (Munajat):** Prayer and communication with the divine
-10. **Conclusion:** Final reflections and advice
+۱. **عدالت:** اهمیت حکومت عادلانه و اداره منصفانه
+۲. **احسان:** فضیلت مهربانی و سخاوت
+۳. **عشق الهی:** ماهیت عشق، هم انسانی و هم الهی
+۴. **تواضع:** اهمیت فروتنی و عدم غرور
+۵. **قناعت:** رضایت از آنچه یکی دارد
+۶. **صبر:** فضیلت استقامت و بردباری
+۷. **شکر:** سپاسگزاری برای برکات خدا
+۸. **توبه:** اهمیت بازگشت به خدا
+۹. **مناجات:** دعا و ارتباط با الهی
+۱۰. **نتیجه‌گیری:** تأملات و توصیه‌های نهایی
 
-#### Poetic Style
+#### سبک شعری
 
-Unlike the mixed prose-and-verse style of the Gulistan, the Bustan is written entirely in verse. Its poetic style is characterized by:
+برخلاف سبک نثر و نظم آمیخته گلستان، بوستان کاملاً به نظم نوشته شده است. سبک شعری آن با موارد زیر مشخص می‌شود:
 
-- **Clarity and directness:** Saadi's language is accessible and straightforward
-- **Narrative flow:** Stories are told with skill and engaging detail
-- **Moral emphasis:** Each story clearly illustrates its ethical lesson
-- **Musicality:** The verse has a natural rhythm and flow that makes it pleasant to read aloud
+- **وضوح و مستقیم بودن:** زبان سعدی قابل دسترس و مستقیم است
+- **جریان روایی:** داستان‌ها با مهارت و جزئیات جذاب روایت می‌شوند
+- **تأکید اخلاقی:** هر داستان به وضوح درس اخلاقی خود را نشان می‌دهد
+- **موسیقیایی بودن:** نظم دارای ریتم و جریان طبیعی است که آن را برای خواندن بلند pleasant می‌کند
 
-The Bustan is generally more explicitly moral and didactic than the Gulistan, with less of the wit and ambiguity that characterize some of the shorter pieces in the prose work.
+بوستان به طور کلی صریح‌تر تعلیمی و اخلاقی از گلستان است، با کمتر از ظرافت و ابهامی که برخی از قطعات کوتاه‌تر در کار نثر را مشخص می‌کند.
 
-### Divan-e Saadi (Collected Poems)
+### دیوان سعدی
 
-Saadi's collected poems include:
+اشعار گردآوری شده سعدی شامل موارد زیر است:
 
-- **Ghazals:** Lyric poems on love, mysticism, and philosophical themes (approximately 700 ghazals)
-- **Qasidas:** Odes on moral, religious, and occasional themes (approximately 100 qasidas)
-- **Rubaiyat:** Philosophical quatrains
-- **Qit'as:** Short poems on various subjects
-- **Mathnawis:** Longer narrative poems besides the Bustan
+- **غزلیات:** اشعار غنایی درباره عشق، عرفان و مضامین فلسفی (حدود ۷۰۰ غزل)
+- **قصاید:** قصاید درباره مضامین اخلاقی، مذهبی و مناسبتی (حدود ۱۰۰ قصیده)
+- **رباعیات:** رباعیات فلسفی
+- **قطعات:** اشعار کوتاه درباره موضوعات مختلف
+- **مثنویات:** اشعار روایی طولانی‌تر غیر از بوستان
 
-Saadi's ghazals are particularly notable for their:
-- **Emotional sincerity:** Genuine expressions of love and spiritual longing
-- **Linguistic purity:** Elegant, clear Persian with minimal Arabic loanwords
-- **Musical quality:** Natural rhythm and flow
-- **Accessibility:** Clear meaning without excessive complexity or ambiguity
+غزلیات سعدی به طور خاص به خاطر موارد زیر قابل توجه هستند:
+- **صداقت احساسی:** بیان‌های صادقانه عشق و اشتیاق معنوی
+- **خلوص زبانی:** فارسی ظریف و روشن با حداقل واژگان عربی
+- **کیفیت موسیقیایی:** ریتم و جریان طبیعی
+- **قابل دسترس بودن:** معنی روشن بدون پیچیدگی یا ابهام بیش از حد
 
-His ghazals are considered among the finest in the Persian language, though they are often overshadowed by his more famous prose and didactic works.
+غزلیات او به عنوان یکی از بهترین‌ها در زبان فارسی در نظر گرفته می‌شوند، هرچند اغلب توسط آثار نثر و تعلیمی معروف‌تر او تحت‌الشعاع قرار می‌گیرند.
 
-### Other Works
+### آثار دیگر
 
-Saadi also wrote several other treatises and collections:
+سعدی همچنین چندین رساله و مجموعه دیگر نوشت:
 
-- **Jame' al-Abwab:** A collection of Arabic prose and verse
-- **Al-Tibyan fi Ulum al-Quran:** A commentary on the Quran (now lost)
-- **Various treatises:** On ethics, theology, and Sufism
+- **جامع‌الابواب:** مجموعه‌ای از نثر و نظم عربی
+- **التبیان فی علوم القرآن:** تفسیری بر قرآن (اکنون از بین رفته)
+- **رسالات مختلف:** در اخلاق، الهیات و تصوف
 
-## Literary Style and Characteristics
+## سبک ادبی و ویژگی‌ها
 
-### Prose Mastery
+### تسلط بر نثر
 
-Saadi is widely regarded as one of the greatest masters of Persian prose. His prose style in the Gulistan is characterized by:
+سعدی به طور گسترده‌ای به عنوان یکی از بزرگترین استادان نثر فارسی در نظر گرفته می‌شود. سبک نثر او در گلستان با موارد زیر مشخص می‌شود:
 
-- **Elegance and clarity:** His sentences are beautifully constructed yet easy to understand
-- **Conciseness:** He expresses complex ideas in minimal words
-- **Wit and humor:** His stories often contain clever turns of phrase and subtle humor
-- **Rhythm:** Even his prose has a natural musicality
-- **Variety:** He moves seamlessly between narrative, dialogue, aphorism, and description
+- **ظرافت و وضوح:** جملات او به زیبایی ساخته شده‌اند اما قابل فهم هستند
+- **ایجاز:** او ایده‌های پیچیده را در کلمات حداقل بیان می‌کند
+- **ظرافت و طنز:** داستان‌های او اغلب حاوی عبارات هوشمندانه و طنز ظریف هستند
+- **ریتم:** حتی نثر او دارای موسیقیایی طبیعی است
+- **تنوع:** او به طور روان بین روایت، گفتگو، حکمت و توصیف حرکت می‌کند
 
-### Didactic Approach
+### رویکرد تعلیمی
 
-Saadi's primary mode is didactic—he aims to teach moral lessons. However, his didacticism is distinctive:
+حالت اصلی سعدی تعلیمی است—او هدف آموزش دروس اخلاقی را دارد. با این حال، تعلیمی بودن او متمایز است:
 
-- **Story-based:** Rather than abstract preaching, he uses memorable stories to illustrate his points
-- **Practical:** His advice is grounded in real-world experience rather than theoretical philosophy
-- **Humanistic:** He focuses on human virtues and social ethics rather than purely religious doctrine
-- **Balanced:** He avoids extremism, advocating for moderation in all things
-- **Accessible:** His moral teachings are understandable to people of all education levels
+- **مبتنی بر داستان:** به جای موعظه انتزاعی، او از داستان‌های به یادماندنی برای نشان دادن نقاط خود استفاده می‌کند
+- **عملی:** توصیه‌های او بر اساس تجربه دنیای واقعی است تا فلسفه نظری
+- **انسان‌دوستانه:** او بر فضایل انسانی و اخلاق اجتماعی به جای دکترین صرفاً مذهبی تمرکز می‌کند
+- **متعادل:** او از افراط‌گرایی اجتناب می‌کند و اعتدال را در همه چیز تبلیغ می‌کند
+- **قابل دسترس:** تعالیم اخلاقی او برای مردم از همه سطوح آموزش قابل فهم است
 
-### Humanistic Philosophy
+### فلسفه انسان‌دوستانه
 
-Saadi's worldview is fundamentally humanistic. He emphasizes:
+دیدگاه سعدی اساساً انسان‌دوستانه است. او بر موارد زیر تأکید می‌کند:
 
-- **Compassion:** Kindness to all people, regardless of their status or background
-- **Social justice:** Fair treatment of the poor and powerless
-- **Practical wisdom:** Knowledge that helps people live better lives
-- **Moderation:** Avoiding extremes in behavior and belief
-- **Tolerance:** Accepting human frailty and imperfection
-- **Universal brotherhood:** The fundamental equality of all human beings
+- **شفقت:** مهربانی با همه مردم، فارغ از وضعیت یا پیشینه آن‌ها
+- **عدالت اجتماعی:** رفتار منصفانه با فقرا و بی‌قدرتان
+- **خرد عملی:** دانشی که به مردم کمک می‌کند زندگی بهتری داشته باشند
+- **اعتدال:** اجتناب از افراط در رفتار و باور
+- **تحمل:** پذیرش ضعف و نقص انسانی
+- **برادری جهانی:** برابری اساسی همه انسان‌ها
 
-This humanistic outlook, combined with his accessible style, has made Saadi's work enduringly popular across cultures and centuries.
+این دیدگاه انسان‌دوستانه، همراه با سبک قابل دسترس او، کار او را به طور پایدار در فرهنگ‌ها و قرن‌ها محبوب کرده است.
 
-### Relationship to Sufism
+### رابطه با تصوف
 
-While Saadi was influenced by Sufism and includes many Sufi stories and concepts in his work, his relationship to institutional Sufism is complex:
+اگرچه سعدی تحت تأثیر تصوف بود و بسیاری از داستان‌ها و مفاهیم صوفیانه را در کار خود می‌گنجاند، رابطه او با تصوف نهادی پیچیده است:
 
-- **Sympathetic but critical:** He respects genuine Sufi saints but frequently critiques hypocritical dervishes
-- **Practical mysticism:** He emphasizes the ethical implications of Sufi teachings rather than esoteric doctrines
-- **Integration:** He blends Sufi concepts with practical ethics and social wisdom
-- **Independence:** He does not appear to have been formally affiliated with any specific Sufi order
+- **همدل اما منتقد:** او به اولیای صوفی واقعی احترام می‌گذارد اما مکرراً درویشان ریاکار را نقد می‌کند
+- **عرفان عملی:** او بر پیامدهای اخلاقی تعالیم صوفی به جای دکترین باطنی تأکید می‌کند
+- **ادغام:** او مفاهیم صوفی را با اخلاق عملی و خرد اجتماعی ادغام می‌کند
+- **استقلال:** به نظر نمی‌رسد او رسماً با طریقت صوفی خاصی مرتبط بوده باشد
 
-Saadi's Sufism is thus more ethical and practical than metaphysical or ecstatic. He is interested in how spiritual insights can improve daily life and social relationships.
+تصوف سعدی بنابراین بیشتر اخلاقی و عملی است تا متافیزیکی یا وجدآمیز. او به چگونگی استفاده از بینش‌های معنوی برای بهبود زندگی روزمره و روابط اجتماعی علاقه‌مند است.
 
-## Major Themes
+## مضامین اصلی
 
-### Justice and Good Governance
+### عدالت و حکومت خوب
 
-One of Saadi's central concerns is the proper conduct of rulers. He repeatedly emphasizes:
+یکی از نگرانی‌های مرکزی سعدی رفتار صحیح حاکمان است. او مکرراً بر موارد زیر تأکید می‌کند:
 
-- **Justice (adl):** The paramount virtue for rulers
-- **Protection of the weak:** Kings must shield the poor from oppression
-- **Wise counsel:** Rulers should listen to honest advisors
-- **Avoiding tyranny:** Cruel and arbitrary rule leads to disaster
-- **Responsibility:** Power comes with moral obligations
+- **عدالت:** فضیلت برتر برای حاکمان
+- **حفاظت از ضعیفان:** پادشاهان باید فقرا را از ظلم محافظت کنند
+- **مشورت خردمند:** حاکمان باید به مشاوران صادق گوش دهند
+- **اجتناب از استبداد:** حکومت بی‌رحمانه و خودسرانه منجر به فاجعه می‌شود
+- **مسئولیت:** قدرت با تعهدات اخلاقی همراه است
 
-Many of his most famous stories illustrate the consequences of just or unjust rule.
+بسیاری از مشهورترین داستان‌های او پیامدهای حکومت عادلانه یا ناعادلانه را نشان می‌دهند.
 
-### The Transience of Life
+### ناپایداری زندگی
 
-Like many Persian poets, Saadi frequently reflects on the brevity and uncertainty of human life:
+مانند بسیاری از شاعران فارسی، سعدی مکرراً بر کوتاهی و عدم قطعیت زندگی انسانی تأمل می‌کند:
 
-- **Impermanence:** Worldly power and wealth are fleeting
-- **Death's inevitability:** All must face death, regardless of status
-- **Carpe diem:** Making the most of the present moment
-- **Preparation for the afterlife:** Living in a way that prepares for what comes after death
+- **ناپایداری:** قدرت و ثروت دنیوی زودگذر هستند
+- **اجتناب‌ناپذیری مرگ:** همه باید با مرگ مواجه شوند، فارغ از وضعیت
+- **دم را غنیمت شمردن:** استفاده حداکثری از لحظه حال
+- **آمادگی برای آخرت:** زندگی به روشی که برای آنچه پس از مرگ می‌آید آماده می‌کند
 
-However, Saadi's reflections on mortality are typically balanced with practical advice for living well in this world.
+با این حال، تأملات سعدی بر مرگ معمولاً با توصیه‌های عملی برای زندگی خوب در این دنیا متعادل می‌شوند.
 
-### Contentment and Moderation
+### قناعت و اعتدال
 
-Saadi strongly advocates for **qana'at** (contentment):
+سعدی به شدت از **قناعت** حمایت می‌کند:
 
-- **Sufficiency:** Being satisfied with what one has rather than constantly seeking more
-- **Avoiding greed:** The dangers of excessive desire and ambition
-- **Simple living:** The virtue of modest needs and lifestyle
-- **Inner peace:** Contentment as the key to happiness
+- **کفایت:** رضایت از آنچه یکی دارد به جای جستجوی مداوم برای بیشتر
+- **اجتناب از طمع:** خطرات میل و جاه‌طلبی بیش از حد
+- **زندگی ساده:** فضیلت نیازهای متواضع و سبک زندگی
+- **آرامش درونی:** قناعت به عنوان کلید خوشبختی
 
-This theme reflects both Sufi teachings and practical wisdom about human psychology.
+این مضمون هم تعالیم صوفیانه و هم خرد عملی درباره روان‌شناسی انسانی را منعکس می‌کند.
 
-### The Power of Speech
+### قدرت سخن
 
-Saadi, whose pen name means "happy" or "fortunate," was acutely aware of the power of language:
+سعدی، که نامش به معنای «خوشحال» یا «خوشبخت» است، به شدت از قدرت زبان آگاه بود:
 
-- **Silence vs. speech:** Knowing when to speak and when to remain silent
-- **Truth-telling:** The importance of honesty balanced with tact
-- **Flattery vs. sincerity:** Avoiding insincere praise while maintaining social harmony
-- **The impact of words:** How speech can heal or harm
+- **سکوت در برابر سخن:** دانستن زمان سخن گفتن و زمان سکوت
+- **حقیقت‌گویی:** اهمیت صداقت متعادل با سیاست
+- **چاپلوسی در برابر صداقت:** اجتناب از ستایش غیرصادقانه در حالی که هماهنگی اجتماعی حفظ می‌شود
+- **تأثیر کلمات:** چگونگی اینکه سخن می‌تواند شفا دهد یا آسیب برساند
 
-Many of his stories illustrate the consequences of wise or foolish speech.
+بسیاری از داستان‌های او پیامدهای سخن خردمندانه یا احمقانه را نشان می‌دهند.
 
-### Human Frailty and Forgiveness
+### ضعف انسانی و بخشش
 
-Saadi has a realistic understanding of human nature:
+سعدی درک واقع‌بینانه‌ای از طبیعت انسانی دارد:
 
-- **Imperfection:** All humans are flawed and make mistakes
-- **Compassion:** We should be forgiving of others' faults
-- **Self-awareness:** Recognizing our own limitations and weaknesses
-- **Growth:** The possibility of moral and spiritual development
+- **نقص:** همه انسان‌ها ناقص هستند و اشتباه می‌کنند
+- **شفقت:** ما باید از خطاهای دیگران ببخشیم
+- **خودآگاهی:** به رسمیت شناختن محدودیت‌ها و ضعف‌های خود
+- **رشد:** امکان توسعه اخلاقی و معنوی
 
-This realistic yet compassionate view of humanity makes his work relatable and comforting.
+این دیدگاه واقع‌بینانه اما دلسوزانه از انسانیت کار او را قابل ارتباط و آرامش‌بخش می‌کند.
 
-## Historical Context and Significance
+## زمینه تاریخی و اهمیت
 
-### The Mongol Period
+### دوره مغول
 
-Saadi lived during one of the most turbulent periods in Iranian history. The Mongol invasion had devastated much of Persia, destroying cities, killing millions, and disrupting traditional social structures. The Ilkhanate, the Mongol dynasty that ruled Persia, was gradually converting to Islam and adopting Persian administrative practices, but the period remained one of political instability and cultural transition.
+سعدی در یکی از طوفانی‌ترین دوره‌های تاریخ ایران زندگی کرد. حمله مغول بخش بزرگی از ایران را ویران کرده بود، شهرها را نابود کرده بود، میلیون‌ها نفر را کشته بود و ساختارهای اجتماعی سنتی را مختل کرده بود. ایلخانیان، سلسله مغولی که بر ایران حکومت می‌کرد، به تدریج به اسلام گرویدند و شیوه‌های اداری فارسی را پذیرفتند، اما دوره همچنان یکی از بی‌ثباتی سیاسی و انتقال فرهنگی بود.
 
-### Cultural Resilience
+### تابآوری فرهنگی
 
-Despite the devastation, Persian culture demonstrated remarkable resilience. The Mongol rulers, once they converted to Islam, became patrons of Persian arts and literature. Cities like Shiraz, which escaped the worst of the destruction, became centers of cultural revival.
+با وجود ویرانی، فرهنگ فارسی تابآوری قابل توجهی نشان داد. حاکمان مغول، هنگامی که به اسلام گرویدند، به حامیان هنر و ادبیات فارسی تبدیل شدند. شهرهایی مانند شیراز، که از بدترین ویرانی‌ها فرار کردند، به مراکز احیای فرهنگی تبدیل شدند.
 
-Saadi's work represents this cultural resilience. His emphasis on universal human values, practical ethics, and social harmony can be seen as a response to the chaos and violence of his time. He offered a vision of moral order and human dignity that transcended political upheaval.
+کار سعدی نمایانگر این تابآوری فرهنگی است. تأکید او بر ارزش‌های انسانی جهانی، اخلاق عملی و هماهنگی اجتماعی می‌تواند به عنوان پاسخی به آشوب و خشونت زمان او دیده شود. او دیدگاهی از نظم اخلاقی و کرامت انسانی ارائه داد که از آشوب سیاسی فراتر رفت.
 
-### The Salghurid Court
+### دربار سلغریان
 
-Saadi's primary patrons were the **Salghurid atabegs** who ruled Fars province as vassals of the Ilkhanate. The most important of these were:
+حامیان اصلی سعدی **اتابکان سلغری** بودند که استان فارس را به عنوان وابستگان ایلخانیان اداره می‌کردند. مهم‌ترین آن‌ها عبارت بودند از:
 
-- **Sa'd ibn Zangi:** From whom Saadi took his pen name
-- **Abu Bakr ibn Sa'd:** A major patron who commissioned the Bustan
-- **Muhammad ibn Abi Bakr:** Another important patron
+- **سعد بن زنگی:** که سعدی نام خود را از او گرفت
+- **ابوبکر بن سعد:** حامی بزرگی که بوستان را سفارش داد
+- **محمد بن ابوبکر:** یکی دیگر از حامیان مهم
 
-The Salghurids, while subordinate to the Mongol overlords, maintained Persian cultural traditions and provided a relatively stable environment for literary production in Fars.
+سلغریان، اگرچه تابع حاکمان مغول بودند، سنت‌های فرهنگی فارسی را حفظ کردند و محیط نسبتاً باثباتی را برای تولید ادبی در فارس فراهم کردند.
 
-## Legacy and Cultural Impact
+## میراث و تأثیر فرهنگی
 
-### The Most Influential Persian Prose Writer
+### تأثیرگذارترین نویسنده نثر فارسی
 
-Saadi's influence on Persian literature is immeasurable:
+تأثیر سعدی بر ادبیات فارسی غیرقابل اندازه‌گیری است:
 
-- **Prose model:** The Gulistan became the standard model for elegant Persian prose
-- **Educational text:** For centuries, the Gulistan has been used to teach Persian to children and learners
-- **Moral guide:** His ethical teachings have shaped Persian moral culture
-- **Literary bridge:** He successfully bridged the gap between sophisticated literary culture and popular wisdom
+- **الگوی نثر:** گلستان به الگوی استاندارد نثر فارسی ظریف تبدیل شد
+- **متن آموزشی:** برای قرن‌ها، گلستان برای آموزش فارسی به کودکان و یادگیرندگان استفاده شده است
+- **راهنمای اخلاقی:** تعالیم اخلاقی او فرهنگ اخلاقی فارسی را شکل داده‌اند
+- **پل ادبی:** او با موفقیت شکاف بین فرهنگ ادبی پیچیده و خرد عامیانه را پر کرد
 
-### Influence on World Literature
+### تأثیر بر ادبیات جهان
 
-Saadi's influence extends far beyond the Persian-speaking world:
+تأثیر سعدی فراتر از جهان فارسی‌زبان گسترش می‌یابد:
 
-- **European literature:** The Gulistan was translated into European languages as early as the 17th century and influenced writers such as La Fontaine, Ralph Waldo Emerson, and Henry David Thoreau
-- **American transcendentalism:** Emerson admired Saadi greatly and wrote about him extensively
-- **Universal appeal:** His humanistic philosophy and accessible style have made his work popular across cultures
-- **UNESCO recognition:** UNESCO has celebrated Saadi and his contributions to world literature
+- **ادبیات اروپایی:** گلستان به زبان‌های اروپایی از قرن هفدهم ترجمه شد و بر نویسندگانی مانند لافونتن، رالف والدو امرسون و هنری دیوید ثورو تأثیر گذاشت
+- **استعلایی‌گرایی آمریکایی:** امرسون سعدی را به شدت تحسین کرد و به طور گسترده درباره او نوشت
+- **جذب جهانی:** فلسفه انسان‌دوستانه و سبک قابل دسترس او کار او را در فرهنگ‌ها محبوب کرده است
+- **به رسمیت شناختن یونسکو:** یونسکو سعدی و سهم‌های او در ادبیات جهان را گرامی داشته است
 
-### The Tomb of Saadi (Saadiyeh)
+### آرامگاه سعدی (سعدیه)
 
-Saadi was buried in Shiraz, in a garden that became known as the **Saadiyeh**. Over the centuries, his tomb has been renovated and expanded multiple times.
+سعدی در شیراز، در باغی که به **سعدیه** معروف شد، دفن شد. در طول قرن‌ها، مقبره او چندین بار بازسازی و گسترش یافته است.
 
-The current structure, designed by the architect Mohsen Foroughi and completed in 1952, is a beautiful example of modern Persian architecture that incorporates traditional elements:
+سازه فعلی، که توسط معمار محسن فروغی طراحی و در ۱۳۳۱ شمسی تکمیل شد، نمونه‌ای زیبا از معماری مدرن فارسی است که عناصر سنتی را ادغام می‌کند:
 
-- **Open pavilion:** The tomb is housed in an open pavilion with eight columns
-- **Gardens:** The tomb is surrounded by beautiful gardens with orange trees, flowers, and fountains
-- **Inscriptions:** Verses from Saadi's poetry are inscribed on the columns and walls
-- **Cultural center:** The Saadiyeh serves as a cultural center and gathering place
+- **ایوان باز:** مقبره در ایوانی باز با هشت ستون قرار دارد
+- **باغ‌ها:** مقبره توسط باغ‌های زیبا با درختان نارنج، گل‌ها و فواره‌ها احاطه شده است
+- **کتیبه‌ها:** ابیات از شعر سعدی روی ستون‌ها و دیوارها حک شده‌اند
+- **مرکز فرهنگی:** سعدیه به عنوان مرکز فرهنگی و مکان گردهمایی خدمت می‌کند
 
-The Saadiyeh is one of the most visited cultural sites in Shiraz and a place of pilgrimage for lovers of Persian literature.
+سعدیه یکی از پربازدیدترین سایت‌های فرهنگی در شیراز و مکان زیارتی برای عاشقان ادبیات فارسی است.
 
-### Saadi Day
+### روز سعدی
 
-In Iran, the 20th of Ordibehesht (May 10) is celebrated as **Saadi Day**, honoring the poet's legacy. Ceremonies are held at the Saadiyeh and other cultural sites, with poetry readings, lectures, and artistic performances.
+در ایران، ۲۰ اردیبهشت (۱۰ مه) به عنوان **روز سعدی** جشن گرفته می‌شود و میراث شاعر گرامی داشته می‌شود. مراسم در سعدیه و سایر سایت‌های فرهنگی برگزار می‌شود، با خواندن شعر، سخنرانی‌ها و اجرای هنری.
 
-### Enduring Popularity
+### محبوبیت پایدار
 
-Saadi remains one of the most beloved and widely read Persian poets:
+سعدی همچنان یکی از محبوب‌ترین و پرخواننده‌ترین شاعران فارسی باقی مانده است:
 
-- **Daily wisdom:** His aphorisms and stories are quoted in everyday conversation
-- **Educational staple:** The Gulistan is still taught in schools throughout the Persian-speaking world
-- **Cultural touchstone:** Knowledge of Saadi is considered a mark of cultural refinement
-- **Universal relevance:** His humanistic philosophy resonates across cultures and eras
+- **خرد روزمره:** حکایات و داستان‌های او در مکالمات روزمره نقل قول می‌شوند
+- **اصل آموزشی:** گلستان هنوز در مدارس در سراسر جهان فارسی‌زبان تدریس می‌شود
+- **سنگ محک فرهنگی:** دانش سعدی به عنوان نشانه‌ای از ظرافت فرهنگی در نظر گرفته می‌شود
+- **ارتباط جهانی:** فلسفه انسان‌دوستانه او در فرهنگ‌ها و دوران‌ها طنین‌انداز می‌شود
 
-## Saadi in the Modern World
+## سعدی در دنیای مدرن
 
-### Contemporary Relevance
+### ارتباط معاصر
 
-Despite living over 700 years ago, Saadi's work remains remarkably relevant:
+با وجود زندگی بیش از ۷۰۰ سال پیش، کار سعدی به طور قابل توجهی مرتبط باقی مانده است:
 
-- **Ethical guidance:** His practical wisdom continues to provide guidance for navigating life's challenges
-- **Social commentary:** His critiques of tyranny, hypocrisy, and injustice remain timely
-- **Humanistic values:** His emphasis on compassion, tolerance, and human dignity resonates in today's world
-- **Cultural identity:** For Persian speakers, Saadi is a powerful symbol of cultural heritage
+- **راهنمایی اخلاقی:** خرد عملی او همچنان راهنمایی برای هدایت چالش‌های زندگی ارائه می‌دهد
+- **نقد اجتماعی:** نقدهای او از استبداد، ریاکاری و بی‌عدالتی همچنان به موقع هستند
+- **ارزش‌های انسان‌دوستانه:** تأکید او بر شفقت، تحمل و کرامت انسانی در دنیای امروز طنین‌انداز می‌شود
+- **هویت فرهنگی:** برای فارسی‌زبانان، سعدی نمادی قدرتمند از میراث فرهنگی است
 
-### Academic Study
+### مطالعه آکادمیک
 
-Saadi is the subject of extensive scholarly study:
+سعدی موضوع مطالعه علمی گسترده‌ای است:
 
-- **Literary analysis:** His works are analyzed for their artistic and philosophical content
-- **Historical research:** His travels and experiences provide valuable information about the medieval Islamic world
-- **Comparative literature:** His works are compared with those of other Islamic and world literary traditions
-- **Translation studies:** New translations continue to make his work accessible to global audiences
+- **تحلیل ادبی:** آثار او برای محتوای هنری و فلسفی‌شان تحلیل می‌شوند
+- **پژوهش تاریخی:** سفرها و تجربیات او اطلاعات ارزشمندی درباره جهان اسلامی قرون وسطی ارائه می‌دهند
+- **ادبیات تطبیقی:** آثار او با آثار سایر سنت‌های ادبی اسلامی و جهانی مقایسه می‌شوند
+- **مطالعات ترجمه:** ترجمه‌های جدید همچنان کار او را برای مخاطبان جهانی قابل دسترس می‌کنند
 
-### Digital Access
+### دسترسی دیجیتال
 
-Saadi's works are widely available in digital formats:
+آثار سعدی به طور گسترده‌ای در قالب‌های دیجیتال در دسترس هستند:
 
-- **Online editions:** Many of his works are available in digital editions
-- **Translations:** New translations are making his works accessible to non-Persian readers
-- **Ganjur and other platforms:** His poetry is available on Persian literary websites
-- **Educational resources:** Online resources for studying Saadi continue to grow
+- **نسخه‌های آنلاین:** بسیاری از آثار او در نسخه‌های دیجیتال در دسترس هستند
+- **ترجمه‌ها:** ترجمه‌های جدید آثار او را برای خوانندگان غیر فارسی‌زبان قابل دسترس می‌کنند
+- **گنجور و سایر پلتفرم‌ها:** شعر او در وب‌سایت‌های ادبی فارسی در دسترس است
+- **منابع آموزشی:** منابع آنلاین برای مطالعه سعدی همچنان رشد می‌کنند
 
-## Further Reading
+## برای مطالعه بیشتر
 
-- [Wikipedia: Saadi Shirazi](https://en.wikipedia.org/wiki/Saadi_Shirazi)
-- [Encyclopædia Iranica: Saadi](https://www.iranicaonline.org/articles/saadi)
-- [Ganjur: Works of Saadi](https://ganjoor.net/saadi)
-- [Ilkhanate Era](../eras/ilkhanate.md) - The historical context of Saadi's life and work
+- [ویکی‌پدیای فارسی: سعدی](https://fa.wikipedia.org/wiki/%D8%B3%D8%B9%D8%AF%DB%8C)
+- [دانشنامه ایرانیکا: سعدی](https://www.iranicaonline.org/articles/saadi)
+- [گنجور: آثار سعدی](https://ganjoor.net/saadi)
+- [دوره ایلخانیان](../eras/ilkhanate.fa.md) - زمینه تاریخی زندگی و کار سعدی

@@ -1,21 +1,21 @@
-# Ilkhanate Era (1256–1353 CE)
+# دوره ایلخانیان (۱۲۶–۱۳۵۳ میلادی)
 
-!!! abstract "Era Overview"
-    - **Period:** 1256 – 1353 CE
-    - **Literary Style:** Transition to the Iraqi Style (Mystical, emotional, and allegorical)
-    - **Cultural Centers:** Tabriz, Maragheh, Shiraz
-    - **Core Theme:** Cultural survival and the flourishing of Sufi poetry amidst political devastation.
+!!! abstract "نمای کلی دوره"
+    - **بازه زمانی:** ۱۵۶ – ۱۳۳ میلادی
+    - **سبک ادبی:** گذار به سبک عراقی (عرفانی، احساسی و تمثیلی)
+    - **مراکز فرهنگی:** تبریز، مراغه، شیراز
+    - **مضمون اصلی:** بقای فرهنگی و شکوفایی شعر عرفانی در midst ویرانی‌های سیاسی.
 
-## Historical and Cultural Context
-The Ilkhanate was a Mongol khanate established in the southwestern portion of the Mongol Empire. The initial Mongol invasion of Persia was catastrophic, resulting in the destruction of major cities, libraries, and irrigation systems, and causing a massive loss of life. 
+## زمینه تاریخی و فرهنگی
+ایلخانات یک خانات مغول بود که در بخش جنوب غربی امپراتوری مغول تأسیس شد. حمله اولیه مغول به ایران فاجعه‌بار بود و منجر به نابودی شهرهای بزرگ، کتابخانه‌ها و سیستم‌های آبیاری، و تلفات انسانی عظیم شد.
 
-However, as the Mongol rulers settled and eventually converted to Islam, a remarkable cultural renaissance occurred. The Ilkhanid rulers, particularly under Ghazan Khan and Öljaitü, became great patrons of Persian arts, architecture, and literature. They adopted Persian administrative practices and court customs, effectively becoming "Persianized." This era saw a shift of cultural power from the devastated northeastern cities (like Nishapur and Merv) to the relatively safer southwestern regions, particularly Shiraz and Tabriz.
+با این حال، با اسکان حاکمان مغول و در نهایت گرویدن آن‌ها به اسلام، رنسانس فرهنگی شگفت‌انگیزی رخ داد. حاکمان ایلخانی، به ویژه در دوره غازان خان و اولجایتو، به حامیان بزرگ هنر، معماری و ادبیات فارسی تبدیل شدند. آن‌ها شیوه‌های اداری و درباری فارسی را پذیرفتند و عملاً «ایرانی‌سازی» شدند. این دوره شاهد انتقال قدرت فرهنگی از شهرهای ویران‌شده شمال شرق (مانند نیشابور و مرو) به مناطق جنوب غربی که امنیت نسبی داشتند، به ویژه شیراز و تبریز بود.
 
-## Literary Significance
-The trauma of the Mongol invasion profoundly impacted Persian literature. The outward-looking, confident Khorasani style was entirely replaced by the inward-looking, complex **Iraqi Style**. 
+## اهمیت ادبی
+ضربه روحی حمله مغول تأثیر عمیقی بر ادبیات فارسی گذاشت. سبک برون‌گرا و با اعتماد به نفس خراسانی به طور کامل جای خود را به **سبک عراقی** داد که درون‌گرا و پیچیده بود.
 
-This era is defined by the absolute dominance of **Sufi (mystical) poetry**. Poets used rich allegories—wine, the tavern, the beloved, and the cupbearer—to express complex spiritual truths and the soul's yearning for God. The *Ghazal* reached its zenith as the primary vehicle for these mystical and emotional expressions. Additionally, this period saw the rise of the "Shiraz School" of poetry, which focused on lyrical beauty and spiritual depth rather than courtly panegyrics.
+این دوره با تسلط مطلق **شعر عرفانی (صوفیانه)** تعریف می‌شود. شاعران از تمثیل‌های غنی—باده، میخانه، معشوق و ساقی—برای بیان حقایق پیچیده معنوی و اشتیاق روح برای خدا استفاده کردند. غزل به عنوان وسیله اصلی برای این بیان‌های عرفانی و احساسی به اوج خود رسید. علاوه بر این، این دوره شاهد ظهور «مکتب شیراز» در شعر بود که بر زیبایی‌شناسی غنایی و عمق معنوی به جای ستایش‌های درباری تمرکز داشت.
 
-## Poets of the Era
-- [Saadi](../poets/saadi.md)
-- [Molana](../poets/molana.md)
+## شاعران این دوره
+- [سعدی](../poets/saadi.md)
+- [مولانا](../poets/molana.md)

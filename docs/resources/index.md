@@ -1,89 +1,91 @@
 ---
 template: main.html
-title: Resources - Chekameh
+title: منابع - چکامه
+dir: rtl
+lang: fa
 ---
 
-# Resources & Contribution
+# منابع و مشارکت
 
-This section covers how to use Chekameh, contribute to the project, and find related materials.
+این بخش پوشش می‌دهد که چگونه از چکامه استفاده کنید، در پروژه مشارکت کنید و مواد مرتبط را پیدا کنید.
 
-## Getting Started
+## شروع
 
-New to the site? Start here:
+جدید در سایت؟ از اینجا شروع کنید:
 
-- **[User Guide](/en/guide/)** — Learn how to navigate the map, use the timeline, and explore poet profiles
-- **[FAQ](/en/guide/faq/)** — Common questions answered
-- **[Glossary](/en/guide/glossary/)** — Terms and concepts explained
+- **[راهنمای کاربر](/fa/guide/)** — یاد بگیرید چگونه از نقشه ناوبری کنید، از خط زمانی استفاده کنید و پروفایل شاعران را کاوش کنید
+- **[سوالات متداول](/fa/guide/faq/)** — سوالات رایج پاسخ داده شدند
+- **[واژه‌نامه](/fa/guide/glossary/)** — اصطلاحات و مفاهیم توضیح داده شدند
 
-## Contribute Data
+## مشارکت در داده
 
-We welcome contributions from anyone with knowledge of Persian poetry or history.
+ما از مشارکت هر کسی که دانش شعر فارسی یا تاریخ دارد استقبال می‌کنیم.
 
-### Adding Poets
-If you know of a poet who should be included:
+### افزودن شاعران
+اگر شاعری را می‌شناسید که باید گنجانده شود:
 
-1. Gather biographical info (birth/death dates, locations)
-2. List major works
-3. Note connections to other poets or literary movements
-4. Submit via GitHub or contact form
+۱. اطلاعات بیوگرافی جمع‌آوری کنید (تاریخ تولد/وفات، مکان‌ها)
+۲. آثار مهم را فهرست کنید
+۳. ارتباطات با سایر شاعران یا جنبش‌های ادبی را یادداشت کنید
+۴. از طریق گیت‌هاب یا فرم تماس ارسال کنید
 
-### Correcting Information
-Found an error? Let us know:
+### اصلاح اطلاعات
+اشتباهی پیدا کردید؟ به ما اطلاع دهید:
 
-- Wrong dates or locations
-- Missing works
-- Incorrect associations
+- تاریخ‌ها یا مکان‌های غلط
+- آثار از قلم افتاده
+- ارتباطات نادرست
 
-### Cities and Regions
-Help us map historical cities to modern coordinates:
+### شهرها و مناطق
+به ما کمک کنید شهرهای تاریخی را به مختصات مدرن نقشه‌برداری کنیم:
 
-- Provide historical names and variants
-- Modern location (city, country, coordinates)
-- Time periods of literary activity
+- نام‌های تاریخی و variantes را ارائه دهید
+- مکان مدرن (شهر، کشور، مختصات)
+- دوره‌های زمانی فعالیت ادبی
 
-## Contribute Code
+## مشارکت در کد
 
-Developers can help improve the site itself:
+توسعه‌دهندگان می‌توانند به بهبود خود سایت کمک کنند:
 
-- Fix bugs
-- Add features
-- Improve performance
-- Enhance accessibility
+- رفع باگ‌ها
+- افزودن ویژگی‌ها
+- بهبود عملکرد
+- افزایش دسترسی‌پذیری
 
-See the [GitHub repo](https://github.com/MDaV05/PersianCultureMap) for issues and pull requests.
+برای مسائل و پول ریکوئست‌ها به [مخزن گیت‌هاب](https://github.com/MDaV05/PersianCultureMap) مراجعه کنید.
 
-## Translation
+## ترجمه
 
-The site supports English and Persian. Help us improve translations:
+سایت از انگلیسی و فارسی پشتیبانی می‌کند. به ما کمک کنید ترجمه‌ها را بهبود دهیم:
 
-- Correct existing translations
-- Add missing content in either language
-- Suggest better terminology
+- ترجمه‌های موجود را اصلاح کنید
+- محتوای از قلم افتاده در هر زبان اضافه کنید
+- اصطلاح‌شناسی بهتر پیشنهاد دهید
 
-## Resources
+## منابع
 
-### External Links
-- Academic databases on Persian poetry
-- Digital archives of manuscripts
-- Related projects and research
+### لینک‌های خارجی
+- پایگاه‌های داده آکادمیک درباره شعر فارسی
+- آرشیوهای دیجیتال نسخه‌های خطی
+- پروژه‌ها و پژوهش‌های مرتبط
 
-### Citation
-If you use Chekameh in academic work, please cite:
+### استناد
+اگر از چکامه در کار آکادمیک استفاده می‌کنید، لطفاً استناد کنید:
 
-> Chekameh: Persian Poetry Map. https://chekameh.xyz
+> چکامه: نقشه شعر فارسی. https://chekameh.xyz
 
-### License
-- Content: Open license (details TBD)
-- Code: MIT License
+### مجوز
+- محتوا: مجوز باز (جزئیات بعداً مشخص می‌شود)
+- کد: مجوز MIT
 
-## Contact
+## تماس
 
-Questions or suggestions? Reach out via:
+سوالات یا پیشنهادات؟ از طریق موارد زیر تماس بگیرید:
 
-- GitHub Issues
-- Email (coming soon)
-- Social media links
+- مسائل گیت‌هاب
+- ایمیل (به زودی)
+- لینک‌های شبکه اجتماعی
 
 ---
 
-*Thanks to everyone who contributes. This project grows because of community support.*
+*از همه کسانی که مشارکت می‌کنند سپاسگزاریم. این پروژه به لطف حمایت جامعه رشد می‌کند.*

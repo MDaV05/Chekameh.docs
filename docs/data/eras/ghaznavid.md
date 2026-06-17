@@ -1,20 +1,20 @@
-# Ghaznavid Era (977–1186 CE)
+# دوره غزنویان (۷۷–۱۱۸۶ میلادی)
 
-!!! abstract "Era Overview"
-    - **Period:** 977 – 1186 CE
-    - **Literary Style:** Late Khorasani Style (Highly ornate, formal, and grandiose)
-    - **Cultural Centers:** Ghazni, Lahore, Balkh
-    - **Core Theme:** The peak of court panegyrics and the creation of the Persian national epic.
+!!! abstract "نمای کلی دوره"
+    - **بازه زمانی:** ۷۷ – ۱۱۸۶ میلادی
+    - **سبک ادبی:** اواخر سبک خراسانی (بسیار آراسته، رسمی و باشکوه)
+    - **مراکز فرهنگی:** غزنین، لاهور، بلخ
+    - **مضمون اصلی:** اوج قصاید ستایشی درباری و سرایش حماسه ملی فارسی.
 
-## Historical and Cultural Context
-The Ghaznavid dynasty, originally Turkic slave commanders who served the Samanids, established a powerful military empire centered in Ghazni (in modern-day Afghanistan). While they were fierce warriors who expanded their empire into the Indian subcontinent, they were also deeply committed to Persian culture. 
+## زمینه تاریخی و فرهنگی
+سلسله غزنوی، که در اصل فرماندهان نظامی ترک‌تبار در خدمت سامانیان بودند، امپراتوری قدرتمندی را با مرکزیت غزنین (در افغانستان امروزی) تأسیس کردند. اگرچه آن‌ها جنگجویانی سرسخت بودند که امپراتوری خود را تا شبه‌قاره هند گسترش دادند، به شدت به فرهنگ فارسی متعهد بودند.
 
-Sultan Mahmud of Ghazni, the most famous of the Ghaznavid rulers, transformed his capital into a magnificent center of learning. He actively recruited the greatest poets, scholars, and scientists of the age, effectively shifting the center of Persian literary excellence eastward. This era saw the solidification of Persian as a lingua franca across a vast geographic region, from Central Asia to northern India.
+سلطان محمود غزنوی، مشهورترین حاکم غزنوی، پایتخت خود را به یک مرکز باشکوه علمی تبدیل کرد. او فعالانه بزرگترین شاعران، دانشمندان و عالمان عصر را جذب کرد و به طور مؤثر مرکز تعالی ادبی فارسی را به سمت شرق منتقل کرد. این دوره شاهد تثبیت فارسی به عنوان یک زبان مشترک در یک منطقه جغرافیایی وسیع، از آسیای مرکزی تا شمال هند بود.
 
-## Literary Significance
-Poetry during the Ghaznavid era became more formal, complex, and heavily focused on *Madh* (panegyrics or courtly praise). The *Qasida* reached its absolute peak of technical perfection. Poets employed elaborate metaphors, complex rhyme schemes, and a richer, more Arabic-influenced vocabulary to glorify the Sultan and his military victories.
+## اهمیت ادبی
+شعر در دوره غزنوی رسمی‌تر، پیچیده‌تر و به شدت متمرکز بر مدح (ستایش درباری) شد. قصیده به اوج کمال فنی خود رسید. شاعران برای تمجید از سلطان و پیروزی‌های نظامی او از استعاره‌های پیچیده، قافیه‌های دشوار و واژگان غنی‌تر و عربی‌تر استفاده کردند.
 
-However, the most monumental literary achievement of this era was not courtly praise, but the preservation of national identity. The completion of the *Shahnameh* (Book of Kings) shifted the focus of Persian literature from the royal court to the mythological and historical roots of the Iranian people, ensuring the survival of the Persian language and cultural memory for millennia.
+با این حال، بزرگترین دستاورد ادبی این دوره ستایش درباری نبود، بلکه حفظ هویت ملی بود. تکمیل شاهنامه تمرکز ادبیات فارسی را از دربار پادشاهی به ریشه‌های اسطوره‌ای و تاریخی مردم ایران تغییر داد و بقای زبان فارسی و حافظه فرهنگی آن را برای هزاران سال تضمین کرد.
 
-## Poets of the Era
-- [Ferdowsi](../poets/ferdowsi.md)
+## شاعران این دوره
+- [فردوسی](../poets/ferdowsi.md)

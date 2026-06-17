@@ -1,51 +1,50 @@
-# Daqiqi (c. 935–977 CE)
+# دقیقی (حدود ۹۳۵–۹۷۷ میلادی)
 
-!!! info "Quick Facts"
+!!! info "اطلاعات کلی"
     | | |
     |---|---|
-    | **Full Name** | Abu Mansur Muhammad ibn Ahmad Daqiqi |
-    | **Persian Name** | ابومنصور محمد بن احمد دقیقی |
-    | **Born** | c. 935 CE, Tus, Samanid Empire |
-    | **Died** | c. 977 CE (assassinated by his slave) |
-    | **Era** | Samanid |
-    | **Known For** | Pioneer of the Persian epic tradition, began the Shahnameh |
+    | **نام کامل** | ابومنصور محمد بن احمد دقیقی |
+    | **تولد** | حدود ۹۳۵ میلادی، توس، سامانیان |
+    | **وفات** | حدود ۹۷۷ میلادی (به قتل رسید توسط غلامش) |
+    | **دوره** | سامانیان |
+    | **معروف به** | پیشگام سنت حماسی فارسی، آغازگر شاهنامه |
 
-## Biography
+## زندگی‌نامه
 
-Abu Mansur Muhammad ibn Ahmad Daqiqi was a prominent Persian poet of the Samanid era, celebrated as one of the finest poets of his time. He was born in Tus (in modern-day Iran) and spent much of his career at the Samanid court in Bukhara.
+ابومنصور محمد بن احمد دقیقی یکی از شاعران برجسته دوره سامانی بود که به عنوان یکی از بهترین شاعران زمان خود شناخته می‌شد. او در توس (در ایران امروزی) متولد شد و بیشتر دوران کاری خود را در دربار سامانیان در بخارا گذراند.
 
-Daqiqi was a contemporary of Rudaki and Ferdowsi, and like them, he wrote in the Khorasani style of Persian poetry. He was highly regarded by his contemporaries for his mastery of language and his ability to compose powerful epic poetry.
+دقیقی هم‌عصر رودکی و فردوسی بود و مانند آن‌ها به سبک خراسانی شعر فارسی می‌سرود. او توسط معاصرانش به خاطر تسلط بر زبان و توانایی‌اش در سرودن شعر حماسی قدرتمند بسیار مورد احترام بود.
 
-## The Shahnameh Project
+## پروژه شاهنامه
 
-Daqiqi's most significant contribution to Persian literature was his work on the *Shahnameh* (Book of Kings), the great Persian national epic. He was commissioned by the Samanid court to versify the prose version of the *Shahnameh* that had been compiled earlier.
+مهم‌ترین سهم دقیقی در ادبیات فارسی، کار او بر روی شاهنامه، حماسه ملی بزرگ فارسی بود. او توسط دربار سامانی مأمور شد تا نسخه نثر شاهنامه که قبلاً گردآوری شده بود را به شعر درآورد.
 
-Before his untimely death, Daqiqi composed approximately 1,000 verses dealing with the reign of Gushtasp and the rise of Zoroastrianism in Iran. These verses were later incorporated directly into Ferdowsi's monumental *Shahnameh*, ensuring that Daqiqi's work would be preserved for posterity.
+پیش از مرگ ناگهانی‌اش، دقیقی حدود ۱۰۰۰ بیت درباره دوران گشتاسپ و ظهور زرتشتی‌گری در ایران سرود. این ابیات بعدها مستقیماً در شاهنامه حماسی فردوسی گنجانده شد و تضمین کرد که اثر دقیقی برای آیندگان حفظ شود.
 
-## Tragic Death
+## مرگ تراژیک
 
-Daqiqi's life ended tragically when he was murdered by his own slave. The circumstances of his death remain somewhat unclear, but it occurred before he could complete his epic project. This tragic end cut short what promised to be one of the greatest achievements in Persian literature.
+زندگی دقیقی به طور تراژیکی به پایان رسید وقتی توسط غلام خودش به قتل رسید. شرایط مرگ او تا حدودی نامشخص است، اما پیش از آن رخ داد که بتواند پروژه حماسی خود را تکمیل کند. این پایان تراژیک آنچه وعده می‌داد یکی از بزرگترین دستاوردهای ادبیات فارسی باشد را قطع کرد.
 
-## Literary Significance
+## اهمیت ادبی
 
-Daqiqi is recognized as a pioneer of the Persian epic tradition. His work on the *Shahnameh* laid the groundwork for Ferdowsi's later completion of the epic. Although only a small portion of his work survives, those verses demonstrate his exceptional skill in:
+دقیقی به عنوان پیشگام سنت حماسی فارسی شناخته می‌شود. کار او بر روی شاهنامه زمینه را برای تکمیل بعدی فردوسی از حماسه فراهم کرد. اگرچه تنها بخش کوچکی از اثر او باقی مانده است، آن ابیات نشان‌دهنده مهارت استثنایی او در موارد زیر است:
 
-- **Epic narrative:** Powerful storytelling with grand, heroic themes
-- **Classical Persian:** Mastery of the pure Khorasani style
-- **Historical versification:** Ability to transform prose historical accounts into compelling poetry
+- **روایت حماسی:** داستان‌سرایی قدرتمند با مضامین بزرگ و قهرمانانه
+- **فارسی کلاسیک:** تسلط بر سبک خراسانی سره
+- **نظم‌پردازی تاریخی:** توانایی تبدیل حساب‌های تاریخی نثر به شعر جذاب
 
-## Legacy
+## میراث
 
-Though Daqiqi's career was brief, his impact on Persian literature was profound:
+اگرچه دوران کاری دقیقی کوتاه بود، تأثیر او بر ادبیات فارسی عمیق بود:
 
-- **Foundation for Ferdowsi:** His work on the *Shahnameh* provided Ferdowsi with a model and starting point for the epic
-- **Preserved in the Shahnameh:** The approximately 1,000 verses he composed are preserved within Ferdowsi's *Shahnameh*, particularly in the section dealing with Gushtasp and the spread of Zoroastrianism
-- **Pioneer of epic poetry:** He established the template for Persian epic poetry that would reach its zenith with Ferdowsi
+- **پایه برای فردوسی:** کار او بر روی شاهنامه الگو و نقطه شروعی را برای فردوسی فراهم کرد
+- **حفظ شده در شاهنامه:** حدود ۱۰۰۰ بیتی که سرود در شاهنامه فردوسی حفظ شده است، به ویژه در بخشی که با گشتاسپ و گسترش زرتشتی‌گری سروکار دارد
+- **پیشگام شعر حماسی:** او الگویی را برای شعر حماسی فارسیEstablish کرد که با فردوسی به اوج خود رسید
 
-Ferdowsi himself acknowledged Daqiqi's contribution, incorporating his verses into the *Shahnameh* and praising his poetic abilities. This act of preservation ensures that Daqiqi's voice continues to be heard as part of one of the greatest works of world literature.
+خود فردوسی سهم دقیقی را به رسمیت شناخت، ابیات او را در شاهنامه گنجاند و توانایی‌های شاعرانه او را ستود. این عمل حفظ تضمین می‌کند که صدای دقیقی به عنوان بخشی از یکی از بزرگترین آثار ادبیات جهان ادامه یابد.
 
-## Further Reading
+## برای مطالعه بیشتر
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Daqiqi)
-- [Encyclopædia Iranica](https://www.iranicaonline.org/articles/daqiqi)
-- [Samanid Era](../eras/samanid.md)
+- [ویکی‌پدیای فارسی: دقیقی](https://fa.wikipedia.org/wiki/%D8%AF%D9%82%DB%8C%D9%82%DB%8C)
+- [دانشنامه ایرانیکا: دقیقی](https://www.iranicaonline.org/articles/daqiqi)
+- [دوره سامانیان](../eras/samanid.fa.md)

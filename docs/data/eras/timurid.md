@@ -1,21 +1,21 @@
-# Timurid Era (1370–1507 CE)
+# دوره تیموریان (۱۳۷۰–۱۵۰۷ میلادی)
 
-!!! abstract "Era Overview"
-    - **Period:** 1370 – 1507 CE
-    - **Literary Style:** Peak of the Iraqi Style and the dawn of the Indian Style (Highly refined, lyrical, and intellectual)
-    - **Cultural Centers:** Herat, Samarkand, Shiraz
-    - **Core Theme:** The perfection of the Ghazal, the integration of visual arts, and the flourishing of courtly culture.
+!!! abstract "نمای کلی دوره"
+    - **بازه زمانی:** ۱۳۷ – ۱۵۰۷ میلادی
+    - **سبک ادبی:** اوج سبک عراقی و طلوع سبک هندی (بسیار پیراسته، غنایی و فکری)
+    - **مراکز فرهنگی:** هرات، سمرقند، شیراز
+    - **مضمون اصلی:** کمال غزل، تلفیق هنرهای تجسمی و شکوفایی فرهنگ درباری.
 
-## Historical and Cultural Context
-Founded by the Turco-Mongol conqueror Timur (Tamerlane), the Timurid Empire initially brought widespread destruction. However, Timur's successors, particularly Shah Rukh and his wife Gawhar Shad, and later Sultan Husayn Bayqara in Herat, were among the greatest patrons of Persian culture in history. 
+## زمینه تاریخی و فرهنگی
+امپراتوری تیموری که توسط تیمور لنگ، فاتح ترک-مغول تأسیس شد، در ابتدا ویرانی‌های گسترده‌ای به بار آورد. با این حال، جانشینان تیمور، به ویژه شاهرخ و همسرش گوهرشاد، و بعدها سلطان حسین بایقرا در هرات، از بزرگترین حامیان فرهنگ فارسی در تاریخ بودند.
 
-Herat became the undisputed cultural capital of the Persian-speaking world. The Timurid courts fostered an environment where poetry, miniature painting, calligraphy, and music were deeply intertwined. This era represents the zenith of Persianate courtly culture, characterized by immense wealth, refined tastes, and a deep appreciation for aesthetic beauty and intellectual pursuits.
+هرات به پایتخت بلامنازع فرهنگی جهان فارسی‌زبان تبدیل شد. دربارهای تیموری محیطی را پرورش دادند که در آن شعر، نگارگری (مینیاتور)، خوشنویسی و موسیقی به طور عمیقی در هم تنیده بودند. این دوره نمایانگر اوج فرهنگ درباری ایرانی‌مآب است که با ثروت عظیم، سلیقه‌های پیراسته و appreciation عمیق برای زیبایی‌شناسی و pursuits فکری مشخص می‌شود.
 
-## Literary Significance
-The Timurid era is considered the golden age of the Persian *Ghazal*. The language of poetry became incredibly polished, musical, and layered with double meanings. 
+## اهمیت ادبی
+دوره تیموری به عنوان عصر طلایی غزل فارسی شناخته می‌شود. زبان شعر به طور باورنکردنی صیقل‌خورده، موسیقیایی و لایه‌لایه با معانی دوپهلو شد.
 
-While the early part of this era saw the perfection of the mystical and lyrical traditions established in the Ilkhanate period, the later Timurid period saw the emergence of the **Indian Style (Sabk-e-Hindi)**. This new style introduced more complex metaphors, abstract concepts, and a focus on intellectual depth over pure emotional expression. Furthermore, this era saw the compilation of massive anthologies and biographical dictionaries (*tazkiras*) of poets, formalizing the Persian literary canon.
+در حالی که اوایل این دوره شاهد کمال سنت‌های عرفانی و غنایی بود که در دوره ایلخانی پایه‌گذاری شده بود، اواخر دوره تیموری ظهور **سبک هندی** را دید. این سبک جدید استعاره‌های پیچیده‌تر، مفاهیم انتزاعی‌تر و تمرکز بر عمق فکری به جای بیان صرفاً احساسی را معرفی کرد. علاوه بر این، این دوره شاهد تدوین مجموعه‌های عظیم و تذکره‌های شاعران بود که قانون ادبیات فارسی را رسمی کرد.
 
-## Poets of the Era
-- [Hafez](../poets/hafez.md)
-- [Jami](../poets/jami.md)
+## شاعران این دوره
+- [حافظ](../poets/hafez.md)
+- [جامی](../poets/jami.md)

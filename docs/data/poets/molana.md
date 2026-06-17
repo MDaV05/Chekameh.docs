@@ -1,339 +1,339 @@
-# Jalal al-Din Muhammad Rumi (1207–1273 CE)
+# مولانا جلال‌الدین محمد بلخی (۱۲۰۷–۱۲۷۳ میلادی)
 
-!!! info "Quick Facts"
+!!! info "اطلاعات کلی"
     | | |
     |---|---|
-    | **Full Name** | Jalal al-Din Muhammad ibn Muhammad ibn Husayn Husayni Khatibi Bakri Balkhi |
-    | **Common Names** | Rumi, Molana, Molavi, Khodavandgar |
-    | **Born** | September 30, 1207 CE (6 Rabi' al-Awwal 604 AH), Balkh or Vakhsh |
-    | **Died** | December 17, 1273 CE (5 Jumada al-Awwal 672 AH), Konya |
-    | **Occupation** | Poet, Sufi mystic, Islamic jurist, theologian, teacher |
-    | **Sufi Order** | Mevlevi Order (named after him) |
-    | **Era** | Seljuk Sultanate of Rum / Ilkhanate |
-    | **Cities** | Balkh (birthplace), Konya (life and death) |
-    | **Masterpieces** | Masnavi-ye Ma'navi, Divan-e Shams (Divan-e Kabir), Fihi Ma Fihi |
-    | **Known For** | Greatest mystical poet in Persian literature, founder of the Mevlevi Order, "Sultan of Love" |
+    | **نام کامل** | جلال‌الدین محمد بن محمد بن حسین حسینی خطیبی بکری بلخی |
+    | **القاب** | مولانا، مولوی، رومی، خداوندگار، حضرت مولانا |
+    | **تولد** | ۳۰ سپتامبر ۱۲۰۷ میلادی (۶ ربیع‌الاول ۶۰۴ هجری)، بلخ یا وخش |
+    | **وفات** | ۱۷ دسامبر ۱۲۷۳ میلادی (۵ جمادی‌الاول ۶۷۲ هجری)، قونیه |
+    | **پیشه** | شاعر، عارف صوفی، فقیه، عالم دینی، معلم |
+    | **طریقت صوفی** | مولویه (موسوم به نام او) |
+    | **دوره** | سلجوقیان روم / ایلخانی |
+    | **شهر** | بلخ (زادگاه)، قونیه (محل زندگی و وفات) |
+    | **شاهکارها** | مثنوی معنوی، دیوان شمس (دیوان کبیر)، فیه ما فیه |
+    | **معروف به** | بزرگترین شاعر عرفانی زبان فارسی، بنیان‌گذار طریقت مولویه، «سلطان عشق» |
 
-## Biography
+## زندگی‌نامه
 
-### Early Life and Childhood
+### کودکی و دوران اولیه
 
-Jalal al-Din Muhammad Balkhi was born in 604 AH (1207 CE) in the city of Balkh (in present-day Afghanistan) or in the Vakhsh region (in present-day Tajikistan). His family were Sayyids (descendants of the Prophet Muhammad) through the Husayni line. His father, Baha al-Din Walad, was a renowned scholar and mystic of his time, known as "Sultan al-'Arifin" (Sultan of the Gnostics).
+جلال‌الدین محمد بلخی در سال ۶۰۴ هجری قمری (۱۲۰۷ میلادی) در شهر بلخ (در افغانستان امروزی) یا در منطقه وخش (در تاجیکستان امروزی) متولد شد. خانواده او از سادات حسینی بودند و پدرش، بهاالدین ولد، از عالمان و عرفان بزرگ زمان خود بود که به «سلطان‌العارفین» معروف بود.
 
-#### Migration from Balkh
-In 610 AH (1213 CE), due to the Mongol invasion or disputes with the rulers of Balkh, Rumi's family left Balkh and traveled westward. They passed through Nishapur, where the young Rumi met Attar of Nishapur. Attar reportedly said of Rumi: "A sea is coming," and this meeting had a profound impact on him.
+#### مهاجرت از بلخ
+در سال ۶۱۰ هجری (۱۲۱۳ میلادی)، به دلیل حمله مغول و یا اختلافات با حاکمان بلخ، خانواده مولانا بلخ را ترک کردند و به سمت غرب حرکت کردند. آن‌ها از نیشابور عبور کردند، جایی که مولانای جوان با عطار نیشابوری ملاقات کرد. عطار به مولانا گفت: «دریا می‌آید» و این ملاقات تأثیر عمیقی بر او گذاشت.
 
-#### Journey to Mecca and Konya
-Rumi's family first went to Mecca and then, at the invitation of 'Ala' al-Din Kayqubad, Sultan of the Seljuks of Rum, they moved to Konya (in present-day Turkey). At that time, Konya was the capital of the Sultanate of Rum and one of the important cultural and scholarly centers of the Islamic world.
+#### سفر به مکه و قونیه
+خانواده مولانا ابتدا به مکه رفتند و سپس به درخواست علاءالدین کیقباد، سلطان سلجوقیان روم، به قونیه (در ترکیه امروزی) رفتند. در آن زمان قونیه پایتخت سلطنت روم (سلجوقیان روم) بود و یکی از مراکز مهم فرهنگی و علمی جهان اسلام به شمار می‌رفت.
 
-### Education and Youth
+### تحصیلات و دوران جوانی
 
-#### Training Under His Father
-Rumi began his education under his father, Baha al-Din Walad. He studied jurisprudence (fiqh), hadith, Quranic exegesis (tafsir), philosophy, and religious sciences. After his father's death in 628 AH (1231 CE), Rumi succeeded him at the age of 24 and began teaching and issuing fatwas.
+#### آموزش زیر نظر پدر
+مولانا تحصیلات خود را زیر نظر پدرش بهاالدین ولد آغاز کرد. او در فقه، حدیث، تفسیر قرآن، فلسفه و علوم دینی تحصیل کرد. پس از وفات پدرش در سال ۶۲۸ هجری (۱۲۳۱ میلادی)، مولانا در سن ۲۴ سالگی جانشین او شد و به تدریس و فتوا پرداخت.
 
-#### Life as a Religious Scholar
-Before meeting Shams Tabrizi, Rumi was a respected religious scholar and teacher with thousands of students. He lived a quiet, orderly life, spending most of his time teaching, worshiping, and writing.
+#### زندگی به عنوان عالم دینی
+تا پیش از ملاقات با شمس تبریزی، مولانا یک عالم دینی محترم و معلم بود که هزاران شاگرد داشت. او زندگی آرام و منظمی داشت و بیشتر وقت خود را به تدریس، عبادت و نوشتن اختصاص می‌داد.
 
-### The Fateful Encounter with Shams Tabrizi
+### دیدار سرنوشت‌ساز با شمس تبریزی
 
-#### First Meeting (1244 CE)
-In 642 AH (1244 CE), the 37-year-old Rumi met Shams Tabrizi, a wandering and mysterious mystic, in Konya. This meeting was a turning point in Rumi's life, transforming him from a respected religious scholar into a mystical poet and lover.
+#### ملاقات اول (۱۲۴۴ میلادی)
+در سال ۶۴۲ هجری (۱۲۴۴ میلادی)، مولانا ۳۷ ساله با شمس تبریزی، عارف سرگردان و مرموز، در قونیه ملاقات کرد. این ملاقات نقطه عطفی در زندگی مولانا بود و او را از یک عالم دینی محترم به یک شاعر عرفانی و عارفی عاشق تبدیل کرد.
 
-#### Rumi's Transformation
-After meeting Shams, Rumi underwent a profound transformation:
-- **Abandoning teaching:** He left his classes and spent all his time with Shams
-- **Poetry composition:** Rumi, who had not written poetry before, began composing passionate love and mystical poems
-- **Dance and Sema:** He engaged in dancing and spinning, a practice that later became the Sema of the Mevlevi Order
-- **Students' protest:** Rumi's students and family protested this dramatic change and became suspicious of Shams
+#### تحول مولانا
+پس از ملاقات با شمس، مولانا دگرگونی عمیقی را تجربه کرد:
+- **ترک تدریس:** او کلاس‌های درس خود را رها کرد و تمام وقت خود را با شمس گذراند
+- **شعر سرایی:** مولانا که تا آن زمان شعر نمی‌گفت، شروع به سرودن اشعار عاشقانه و عرفانی کرد
+- **رقص و سماع:** او به رقص و چرخیدن پرداخت، عملی که بعدها به سماع مولویه تبدیل شد
+- **اعتراض شاگردان:** شاگردان و خانواده مولانا به این تغییر شدید اعتراض کردند و نسبت به شمس بدبین شدند
 
-#### Shams' Disappearance and Rumi's Journey
-In 1247 CE, Shams Tabrizi mysteriously disappeared (likely murdered by jealous individuals, possibly including Rumi's son, 'Ala' al-Din Chelebi, who may have been involved in this affair). Deeply grieved by this loss, Rumi searched for Shams and traveled to cities such as Damascus and Aleppo.
+#### ناپدید شدن شمس و سفر مولانا
+در سال ۱۲۴۷ میلادی، شمس تبریزی به طور مرموزی ناپدید شد (احتمالاً به قتل رسید توسط حسودان، از جمله ممکن است پسر مولانا، علاءالدین چلبی، در این ماجرا دخیل بوده باشد). مولانا که از این فقدان deeply اندوهگین شده بود، به جستجوی شمس پرداخت و به شهرهایی مانند دمشق و حلب سفر کرد.
 
-#### Meeting with Salah al-Din Zarkub
-After Shams' disappearance, Rumi formed a deep friendship with Salah al-Din Zarkub, a simple-minded goldsmith from Konya. Salah al-Din replaced Shams, and Rumi composed many poems for him. After Salah al-Din's death in 1258 CE, Husam al-Din Chelebi, one of Rumi's students, took his place.
+#### ملاقات با صلاح‌الدین زرکوب
+پس از ناپدید شدن شمس، مولانا با صلاح‌الدین زرکوب، زرگر ساده‌دل قونیه، دوستی عمیقی برقرار کرد. صلاح‌الدین جایگزین شمس شد و مولانا اشعار زیادی را برای او سرود. پس از وفات صلاح‌الدین در سال ۱۲۵۸ میلادی، حسام‌الدین چلبی، یکی از شاگردان مولانا، جای او را گرفت.
 
-### Mature Period and Composing the Masnavi
+### دوران بلوغ و سرودن مثنوی
 
-#### Inspiration for the Masnavi
-In 1259 CE, Husam al-Din Chelebi told Rumi that his works should be compiled and a mathnawi should be composed that would be the equal of Sanai and Attar. Rumi began composing the Masnavi-ye Ma'navi and continued writing it until the end of his life.
+#### الهام سرودن مثنوی
+در سال ۱۲۵۹ میلادی، حسام‌الدین چلبی به مولانا گفت که آثار او باید مدون شود و مثنوی‌ای سروده شود که همتای سنایی و عطار باشد. مولانا شروع به سرودن مثنوی معنوی کرد و تا پایان عمر خود به نوشتن آن ادامه داد.
 
-#### Final Years
-Rumi remained in Konya until the end of his life, continuing to teach, compose poetry, and guide his disciples. He died on 5 Jumada al-Awwal 672 AH (December 17, 1273 CE) in Konya.
+#### سال‌های پایانی
+مولانا تا پایان عمر خود در قونیه ماند و به تدریس، شعر سرایی و هدایت مریدان پرداخت. او در ۵ جمادی‌الاول ۶۷۲ هجری (۱۷ دسامبر ۱۲۷۳ میلادی) در قونیه درگذشت.
 
-#### Death and Funeral
-Rumi's death was a great catastrophe for the people of Konya. Muslims, Christians, and Jews all participated in his funeral. Sultan 'Ala' al-Din Kayqubad III, the vizier Mu'in al-Din Parwana, and many notables of the time were present at the ceremony. Rumi was buried next to his father, Baha al-Din Walad, in Konya.
+#### وفات و تشییع جنازه
+مرگ مولانا برای مردم قونیه فاجعه‌ای بزرگ بود. مسلمانان، مسیحیان و یهودیان قونیه همگی در تشییع جنازه او شرکت کردند. سلطان علاءالدین کیقباد سوم، وزیر معین‌الدین پروانه و بسیاری از بزرگان زمان در مراسم حاضر بودند. مولانا در کنار پدرش بهاالدین ولد در قونیه دفن شد.
 
-## Major Works
+## آثار اصلی
 
-### Masnavi-ye Ma'navi (Spiritual Couplets)
+### مثنوی معنوی
 
-#### Introduction
-The **Masnavi-ye Ma'navi** is Rumi's masterpiece and one of the greatest works of mystical literature in the world. This work contains approximately **26,000 couplets** (some sources say 25,000 or 27,000 couplets) in six books (daftars).
+#### معرفی
+**مثنوی معنوی** شاهکار مولانا و یکی از بزرگترین آثار ادبیات عرفانی جهان است. این اثر شامل حدود **۲۶٬۰۰۰ بیت** (برخی منابع ۲۵٬۰۰۰ یا ۲۷٬۰۰۰ بیت می‌گویند) در شش دفتر است.
 
-#### Structure
-The Masnavi consists of six books:
-- **Book One:** Approximately 4,000 couplets - includes fundamental stories and parables
-- **Book Two:** Approximately 3,000 couplets
-- **Book Three:** Approximately 4,000 couplets
-- **Book Four:** Approximately 3,000 couplets
-- **Book Five:** Approximately 4,000 couplets
-- **Book Six:** Approximately 3,000 couplets - left unfinished
+#### ساختار
+مثنوی از شش دفتر تشکیل شده است:
+- **دفتر اول:** حدود ۴٬۰۰۰ بیت - شامل حکایات و تمثیل‌های بنیادین
+- **دفتر دوم:** حدود ۳٬۰۰۰ بیت
+- **دفتر سوم:** حدود ۴٬۰۰۰ بیت
+- **دفتر چهارم:** حدود ۳٬۰۰۰ بیت
+- **دفتر پنجم:** حدود ۴٬۰۰۰ بیت
+- **دفتر ششم:** حدود ۳٬۰۰۰ بیت - ناتمام ماند
 
-#### Characteristics
-- **Language:** Pure Persian with limited Arabic vocabulary
-- **Form:** Mathnawi (each couplet has an independent rhyme)
-- **Style:** Combination of stories, parables, Quranic exegesis, hadith, and philosophical reflections
-- **Content:** Mystical teachings through simple and understandable stories
+#### ویژگی‌ها
+- **زبان:** فارسی سره با واژگان عربی محدود
+- **قالب:** مثنوی (هر بیت قافیه مستقل دارد)
+- **سبک:** ترکیبی از حکایت، تمثیل، تفسیر قرآن، حدیث و تأملات فلسفی
+- **محتوا:** آموزش‌های عرفانی از طریق داستان‌های ساده و قابل فهم
 
-#### Main Themes
-- **Divine Love:** Love as the driving force of the world and the path to God
-- **Unity of Existence (Wahdat al-Wujud):** Everything is a manifestation of God
-- **Spiritual Journey (Suluk):** The soul's path from self to God
-- **Critique of Partial Reason:** Instrumental reason without love is powerless
-- **Annihilation in God (Fana):** Dissolution in the Divine
-- **Education and Training:** The importance of the master and guide
+#### مضامین اصلی
+- **عشق الهی:** عشق به عنوان نیروی محرکه جهان و مسیر رسیدن به خدا
+- **وحدت وجود:** همه چیز تجلی خداوند است
+- **سیر و سلوک:** مسیر روحانی از خود به خدا
+- **نقد عقل جزئی:** عقل ابزاری بدون عشق ناتوان است
+- **فنای فی‌الله:** محو شدن در خداوند
+- **تعلیم و تربیت:** اهمیت استاد و راهنما
 
-### Divan-e Shams (Divan-e Kabir or Divan-e Shams Tabrizi)
+### دیوان شمس (دیوان کبیر یا دیوان شمس تبریزی)
 
-#### Introduction
-The **Divan-e Shams** is Rumi's vast collection of lyrical poems, containing approximately **3,229 ghazals**, **44 quatrains (rubaiyat)**, and **9 mathnawis**. The total number of verses is approximately **40,000 couplets**.
+#### معرفی
+**دیوان شمس** مجموعه عظیم اشعار غنایی مولانا است که شامل حدود **۳٬۲۲۹ غزل**، **۴۴ رباعی** و **۹ مثنوی** است. مجموع ابیات آن حدود **۴۰٬۰۰۰ بیت** است.
 
-#### Characteristics
-- **Passion and Enthusiasm:** The poems of Divan-e Shams are filled with mystical love and enthusiasm
-- **Spontaneity:** The poetry is sometimes disjointed and full of mental leaps, indicating the poet's ecstasy and selflessness
-- **Addressee:** The addressee of the poems is often Shams Tabrizi, but behind it lies God or Absolute Truth
-- **Language:** Persian with some verses in Turkish, Arabic, and Greek
+#### ویژگی‌ها
+- **شور و اشتیاق:** اشعار دیوان شمس سرشار از عشق و اشتیاق عرفانی هستند
+- **تخلخل:** شعر گاهی نامنسجم و پر از پرش‌های فکری است که نشان‌دهنده وجد و بی‌خودی شاعر است
+- **مخاطب:** مخاطب اشعار اغلب شمس تبریزی است، اما در پس آن خداوند یا حقیقت مطلق قرار دارد
+- **زبان:** فارسی با برخی ابیات به ترکی، عربی و یونانی
 
-#### Importance
-Divan-e Shams represents the pinnacle of mystical lyrical poetry in Persian literature. These poems had a profound impact on later poets and became a model for expressing mystical experiences.
+#### اهمیت
+دیوان شمس نشان‌دهنده اوج شعر غنایی عرفانی در ادبیات فارسی است. این اشعار تأثیر عمیقی بر شعرای بعدی گذاشتند و الگویی برای بیان تجربیات عرفانی شدند.
 
-### Fihi Ma Fihi (In It What Is In It)
+### فیه ما فیه
 
-#### Introduction
-**Fihi Ma Fihi** (meaning "In it what is in it") is a collection of Rumi's discourses and conversations that were recorded and compiled by his students. This work is written in prose and contains approximately **72 discourses**.
+#### معرفی
+**فیه ما فیه** (به معنای «در آن آنچه در آن است») مجموعه‌ای از مجالس و گفتگوهای مولانا است که توسط شاگردانش یادداشت و گردآوری شده است. این اثر به نثر نوشته شده و شامل حدود **۷۲ مجلس** است.
 
-#### Characteristics
-- **Style:** Simple and intimate prose, similar to oral speech
-- **Content:** Interpretation of mystical concepts, answers to students' questions, stories
-- **Language:** Persian with some Arabic phrases
-- **Importance:** A valuable source for understanding Rumi's thought and personality
+#### ویژگی‌ها
+- **سبک:** نثر ساده و صمیمی، شبیه به گفتار شفاهی
+- **محتوا:** تفسیر مفاهیم عرفانی، پاسخ به سؤالات شاگردان، حکایات
+- **زبان:** فارسی با برخی عبارات عربی
+- **اهمیت:** منبعی ارزشمند برای فهم اندیشه و شخصیت مولانا
 
-### Majalis-e Sab'a (Seven Sessions)
+### مجالس سبعه
 
-**Majalis-e Sab'a** is a collection of seven sermons delivered by Rumi in various assemblies. These sessions include exegetical, theological, and mystical discussions.
+**مجالس سبعه** مجموعه‌ای از هفت سخنرانی مولانا است که در مجالس مختلف ایراد شده است. این مجالس شامل مباحث تفسیری، کلامی و عرفانی هستند.
 
-### Maktubat (Letters)
+### مکاتیب
 
-**Maktubat** is a collection of Rumi's letters to various figures of his time. These letters are written in Persian and Arabic and include advice, recommendations, and mystical discussions.
+**مکاتیب** مجموعه نامه‌های مولانا به شخصیت‌های مختلف زمان خود است. این نامه‌ها به فارسی و عربی نوشته شده‌اند و شامل پندها، توصیه‌ها و مباحث عرفانی هستند.
 
-## Literary Style and Characteristics
+## سبک ادبی و ویژگی‌ها
 
-### Language and Expression
+### زبان و بیان
 
-#### Simplicity and Depth
-Rumi's language, while simple, has unparalleled depth. He used everyday language and simple examples to express complex mystical concepts.
+#### سادگی و عمق
+زبان مولانا در عین سادگی، عمق بی‌نظیری دارد. او از زبان روزمره و مثال‌های ساده برای بیان مفاهیم پیچیده عرفانی استفاده می‌کرد.
 
-#### Use of Stories
-Rumi was a master of using stories and parables. He explained abstract concepts through simple and understandable stories.
+#### استفاده از حکایت
+مولانا استاد استفاده از حکایت و تمثیل بود. او مفاهیم انتزاعی را از طریق داستان‌های ساده و قابل فهم توضیح می‌داد.
 
-#### Linguistic Diversity
-In Divan-e Shams, Rumi sometimes used Turkish, Arabic, and even Greek vocabulary, indicating the cultural diversity of his environment and the cosmopolitan nature of his thought.
+#### تنوع زبانی
+در دیوان شمس، مولانا گاهی از واژگان ترکی، عربی و حتی یونانی استفاده می‌کرد که نشان‌دهنده تنوع فرهنگی محیط او و جهان‌وطنی اندیشه‌اش است.
 
-### Poetic Characteristics
+### ویژگی‌های شعری
 
-#### Music and Rhythm
-Rumi's poems are musical and melodic. Many of his ghazals are suitable for singing and dancing.
+#### موسیقی و ریتم
+اشعار مولانا موسیقیایی و آهنگین هستند. بسیاری از غزلیات او برای خواندن و رقصیدن مناسب‌اند.
 
-#### Imagery
-Rumi was a master of using vivid and tangible images. He used nature, daily life, and human experiences to express mystical concepts.
+#### تصویرسازی
+مولانا استاد استفاده از تصاویر زنده و ملموس بود. او از طبیعت، زندگی روزمره و تجربیات انسانی برای بیان مفاهیم عرفانی استفاده می‌کرد.
 
-#### Paradox
-The use of paradox is one of the prominent features of Rumi's poetry. He used opposites to show truths beyond reason.
+#### پارادوکس
+استفاده از پارادوکس یکی از ویژگی‌های بارز شعر مولاناست. او از متضادها برای نشان دادن حقایق فراتر از عقل استفاده می‌کرد.
 
-#### Repetition
-Repetition of words and phrases in Rumi's poetry plays an important role in creating rhythm and emphasizing key concepts.
+#### تکرار
+تکرار کلمات و عبارات در شعر مولانا نقش مهمی در ایجاد ریتم و تأکید بر مفاهیم کلیدی دارد.
 
-### Content Characteristics
+### ویژگی‌های محتوایی
 
-#### Love as the Center
-Love is the central axis of Rumi's thought and poetry. He considered love the driving force of the world and the path to God.
+#### عشق به عنوان محور
+عشق محور اصلی اندیشه و شعر مولاناست. او عشق را نیروی محرکه جهان و مسیر رسیدن به خدا می‌دانست.
 
-#### Critique of Instrumental Reason
-Rumi considered partial and instrumental reason limited and saw love as a way beyond reason.
+#### نقد عقل ابزاری
+مولانا عقل جزئی و ابزاری را محدود می‌دانست و عشق را راهی فراتر از عقل می‌دانست.
 
-#### Unity of Existence
-Rumi believed in the unity of existence and considered everything a manifestation of God.
+#### وحدت وجود
+مولانا به وحدت وجود معتقد بود و همه چیز را تجلی خداوند می‌دانست.
 
-#### Tolerance and Universality
-Rumi's thought transcended religious and cultural boundaries. He considered humanity superior to religion.
+#### تسامح و جهان‌شمولی
+اندیشه مولانا فراتر از مرزهای دینی و فرهنگی بود. او انسانیت را بر دین مقدم می‌دانست.
 
-## Rumi's Philosophy and Mysticism
+## فلسفه و عرفان مولانا
 
-### The Concept of Love
+### مفهوم عشق
 
-#### Divine Love
-According to Rumi, love is the fundamental force of the world. God is love, and the world is a manifestation of His love.
+#### عشق الهی
+از نظر مولانا، عشق نیروی بنیادین جهان است. خداوند عشق است و جهان تجلی عشق اوست.
 
-!!! info "Love in Rumi's Thought"
-    Rumi considered love not just an emotion, but an ontological truth. Love is the force that sets the world in motion and guides humans toward God.
+!!! info "عشق در اندیشه مولانا"
+    مولانا عشق را نه فقط یک احساس، بلکه یک حقیقت هستی‌شناسانه می‌دانست. عشق نیرویی است که جهان را به حرکت درمی‌آورد و انسان را به سوی خدا رهنمون می‌شود.
 
-#### Levels of Love
-Rumi believed love had levels:
-- **Metaphorical Love (Ishq-e Majazi):** Love for earthly beauties
-- **True Love (Ishq-e Haqiqi):** Love for God
-- Metaphorical love is a step toward reaching true love
+#### مراتب عشق
+مولانا عشق را دارای مراتب می‌دانست:
+- **عشق مجازی:** عشق به زیبایی‌های زمینی
+- **عشق حقیقی:** عشق به خداوند
+- عشق مجازی پله‌ای برای رسیدن به عشق حقیقی است
 
-### The Concept of the Perfect Human (Insan-e Kamil)
+### مفهوم انسان کامل
 
-Rumi considered the perfect human to be one who has reached union with God. The perfect human is a mirror in which God manifests.
+مولانا انسان کامل را کسی می‌دانست که به اتحاد با خدا رسیده است. انسان کامل آینه‌ای است که خداوند در آن تجلی می‌یابد.
 
-### The Concept of Fana and Baqa
+### مفهوم فنا و بقا
 
-#### Fana (Annihilation)
-Fana means dissolution in God and the destruction of self-concept. Rumi considered fana the ultimate goal of the mystical journey.
+#### فنا
+فنا به معنای محو شدن در خداوند و از بین رفتن خودپنداری است. مولانا فنا را هدف نهایی سیر عرفانی می‌دانست.
 
-#### Baqa (Subsistence)
-After fana, humans reach baqa, meaning they remain in God and find their true self.
+#### بقا
+پس از فنا، انسان به بقا می‌رسد، یعنی در خداوند باقی می‌ماند و حقیقت خود را می‌یابد.
 
-### The Concept of Sema
+### مفهوم سماع
 
-#### Mystical Sema
-Sema in Rumi's thought means listening to music and dancing to reach mystical ecstasy. Sema is a way to forget oneself and reach God.
+#### سماع عرفانی
+سمع در اندیشه مولانا به معنای گوش دادن به موسیقی و رقصیدن برای رسیدن به وجد عرفانی است. سماع راهی برای فراموش کردن خود و رسیدن به خداست.
 
-#### Roots of Sema
-Rumi took sema from the mystical traditions before him and organized it into a systematic form that later became the Mevlevi Order.
+#### ریشه‌های سماع
+مولانا سماع را از سنت‌های عرفانی پیش از خود گرفت و آن را به شکل منظمی درآورد که بعدها به طریقت مولویه تبدیل شد.
 
-### Critique of Formalism
+### نقد ظاهرگرایی
 
-Rumi was strongly critical of religious formalism. He believed that religiosity without inner spirituality is worthless.
+مولانا به شدت منتقد ظاهرگرایی دینی بود. او معتقد بود که دین‌داری بدون معنویت درونی بی‌ارزش است.
 
-## The Mevlevi Order
+## طریقت مولویه
 
-### Foundation
-After Rumi's death, his students, especially his son Sultan Walad, founded the Mevlevi Order. This order was formed based on Rumi's teachings and methods.
+### تأسیس
+پس از وفات مولانا، شاگردانش، به ویژه پسرش سلطان ولد، طریقت مولویه را تأسیس کردند. این طریقت بر اساس تعالیم و روش مولانا شکل گرفت.
 
-### The Sema Ceremony
-The Mevlevi Sema ceremony is one of the most famous mystical rituals in the world. In this ceremony, dervishes in white robes and tall hats (symbolizing the tomb) engage in dancing and spinning.
+### آیین سماع
+مراسم سماع مولویه یکی از مشهورترین آیین‌های عرفانی جهان است. در این مراسم، درویشان با لباس‌های سفید و کلاه‌های بلند (که نماد قبر است) به رقص و چرخیدن می‌پردازند.
 
-#### Symbolism of Sema
-- **White robe:** Symbol of the shroud and death from self
-- **Tall hat:** Symbol of the tomb
-- **Spinning:** Symbol of the rotation of the cosmos and movement toward God
-- **Hands:** Right hand toward the sky (receiving divine grace) and left hand toward the earth (transferring to people)
+#### نمادشناسی سماع
+- **لباس سفید:** نماد کفن و مرگ از خود
+- **کلاه بلند:** نماد قبر
+- **چرخش:** نماد گردش افلاک و حرکت به سوی خدا
+- **دست‌ها:** دست راست به سوی آسمان (دریافت نعمت الهی) و دست چپ به سوی زمین (انتقال به مردم)
 
-### Spread
-The Mevlevi Order quickly spread in Anatolia and then throughout the Islamic world. Today, the Mevlevis have followers in Turkey, Iran, the Balkans, and many other countries.
+### گسترش
+طریقت مولویه به سرعت در آناتولی و سپس در سراسر جهان اسلام گسترش یافت. امروزه مولویه در ترکیه، ایران، балکان و بسیاری از کشورهای دیگر پیروان دارد.
 
-### Mevlevi Legacy
-- **Music:** The Mevlevis had a profound impact on classical Turkish and Iranian music
-- **Literature:** Many later poets were influenced by Rumi
-- **Art:** Mevlevi calligraphy, miniature painting, and architecture are of great importance
-- **Tourism:** The Mevlevi Sema ceremony is today one of the important tourist attractions of Turkey
+### میراث مولویه
+- **موسیقی:** مولویه تأثیر عمیقی بر موسیقی کلاسیک ترکی و ایرانی گذاشت
+- **ادبیات:** بسیاری از شاعران بعدی تحت تأثیر مولانا بودند
+- **هنر:** خوشنویسی، نگارگری و معماری مولویه از اهمیت بالایی برخوردار است
+- **گردشگری:** مراسم سماع مولویه امروزه یکی از جاذبه‌های گردشگری مهم ترکیه است
 
-## Historical Context
+## زمینه تاریخی
 
-### Sultanate of Rum (Seljuks of Rum)
-Rumi spent most of his life in Konya, the capital of the Sultanate of Rum. This sultanate was established by the Turkish Seljuks and covered a large part of Anatolia.
+### سلطنت روم (سلجوقیان روم)
+مولانا بیشتر عمر خود را در قونیه، پایتخت سلطنت روم، گذراند. این سلطنت توسط سلجوقیان ترک تأسیس شده بود و بخش بزرگی از آناتولی را در بر می‌گرفت.
 
-#### Characteristics of the Period
-- **Cultural synthesis:** Combination of Iranian, Turkish, Arab, and Roman traditions
-- **Religious tolerance:** Presence of Muslims, Christians, and Jews side by side
-- **Cultural flourishing:** Support for art, literature, and sciences
-- **Political instability:** Mongol invasions and internal wars
+#### ویژگی‌های دوره
+- **تلفیق فرهنگی:** ترکیب سنت‌های ایرانی، ترکی، عربی و رومی
+- **تسامح دینی:** حضور مسلمانان، مسیحیان و یهودیان در کنار هم
+- **شکوفایی فرهنگی:** حمایت از هنر، ادبیات و علوم
+- **بی‌ثباتی سیاسی:** حملات مغول و جنگ‌های داخلی
 
-### Mongol Invasion
-The Mongol invasion in the 13th century had a profound impact on the Islamic world. Many scholars and mystics migrated from eastern regions to Anatolia. These migrations caused cultural synthesis and scientific flourishing in Anatolia.
+### حمله مغول
+حمله مغول در قرن سیزدهم تأثیر عمیقی بر جهان اسلام گذاشت. بسیاری از عالمان و عرفا از مناطق شرقی به آناتولی مهاجرت کردند. این مهاجرت‌ها باعث تلفیق فرهنگی و شکوفایی علمی در آناتولی شد.
 
-### Konya as a Cultural Center
-Konya in Rumi's time was one of the most important cultural and scholarly centers of the Islamic world. This city hosted scholars, mystics, and artists from across the Islamic world.
+### قونیه به عنوان مرکز فرهنگی
+قونیه در زمان مولانا یکی از مهم‌ترین مراکز فرهنگی و علمی جهان اسلام بود. این شهر میزبان عالمان، عرفا و هنرمندان از سراسر جهان اسلام بود.
 
-## Legacy and Cultural Impact
+## میراث و تأثیر فرهنگی
 
-### Impact on Persian Literature
-Rumi had a profound impact on Persian literature:
-- **Mystical poetry:** He provided a model for mystical poetry
-- **Language:** His linguistic style influenced later poets
-- **Themes:** Concepts of love, fana, and unity of existence became common in Persian poetry
+### تأثیر بر ادبیات فارسی
+مولانا تأثیر عمیقی بر ادبیات فارسی گذاشت:
+- **شعر عرفانی:** او الگویی برای شعر عرفانی فراهم کرد
+- **زبان:** سبک زبانی او بر شاعران بعدی تأثیر گذاشت
+- **مضامین:** مفاهیم عشق، فنا و وحدت وجود در شعر فارسی رایج شدند
 
-### Impact on Turkish Literature
-Rumi had a profound impact on Turkish literature:
-- **Sufi literature:** Many Turkish poets were influenced by him
-- **Language:** The use of Persian vocabulary in Turkish literature became common
+### تأثیر بر ادبیات ترکی
+مولانا تأثیر عمیقی بر ادبیات ترکی گذاشت:
+- **ادبیات صوفیانه:** بسیاری از شاعران ترکی تحت تأثیر او بودند
+- **زبان:** استفاده از واژگان فارسی در ادبیات ترکی رایج شد
 
-### Impact on World Literature
-In the 20th century, Rumi became one of the most widely read poets in the West:
-- **Translations:** Numerous translations of his works into various languages
-- **Popularity:** In America, Rumi is one of the best-selling poets
-- **Impact on Western poets:** Poets like Coleman Barks and Kabir Helminski have translated and interpreted his works
+### تأثیر بر ادبیات جهان
+در قرن بیستم، مولانا به یکی از پرخواننده‌ترین شاعران در غرب تبدیل شد:
+- **ترجمه‌ها:** ترجمه‌های متعدد از آثار او به زبان‌های مختلف
+- **محبوبیت:** در آمریکا، مولانا یکی از پرفروش‌ترین شاعران است
+- **تأثیر بر شاعران غربی:** شاعرانی مانند Coleman Barks و Kabir Helminski آثار او را ترجمه و تفسیر کرده‌اند
 
-### Impact on Music
-- **Classical Iranian music:** Many Iranian musicians have used Rumi's poems
-- **Turkish music:** Mevlevi music is an important part of classical Turkish music
-- **World music:** Western musicians have been inspired by Rumi's works
+### تأثیر بر موسیقی
+- **موسیقی کلاسیک ایرانی:** بسیاری از موسیقی‌دانان ایرانی از اشعار مولانا استفاده کرده‌اند
+- **موسیقی ترکی:** موسیقی مولویه بخش مهمی از موسیقی کلاسیک ترکی است
+- **موسیقی جهانی:** موسیقی‌دانان غربی از آثار مولانا الهام گرفته‌اند
 
-### Impact on Art
-- **Calligraphy:** Rumi's works are among the most frequently calligraphed texts
-- **Miniature painting:** Many miniatures depict scenes from Rumi's life or stories from the Masnavi
-- **Architecture:** Rumi's tomb and other Mevlevi buildings are architectural masterpieces
+### تأثیر بر هنر
+- **خوشنویسی:** آثار مولانا از پرتکرارترین متون خوشنویسی شده هستند
+- **نگارگری:** بسیاری از نگارگری‌ها صحنه‌هایی از زندگی مولانا یا حکایات مثنوی را تصویر می‌کنند
+- **معماری:** مقبره مولانا و سایر بناهای مولویه از شاهکارهای معماری هستند
 
-## Rumi's Tomb (Mevlana Museum)
+## آرامگاه مولانا (موزه مولانا)
 
-### History
-Rumi was buried in Konya, and his tomb quickly became a place of pilgrimage. Over the centuries, the tomb was renovated and expanded several times.
+### تاریخچه
+مولانا در قونیه دفن شد و مقبره او به سرعت به مکان زیارتی تبدیل شد. در طول قرن‌ها، مقبره چندین بار بازسازی و گسترش یافت.
 
-### Today's Tomb
-Today, Rumi's tomb has been converted into the **Mevlana Museum** and is one of the most visited tourist attractions in Turkey.
+### مقبره امروزی
+امروزه مقبره مولانا به **موزه مولانا** تبدیل شده است و یکی از پربازدیدترین جاذبه‌های گردشگری ترکیه است.
 
-#### Features
-- **Tomb:** Rumi's tomb is located in the center of the complex
-- **Museum:** Includes manuscripts, artworks, and objects belonging to Rumi
-- **Sema Hall:** The place where the Sema ceremony was held
-- **Mosque:** The mosque where Rumi prayed
+#### ویژگی‌ها
+- **مقبره:** مقبره مولانا در مرکز مجموعه قرار دارد
+- **موزه:** شامل نسخه‌های خطی، آثار هنری و اشیای متعلق به مولانا
+- **میدان سماع:** مکانی که مراسم سماع در آن برگزار می‌شد
+- **مسجد:** مسجدی که مولانا در آن نماز می‌خواند
 
-### Cultural Importance
-Rumi's tomb is not only a place of pilgrimage but also a cultural center that attracts millions of visitors from around the world every year.
+### اهمیت فرهنگی
+مقبره مولانا نه تنها یک مکان زیارتی، بلکه یک مرکز فرهنگی است که هر ساله میلیون‌ها بازدیدکننده از سراسر جهان را جذب می‌کند.
 
-### Shab-e Arus (Wedding Night)
-Every year on the night of Rumi's death (December 17), a ceremony called **Shab-e Arus** (Wedding Night) is held in Konya. This ceremony includes Sema, reading of Rumi's poems, and commemorating him.
+### شب عرس (شب وفات)
+هر سال در شب وفات مولانا (۱۷ دسامبر)، مراسمی به نام **شب عرس** در قونیه برگزار می‌شود. این مراسم شامل سماع، خواندن اشعار مولانا و بزرگداشت اوست.
 
-## Rumi in the Modern World
+## مولانا در دنیای مدرن
 
-### Global Popularity
-In recent decades, Rumi has become one of the most popular poets in the world:
-- **Book sales:** Translations of his works are among the best-selling poetry books in America
-- **Social media:** His poems are widely shared on social networks
-- **Music:** Western musicians use his poems in their works
+### محبوبیت جهانی
+در دهه‌های اخیر، مولانا به یکی از محبوب‌ترین شاعران در جهان تبدیل شده است:
+- **فروش کتاب:** ترجمه‌های آثار او در آمریکا پرفروش‌ترین کتاب‌های شعر هستند
+- **رسانه‌های اجتماعی:** اشعار او در شبکه‌های اجتماعی به طور گسترده به اشتراک گذاشته می‌شوند
+- **موسیقی:** موسیقی‌دانان غربی از اشعار او در آثار خود استفاده می‌کنند
 
-### Reasons for Popularity
-- **Universality:** His message transcends religious and cultural boundaries
-- **Emphasis on love:** In a world full of conflict, his message of love is attractive
-- **Spiritual depth:** His poems answer the spiritual needs of modern humans
-- **Literary beauty:** The beauty of his poetry is attractive even for non-Persian-speaking readers
+### دلایل محبوبیت
+- **جهان‌شمولی:** پیام او فراتر از مرزهای دینی و فرهنگی است
+- **تأکید بر عشق:** در دنیای پر از تضاد، پیام عشق او جذاب است
+- **عمق معنوی:** اشعار او پاسخ به نیازهای معنوی انسان مدرن هستند
+- **زیبایی ادبی:** زیبایی شعر او برای خوانندگان غیر فارسی‌زبان نیز جذاب است
 
-### Challenges and Criticisms
-- **Translation:** Some translations of Rumi's works are not accurate and distort concepts
-- **Commercialization:** Commercial use of Rumi's name and works is criticized
-- **Misunderstanding:** Some of Rumi's mystical concepts have been misunderstood in the West
+### چالش‌ها و نقدها
+- **ترجمه:** برخی ترجمه‌ها از آثار مولانا دقیق نیستند و مفاهیم را تحریف می‌کنند
+- **تجاری‌سازی:** استفاده تجاری از نام و آثار مولانا مورد انتقاد است
+- **سوءتفاهم:** برخی مفاهیم عرفانی مولانا در غرب سوءتفاهم شده‌اند
 
-### Academic Study
-Rumi is the subject of extensive scholarly study:
-- **Comparative literature:** Comparing his works with other world poets
-- **Philosophy:** Analysis of his mystical thoughts
-- **History:** Examining the historical context of his life and works
-- **Translation studies:** Examining different translations of his works
+### مطالعه آکادمیک
+مولانا موضوع مطالعه علمی گسترده‌ای است:
+- **ادبیات تطبیقی:** مقایسه آثار او با شاعران دیگر جهان
+- **فلسفه:** تحلیل اندیشه‌های عرفانی او
+- **تاریخ:** بررسی زمینه تاریخی زندگی و آثار او
+- **مطالعات ترجمه:** بررسی ترجمه‌های مختلف از آثار او
 
-### Digital Access
-Rumi's works are widely available in digital formats:
-- **Online versions:** The Masnavi and Divan-e Shams are available on numerous websites
-- **Translations:** Numerous translations in various languages
-- **Ganjur and other platforms:** His poems are available on Persian literary websites
-- **Academic resources:** Scientific databases have published numerous articles about Rumi
+### دسترسی دیجیتال
+آثار مولانا به طور گسترده‌ای در قالب‌های دیجیتال در دسترس هستند:
+- **نسخه‌های آنلاین:** مثنوی و دیوان شمس در وب‌سایت‌های متعدد موجود است
+- **ترجمه‌ها:** ترجمه‌های متعدد به زبان‌های مختلف
+- **گنجور و سایر پلتفرم‌ها:** اشعار او در وب‌سایت‌های ادبی فارسی در دسترس است
+- **منابع آکادمیک:** پایگاه‌های داده علمی مقالات متعددی درباره مولانا منتشر کرده‌اند
 
-## Further Reading
+## برای مطالعه بیشتر
 
-- [Wikipedia: Rumi](https://en.wikipedia.org/wiki/Rumi)
-- [Encyclopædia Iranica: Mawlana Jalal al-Din Rumi](https://www.iranicaonline.org/articles/mawlana-jalal-al-din)
-- [Ganjur: Masnavi-ye Ma'navi](https://ganjoor.net/molavi/masnavi)
-- [Ganjur: Divan-e Shams](https://ganjoor.net/molavi/shams)
-- [Ilkhanate Era](../eras/ilkhanate.md) - The historical context of Rumi's time
-- [City of Balkh](../cities/balkh.md) - Rumi's birthplace
+- [ویکی‌پدیای فارسی: مولوی](https://fa.wikipedia.org/wiki/%D9%85%D9%88%D9%84%D9%88%DB%8C)
+- [دانشنامه ایرانیکا: مولانا جلال‌الدین رومی](https://www.iranicaonline.org/articles/mawlana-jalal-al-din)
+- [گنجور: مثنوی معنوی](https://ganjoor.net/molavi/masnavi)
+- [گنجور: دیوان شمس](https://ganjoor.net/molavi/shams)
+- [دوره ایلخانیان](../eras/ilkhanate.fa.md) - زمینه تاریخی دوران مولانا
+- [شهر بلخ](../cities/balkh.fa.md) - زادگاه مولانا

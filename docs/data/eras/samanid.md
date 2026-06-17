@@ -1,26 +1,26 @@
-# Samanid Era (819–999 CE)
+# دوره سامانیان (۸۱۹–۹۹۹ میلادی)
 
-!!! abstract "Era Overview"
-    - **Period:** 819 – 999 CE
-    - **Literary Style:** Early Khorasani Style (Simple, direct, rhythmic, and pure Persian)
-    - **Cultural Centers:** Bukhara, Samarkand, Balkh, Merv
-    - **Core Theme:** The rebirth of the Persian language and the foundation of New Persian literature.
+!!! abstract "نمای کلی دوره"
+    - **بازه زمانی:** ۸۱۹ – ۹۹۹ میلادی
+    - **سبک ادبی:** اوایل سبک خراسانی (ساده، روان، آهنگین و فارسی سره)
+    - **مراکز فرهنگی:** بخارا، سمرقند، بلخ، مرو
+    - **مضمون اصلی:** تولد دوباره زبان فارسی و پایه‌گذاری ادبیات فارسی نو.
 
-## Historical and Cultural Context
-The Samanid Empire was a Persianate Sunni Muslim empire centered in Central Asia. Following the Arab conquest of Persia, the Arabic language had dominated administration and high culture for nearly two centuries. The Samanids, however, actively championed a cultural revival. They established Persian as the official language of their court and administration, effectively sparking the "Persian Renaissance." 
+## زمینه تاریخی و فرهنگی
+امپراتوری سامانی یک امپراتوری ایرانی‌تبار و سنی‌مذهب با مرکزیت آسیای مرکزی بود. پس از حمله اعراب به ایران، زبان عربی به مدت حدود دو قرن بر فرهنگ و دیوان‌سالاری غالب شده بود. با این حال، سامانیان به طور فعال از احیای فرهنگی حمایت کردند. آن‌ها زبان فارسی را به عنوان زبان رسمی دربار و دیوان‌سالاری خود确立 کردند و به طور مؤثر «رنسانس فارسی» را آغاز کردند.
 
-Under their patronage, Bukhara became one of the most brilliant cultural capitals of the Islamic world, rivaling Baghdad. This era marks the definitive transition from Middle Persian (Pahlavi) to New Persian (Dari), written in the Arabic script but retaining its distinct grammatical structure and vocabulary.
+تحت حمایت آن‌ها، بخارا به یکی از درخشان‌ترین پایتخت‌های فرهنگی در جهان اسلام تبدیل شد و با بغداد رقابت می‌کرد. این دوره标志着 گذار قطعی از فارسی میانه (پهلوی) به فارسی نو (دری) است که با خط عربی نوشته می‌شد اما ساختار دستوری و واژگان متمایز خود را حفظ کرد.
 
-## Literary Significance
-The Samanid era is the "Golden Dawn" of Persian poetry. Because the language was being revitalized, the poetry of this period is characterized by its simplicity, clarity, and lack of excessive Arabic loanwords. 
+## اهمیت ادبی
+دوره سامانی «طلوع طلایی» شعر فارسی است. از آنجا که زبان در حال احیا بود، شعر این دوره با سادگی، وضوح و عدم استفاده از واژگان عربی بیش از حد مشخص می‌شود.
 
-The foundational forms of classical Persian poetry were established during this time:
-- **The Qasida (Ode):** Used for courtly praise and philosophical reflections.
-- **The Rubaiyat (Quatrain):** A four-line stanza used for concise, epigrammatic thoughts.
-- **The Ghazal (Lyric):** Began to emerge as a distinct form for expressing personal emotion.
+قالب‌های بنیادین شعر کلاسیک فارسی در این زمان پایه‌گذاری شدند:
+- **قصیده:** برای ستایش درباری و تأملات فلسفی استفاده می‌شد.
+- **رباعی:** یک بند چهار مصرعی که برای افکار موجز و حکمت‌آمیز به کار می‌رفت.
+- **غزل:** به تدریج به عنوان قالبی متمایز برای بیان احساسات شخصی پدیدار شد.
 
-Poets of this era focused on outward observation, vivid descriptions of nature, and straightforward moral or philosophical advice, setting the template for all Persian poetry that followed.
+شاعران این دوره بر مشاهده بیرونی، توصیفات زنده از طبیعت و پندهای اخلاقی یا فلسفی مستقیم تمرکز داشتند و الگویی را برای تمام شعر فارسی بعدی تنظیم کردند.
 
-## Poets of the Era
-- [Rudaki](../poets/rudaki.md)
-- [Daqiqi](../poets/daqiqi.md)
+## شاعران این دوره
+- [رودکی](../poets/rudaki.md)
+- [دقیقی](../poets/daqiqi.md)

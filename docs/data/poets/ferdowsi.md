@@ -1,166 +1,162 @@
-# Ferdowsi (c. 940–1020 CE)
+# فردوسی (حدود ۹۴۰–۱۰۲۰ میلادی)
 
-!!! info "Quick Facts"
+!!! info "اطلاعات کلی"
     | | |
     |---|---|
-    | **Full Name** | Abu'l-Qasim Ferdowsi Tusi |
-    | **Persian Name** | ابوالقاسم فردوسی توسی |
-    | **Born** | c. 940 CE, Tus (near modern-day Mashhad), Samanid Empire |
-    | **Died** | 1020 CE (aged ~80), Tus, Ghaznavid Empire |
-    | **Occupation** | Poet, Epic Writer |
-    | **Era** | Samanid (early) / Ghaznavid (later) |
-    | **Masterpiece** | Shahnameh (Book of Kings) — 50,000+ couplets |
-    | **Known For** | Preserving the Persian language and Iranian national identity through the Shahnameh |
+    | **نام کامل** | ابوالقاسم فردوسی توسی |
+    | **تولد** | حدود ۹۴۰ میلادی، توس (نزدیک مشهد امروزی)، سامانیان |
+    | **وفات** | ۱۰۲۰ میلادی (حدود ۸۰ سالگی)، توس، غزنویان |
+    | **پیشه** | شاعر، حماسه‌سرا |
+    | **دوره** | سامانیان (اوایل) / غزنویان (اواخر) |
+    | **شاهکار** | شاهنامه — بیش از ۵۰٬۰۰۰ بیت |
+    | **معروف به** | حفظ زبان فارسی و هویت ملی ایرانی از طریق شاهنامه |
 
-## Early Life and Background
+## زندگی اولیه و زمینه خانوادگی
 
-Abu'l-Qasim Ferdowsi Tusi was born around 940 CE in the city of Tus, located in the province of Khorasan in northeastern Iran (near modern-day Mashhad). He was born into the *dehqan* class — the landed Persian gentry who had preserved Iranian cultural traditions and historical memory through the centuries of Arab rule.
+ابوالقاسم فردوسی توسی در حدود ۹۴۰ میلادی در شهر توس، در استان خراسان در شمال شرقی ایران (نزدیک مشهد امروزی) متولد شد. او از طبقه دهقانان بود — اشراف زمین‌دار ایرانی که سنت‌های فرهنگی و حافظه تاریخی ایران را در طول قرن‌های حکومت عربی حفظ کرده بودند.
 
-The *dehqans* were the custodians of pre-Islamic Iranian history, mythology, and cultural values. They maintained oral traditions, historical chronicles, and ancestral stories that would otherwise have been lost. This background profoundly shaped Ferdowsi's life mission: to preserve and immortalize Iran's ancient heritage through poetry.
+دهقانان نگهبانان تاریخ، اسطوره‌شناسی و ارزش‌های فرهنگی ایران پیش از اسلام بودند. آن‌ها سنت‌های شفاهی، وقایع‌نگاری‌های تاریخی و داستان‌های اجدادی را حفظ می‌کردند که در غیر این صورت از بین می‌رفتند. این پیشینه به طور عمیقی مأموریت زندگی فردوسی را شکل داد: حفظ و جاودانه کردن میراث باستانی ایران از طریق شعر.
 
-Ferdowsi was reportedly educated and well-versed in the cultural and literary traditions of his time. He had access to a prose version of the *Shahnameh* (compiled earlier by Abu Mansur al-Tha'alibi and based on older Sasanian sources), as well as other historical sources including the *Khwaday-Namag* (Book of Lords), a Sasanian-era chronicle of Iranian kings and heroes.
+فردوسی ظاهراً تحصیل‌کرده بود و با سنت‌های فرهنگی و ادبی زمان خود آشنایی داشت. او به نسخه نثر شاهنامه (که قبلاً توسط ابومنصور ثعالبی گردآوری شده و بر اساس منابع ساسانی قدیمی‌تر بود) و همچنین منابع تاریخی دیگر از جمله خدای‌نامه، وقایع‌نگاری دوره ساسانی از پادشاهان و پهلوانان ایران، دسترسی داشت.
 
-## The Shahnameh Project: A 35-Year Odyssey
+## پروژه شاهنامه: یک سفر ۳۵ ساله
 
-### The Commission
+### سفارش
+سرودن شاهنامه در دوره سامانی آغاز شد، زمانی که فرهنگ فارسی در حال تجربه یک رنسانس بود. دربار سامانی قبلاً شاعران قبلی، از جمله دقیقی، را مأمور کرده بود تا نسخه نثر شاهنامه را به شعر درآورند. وقتی دقیقی توسط غلامش به قتل رسید و تنها حدود ۱۰۰۰ بیت سروده بود، فردوسی کار عظیم تکمیل حماسه را بر عهده گرفت.
 
-The composition of the *Shahnameh* began during the Samanid period, when Persian culture was experiencing a renaissance. The Samanid court had already commissioned earlier poets, including Daqiqi, to versify the prose *Shahnameh*. When Daqiqi was murdered by his slave after composing only about 1,000 verses, Ferdowsi took up the monumental task of completing the epic.
+فردوسی کار خود را در حدود ۹۷۷ میلادی، ابتدا تحت حمایت سامانیان آغاز کرد. با این حال، سلسله سامانی در ۹۹۹ میلادی سقوط کرد و فردوسی خود را در حال کار تحت حاکمان جدید غزنوی، به ویژه سلطان محمود غزنوی، یافت.
 
-Ferdowsi began his work around 977 CE, initially under the patronage of the Samanids. However, the Samanid dynasty collapsed in 999 CE, and Ferdowsi found himself working under the new Ghaznavid rulers, particularly Sultan Mahmud of Ghazni.
+### فرآیند نگارش
+فردوسی حدود **۳۵ سال** از زندگی خود را صرف سرودن شاهنامه کرد. این صرفاً یک پروژه ادبی نبود بلکه یک مأموریت فرهنگی با دامنه عظیم بود. این حماسه شامل بیش از **۵۰٬۰۰۰ بیت** است (برخی منابع تا ۶۰٬۰۰۰ بیت می‌گویند)، که آن را به یکی از طولانی‌ترین اشعار حماسی که توسط یک نویسنده واحد در ادبیات جهان نوشته شده تبدیل می‌کند — به طور قابل توجهی طولانی‌تر از ایلیاد و اودیسه هومر به طور مشترک.
 
-### The Writing Process
+شاهنامه گذشته اسطوره‌ای و تاریخی ایران را از آفرینش جهان تا حمله اعراب به ایران در قرن هفتم میلادی روایت می‌کند. به سه بخش اصلی تقسیم می‌شود:
 
-Ferdowsi dedicated approximately **35 years** of his life to composing the *Shahnameh*. This was not merely a literary project but a cultural mission of immense scope. The epic consists of over **50,000 couplets** (some sources say up to 60,000), making it one of the longest epic poems written by a single author in world literature — significantly longer than Homer's *Iliad* and *Odyssey* combined.
+۱. **دوره اسطوره‌ای:** آفرینش جهان، نخستین انسان‌ها و پادشاهان اولیه از جمله هوشنگ، تهمورث و جمشید
+۲. **دوره پهلوانی:** داستان‌های پهلوانان افسانه‌ای، به ویژه رستم، بزرگترین قهرمان ایران، و درگیری تراژیک او با پسرش سهراب
+۳. **دوره تاریخی:** گذار به پادشاهان تاریخی، از جمله فتوحات اسکندر مقدونی، سلسله‌های اشکانی و ساسانی، و سقوط نهایی امپراتوری ساسانی به دست مسلمانان عرب
 
-The *Shahnameh* chronicles the mythical and historical past of Iran from the creation of the world until the Arab conquest of Persia in the 7th century. It is divided into three main sections:
+### نوآوری‌های ادبی
+رویکرد فردوسی به شاهنامه از چند جهت انقلابی بود:
 
-1. **The Mythical Age:** The creation of the world, the first humans, and the early kings including Hushang, Tahmuras, and Jamshid
-2. **The Heroic Age:** The tales of legendary heroes, particularly Rostam, the greatest champion of Iran, and his tragic conflict with his son Sohrab
-3. **The Historical Age:** The transition to historical kings, including the conquests of Alexander the Great, the Parthian and Sasanian dynasties, and the final fall of the Sasanian Empire to the Arab Muslims
+- **خلوص زبانی:** فردودی عمداً استفاده از واژگان عربی را در حماسه خود به حداقل رساند. واژگان او به طور عمده فارسی است، از ریشه‌های فارسی میانه (پهلوی) گرفته و در صورت نیاز واژگان فارسی جدیدی ایجاد کرده است. این یک تلاش آگاهانه برای حفظ زبان فارسی در زمانی بود که عربی در دیوان‌سالاری و دانش غالب بود.
 
-### Literary Innovations
+- **روایت ملی:** برخلاف شعر درباری قبلی که بر ستایش حاکمان فردی تمرکز داشت، فردوسی یک روایت ملی جامع ایجاد کرد که هزاران سال را در بر می‌گرفت. شاهنامه درباره هیچ پادشاه یا قهرمان خاصی نیست بلکه درباره نبرد ابدی بین خیر و شر، ایران و دشمنانش، و حفظ هویت ایرانی است.
 
-Ferdowsi's approach to the *Shahnameh* was revolutionary in several ways:
+- **پیچیدگی اخلاقی:** شخصیت‌های شاهنامه قهرمانان و شرورهای ساده نیستند. حتی بزرگترین قهرمانان مانند رستم اشتباهات تراژیکی مرتکب می‌شوند، و حتی قدرتمندترین پادشاهان با غرور و سقوط مواجه می‌شوند. این پیچیدگی اخلاقی عمق روان‌شناختی پایدار حماسه را می‌دهد.
 
-- **Linguistic Purity:** Ferdowsi deliberately minimized the use of Arabic loanwords in his epic. His vocabulary is overwhelmingly Persian, drawing from Middle Persian (Pahlavi) roots and creating new Persian words where necessary. This was a conscious effort to preserve the Persian language at a time when Arabic was dominant in administration and scholarship.
+## تراژدی با سلطان محمود غزنوی
 
-- **National Narrative:** Unlike earlier court poetry that focused on praising individual rulers, Ferdowsi created a comprehensive national narrative that spanned millennia. The *Shahnameh* is not about any single king or hero but about the eternal struggle between good and evil, Iran and its enemies, and the preservation of Iranian identity.
+مشهورترین و تراژیک‌ترین رویداد در زندگی فردوسی رابطه او با سلطان محمود غزنوی، حاکم قدرتمند امپراتوری غزنوی است.
 
-- **Moral Complexity:** The characters in the *Shahnameh* are not simple heroes and villains. Even the greatest heroes like Rostam commit tragic mistakes, and even the most powerful kings face hubris and downfall. This moral complexity gives the epic its enduring psychological depth.
+طبق سنت، فردوسی شاهنامه را در حدود ۱۰۱۰ میلادی تکمیل کرد و آن را به سلطان محمود تقدیم کرد و انتظار پاداش سخاوتمندانه‌ای متناسب با دهه‌ها کاری که سرمایه‌گذاری کرده بود را داشت. با این حال، سلطان حامی‌ای بود که شعر ستایشی را ترجیح می‌داد که مستقیماً او و فتوحات نظامی‌اش را تمجید کند. شاهنامه، به عنوان یک حماسه ملی به جای یک شعر ستایش درباری، با انتظارات محمود همخوانی نداشت.
 
-## The Tragedy with Sultan Mahmud of Ghazni
+داستان می‌گوید که محمود پاداش نسبتاً متوسطی به فردوسی پیشنهاد داد (برخی روایات ۶۰٬۰۰۰ درهم نقره می‌گویند، برخی حتی کمتر)، بسیار کمتر از آنچه شاعر انتظار داشت. در برخی نسخه‌ها، درباریان سلطان که به نبوغ فردوسی حسادت می‌کردند، سلطان را علیه شاعر تحریک کردند.
 
-The most famous and tragic episode in Ferdowsi's life involves his relationship with Sultan Mahmud of Ghazni, the powerful ruler of the Ghaznavid Empire.
+فردودی به شدت ناامید شد و ظاهراً شعر هجایی در انتقاد از سلطان سرود. در تلافی، محمود ظاهراً دستور داد شاعر زیر پای فیل لگدمال شود — اگرچه برخی روایات می‌گویند مجازات به طور نمادین اجرا شد یا فردوسی فرار کرد.
 
-According to tradition, Ferdowsi completed the *Shahnameh* around 1010 CE and presented it to Sultan Mahmud, expecting a generous reward commensurate with the decades of work he had invested. The Sultan, however, was a patron who preferred panegyric poetry that directly praised him and his military conquests. The *Shahnameh*, being a national epic rather than a courtly praise poem, did not align with Mahmud's expectations.
+در سال‌های آخر عمر، وقتی سلطان محمود ظاهراً از رفتار خود با فردوسی پشیمان شد و پاداش وعده داده شده را فرستاد (برخی می‌گویند ۶۰٬۰۰۰ دینار طلا)، کاروانی که پاداش را حمل می‌کرد درست زمانی که مراسم تشییع جنازه فردوسی از دروازه مقابل خارج می‌شد به دروازه‌های توس رسید. شاعر در فقر و گمنامی درگذشت، هرگز قدردانی که در طول زندگی‌اش سزاوار آن بود را دریافت نکرد.
 
-The story goes that Mahmud offered Ferdowsi a relatively modest reward (some accounts say 60,000 silver dirhams, others say even less), far below what the poet expected. In some versions, the Sultan's courtiers, jealous of Ferdowsi's genius, influenced the Sultan against the poet.
+!!! quote "پیشگویی معروف فردوسی"
+    بسی رنج بردم در این سال سی  
+    عجم زنده کردم بدین پارسی  
+    نمیرم از این پس که من زنده‌ام  
+    که تخم سخن را پراکنده‌ام
 
-Ferdowsi was deeply disappointed and reportedly wrote a satirical poem criticizing the Sultan. In retaliation, Mahmud allegedly ordered the poet to be trampled by an elephant — though some accounts say the punishment was carried out symbolically or that Ferdowsi escaped.
+## سبک ادبی و ویژگی‌ها
 
-In his later years, when Sultan Mahmud reportedly regretted his treatment of Ferdowsi and sent the promised reward (some say 60,000 dinars in gold), the caravan carrying the reward arrived at the gates of Tus just as Ferdowsi's funeral procession was exiting through the opposite gate. The poet died in poverty and obscurity, never receiving the recognition he deserved during his lifetime.
+سبک شعری فردوسی در شاهنامه با چندین ویژگی متمایز مشخص می‌شود:
 
-!!! quote "Ferdowsi's famous prophecy"
-    I suffered much in these thirty years,  
-    I revived the Persians with the Persian tongue.  
-    I shall not die, for I have planted the seeds of life:  
-    It is I who has kept the Persian language alive.
+### زبان و واژگان
+زبان فردوسی به طور قابل توجهی فارسی سره است. محققان شمارش کرده‌اند که از حدود ۵۰٬۰۰۰ بیت شاهنامه، کمتر از ۹۰۰ بیت حاوی واژگان عربی هستند — درصدی باورنکردنی پایین برای اثری با این طول که در قرن دهم-یازدهم سروده شده زمانی که نفوذ عربی در اوج خود بود.
 
-## Literary Style and Characteristics
+### تکنیک روایی
+فردوسی استاد داستان‌سرایی بود. تکنیک روایی او شامل موارد زیر است:
+- **گفتگوی دراماتیک:** مکالمات طولانی بین شخصیت‌ها که شخصیت‌ها و انگیزه‌های آن‌ها را آشکار می‌کند
+- **توصیف زنده:** توصیفات دقیق از نبردها، مناظر، کاخ‌ها و پدیده‌های طبیعی
+- **عمق روان‌شناختی:** کاوش افکار و احساسات درونی شخصیت‌هایش
+- **پیش‌آگاهی:** استفاده ماهرانه از پیشگویی و نشانه‌ها برای ایجاد تنش
+- **تشبیهات حماسی:** مقایسه‌های طولانی که روایت را به ابعاد اسطوره‌ای ارتقا می‌دهد
 
-Ferdowsi's poetic style in the *Shahnameh* is characterized by several distinctive features:
+### مضامین
+شاهنامه چندین مضمون جهانی را کاوش می‌کند:
+- **نبرد بین خیر و شر:** که توسط نبرد ابدی بین ایران (نظم، تمدن) و توران (هرج و مرج، بربریت) نمایانده می‌شود
+- **تراژدی سرنوشت:** حتی بزرگترین قهرمانان نمی‌توانند از سرنوشت خود فرار کنند
+- **روابط پدر و پسر:** بسیاری از تأثربرانگیزترین داستان‌ها شامل درگیری‌های تراژیک بین پدران و پسران است (رستم و سهراب، کیخسرو و غیره)
+- **ناپایداری قدرت:** پادشاهان برمی‌خیزند و سقوط می‌کنند، اما سرزمین ایران باقی می‌ماند
+- **شرافت و وفاداری:** کد جوانمردی که رفتار قهرمانان را هدایت می‌کند
 
-### Language and Vocabulary
-Ferdowsi's language is remarkably pure Persian. Scholars have counted that out of the approximately 50,000 couplets in the *Shahnameh*, fewer than 900 contain Arabic loanwords — an astonishingly low percentage for a work of this length composed in the 10th-11th century when Arabic influence was at its peak.
+## اپیزودهای مهم و شخصیت‌ها
 
-### Narrative Technique
-Ferdowsi was a master storyteller. His narrative technique includes:
-- **Dramatic dialogue:** Extended conversations between characters that reveal their personalities and motivations
-- **Vivid description:** Detailed descriptions of battles, landscapes, palaces, and natural phenomena
-- **Psychological depth:** Exploration of the inner thoughts and emotions of his characters
-- **Foreshadowing:** Skillful use of prophecy and omens to build tension
-- **Epic similes:** Extended comparisons that elevate the narrative to mythic proportions
+شاهنامه شامل صدها داستان است، اما برخی از مشهورترین آن‌ها عبارتند از:
 
-### Themes
-The *Shahnameh* explores several universal themes:
-- **The struggle between good and evil:** Represented by the eternal conflict between Iran (order, civilization) and Turan (chaos, barbarism)
-- **The tragedy of fate:** Even the greatest heroes cannot escape their destiny
-- **Father-son relationships:** Many of the most poignant stories involve tragic conflicts between fathers and sons (Rostam and Sohrab, Kay Khosrow, etc.)
-- **The transience of power:** Kings rise and fall, but the land of Iran endures
-- **Honor and loyalty:** The code of *javanmardi* (chivalry) that governs the behavior of heroes
+### رستم و سهراب
+داستان تراژیک بزرگترین قهرمان ایرانی، رستم، که ناآگاهانه پسر خود سهراب را در نبرد می‌کشد. این داستان یکی از قدرتمندترین تراژدی‌ها در ادبیات جهان است، قابل مقایسه با تراژدی یونانی ادیپ.
 
-## Major Episodes and Characters
+### هفت‌خوان رستم
+سفر حماسی رستم برای نجات شاه کی‌کاووس کور شده از دیوان مازندران. هفت آزمونی که باید بر آن‌ها غلبه کند از جمله مشهورترین توالی‌های ماجراجویی در ادبیات فارسی است.
 
-The *Shahnameh* contains hundreds of stories, but some of the most famous include:
+### ضحاک مار دوش
+داستان ضحاک، شاهزاده عربی که توسط اهریمن (شیطان) فریب داده می‌شود تا دو مار از شانه‌هایش برویند. برای تغذیه مارها، باید هر روز دو جوان را قربانی کند. این داستان تمثیلی قدرتمند درباره ظلم و شر است.
 
-### Rostam and Sohrab
-The tragic tale of the greatest Iranian hero, Rostam, who unknowingly kills his own son Sohrab in battle. This story is one of the most powerful tragedies in world literature, comparable to the Greek tragedy of Oedipus.
+### داستان سیاوش
+داستان تراژیک شاهزاده معصوم سیاوش، که به طور نادرست توسط نامادریش متهم می‌شود و در توران پناه می‌گیرد، جایی که در نهایت به قتل می‌رسد. این داستان مضامین معصومیت، خیانت و بی‌عدالتی را کاوش می‌کند.
 
-### The Seven Labors of Rostam (Haft Khan-e Rostam)
-Rostam's epic journey to rescue the blinded King Kay Kavus from the demons of Mazandaran. The seven trials he must overcome are among the most celebrated adventure sequences in Persian literature.
+### بهرام گور و آزاده
+ماجراهای عاشقانه پادشاه ساسانی بهرام پنجم (بهرام گور)، که به خاطر exploits شکار و ماجراهای عاشقانه‌اش شناخته می‌شود.
 
-### Zahhak the Serpent-King
-The story of Zahhak, an Arab prince who is deceived by Ahriman (the devil) into having two serpents grow from his shoulders. To feed the serpents, he must sacrifice two young men every day. This story is a powerful allegory about tyranny and evil.
+## زمینه تاریخی و اهمیت
 
-### The Story of Siyavash
-The tragic tale of the innocent prince Siyavash, who is falsely accused by his stepmother and seeks refuge in Turan, where he is eventually murdered. This story explores themes of innocence, betrayal, and injustice.
+### رنسانس سامانی
+فردوسی کار خود را در دوره سامانی آغاز کرد، زمانی که احیای فرهنگی فارسی در جریان بود. سامانیان به طور فعال از استفاده از زبان فارسی حمایت می‌کردند و از حفظ تاریخ و فرهنگ ایران پیش از اسلام پشتیبانی می‌کردند. این محیط هم انگیزه و هم منابع را برای فردوسی فراهم کرد تا پروژه عظیم خود را بر عهده گیرد.
 
-### Bahram Gur and Azadeh
-The romantic adventures of the Sasanian king Bahram V (Bahram Gur), known for his hunting exploits and love affairs.
+### گذار غزنوی
+وقتی فردوسی شاهنامه را تکمیل کرد، چشم‌انداز سیاسی تغییر کرده بود. غزنویان، یک سلسله ترک‌تبار، جایگزین سامانیان شده بودند. برخلاف سامانیان، که خود را وارث سنت‌های فرهنگی فارسی می‌دانستند، غزنویان بیشتر بر گسترش نظامی و ارتدوکسی اسلامی متمرکز بودند. این تغییر در فرهنگ سیاسی به عدم قدردانی که فردوسی از سلطان محمود دریافت کرد کمک کرد.
 
-## Historical Context and Significance
+### حفظ هویت ایرانی
+شاهنامه در یک لحظه حیاتی در تاریخ ایران تکمیل شد. حمله اعراب اسلام را به ایران آورده بود، و عربی در حال تبدیل شدن به زبان غالب دیوان‌سالاری، دانش و فرهنگ عالی بود. بسیاری می‌ترسیدند که زبان فارسی و هویت ایرانی پیش از اسلام برای همیشه از بین برود.
 
-### The Samanid Renaissance
-Ferdowsi began his work during the Samanid period, a time of Persian cultural revival. The Samanids actively promoted the use of Persian language and supported the preservation of pre-Islamic Iranian history and culture. This environment provided Ferdowsi with both the motivation and the resources to undertake his monumental project.
+شاهنامه فردوسی این مسیر را تغییر داد. با نشان دادن اینکه فارسی می‌تواند برای ایجاد اثری از ادبیات برابر در دامنه و زیبایی با حماسه‌های بزرگ عربی استفاده شود، فردوسی ثابت کرد که فارسی یک زبان شایسته فرهنگ عالی است. شاهنامه به نمادی از هویت ملی ایرانی و مخزنی از حافظه فرهنگی تبدیل شد.
 
-### The Ghaznavid Transition
-When Ferdowsi completed the *Shahnameh*, the political landscape had changed. The Ghaznavids, a Turkic dynasty, had replaced the Samanids. Unlike the Samanids, who saw themselves as heirs to Persian cultural traditions, the Ghaznavids were more focused on military expansion and Islamic orthodoxy. This shift in political culture contributed to the lack of appreciation Ferdowsi received from Sultan Mahmud.
+## میراث و تأثیر فرهنگی
 
-### Preservation of Persian Identity
-The *Shahnameh* was completed at a critical moment in Iranian history. The Arab conquest had brought Islam to Persia, and Arabic was becoming the dominant language of administration, scholarship, and high culture. Many feared that the Persian language and pre-Islamic Iranian identity would be lost forever.
+### حفظ زبان فارسی
+مهم‌ترین سهم فردوسی حفظ زبان فارسی بود. شاهنامه نشان داد که فارسی می‌تواند برای شعر حماسی، روایت تاریخی و تأمل فلسفی استفاده شود. این نسل‌های شاعران را الهام بخشید تا به فارسی بنویسند و بقا و شکوفایی زبان را تضمین کردند.
 
-Ferdowsi's *Shahnameh* changed this trajectory. By demonstrating that Persian could be used to create a work of literature equal in scope and beauty to the great Arabic epics, Ferdowsi proved that Persian was a worthy language of high culture. The *Shahnameh* became a symbol of Iranian national identity and a repository of cultural memory.
+امروز، فارسی توسط بیش از ۱۱۰ میلیون نفر در سراسر جهان صحبت می‌شود، و شاهنامه همچنان سنگ بنای آموزش ادبی فارسی باقی مانده است.
 
-## Legacy and Cultural Impact
+### تأثیر بر ادبیات فارسی
+تأثیر فردوسی بر ادبیات فارسی بعدی غیرقابل اندازه‌گیری است:
+- **سنت حماسی:** او الگویی را برای شعر حماسی فارسی ایجاد کرد
+- **آگاهی ملی:** شاهنامه به منبع غرور و هویت ملی تبدیل شد
+- **زبان ادبی:** واژگان فارسی سره شاهنامه بر توسعه فارسی ادبی تأثیر گذاشت
+- **تکنیک‌های داستان‌سرایی:** روش‌های روایی او بر تمام شاعران و داستان‌سرایان فارسی بعدی تأثیر گذاشت
 
-### Preservation of the Persian Language
-Ferdowsi's most significant contribution was the preservation of the Persian language. The *Shahnameh* demonstrated that Persian could be used for epic poetry, historical narrative, and philosophical reflection. This inspired generations of poets to write in Persian, ensuring the survival and flourishing of the language.
+### نماد فرهنگی
+شاهنامه به یک نماد فرهنگی برای ایرانیان در سراسر جهان تبدیل شده است:
+- **هویت ملی:** به عنوان پایه هویت ملی ایرانی در نظر گرفته می‌شود
+- **تداوم فرهنگی:** پیوندی بین ایران پیش از اسلام و اسلامی فراهم می‌کند
+- **الهام هنری:** شاهنامه الهام‌بخش آثار بی‌شماری از هنر، از جمله نگارگری، خوشنویسی، موسیقی و تئاتر بوده است
+- **ارتباط دیاسپورا:** برای ایرانیان ساکن خارج از کشور، شاهنامه همچنان یک ارتباط قدرتمند با میراث فرهنگی آن‌ها باقی مانده است
 
-Today, Persian (Farsi) is spoken by over 110 million people worldwide, and the *Shahnameh* remains a cornerstone of Persian literary education.
+### به رسمیت شناختن جهانی
+شاهنامه به عنوان یکی از بزرگترین آثار ادبیات جهان شناخته می‌شود:
+- **به رسمیت شناختن یونسکو:** یونسکو فردوسی و شاهنامه را در مناسبت‌های متعدد گرامی داشته است
+- **مطالعه آکادمیک:** شاهنامه در دانشگاه‌های سراسر جهان به عنوان شاهکار شعر حماسی مطالعه می‌شود
+- **ترجمه‌ها:** به زبان‌های متعددی ترجمه شده و آن را برای مخاطبان جهانی قابل دسترس کرده است
+- **ادبیات تطبیقی:** محققان شاهنامه را با حماسه‌های هومر، مهاباراتا و سایر حماسه‌های بزرگ جهان مقایسه می‌کنند
 
-### Influence on Persian Literature
-Ferdowsi's influence on subsequent Persian literature is immeasurable:
-- **Epic tradition:** He established the template for Persian epic poetry
-- **National consciousness:** The *Shahnameh* became a source of national pride and identity
-- **Literary language:** The pure Persian vocabulary of the *Shahnameh* influenced the development of literary Persian
-- **Storytelling techniques:** His narrative methods influenced all subsequent Persian poets and storytellers
+## آرامگاه فردوسی
 
-### Cultural Symbol
-The *Shahnameh* has become a cultural symbol for Iranians worldwide:
-- **National identity:** It is considered the foundation of Iranian national identity
-- **Cultural continuity:** It provides a link between pre-Islamic and Islamic Iran
-- **Artistic inspiration:** The *Shahnameh* has inspired countless works of art, including miniature paintings, calligraphy, music, and theater
-- **Diaspora connection:** For Iranians living abroad, the *Shahnameh* remains a powerful connection to their cultural heritage
+فردوسی در اصل در زادگاهش توس دفن شد. برای قرن‌ها، قبر او بدون نشانه و تا حد زیادی فراموش شده بود. تنها در اواخر دوره قاجار بود که تلاش‌هایی برای مکان‌یابی و گرامی داشتن محل دفن او انجام شد.
 
-### Global Recognition
-The *Shahnameh* is recognized as one of the greatest works of world literature:
-- **UNESCO recognition:** UNESCO has celebrated Ferdowsi and the *Shahnameh* on multiple occasions
-- **Academic study:** The *Shahnameh* is studied in universities worldwide as a masterpiece of epic poetry
-- **Translations:** It has been translated into numerous languages, making it accessible to global audiences
-- **Comparative literature:** Scholars compare the *Shahnameh* to Homer's epics, the *Mahabharata*, and other great world epics
+در دهه ۱۳۱۰ شمسی، در دوران حکومت رضاشاه پهلوی، یک آرامگاه باشکوه در توس برای گرامی داشتن فردوسی ساخته شد. مقبره، که توسط معمار حسین لرزاده طراحی شده است، عناصر معماری هخامنشی، اشکانی و ساسانی را ترکیب می‌کند و میراث پیش از اسلامی را که فردوسی در حماسه خود حفظ کرد منعکس می‌کند.
 
-## The Tomb of Ferdowsi
+آرامگاه به عنوان یک بنای ملی و یک مکان زیارتی برای عاشقان ادبیات فارسی ایستاده است. هر سال در روز فردوسی (که در ۲۵ اردیبهشت در تقویم ایرانی جشن گرفته می‌شود)، مراسم‌هایی در مقبره برای گرامی داشتن میراث شاعر برگزار می‌شود.
 
-Ferdowsi was originally buried in his hometown of Tus. For centuries, his grave was unmarked and largely forgotten. It was not until the late Qajar period that efforts were made to locate and honor his burial site.
+## برای مطالعه بیشتر
 
-In the 1930s, during the reign of Reza Shah Pahlavi, a magnificent mausoleum was constructed in Tus to honor Ferdowsi. The tomb, designed by architect Hossein Lorzadeh, combines elements of Achaemenid, Parthian, and Sasanian architecture, reflecting the pre-Islamic heritage that Ferdowsi preserved in his epic.
-
-The mausoleum stands as a national monument and a pilgrimage site for lovers of Persian literature. Every year on Ferdowsi Day (celebrated on the 25th of Ordibehesht in the Iranian calendar), ceremonies are held at the tomb to honor the poet's legacy.
-
-## Further Reading
-
-- [Wikipedia: Ferdowsi](https://en.wikipedia.org/wiki/Ferdowsi)
-- [Encyclopædia Iranica: Ferdowsi](https://www.iranicaonline.org/articles/ferdowsi)
-- [Ganjur: Shahnameh](https://ganjoor.net/ferdowsi/shahname)
-- [Samanid Era](../eras/samanid.md) - The historical context of Ferdowsi's early career
-- [Ghaznavid Era](../eras/ghaznavid.md) - The historical context of Ferdowsi's later years
+- [ویکی‌پدیای فارسی: فردوسی](https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%AF%D9%88%D8%B3%DB%8C)
+- [دانشنامه ایرانیکا: فردوسی](https://www.iranicaonline.org/articles/ferdowsi)
+- [گنجور: شاهنامه](https://ganjoor.net/ferdowsi/shahname)
+- [دوره سامانیان](../eras/samanid.fa.md) - زمینه تاریخی دوران اولیه فردوسی
+- [دوره غزنویان](../eras/ghaznavid.fa.md) - زمینه تاریخی سال‌های آخر فردوسی

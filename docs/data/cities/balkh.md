@@ -1,48 +1,47 @@
+# بلخ
 
-# Balkh
-
-!!! info "Quick Facts"
+!!! info "اطلاعات کلی"
     | | |
     |---|---|
-    | **Location** | Northern Afghanistan (near modern Mazar-i-Sharif) |
-    | **Historical Region** | Greater Khorasan, Bactria |
-    | **Significance** | One of the oldest cities in the world, "Mother of Cities" |
-    | **Era** | Ancient Persian, Islamic Golden Age |
+    | **موقعیت** | شمال افغانستان (نزدیک مزارشریف امروزی) |
+    | **منطقه تاریخی** | خراسان بزرگ، باختر |
+    | **اهمیت** | یکی از کهن‌ترین شهرهای جهان، «ام‌البلاد» (مادر شهرها) |
+    | **دوره** | ایران باستان، عصر طلایی اسلام |
 
-## Historical Overview
+## نمای کلی تاریخی
 
-Balkh is one of the oldest continuously inhabited cities in the world, with a history spanning over 3,000 years. Located in northern Afghanistan (near modern Mazar-i-Sharif), it was an ancient center of Zoroastrianism and later became a major Islamic scholarly center.
+بلخ یکی از کهن‌ترین شهرهای پیوسته آباد جهان است، با تاریخی بیش از ۳۰۰۰ سال. این شهر در شمال افغانستان (نزدیک مزارشریف امروزی) قرار دارد و در دوران باستان یکی از مراکز مهم زرتشتی و بعدها یکی از مراکز بزرگ علمی و فرهنگی اسلامی بود.
 
-### Ancient Significance
-- **Bactrian Capital**: Balkh was the capital of ancient Bactria
-- **Zoroastrian Center**: One of the holiest cities in Zoroastrianism
-- **Silk Road Hub**: Major trading center on the Silk Road connecting China, India, and the West
+### اهمیت باستانی
+- **پایتخت باختر**: بلخ پایتخت باختر باستان بود
+- **مرکز زرتشتی**: یکی از مقدس‌ترین شهرهای زرتشتی
+- **مسیر جاده ابریشم**: مرکز تجاری مهم در جاده ابریشم که چین، هند و غرب را به هم متصل می‌کرد
 
-### Islamic Golden Age
-During the Islamic period, Balkh became renowned as a center of learning and culture:
-- **Scholarly Hub**: Home to numerous scholars, poets, and scientists
-- **Architectural Marvels**: Famous for its mosques, madrasas, and libraries
-- **Cultural Crossroads**: Where Persian, Turkic, and Islamic cultures merged
+### عصر طلایی اسلام
+در دوره اسلامی، بلخ به عنوان مرکز دانش و فرهنگ مشهور شد:
+- **مرکز علمی**: خانه دانشمندان، شاعران و دانشمندان متعدد
+- **شگفتی‌های معماری**: مشهور به مساجد، مدارس و کتابخانه‌های خود
+- **چهارراه فرهنگی**: جایی که فرهنگ‌های ایرانی، ترکی و اسلامی با هم ترکیب شدند
 
-## Famous Poets
+## شاعران مشهور
 
-### [Molana (Rumi)](../poets/molana.md)
-**Jalal al-Din Muhammad Rumi** (1207–1273) was born in Balkh (or nearby Vakhsh) before his family migrated westward due to the Mongol invasions. Though he spent most of his life in Konya, his birthplace in Balkh remains a source of pride for the city.
+### [مولانا](../poets/molana.fa.md)
+**جلال‌الدین محمد مولانا بلخی** (۱۲۰۷–۱۲۷۳ میلادی) در بلخ (یا وخش نزدیک آن) متولد شد، پیش از آنکه خانواده‌اش به دلیل حملات مغول به سمت غرب مهاجرت کنند. اگرچه او بیشتر عمر خود را در قونیه گذراند، زادگاهش در بلخ همچنان مایه افتخار این شهر است.
 
-!!! quote "Rumi's Legacy"
-    Rumi's birth in Balkh connects this ancient city to one of the greatest mystical poets in world literature.
+!!! quote "میراث مولانا"
+    تولد مولانا در بلخ این شهر باستانی را به یکی از بزرگترین شاعران عرفانی ادبیات جهان متصل می‌کند.
 
-## Decline and Legacy
+## افول و میراث
 
-Balkh suffered devastating destruction during the Mongol invasion in 1220 CE, which marked the beginning of its decline. Despite this, the city's legacy as a center of learning and culture continues to inspire.
+بلخ در حمله مغول در سال ۱۲۲۰ میلادی دچار ویرانی ویرانگر شد، که آغاز افول آن بود. با این وجود، میراث این شهر به عنوان مرکز دانش و فرهنگ همچنان الهام‌بخش است.
 
-### Modern Significance
-- **Archaeological Site**: Remains of ancient Balkh are important archaeological sites
-- **Cultural Heritage**: Symbol of Afghanistan's rich pre-Islamic and Islamic heritage
-- **Poetic Inspiration**: Continues to inspire poets and scholars worldwide
+### اهمیت امروزی
+- **سایت باستان‌شناسی**: بقایای بلخ باستان سایت‌های مهم باستان‌شناسی هستند
+- **میراث فرهنگی**: نماد میراث غنی پیش از اسلام و اسلامی افغانستان
+- **الهام شاعرانه**: همچنان الهام‌بخش شاعران و دانشمندان در سراسر جهان است
 
-## Further Reading
+## برای مطالعه بیشتر
 
-- [Molana (Rumi)](../poets/molana.md) - Born in Balkh
-- [Samanid Era](../eras/samanid.md) - Historical context
-- [Seljuk Era](../eras/seljuk.md) - Period of Mongol invasion
+- [مولانا](../poets/molana.fa.md) - متولد بلخ
+- [دوره سامانیان](../eras/samanid.fa.md) - زمینه تاریخی
+- [دوره سلجوقیان](../eras/seljuk.fa.md) - دوره حمله مغول

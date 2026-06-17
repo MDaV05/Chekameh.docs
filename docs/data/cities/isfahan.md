@@ -1,66 +1,66 @@
-# Isfahan
+# اصفهان
 
-!!! info "Quick Facts"
+!!! info "اطلاعات کلی"
     | | |
     |---|---|
-    | **Location** | Central Iran |
-    | **Historical Region** | Persian Empire, Safavid Iran |
-    | **Significance** | "Isfahan is Half the World," Safavid capital |
-    | **Era** | Safavid Empire (peak: 16th-17th centuries) |
+    | **موقعیت** | مرکز ایران |
+    | **منطقه تاریخی** | امپراتوری ایران، ایران صفوی |
+    | **اهمیت** | «اصفهان نصف جهان»، پایتخت صفوی |
+    | **دوره** | امپراتوری صفوی (اوج: قرن ۱۶-۱۷ میلادی) |
 
-## Historical Overview
+## نمای کلی تاریخی
 
-Isfahan, located in central Iran, reached its golden age under the Safavid dynasty, particularly during the reign of Shah Abbas the Great (1588–1629). The city became one of the largest and most beautiful cities in the world, renowned for its architecture, culture, and cosmopolitan atmosphere.
+اصفهان، واقع در مرکز ایران، به عصر طلایی خود تحت سلسله صفوی رسید، به ویژه در دوران حکومت شاه عباس کبیر (۱۵۸۸–۱۶۲۹ میلادی). این شهر به یکی از بزرگترین و زیباترین شهرهای جهان تبدیل شد، مشهور به معماری، فرهنگ و فضای کسموپولیتن خود.
 
-### Safavid Capital
-Under Shah Abbas I, Isfahan became:
-- **Imperial Capital**: Center of the Safavid Empire
-- **Cultural Center**: Hub of Persian art, architecture, and literature
-- **Commercial Hub**: Major center of international trade
+### پایتخت صفوی
+تحت شاه عباس اول، اصفهان تبدیل شد به:
+- **پایتخت امپراتوری**: مرکز امپراتوری صفوی
+- **مرکز فرهنگی**: قطب هنر، معماری و ادبیات فارسی
+- **مرکز تجاری**: مرکز بزرگ تجارت بین‌المللی
 
-### Architectural Marvels
-Isfahan's architectural achievements are legendary:
-- **Naqsh-e Jahan Square**: One of the largest squares in the world, a UNESCO World Heritage Site
-- **Shah Mosque**: Masterpiece of Islamic architecture with stunning blue tiles
-- **Ali Qapu Palace**: Magnificent royal palace with music rooms
-- **Si-o-se Pol and Khaju Bridges**: Beautiful bridges that also served as public gathering spaces
-- **Chehel Sotoun**: Palace with beautiful gardens and frescoes
+### شگفتی‌های معماری
+دستاوردهای معماری اصفهان افسانه‌ای است:
+- **میدان نقش جهان**: یکی از بزرگترین میدان‌های جهان، میراث جهانی یونسکو
+- **مسجد شاه**: شاهکار معماری اسلامی با کاشی‌های آبی خیره‌کننده
+- **کاخ عالی‌قاپو**: کاخ سلطنتی باشکوه با اتاق‌های موسیقی
+- **سی‌وسه پل و پل خواجو**: پل‌های زیبایی که همچنین به عنوان فضاهای گردهمایی عمومی خدمت می‌کردند
+- **چهل‌ستون**: کاخ با باغ‌های زیبا و نقاشی‌های دیواری
 
-## Famous Poets
+## شاعران مشهور
 
-### [Saeb Tabrizi](../poets/saeb-tabrizi.md)
-**Saeb Tabrizi** (1603–1676), though born in Tabriz, spent most of his life in Isfahan and is closely associated with the city. He served as the court poet laureate (Malek al-Sho'ara) under Shah Abbas II and became the greatest master of the Indian Style (Isfahani Style) of Persian poetry.
+### [صائب تبریزی](../poets/saeb-tabrizi.fa.md)
+**صائب تبریزی** (۱۶۰۳–۱۶۷۶ میلادی)، اگرچه در تبریز متولد شد، بیشتر عمر خود را در اصفهان گذراند و به شدت با این شهر مرتبط است. او به عنوان شاعر درباری (ملک‌الشعرا) تحت شاه عباس دوم خدمت کرد و به بزرگترین استاد سبک هندی (سبک اصفهانی) شعر فارسی تبدیل شد.
 
-!!! quote "Saeb in Isfahan"
-    Saeb lived in the Abbasabad neighborhood of Isfahan, where his house became a gathering place for poets, scholars, and artists during the city's cultural golden age.
+!!! quote "صائب در اصفهان"
+    صائب در محله عباس‌آباد اصفهان زندگی می‌کرد، جایی که خانه‌اش محل گردهمایی شاعران، دانشمندان و هنرمندان در دوران طلایی فرهنگی شهر بود.
 
-### Cultural Environment
-Isfahan in the 17th century was:
-- **Population**: Approximately 500,000 people, making it larger than most European cities
-- **Cosmopolitan**: Home to Persians, Armenians, Jews, Indians, and Europeans
-- **Intellectual Center**: Attracted scholars, poets, and artists from across the Islamic world
+### محیط فرهنگی
+اصفهان در قرن هفدهم:
+- **جمعیت**: حدود ۵۰۰٬۰۰۰ نفر، که آن را بزرگتر از بیشتر شهرهای اروپایی می‌کرد
+- **کسموپولیتن**: خانه ایرانیان، ارمنیان، یهودیان، هندی‌ها و اروپاییان
+- **مرکز فکری**: دانشمندان، شاعران و هنرمندان را از سراسر جهان اسلامی جذب می‌کرد
 
-## Cultural Legacy
+## میراث فرهنگی
 
-Isfahan's legacy as a center of Persian culture continues to this day:
+میراث اصفهان به عنوان مرکز فرهنگ فارسی تا امروز ادامه دارد:
 
-### Architectural Heritage
-- **UNESCO Sites**: Multiple UNESCO World Heritage Sites
-- **Preservation**: Well-preserved Safavid architecture
-- **Influence**: Inspired architecture across the Islamic world
+### میراث معماری
+- **سایت‌های یونسکو**: سایت‌های میراث جهانی یونسکو متعدد
+- **حفاظت**: معماری صفوی به خوبی حفظ شده
+- **تأثیر**: معماری را در سراسر جهان اسلامی الهام بخشید
 
-### Literary Significance
-- **Poetic Center**: Major center for Persian poetry during the Safavid era
-- **Indian Style**: Birthplace of the Isfahani/Indian Style of poetry
-- **Literary Salons**: Home to numerous literary gatherings and salons
+### اهمیت ادبی
+- **مرکز شعری**: مرکز بزرگ شعر فارسی در دوران صفوی
+- **سبک هندی**: زادگاه سبک اصفهانی/هندی شعر
+- **محافل ادبی**: خانه گردهمایی‌ها و محافل ادبی متعدد
 
-### Modern Isfahan
-- **Tourist Destination**: One of Iran's most popular tourist destinations
-- **Cultural Capital**: Continues to be an important cultural center in Iran
-- **Educational Hub**: Home to universities and research institutions
+### اصفهان امروزی
+- **مقصد توریستی**: یکی از محبوب‌ترین مقاصد توریستی ایران
+- **پایتخت فرهنگی**: همچنان یک مرکز فرهنگی مهم در ایران باقی مانده است
+- **مرکز آموزشی**: خانه دانشگاه‌ها و مؤسسات تحقیقاتی
 
-## Further Reading
+## برای مطالعه بیشتر
 
-- [Saeb Tabrizi](../poets/saeb-tabrizi.md) - Court poet of Isfahan
-- [Safavid Era](../eras/safavid.md) - Isfahan as Safavid capital
-- [Indian Style](../poets/saeb-tabrizi.md#literary-style-the-indian-style-isfahani) - Poetic style developed in Isfahan
+- [صائب تبریزی](../poets/saeb-tabrizi.fa.md) - شاعر درباری اصفهان
+- [دوره صفویان](../eras/safavid.fa.md) - اصفهان به عنوان پایتخت صفوی
+- [سبک هندی](../poets/saeb-tabrizi.fa.md#سبک-ادبی-سبک-هندی-اصفهانی) - سبک شعری توسعه یافته در اصفهان

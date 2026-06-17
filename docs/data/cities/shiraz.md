@@ -1,76 +1,76 @@
-# Shiraz
+# شیراز
 
-!!! info "Quick Facts"
+!!! info "اطلاعات کلی"
     | | |
     |---|---|
-    | **Location** | Southern Iran, Fars Province |
-    | **Historical Region** | Persis, Fars |
-    | **Significance** | "City of Poets and Roses," cultural capital of Iran |
-    | **Era** | Various dynasties, peak during Ilkhanate and Timurid periods |
+    | **موقعیت** | جنوب ایران، استان فارس |
+    | **منطقه تاریخی** | پارس، فارس |
+    | **اهمیت** | «شهر شاعران و گل‌ها»، پایتخت فرهنگی ایران |
+    | **دوره** | سلسله‌های مختلف، اوج در دوره ایلخانی و تیموری |
 
-## Historical Overview
+## نمای کلی تاریخی
 
-Shiraz, located in southern Iran in Fars Province, has been one of the most important cultural centers of Persia for over a millennium. Known as the "City of Poets and Roses," it has produced some of the greatest figures in Persian literature.
+شیراز، واقع در جنوب ایران در استان فارس، برای بیش از یک هزاره یکی از مهم‌ترین مراکز فرهنگی ایران بوده است. این شهر که به «شهر شاعران و گل‌ها» معروف است، برخی از بزرگترین چهره‌های ادبیات فارسی را پرورش داده است.
 
-### Cultural Capital
-Shiraz's significance as a cultural center:
-- **City of Poets**: Birthplace and home of Saadi and Hafez, two of Persia's greatest poets
-- **Gardens and Roses**: Famous for its beautiful gardens, particularly the Eram Garden
-- **Tolerance**: Known for its relatively tolerant and cosmopolitan atmosphere
-- **Literary Salons**: Home to numerous literary gatherings and intellectual circles
+### پایتخت فرهنگی
+اهمیت شیراز به عنوان مرکز فرهنگی:
+- **شهر شاعران**: زادگاه و خانه سعدی و حافظ، دو تن از بزرگترین شاعران ایران
+- **باغ‌ها و گل‌ها**: مشهور به باغ‌های زیبا، به ویژه باغ ارم
+- **تحمل‌پذیری**: به خاطر فضای نسبتاً متحمل و کسموپولیتن خود معروف است
+- **محافل ادبی**: خانه گردهمایی‌های ادبی و حلقه‌های فکری متعدد
 
-### Historical Periods
-Shiraz flourished under various dynasties:
-- **Buyid Period**: Cultural renaissance under Buyid rulers
-- **Salghurid Atabegs**: Patronage of Saadi during this period
-- **Muzaffarid Dynasty**: Hafez lived during this turbulent period
-- **Safavid and Later**: Continued cultural importance
+### دوره‌های تاریخی
+شیراز تحت سلسله‌های مختلف شکوفا شد:
+- **دوره آل بویه**: رنسانس فرهنگی تحت حاکمان آل بویه
+- **اتابکان سلغری**: حمایت از سعدی در این دوره
+- **سلسله مظفری**: حافظ در این دوره پرتلاش زندگی کرد
+- **صفوی و بعد از آن**: اهمیت فرهنگی ادامه‌دار
 
-## Famous Poets
+## شاعران مشهور
 
-### [Saadi Shirazi](../poets/saadi.md)
-**Saadi Shirazi** (c. 1210–1292) was born in Shiraz and spent most of his life there, except for his thirty years of travels. He returned to Shiraz and composed his masterpieces, the **Gulistan** (1258) and **Bustan** (1257), in this city.
+### [سعدی شیرازی](../poets/saadi.fa.md)
+**سعدی شیرازی** (حدود ۱۲۱۰–۱۲۹۲ میلادی) در شیراز متولد شد و بیشتر عمر خود را در آنجا گذراند، به جز سی سال سفرهایش. او به شیراز بازگشت و شاهکارهایش، **گلستان** (۱۲۵۸) و **بوستان** (۱۲۵۷)، را در این شهر سرود.
 
-!!! quote "Saadi in Shiraz"
-    Saadi's tomb, the Saadiyeh, is one of Shiraz's most important cultural sites, featuring beautiful gardens and architecture that reflect the poet's legacy.
+!!! quote "سعدی در شیراز"
+    آرامگاه سعدی، سعدیه، یکی از مهم‌ترین سایت‌های فرهنگی شیراز است، با باغ‌ها و معماری زیبایی که میراث شاعر را منعکس می‌کند.
 
-### [Hafez](../poets/hafez.md)
-**Hafez** (c. 1315–1390) was born, lived, and died in Shiraz. The city's cultural environment, its gardens, and its relatively tolerant atmosphere deeply influenced his poetry.
+### [حافظ](../poets/hafez.fa.md)
+**حافظ** (حدود ۱۳۱۵–۱۳۹۰ میلادی) در شیراز متولد شد، زندگی کرد و درگذشت. محیط فرهنگی شهر، باغ‌های آن و فضای نسبتاً متحمل آن تأثیر عمیقی بر شعر او گذاشت.
 
-!!! quote "Hafez in Shiraz"
-    Hafez's tomb, the Hafeziyeh, is one of the most visited cultural sites in Iran. Every night, people gather there to read his poetry and seek guidance through fal-e Hafez (divination using his verses).
+!!! quote "حافظ در شیراز"
+    آرامگاه حافظ، حافظیه، یکی از پربازدیدترین سایت‌های فرهنگی ایران است. هر شب، مردم در آنجا گرد هم می‌آیند تا اشعار او را بخوانند و از طریق فال حافظ (پیشگویی با استفاده از ابیات او) راهنمایی بجویند.
 
-### Cultural Environment
-Shiraz in the 13th-14th centuries:
-- **Literary Hub**: Attracted poets and scholars from across the Persian-speaking world
-- **Gardens**: Famous gardens like Eram Garden inspired poetic imagery
-- **Relative Stability**: Despite political turmoil, Shiraz maintained cultural continuity
-- **Tolerance**: More tolerant than many other cities, allowing diverse intellectual expression
+### محیط فرهنگی
+شیراز در قرن‌های سیزدهم-چهاردهم:
+- **مرکز ادبی**: شاعران و دانشمندان را از سراسر جهان فارسی‌زبان جذب می‌کرد
+- **باغ‌ها**: باغ‌های مشهوری مانند باغ ارم الهام‌بخش تصویرسازی‌های شعری بودند
+- **ثبات نسبی**: با وجود آشوب سیاسی، شیراز تداوم فرهنگی را حفظ کرد
+- **تحمل‌پذیری**: متحمل‌تر از بسیاری از شهرهای دیگر، اجازه بیان فکری متنوع را می‌داد
 
-## Cultural Legacy
+## میراث فرهنگی
 
-Shiraz's legacy as the city of poetry continues to this day:
+میراث شیراز به عنوان شهر شعر تا امروز ادامه دارد:
 
-### Literary Heritage
-- **Saadi and Hafez**: Two of Persia's greatest poets called Shiraz home
-- **Poetic Tradition**: Strong tradition of poetry and literature continues
-- **Literary Tourism**: Thousands visit the tombs of Saadi and Hafez annually
+### میراث ادبی
+- **سعدی و حافظ**: دو تن از بزرگترین شاعران ایران شیراز را خانه خود می‌نامیدند
+- **سنت شعری**: سنت قوی شعر و ادبیات ادامه دارد
+- **گردشگری ادبی**: هزاران نفر سالانه از آرامگاه‌های سعدی و حافظ بازدید می‌کنند
 
-### Architectural Heritage
-- **Saadiyeh**: Beautiful tomb and garden complex dedicated to Saadi
-- **Hafeziyeh**: Magnificent tomb and garden complex dedicated to Hafez
-- **Eram Garden**: UNESCO World Heritage Site, famous Persian garden
-- **Nasir al-Mulk Mosque**: Known as the "Pink Mosque" for its stunning stained glass
+### میراث معماری
+- **سعدیه**: مجموعه آرامگاه و باغ زیبا اختصاص یافته به سعدی
+- **حافظیه**: مجموعه آرامگاه و باغ باشکوه اختصاص یافته به حافظ
+- **باغ ارم**: سایت میراث جهانی یونسکو، باغ ایرانی مشهور
+- **مسجد نصیرالملک**: معروف به «مسجد صورتی» به خاطر شیشه‌های رنگی خیره‌کننده‌اش
 
-### Modern Shiraz
-- **Cultural Capital**: Continues to be an important cultural center in Iran
-- **University City**: Home to Shiraz University and other educational institutions
-- **Tourist Destination**: Major tourist destination for cultural and historical tourism
-- **Festival City**: Hosts various cultural festivals, including poetry readings
+### شیراز امروزی
+- **پایتخت فرهنگی**: همچنان یک مرکز فرهنگی مهم در ایران باقی مانده است
+- **شهر دانشگاهی**: خانه دانشگاه شیراز و سایر مؤسسات آموزشی
+- **مقصد توریستی**: مقصد توریستی مهم برای گردشگری فرهنگی و تاریخی
+- **شهر جشنواره‌ها**: میزبان جشنواره‌های فرهنگی مختلف، از جمله خواندن شعر
 
-## Further Reading
+## برای مطالعه بیشتر
 
-- [Saadi Shirazi](../poets/saadi.md) - Born and lived in Shiraz
-- [Hafez](../poets/hafez.md) - Born, lived, and died in Shiraz
-- [Ilkhanate Era](../eras/ilkhanate.md) - Historical context for Saadi and Hafez
-- [Timurid Era](../eras/timurid.md) - Later period of Shiraz's cultural importance
+- [سعدی شیرازی](../poets/saadi.fa.md) - متولد و ساکن شیراز
+- [حافظ](../poets/hafez.fa.md) - متولد، ساکن و درگذشته در شیراز
+- [دوره ایلخانیان](../eras/ilkhanate.fa.md) - زمینه تاریخی برای سعدی و حافظ
+- [دوره تیموریان](../eras/timurid.fa.md) - دوره بعدی اهمیت فرهنگی شیراز

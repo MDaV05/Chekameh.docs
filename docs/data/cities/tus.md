@@ -1,75 +1,75 @@
-# Tus
+# توس
 
-!!! info "Quick Facts"
+!!! info "اطلاعات کلی"
     | | |
     |---|---|
-    | **Location** | Northeastern Iran, near modern Mashhad |
-    | **Historical Region** | Greater Khorasan |
-    | **Significance** | Birthplace and burial place of Ferdowsi |
-    | **Era** | Samanid, Ghaznavid, and later periods |
+    | **موقعیت** | شمال شرقی ایران، نزدیک مشهد امروزی |
+    | **منطقه تاریخی** | خراسان بزرگ |
+    | **اهمیت** | زادگاه و محل دفن فردوسی |
+    | **دوره** | سامانیان، غزنویان و دوره‌های بعدی |
 
-## Historical Overview
+## نمای کلی تاریخی
 
-Tus (also spelled Toos) is an ancient city in northeastern Iran, near modern Mashhad in Khorasan Province. While the ancient city has largely disappeared, its historical significance is primarily due to its association with Ferdowsi, the greatest epic poet of Persia.
+توس (همچنین طوس نوشته می‌شود) یک شهر باستانی در شمال شرقی ایران، نزدیک مشهد امروزی در استان خراسان است. اگرچه شهر باستانی تا حد زیادی از بین رفته است، اهمیت تاریخی آن عمدتاً به خاطر ارتباطش با فردوسی، بزرگترین شاعر حماسی ایران است.
 
-### Ancient City
-Tus was one of the important cities of Greater Khorasan:
-- **Strategic Location**: Located on trade routes connecting Central Asia to western Iran
-- **Cultural Center**: Part of the vibrant cultural landscape of Khorasan
-- **Agricultural Region**: Surrounded by fertile agricultural lands
+### شهر باستانی
+توس یکی از شهرهای مهم خراسان بزرگ بود:
+- **موقعیت استراتژیک**: واقع در مسیرهای تجاری که آسیای مرکزی را به غرب ایران متصل می‌کرد
+- **مرکز فرهنگی**: بخشی از چشم‌انداز فرهنگی پرجوش و خروش خراسان
+- **منطقه کشاورزی**: احاطه شده توسط زمین‌های کشاورزی حاصلخیز
 
-### Historical Periods
-Tus existed through various periods:
-- **Samanid Period**: Part of the Samanid cultural renaissance
-- **Ghaznavid Period**: Ferdowsi lived here during the transition to Ghaznavid rule
-- **Mongol Invasion**: Suffered destruction during the Mongol invasion
-- **Later Periods**: Gradually declined, with modern Mashhad rising nearby
+### دوره‌های تاریخی
+توس در دوره‌های مختلف وجود داشت:
+- **دوره سامانی**: بخشی از رنسانس فرهنگی سامانی
+- **دوره غزنوی**: فردوسی در این دوره در زمان گذار به حکومت غزنوی زندگی می‌کرد
+- **حمله مغول**: در حمله مغول دچار ویرانی شد
+- **دوره‌های بعدی**: به تدریج افول کرد، با مشهد مدرن که در نزدیکی آن برخاست
 
-## Famous Poets
+## شاعران مشهور
 
-### [Ferdowsi](../poets/ferdowsi.md)
-**Ferdowsi** (c. 940–1020) was born in Tus (or nearby Paj) and spent most of his life in this region. He composed the monumental **Shahnameh** (Book of Kings) over 35 years, working primarily in Tus.
+### [فردوسی](../poets/ferdowsi.fa.md)
+**فردوسی** (حدود ۹۴۰–۱۰۲۰ میلادی) در توس (یا پاج نزدیک آن) متولد شد و بیشتر عمر خود را در این منطقه گذراند. او **شاهنامه** (کتاب پادشاهان) حماسی عظیم را طی ۳۵ سال سرود، و عمدتاً در توس کار می‌کرد.
 
-!!! quote "Ferdowsi in Tus"
-    Ferdowsi's tomb in Tus is one of Iran's most important cultural monuments. The magnificent mausoleum, built in the 1930s, combines elements of Achaemenid, Parthian, and Sasanian architecture, reflecting the pre-Islamic heritage that Ferdowsi preserved in his epic.
+!!! quote "فردوسی در توس"
+    آرامگاه فردوسی در توس یکی از مهم‌ترین بناهای فرهنگی ایران است. مقبره باشکوه، ساخته شده در دهه ۱۳۱۰ شمسی، عناصر معماری هخامنشی، اشکانی و ساسانی را ترکیب می‌کند و میراث پیش از اسلامی را که فردوسی در حماسه خود حفظ کرد منعکس می‌کند.
 
-### Life in Tus
-Ferdowsi's connection to Tus:
-- **Birthplace**: Born in the village of Paj, near Tus, around 940 CE
-- **Dehqan Background**: His family were from the dehqan (landed gentry) class of the region
-- **Composition of Shahnameh**: He worked on the Shahnameh for 35 years in this region
-- **Burial Place**: He was buried in Tus, where his tomb remains today
+### زندگی در توس
+ارتباط فردوسی با توس:
+- **زادگاه**: متولد در روستای پاج، نزدیک توس، حدود ۹۴۰ میلادی
+- **پیشینه دهقانی**: خانواده‌اش از طبقه دهقانان (اشراف زمین‌دار) منطقه بودند
+- **سرودن شاهنامه**: او ۳۵ سال در این منطقه روی شاهنامه کار کرد
+- **محل دفن**: در توس دفن شد، جایی که مقبره‌اش تا امروز باقی مانده است
 
-### Cultural Context
-Tus in the 10th-11th centuries:
-- **Khorasani Culture**: Part of the vibrant Khorasani cultural tradition
-- **Persian Identity**: Strong sense of Iranian cultural identity
-- **Scholarly Environment**: Access to historical sources and oral traditions
-- **Samanid Influence**: Benefited from the Samanid cultural renaissance
+### زمینه فرهنگی
+توس در قرن‌های دهم-یازدهم:
+- **فرهنگ خراسانی**: بخشی از سنت فرهنگی پرجوش و خروش خراسانی
+- **هویت ایرانی**: حس قوی هویت فرهنگی ایرانی
+- **محیط علمی**: دسترسی به منابع تاریخی و سنت‌های شفاهی
+- **تأثیر سامانی**: از رنسانس فرهنگی سامانی بهره‌مند شد
 
-## Cultural Legacy
+## میراث فرهنگی
 
-Tus's legacy is primarily tied to Ferdowsi and the Shahnameh:
+میراث توس عمدتاً به فردوسی و شاهنامه گره خورده است:
 
-### Literary Heritage
-- **Shahnameh**: The greatest epic poem in Persian literature was composed here
-- **Persian Language**: Ferdowsi's work preserved the Persian language
-- **National Identity**: The Shahnameh became a symbol of Iranian national identity
-- **Epic Tradition**: Established the template for Persian epic poetry
+### میراث ادبی
+- **شاهنامه**: بزرگترین شعر حماسی در ادبیات فارسی در اینجا سروده شد
+- **زبان فارسی**: کار فردوسی زبان فارسی را حفظ کرد
+- **هویت ملی**: شاهنامه به نماد هویت ملی ایرانی تبدیل شد
+- **سنت حماسی**: الگویی برای شعر حماسی فارسی ایجاد کرد
 
-### Architectural Heritage
-- **Ferdowsi's Tomb**: Magnificent mausoleum built in the 1930s
-- **Tus Archaeological Site**: Remains of the ancient city
-- **Cultural Center**: The tomb complex serves as a cultural center
+### میراث معماری
+- **آرامگاه فردوسی**: مقبره باشکوه ساخته شده در دهه ۱۳۱۰ شمسی
+- **سایت باستان‌شناسی توس**: بقایای شهر باستانی
+- **مرکز فرهنگی**: مجموعه مقبره به عنوان یک مرکز فرهنگی خدمت می‌کند
 
-### Modern Significance
-- **Pilgrimage Site**: Lovers of Persian literature visit Ferdowsi's tomb
-- **Ferdowsi Day**: Annual celebrations on Ferdowsi Day (25 Ordibehesht)
-- **Academic Study**: Center for study of Ferdowsi and the Shahnameh
-- **Cultural Symbol**: Represents the preservation of Iranian cultural heritage
+### اهمیت امروزی
+- **مکان زیارتی**: عاشقان ادبیات فارسی از آرامگاه فردوسی بازدید می‌کنند
+- **روز فردوسی**: جشن‌های سالانه در روز فردوسی (۲۵ اردیبهشت)
+- **مطالعه آکادمیک**: مرکز مطالعه فردوسی و شاهنامه
+- **نماد فرهنگی**: نمایانگر حفظ میراث فرهنگی ایرانی
 
-## Further Reading
+## برای مطالعه بیشتر
 
-- [Ferdowsi](../poets/ferdowsi.md) - Born and buried in Tus
-- [Samanid Era](../eras/samanid.md) - Historical context of Ferdowsi's early life
-- [Ghaznavid Era](../eras/ghaznavid.md) - Historical context of Ferdowsi's later years
+- [فردوسی](../poets/ferdowsi.fa.md) - متولد و مدفون در توس
+- [دوره سامانیان](../eras/samanid.fa.md) - زمینه تاریخی زندگی اولیه فردوسی
+- [دوره غزنویان](../eras/ghaznavid.fa.md) - زمینه تاریخی سال‌های آخر فردوسی

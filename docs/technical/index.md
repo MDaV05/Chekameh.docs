@@ -1,74 +1,76 @@
 ---
 template: main.html
-title: Technical Details - Chekameh
+title: جزئیات فنی - چکامه
+dir: rtl
+lang: fa
 ---
 
-# Technical Documentation
+# مستندات فنی
 
-This section covers how Chekameh was built — the architecture, tools, and decisions behind the project.
+این بخش پوشش می‌دهد که چکامه چگونه ساخته شد — معماری، ابزارها و تصمیم‌های پشت پروژه.
 
-## Overview
+## مرور کلی
 
-Chekameh combines historical research with modern web technology. The goal was to make Persian poetry accessible through interactive visualization while maintaining academic rigor.
+چکامه پژوهش تاریخی را با فناوری وب مدرن ترکیب می‌کند. هدف این بود که شعر فارسی را از طریق بصری‌سازی تعاملی قابل دسترس کنیم، در حالی که دقت آکادمیک را حفظ کنیم.
 
-## Stack & Tools
+## پشته و ابزارها
 
-### Frontend
-- Interactive map library
-- Timeline visualization
-- Responsive design for mobile and desktop
-- Bilingual support (English and Persian)
+### فرانت‌اند
+- کتابخانه نقشه تعاملی
+- بصری‌سازی خط زمانی
+- طراحی واکنش‌گرا برای موبایل و دسکتاپ
+- پشتیبانی دوزبانه (انگلیسی و فارسی)
 
-### Backend
-- Data processing pipelines
-- API for poet, city, and era information
-- Search functionality
+### بک‌اند
+- پایپلاین‌های پردازش داده
+- API برای اطلاعات شاعر، شهر و دوره
+- قابلیت جستجو
 
-### Data
-- Structured poet biographies
-- Geographic coordinates for historical cities
-- Timeline metadata
-- Poem collections and references
+### داده
+- بیوگرافی‌های ساختاریافته شاعران
+- مختصات جغرافیایی برای شهرهای تاریخی
+- فراداده خط زمانی
+- مجموعه‌ها و ارجاعات اشعار
 
-### AI Features
-- Chatbot for answering questions about poets and poems
-- Contextual suggestions based on location and era
+### ویژگی‌های هوش مصنوعی
+- چت‌بات برای پاسخ به سوالات درباره شاعران و اشعار
+- پیشنهادات زمینه‌ای بر اساس مکان و دوره
 
-## Key Features
+## ویژگی‌های کلیدی
 
-### Interactive Map
-The map shows literary centers across the Persian-speaking world. Toggle between eras to see how centers of poetry shifted over time. Click on cities to see which poets lived or worked there.
+### نقشه تعاملی
+نقشه مراکز ادبی را در سراسر جهان فارسی‌زبان نشان می‌دهد. بین دوره‌ها جابه‌جا شوید تا ببینید مراکز شعر چگونه در طول زمان تغییر کردند. روی شهرها کلیک کنید تا ببینید کدام شاعران آنجا زندگی یا کار می‌کردند.
 
-### Timeline
-Slide through centuries to see when each poet was active. The timeline syncs with the map — select a time period and the map updates to show relevant locations.
+### خط زمانی
+در طول قرن‌ها لغزش کنید تا ببینید هر شاعر کی فعال بود. خط زمانی با نقشه همگام می‌شود — یک دوره زمانی انتخاب کنید و نقشه به روز می‌شود تا مکان‌های مرتبط را نشان دهد.
 
-### Poet Profiles
-Each poet has a dedicated page with biographical info, major works, associated cities, and connections to other poets.
+### پروفایل شاعران
+هر شاعر صفحه اختصاصی با اطلاعات بیوگرافی، آثار مهم، شهرهای مرتبط و ارتباطات با سایر شاعران دارد.
 
-### Search
-Find poets by name, era, location, or keywords in their work.
+### جستجو
+شاعران را بر اساس نام، دوره، مکان یا کلمات کلیدی در آثارشان پیدا کنید.
 
-### Chatbot
-Ask natural language questions about Persian poetry. The bot draws from the site's data to provide context-aware answers.
+### چت‌بات
+سوالات زبان طبیعی درباره شعر فارسی بپرسید. بات از داده‌های سایت برای ارائه پاسخ‌های آگاه از زمینه استفاده می‌کند.
 
-## Architecture
+## معماری
 
-<!-- Detailed architecture docs to be added -->
+<!-- مستندات دقیق معماری بعداً اضافه می‌شود -->
 
-The system is designed to separate data from presentation. This makes it easier to update content without touching the codebase.
+سیستم طوری طراحی شده که داده را از نمایش جدا کند. این باعث می‌شود به‌روزرسانی محتوا بدون دست زدن به کدبیس آسان‌تر باشد.
 
-## Development Setup
+## راه‌اندازی توسعه
 
-<!-- Installation and setup instructions to be added -->
+<!-- دستورالعمل‌های نصب و راه‌اندازی بعداً اضافه می‌شود -->
 
-## API Reference
+## ارجاع API
 
-<!-- API documentation to be added -->
+<!-- مستندات API بعداً اضافه می‌شود -->
 
-## Contributing Code
+## مشارکت در کد
 
-See the [Resources section](/en/resources/) for guidelines on contributing to the codebase.
+بخش [منابع](/fa/resources/) را برای راهنمای مشارکت در کدبیس ببینید.
 
 ---
 
-*More technical details coming soon.*
+*جزئیات فنی بیشتر به زودی.*

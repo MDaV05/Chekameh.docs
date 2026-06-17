@@ -1,21 +1,21 @@
-# Seljuk Era (1037–1194 CE)
+# دوره سلجوقیان (۰۳۷–۱۱۹۴ میلادی)
 
-!!! abstract "Era Overview"
-    - **Period:** 1037 – 1194 CE
-    - **Literary Style:** Transition from Khorasani to Iraqi Style (Philosophical, mystical, and deeply introspective)
-    - **Cultural Centers:** Isfahan, Ray, Nishapur, Merv, Hamadan
-    - **Core Theme:** The rise of Sufi (mystical) poetry and the infusion of philosophical depth into literature.
+!!! abstract "نمای کلی دوره"
+    - **بازه زمانی:** ۱۰۳۷ – ۱۹۴ میلادی
+    - **سبک ادبی:** گذار از سبک خراسانی به سبک عراقی (فلسفی، عرفانی و به شدت درون‌گرا)
+    - **مراکز فرهنگی:** اصفهان، ری، نیشابور، مرو، همدان
+    - **مضمون اصلی:** ظهور شعر عرفانی (صوفیانه) و آمیختن عمق فلسفی با ادبیات.
 
-## Historical and Cultural Context
-The Great Seljuk Empire was a vast Turko-Persian Sunni Muslim empire that controlled a massive territory stretching from Central Asia to the borders of the Byzantine Empire. This era was marked by significant political centralization and the establishment of the Nizamiyyah universities (madrasas) by the brilliant vizier Nizam al-Mulk. 
+## زمینه تاریخی و فرهنگی
+امپراتوری بزرگ سلجوقی یک امپراتوری وسیع ترک-ایرانی و سنی‌مذهب بود که قلمرو عظیمی از آسیای مرکزی تا مرزهای امپراتوری بیزانس را کنترل می‌کرد. این دوره با تمرکز سیاسی قابل توجه و تأسیس مدارس نظامیه توسط خواجه نظام‌الملک، وزیر دانشمند، مشخص می‌شود.
 
-These institutions fostered a golden age of intellectual, theological, and philosophical debate. The synthesis of Persian administrative traditions, Turkic military power, and Islamic scholarship created a highly sophisticated cultural environment that profoundly influenced the direction of Persian literature.
+این نهادها عصر طلایی مباحث فکری، کلامی و فلسفی را پرورش دادند. تلفیق سنت‌های اداری ایرانی، قدرت نظامی ترک و دانش اسلامی، محیط فرهنگی بسیار پیچیده‌ای را ایجاد کرد که تأثیر عمیقی بر جهت‌گیری ادبیات فارسی گذاشت.
 
-## Literary Significance
-The Seljuk era represents a massive paradigm shift in Persian poetry. The simple, outward-looking, and court-focused Khorasani style gradually gave way to the more inward-looking, complex, and ornate **Iraqi Style**. 
+## اهمیت ادبی
+دوره سلجوقی نمایانگر یک تغییر پارادایم عظیم در شعر فارسی است. سبک ساده، برون‌گرا و دربارمحور خراسانی به تدریج جای خود را به **سبک عراقی** داد که درون‌گراتر، پیچیده‌تر و آراسته‌تر بود.
 
-The most defining characteristic of this period was the integration of **Sufism (Islamic mysticism)** into mainstream poetry. Poets began using the language of love, wine, and nature not just for physical description, but as allegories for the soul's journey toward the Divine. The *Ghazal* (lyric poem) began to replace the *Qasida* as the dominant form of expression, allowing for more intimate and emotional exploration of mystical and philosophical themes. The *Rubaiyat* also flourished as a vehicle for existential and skeptical thought.
+مهم‌ترین ویژگی این دوره، ادغام **تصوف (عرفان اسلامی)** در شعر جریان اصلی بود. شاعران شروع به استفاده از زبان عشق، باده و طبیعت نه فقط برای توصیف فیزیکی، بلکه به عنوان تمثیلی از سفر روح به سوی امر الهی کردند. غزل شروع به جایگزینی قصیده به عنوان قالب غالب بیان کرد و اجازه کاوش صمیمی‌تر و احساسی‌تر مضامین عرفانی و فلسفی را داد. رباعی نیز به عنوان وسیله‌ای برای اندیشه‌های وجودی و شکاکانه شکوفا شد.
 
-## Poets of the Era
-- [Khayyam](../poets/khayyam.md)
-- [Attar](../poets/attar.md)
+## شاعران این دوره
+- [خیام](../poets/khayyam.md)
+- [عطار](../poets/attar.md)

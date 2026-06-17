@@ -1,72 +1,72 @@
-# Samarkand
+# سمرقند
 
-!!! info "Quick Facts"
+!!! info "اطلاعات کلی"
     | | |
     |---|---|
-    | **Location** | Modern-day Uzbekistan |
-    | **Historical Region** | Transoxiana, Sogdiana |
-    | **Significance** | "Mirror of the World," jewel of the Silk Road |
-    | **Era** | Ancient Persian, Samanid, Timurid (peak) |
+    | **موقعیت** | ازبکستان امروزی |
+    | **منطقه تاریخی** | ماوراءالنهر، سغدیانه |
+    | **اهمیت** | «آینه جهان»، جواهر جاده ابریشم |
+    | **دوره** | ایران باستان، سامانیان، تیموریان (اوج) |
 
-## Historical Overview
+## نمای کلی تاریخی
 
-Samarkand, located in modern-day Uzbekistan, is one of the oldest continuously inhabited cities in Central Asia and was a major center of Persian culture, particularly during the Timurid period. Known as the "Mirror of the World" and "Rome of the East," it was a jewel of the Silk Road.
+سمرقند، واقع در ازبکستان امروزی، یکی از کهن‌ترین شهرهای پیوسته آباد در آسیای مرکزی و مرکز بزرگ فرهنگ فارسی، به ویژه در دوره تیموری بود. این شهر که به «آینه جهان» و «رم شرق» معروف است، جواهر جاده ابریشم بود.
 
-### Ancient City
-Samarkand has a history spanning over 2,500 years:
-- **Sogdian Capital**: Ancient center of Sogdian civilization
-- **Alexander the Great**: Conquered by Alexander in 329 BCE
-- **Islamic Conquest**: Conquered by Arab Muslims in 712 CE
-- **Mongol Destruction**: Devastated by Genghis Khan in 1220
+### شهر باستانی
+سمرقند تاریخی بیش از ۲۵۰۰ سال دارد:
+- **پایتخت سغدی**: مرکز باستانی تمدن سغدی
+- **اسکندر مقدونی**: توسط اسکندر در ۳۲۹ پیش از میلاد فتح شد
+- **فتح اسلامی**: توسط مسلمانان عرب در ۷۱۲ میلادی فتح شد
+- **ویرانی مغول**: توسط چنگیزخان در ۱۲۲۰ ویران شد
 
-### Timurid Golden Age
-Under the Timurids, particularly during the reign of Ulugh Beg (1409–1449), Samarkand reached its zenith:
-- **Architectural Splendor**: Magnificent buildings including the Registan Square
-- **Scientific Center**: Ulugh Beg's observatory and astronomical achievements
-- **Cultural Hub**: Center of Persian art, architecture, and learning
-- **Cosmopolitan City**: Diverse population of Persians, Turks, Arabs, and others
+### عصر طلایی تیموری
+تحت تیموریان، به ویژه در دوران حکومت اولوغ‌بیک (۱۴۰۹–۱۴۴۹)، سمرقند به اوج شکوفایی خود رسید:
+- **شکوه معماری**: ساختمان‌های باشکوه از جمله میدان ریگستان
+- **مرکز علمی**: رصدخانه اولوغ‌بیک و دستاوردهای نجومی
+- **مرکز فرهنگی**: مرکز هنر، معماری و دانش فارسی
+- **شهر کسموپولیتن**: جمعیت متنوعی از ایرانیان، ترک‌ها، عرب‌ها و دیگران
 
-## Famous Poets
+## شاعران مشهور
 
-### Connection to Persian Poets
-While Samarkand was not the primary home of any single great poet, it was an important cultural center that influenced and hosted many literary figures:
+### ارتباط با شاعران فارسی
+اگرچه سمرقند خانه اصلی هیچ شاعر بزرگ واحدی نبود، اما یک مرکز فرهنگی مهم بود که بسیاری از چهره‌های ادبی را تحت تأثیر قرار داد و میزبانی کرد:
 
-- **Rudaki**: Though born in nearby Panjrud, he was part of the broader Samarkand-Bukhara cultural sphere
-- **Various Poets**: Many poets passed through or were influenced by Samarkand's cultural environment
-- **Timurid Court**: The Timurid court in Samarkand patronized numerous poets and scholars
+- **رودکی**: اگرچه در پنجруд نزدیک آن متولد شد، بخشی از حوزه فرهنگی گسترده‌تر سمرقند-بخارا بود
+- **شاعران مختلف**: بسیاری از شاعران از سمرقند عبور کردند یا تحت تأثیر محیط فرهنگی آن قرار گرفتند
+- **دربار تیموری**: دربار تیموری در سمرقند از شاعران و دانشمندان متعدد حمایت می‌کرد
 
-### Cultural Environment
-Samarkand as a cultural center:
-- **Persian Language**: Persian was the language of high culture and administration
-- **Literary Patronage**: Timurid rulers actively supported poets and scholars
-- **Intellectual Exchange**: Crossroads of Persian, Turkic, and Islamic intellectual traditions
-- **Architectural Inspiration**: The city's beauty inspired poetic imagery
+### محیط فرهنگی
+سمرقند به عنوان یک مرکز فرهنگی:
+- **زبان فارسی**: فارسی زبان فرهنگ عالی و دیوان‌سالاری بود
+- **حمایت ادبی**: حاکمان تیموری فعالانه از شاعران و دانشمندان حمایت می‌کردند
+- **تبادل فکری**: چهارراه سنت‌های فکری فارسی، ترکی و اسلامی
+- **الهام معماری**: زیبایی شهر الهام‌بخش تصویرسازی‌های شعری بود
 
-## Cultural Legacy
+## میراث فرهنگی
 
-Samarkand's legacy as a center of Persian culture is primarily architectural and historical:
+میراث سمرقند به عنوان مرکز فرهنگ فارسی عمدتاً معماری و تاریخی است:
 
-### Architectural Heritage
-- **Registan Square**: One of the most magnificent public squares in the Islamic world
-- **Gur-e Amir**: Timur's tomb, a masterpiece of Islamic architecture
-- **Bibi-Khanym Mosque**: One of the largest mosques in the Islamic world
-- **Shah-i-Zinda**: Stunning necropolis with beautiful tilework
-- **Ulugh Beg Observatory**: Important astronomical site
+### میراث معماری
+- **میدان ریگستان**: یکی از باشکوه‌ترین میدان‌های عمومی در جهان اسلامی
+- **گور امیر**: مقبره تیمور، شاهکار معماری اسلامی
+- **مسجد بی‌بی‌خانم**: یکی از بزرگترین مساجد در جهان اسلامی
+- **شاه زنده**: آرامگاه خیره‌کننده با کاشی‌کاری‌های زیبا
+- **رصدخانه اولوغ‌بیک**: سایت نجومی مهم
 
-### UNESCO Recognition
-- **World Heritage Site**: Samarkand – Crossroads of Cultures is a UNESCO World Heritage Site
-- **Preservation**: Extensive restoration and preservation efforts
-- **Tourist Destination**: Major tourist attraction in Central Asia
+### به رسمیت شناختن یونسکو
+- **سایت میراث جهانی**: سمرقند – چهارراه فرهنگ‌ها یک سایت میراث جهانی یونسکو است
+- **حفاظت**: تلاش‌های گسترده بازسازی و حفاظت
+- **مقصد توریستی**: جاذبه توریستی مهم در آسیای مرکزی
 
-### Modern Significance
-- **Cultural Symbol**: Represents the rich Persian-Islamic heritage of Central Asia
-- **Academic Study**: Center for study of Timurid architecture and culture
-- **Cultural Tourism**: Attracts visitors interested in Islamic architecture and Persian history
-- **Regional Identity**: Important symbol of Uzbek cultural identity
+### اهمیت امروزی
+- **نماد فرهنگی**: نمایانگر میراث غنی فارسی-اسلامی آسیای مرکزی
+- **مطالعه آکادمیک**: مرکز مطالعه معماری و فرهنگ تیموری
+- **گردشگری فرهنگی**: بازدیدکنندگان علاقه‌مند به معماری اسلامی و تاریخ فارسی را جذب می‌کند
+- **هویت منطقه‌ای**: نماد مهم هویت فرهنگی ازبک
 
-## Further Reading
+## برای مطالعه بیشتر
 
-- [Rudaki](../poets/rudaki.md) - Part of the Samarkand-Bukhara cultural sphere
-- [Samanid Era](../eras/samanid.md) - Early Islamic period
-- [Timurid Era](../eras/timurid.md) - Samarkand's golden age
-- [Jami](../poets/jami.md) - Timurid era poet influenced by Samarkand's culture
+- [رودکی](../poets/rudaki.fa.md) - بخشی از حوزه فرهنگی سمرقند-بخارا
+- [دوره سامانیان](../eras/samanid.fa.md) - دوره اولیه اسلامی
+- [دوره تیموریان](../eras/timurid.fa.md) - عصر طلایی سمرقند
+- [جامی](../poets/jami.fa.md) - شاعر دوره تیموری تحت تأثیر فرهنگ سمرقند

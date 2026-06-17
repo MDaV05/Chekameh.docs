@@ -1,75 +1,77 @@
 ---
 template: main.html
-title: Data - Chekameh
+title: داده‌ها - چکامه
+dir: rtl
+lang: fa
 ---
 
-# Poets, Eras, and Cities
+# شاعران، دوره‌ها و شهرها
 
-This section holds the structured data behind Chekameh. Browse poets by era, explore literary centers, or dig into specific poem collections.
+این بخش داده‌های ساختاریافته پشت چکامه را نگه می‌دارد. شاعران را بر اساس دوره مرور کنید، مراکز ادبی را کاوش کنید، یا وارد مجموعه‌های خاص اشعار شوید.
 
-## What's Here
+## آنچه اینجا هست
 
-- **Eras** — The six historical periods of Persian poetry
-- **Poets** — Biographical profiles and works
-- **Cities** — Literary centers across the Persian-speaking world
-- **Poem Books** — Collections and anthologies
-
----
-
-## Eras
-
-<!-- Structure placeholder - content to be added -->
-
-| Era | Period | Status |
-|-----|--------|--------|
-| Samanid | 875–1000 CE | Coming soon |
-| Ghaznavid | 1000–1150 CE | Coming soon |
-| Seljuk | 1150–1300 CE | Coming soon |
-| Ilkhanate | 1260–1370 CE | Coming soon |
-| Timurid | 1370–1500 CE | Coming soon |
-| Safavid | 1500–1736 CE | Coming soon |
+- **دوره‌ها** — شش دوره تاریخی شعر فارسی
+- **شاعران** — پروفایل‌های بیوگرافی و آثار
+- **شهرها** — مراکز ادبی در سراسر جهان فارسی‌زبان
+- **کتاب‌های شعر** — مجموعه‌ها و گلچین‌ها
 
 ---
 
-## Poets
+## دوره‌ها
 
-<!-- Structure placeholder - content to be added -->
+<!-- جایگاه ساختار - محتوا بعداً اضافه می‌شود -->
 
-Profiles for each poet will include:
-
-- Birth and death dates
-- Key locations
-- Major works
-- Literary style and influences
-- Connections to other poets
-
----
-
-## Cities
-
-<!-- Structure placeholder - content to be added -->
-
-City entries will cover:
-
-- Historical names and modern equivalents
-- Time periods of literary activity
-- Notable poets associated with the city
-- Geographic and cultural context
+| دوره | بازه زمانی | وضعیت |
+|------|------------|--------|
+| سامانی | ۸۷۵–۱۰۰۰ میلادی | به زودی |
+| غزنوی | ۱۰۰۰–۱۱۵۰ میلادی | به زودی |
+| سلجوقی | ۱۱۵۰–۱۳۰۰ میلادی | به زودی |
+| ایلخانی | ۱۲۶۰–۱۳۷۰ میلادی | به زودی |
+| تیموری | ۱۳۷۰–۱۵۰۰ میلادی | به زودی |
+| صفوی | ۱۵۰۰–۱۷۳۶ میلادی | به زودی |
 
 ---
 
-## Poem Books
+## شاعران
 
-<!-- Structure placeholder - content to be added -->
+<!-- جایگاه ساختار - محتوا بعداً اضافه می‌شود -->
 
-Information on major collections:
+پروفایل هر شاعر شامل موارد زیر خواهد بود:
 
-- Shahnameh
-- Masnavi
-- Divan-e Hafez
-- Bustan and Gulistan
-- And more
+- تاریخ تولد و وفات
+- مکان‌های کلیدی
+- آثار مهم
+- سبک ادبی و تأثیرات
+- ارتباطات با سایر شاعران
 
 ---
 
-*Data is being added progressively. Check back for updates.*
+## شهرها
+
+<!-- جایگاه ساختار - محتوا بعداً اضافه می‌شود -->
+
+ورودی‌های شهر پوشش می‌دهند:
+
+- نام‌های تاریخی و معادل‌های مدرن
+- دوره‌های زمانی فعالیت ادبی
+- شاعران شاخص مرتبط با شهر
+- زمینه جغرافیایی و فرهنگی
+
+---
+
+## کتاب‌های شعر
+
+<!-- جایگاه ساختار - محتوا بعداً اضافه می‌شود -->
+
+اطلاعات درباره مجموعه‌های اصلی:
+
+- شاهنامه
+- مثنوی
+- دیوان حافظ
+- بوستان و گلستان
+- و بیشتر
+
+---
+
+*داده‌ها به تدریج اضافه می‌شوند. برای به‌روزرسانی‌ها مراجعه کنید.*

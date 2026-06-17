@@ -1,52 +1,52 @@
 /* ========================================
-   1. RTL / Farsi Support
+   1. Global RTL / Farsi Support
    ======================================== */
-html[lang="fa"] {
+body {
   direction: rtl;
   font-family: 'Vazirmatn', 'ESTEDAD', sans-serif;
 }
 
-html[lang="fa"] .md-sidebar--primary {
+.md-sidebar--primary {
   right: 0;
   left: auto;
   width: 11rem;
 }
 
-html[lang="fa"] .md-sidebar__scrollwrap {
+.md-sidebar__scrollwrap {
   max-width: 11rem;
 }
 
-html[lang="fa"] .md-sidebar--secondary {
+.md-sidebar--secondary {
   left: 0;
   right: auto;
 }
 
-html[lang="fa"] .md-content {
+.md-content {
   margin-right: 12.1rem;
   margin-left: 0;
   text-align: right;
 }
 
-html[lang="fa"] .md-header__topic {
+.md-header__topic {
   direction: rtl;
 }
 
-html[lang="fa"] .md-typeset h1,
-html[lang="fa"] .md-typeset h2,
-html[lang="fa"] .md-typeset h3 {
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
   text-align: right;
 }
 
-html[lang="fa"] .md-nav__item .md-nav__link {
+.md-nav__item .md-nav__link {
   font-size: 0.82rem;
   padding: 0.2rem 0.6rem;
 }
 
-html[lang="fa"] .md-tabs__list {
+.md-tabs__list {
   direction: rtl;
 }
 
-html[lang="fa"] .md-tabs__item {
+.md-tabs__item {
   float: right;
 }
 
@@ -64,85 +64,12 @@ html[lang="fa"] .md-tabs__item {
 }
 
 /* ========================================
-   3. Language Selector (Symmetrical, Clean, & Centered)
+   3. Language Selector Removal
+      (No longer needed for single-language site)
    ======================================== */
-.md-select {
-  min-width: 6.5rem;
-  max-width: 8rem;
-}
-
-.md-select__inner {
-  max-height: 10rem;
-  padding: 0.3rem 0; /* Perfectly uniform top/bottom interior padding */
-  border-radius: 12px !important;
-  overflow: hidden;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15) !important;
-  border: 1px solid rgba(0, 150, 136, 0.25) !important;
-  background: linear-gradient(180deg, #ffffff 0%, #f5f9f8 100%);
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-}
-
-.md-select__inner::-webkit-scrollbar {
-  display: none;
-}
-
-.md-select__list {
-  padding: 0;
-  margin: 0;
-  list-style: none;
-}
-
-.md-select__list li {
-  padding: 0;
-  margin: 0.2rem 0.4rem; /* Creates perfectly uniform margins on both sides of the box */
-}
-
-.md-select__link {
-  padding: 0.4rem 0.6rem !important;
-  font-size: 0.78rem !important;
-  border-radius: 7px !important;
-  margin: 0 !important; /* Resets any compounding lopsided margins */
-  width: 100%; /* Spans exactly to the uniform outer boundaries of the li */
-  box-sizing: border-box; 
-  transition: all 0.22s ease-in-out !important;
-  background: linear-gradient(135deg, rgba(0, 150, 136, 0.06), rgba(0, 121, 107, 0.04)) !important;
-  color: #00796b !important;
-  text-align: center !important; /* Forces perfect centering for both English and Farsi text */
-  display: block;
-}
-
-.md-select__link:hover {
-  background: linear-gradient(135deg, rgba(0, 150, 136, 0.18), rgba(0, 121, 107, 0.12)) !important;
-  color: #009688 !important;
-  transform: scale(1.03); /* Clean, centered scale zoom instead of pushing it lopsidedly to the right */
-}
-
-.md-select__link span {
-  font-size: 0.78rem;
-  line-height: 1.4;
-  display: inline-block;
-}
-
-.md-header__option {
-  padding: 0.2rem 0.4rem;
-}
-
+.md-select,
 .md-header__option[for="__language"] {
-  border-radius: 20px !important;
-  background: rgba(255, 255, 255, 0.2) !important;
-  padding: 0.3rem 0.8rem !important;
-  border: 1px solid rgba(255, 255, 255, 0.35) !important;
-  transition: all 0.3s ease !important;
-}
-
-.md-header__option[for="__language"]:hover {
-  background: rgba(255, 255, 255, 0.35) !important;
-  border-color: rgba(255, 255, 255, 0.6) !important;
-}
-
-.md-header__option[for="__language"] .md-icon {
-  color: white !important;
+  display: none !important;
 }
 
 /* ========================================
@@ -175,7 +102,6 @@ html[lang="fa"] .md-tabs__item {
 /* ========================================
    5. Modern Design Enhancements
    ======================================== */
-
 .md-header {
   background: linear-gradient(135deg, #009688 0%, #00796b 100%);
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
@@ -311,34 +237,8 @@ html {
 }
 
 /* ========================================
-   6. Search — magnifier always visible +
-      "Ctrl K" hint, opening a centered
-      floating dark modal (mkdocstrings.
-      github.io style).
-
-   Requires docs/overrides/partials/header.html
-   which keeps the magnifier icon AND adds a
-   "Ctrl K" hint next to it inside the SAME
-   <label for="__search">. The underlying
-   #__search checkbox/dialog and its JS are
-   untouched — only re-skinned below.
-
-   IMPORTANT: Material's own stylesheet sets
-   .md-search__inner, .md-search__overlay and
-   .md-search__output to height:100% / width:100%
-   / bottom:0 when [data-md-toggle=search]:checked.
-   Every one of those rules is re-declared here
-   with equal-or-higher specificity so the modal
-   renders as a fixed small card instead of a
-   full-viewport overlay (this was the bug in the
-   previous version — the box was inheriting
-   Material's full-screen checked-state sizing).
+   6. Search — Adaptive Floating Modal
    ======================================== */
-/* ========================================
-   6. Search — Adaptive Floating Modal (Light / Dark)
-   ======================================== */
-
-/* --- Trigger: magnifier + "Ctrl K" pill, always visible --- */
 .kbd-search-trigger {
   display: flex !important;
   align-items: center;
@@ -377,7 +277,6 @@ html {
   font-size: 0.85rem;
 }
 
-/* --- Overlay Dim Background --- */
 [data-md-toggle="search"]:checked ~ .md-header .md-search__overlay {
   position: fixed !important;
   top: 0 !important;
@@ -392,7 +291,6 @@ html {
   pointer-events: auto !important;
 }
 
-/* --- Adaptive Modal Shell --- */
 .md-search__inner,
 [data-md-toggle="search"]:checked ~ .md-header .md-search__inner {
   position: fixed;
@@ -409,7 +307,7 @@ html {
   padding: 0;
   border-radius: 14px;
   overflow: hidden;
-  background: var(--md-default-bg-color) !important; /* Dynamic theme background */
+  background: var(--md-default-bg-color) !important;
   color: var(--md-default-fg-color) !important;
   box-shadow: 0 24px 60px rgba(0, 0, 0, 0.15), 0 0 0 1px var(--md-default-fg-color--slowest);
   display: flex;
@@ -428,7 +326,6 @@ html {
   margin-top: 0 !important;
 }
 
-/* --- Form Row Inside Modal --- */
 .md-search__form {
   background: var(--md-default-bg-color) !important;
   border-radius: 0;
@@ -448,10 +345,6 @@ html {
   width: 50%;
   font-size: 0.95rem;
   padding: 0 2.4rem;
-  text-align: left;
-}
-
-html[lang="fa"] .md-search__input {
   text-align: right;
 }
 
@@ -460,16 +353,11 @@ html[lang="fa"] .md-search__input {
 }
 
 .md-search__icon.md-icon--search {
-  left: 1rem;
-  right: auto;
+  right: 1rem;
+  left: auto;
   top: 50%;
   transform: translateY(-50%);
   color: var(--md-default-fg-color--light) !important;
-}
-
-html[lang="fa"] .md-search__icon.md-icon--search {
-  right: 1rem;
-  left: auto;
 }
 
 .md-search__icon.md-icon--back {
@@ -478,23 +366,17 @@ html[lang="fa"] .md-search__icon.md-icon--search {
 
 .md-search__options {
   position: absolute;
-  right: 1rem;
-  left: auto;
+  left: 1rem;
+  right: auto;
   top: 50%;
   transform: translateY(-50%);
   display: flex;
-}
-
-html[lang="fa"] .md-search__options {
-  left: 1rem;
-  right: auto;
 }
 
 .md-search__options .md-icon {
   color: var(--md-default-fg-color--light) !important;
 }
 
-/* --- Search Results Area --- */
 .md-search__output {
   position: relative;
   background: var(--md-default-bg-color) !important;
@@ -534,14 +416,9 @@ html[lang="fa"] .md-search__options {
 }
 
 .md-search-result__article {
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-  padding-inline-start: 1rem !important;
-}
-
-html[lang="fa"] .md-search-result__article {
-  margin-left: 0 !important;
   margin-right: 1rem !important;
+  margin-left: 0 !important;
+  padding-inline-start: 1rem !important;
 }
 
 .md-search-result__title {
@@ -549,23 +426,20 @@ html[lang="fa"] .md-search-result__article {
   font-weight: 600;
   font-size: 0.88rem;
   margin: 0 0 0.2rem;
+  text-align: right;
 }
 
 .md-search-result__teaser {
   color: var(--md-default-fg-color--light) !important;
   font-size: 0.8rem;
   margin: 0;
+  text-align: right;
 }
 
 .md-search-result__teaser mark,
 .md-search-result__title mark {
   background: rgba(0, 150, 136, 0.2) !important;
   color: #00796b !important;
-}
-
-html[lang="fa"] .md-search-result__title,
-html[lang="fa"] .md-search-result__teaser {
-  text-align: right;
 }
 
 .md-search-result__link {
@@ -590,21 +464,6 @@ html[lang="fa"] .md-search-result__teaser {
 
 [data-md-color-scheme="slate"] .md-header {
   background: linear-gradient(135deg, #00796b 0%, #004d40 100%);
-}
-
-[data-md-color-scheme="slate"] .md-select__inner {
-  background: linear-gradient(180deg, #1e293b 0%, #0f172a 100%);
-  border-color: rgba(77, 182, 172, 0.3) !important;
-}
-
-[data-md-color-scheme="slate"] .md-select__link {
-  background: linear-gradient(135deg, rgba(77, 182, 172, 0.12), rgba(38, 166, 154, 0.08)) !important;
-  color: #4db6ac !important;
-}
-
-[data-md-color-scheme="slate"] .md-select__link:hover {
-  background: linear-gradient(135deg, rgba(77, 182, 172, 0.25), rgba(38, 166, 154, 0.18)) !important;
-  color: #80cbc4 !important;
 }
 
 [data-md-color-scheme="slate"] .md-top {

@@ -1,307 +1,306 @@
-# Hafez (c. 1315–1390 CE)
+# حافظ (حدود ۱۳۱۵–۱۳۹۰ میلادی)
 
-!!! info "Quick Facts"
+!!! info "اطلاعات کلی"
     | | |
     |---|---|
-    | **Full Name** | Shams al-Din Muhammad ibn Bahauddin Muhammad Hafez-e Shirazi |
-    | **Persian Name** | شمس‌الدین محمد بن بهاءالدین محمد حافظ شیرازی |
-    | **Pen Name (Takhallus)** | Hafez (meaning "one who has memorized the Quran") |
-    | **Born** | c. 1315–1320 CE, Shiraz, Ilkhanate/Muzaffarid Iran |
-    | **Died** | 1389–1390 CE (aged ~70), Shiraz |
-    | **Occupation** | Poet, Sufi mystic |
-    | **Era** | Ilkhanate / Muzaffarid / Early Timurid |
-    | **Masterpiece** | Divan-e Hafez (Collected Works) — approximately 500 ghazals |
-    | **Known For** | Master of the Persian ghazal, mystical and lyrical poetry, "Lisan al-Ghayb" (Tongue of the Unseen) |
+    | **نام کامل** | شمس‌الدین محمد بن بهاءالدین محمد حافظ شیرازی |
+    | **تخلص** | حافظ (به معنای کسی که قرآن را حفظ کرده است) |
+    | **تولد** | حدود ۱۳۱۵–۱۳۲۰ میلادی، شیراز، ایران ایلخانی/مظفری |
+    | **وفات** | ۱۳۸۹–۱۳۹۰ میلادی (حدود ۷۰ سالگی)، شیراز |
+    | **پیشه** | شاعر، عارف صوفی |
+    | **دوره** | ایلخانی / مظفری / اوایل تیموری |
+    | **شاهکار** | دیوان حافظ — حدود ۵۰۰ غزل |
+    | **معروف به** | استاد غزل فارسی، شعر عرفانی و غنایی، «لسان‌الغیب» |
 
-## Early Life and Background
+## زندگی اولیه و زمینه خانوادگی
 
-Shams al-Din Muhammad Hafez was born in Shiraz, one of the most beautiful and culturally rich cities of Persia (modern-day Iran). The exact date of his birth is uncertain, with most scholars placing it between 1315 and 1320 CE.
+شمس‌الدین محمد حافظ در شیراز، یکی از زیباترین و غنی‌ترین شهرهای فرهنگی ایران (ایران امروزی) متولد شد. تاریخ دقیق تولد او نامشخص است، با بیشتر محققان آن را بین ۱۳۱۵ و ۱۳۲۰ میلادی قرار می‌دهند.
 
-His family background was modest. His father, Baha al-Din, was reportedly a merchant or coal dealer. The young Muhammad received a traditional education and showed exceptional aptitude for literature and religious studies. His pen name "Hafez" (meaning "one who has memorized the Quran") indicates that he memorized the entire Quran at a young age, a significant achievement that earned him this honorific title.
+پیشینه خانوادگی او متوسط بود. پدرش، بهاءالدین، ظاهراً بازرگان یا زغال‌فروش بود. محمد جوان آموزش سنتی دریافت کرد و استعداد استثنایی در ادبیات و مطالعات دینی نشان داد. تخلص او «حافظ» (به معنای کسی که قرآن را حفظ کرده است) نشان می‌دهد که او در سنین جوانی کل قرآن را حفظ کرد، دستاوردی قابل توجه که این لقب افتخاری را برای او به ارمغان آورد.
 
-Little is definitively known about Hafez's early life. Some biographical accounts suggest he worked as a baker's apprentice in his youth, and there are legends about his early romantic experiences that influenced his poetry. However, much of what we know comes from his own verses, which contain autobiographical elements.
+اطلاعات قطعی کمی درباره زندگی اولیه حافظ در دست است. برخی گزارش‌های زندگی‌نامه‌ای نشان می‌دهند که او در جوانی به عنوان شاگرد نانوا کار می‌کرد، و افسانه‌هایی درباره تجربیات عاشقانه اولیه او وجود دارد که بر شعر او تأثیر گذاشت. با این حال، بیشتر آنچه می‌دانیم از ابیات خود او می‌آید که عناصر زندگی‌نامه‌ای دارند.
 
-## Historical Context: A Time of Turmoil
+## زمینه تاریخی: دوران آشوب
 
-Hafez lived during one of the most turbulent periods in Iranian history. The 14th century saw the collapse of the Ilkhanate (the Mongol dynasty that had ruled Persia), followed by a period of political fragmentation and civil war among various local dynasties, particularly the Muzaffarids who controlled Shiraz.
+حافظ در یکی از طوفانی‌ترین دوره‌های تاریخ ایران زندگی کرد. قرن چهاردهم شاهد فروپاشی ایلخانات (سلسله مغولی که بر ایران حکومت کرده بود) بود، که به دنبال آن دوره‌ای از تجزیه سیاسی و جنگ داخلی میان سلسله‌های محلی مختلف، به ویژه مظفریان که شیراز را کنترل می‌کردند، رخ داد.
 
-This era was marked by:
-- **Political instability:** Constant power struggles and shifting alliances
-- **Religious orthodoxy:** Increasing pressure from conservative religious authorities
-- **Social upheaval:** The aftermath of Mongol devastation and the Black Death
-- **Cultural resilience:** Despite turmoil, Shiraz remained a center of Persian culture and learning
+این دوره با موارد زیر مشخص می‌شد:
+- **بی‌ثباتی سیاسی:** مبارزات قدرت مداوم و اتحادهای متغیر
+- **ارتدوکسی مذهبی:** فشار فزاینده از مقامات مذهبی محافظه‌کار
+- **آشوب اجتماعی:** پیامدهای ویرانی مغول و طاعون سیاه
+- **تابآوری فرهنگی:** با وجود آشوب، شیراز مرکز فرهنگ و دانش فارسی باقی ماند
 
-Hafez witnessed the rise and fall of multiple rulers in Shiraz, including the Muzaffarid princes Abu Ishaq, Shah Shoja, and Shah Yahya. The political instability and religious hypocrisy he observed deeply influenced his poetry, which often critiques the pretentiousness of religious authorities and celebrates spiritual freedom.
+حافظ ظهور و سقوط حاکمان متعدد در شیراز را شاهد بود، از جمله شاهزادگان مظفری ابو اسحاق، شاه شجاع و شاه یحیی. بی‌ثباتی سیاسی و ریاکاری مذهبی که او مشاهده کرد تأثیر عمیقی بر شعر او گذاشت، که اغلب ریاکاری مقامات مذهبی را نقد می‌کند و آزادی معنوی را جشن می‌گیرد.
 
-## The Divan-e Hafez: A Masterpiece of Persian Literature
+## دیوان حافظ: شاهکار ادبیات فارسی
 
-### Composition and Scope
+### تألیف و دامنه
 
-Hafez's collected works, known as the **Divan-e Hafez**, consist primarily of approximately **500 ghazals** (lyric poems), along with a smaller number of qasidas (odes), mathnawis (couplets), and quatrains. The ghazals represent the pinnacle of his artistic achievement and have made him the most celebrated Persian poet in history.
+آثار گردآوری شده حافظ، که به عنوان **دیوان حافظ** شناخته می‌شود، عمدتاً شامل حدود **۵۰۰ غزل** است، به همراه تعداد کمتری قصیده، مثنوی و رباعی. غزل‌ها نشان‌دهنده اوج دستاورد هنری او هستند و او را به ستوده‌ترین شاعر فارسی در تاریخ تبدیل کرده‌اند.
 
-The Divan was not published during Hafez's lifetime. According to tradition, Hafez himself compiled and organized his ghazals late in life, though the exact process remains uncertain. After his death, his disciples and admirers collected and preserved his works, ensuring their transmission to future generations.
+دیوان در طول زندگی حافظ منتشر نشد. طبق سنت، حافظ خودش غزل‌هایش را در اواخر عمر گردآوری و سازماندهی کرد، هرچند فرآیند دقیق آن نامشخص باقی مانده است. پس از مرگ او، مریدان و admirer او آثارش را جمع‌آوری و حفظ کردند و انتقال آن‌ها را به نسل‌های آینده تضمین کردند.
 
-### The Art of the Ghazal
+### هنر غزل
 
-The **ghazal** is a lyric poem form that originated in Arabic poetry but reached its zenith in Persian literature, particularly through Hafez. The traditional ghazal consists of:
+**غزل** یک قالب شعر غنایی است که در شعر عربی ریشه دارد اما در ادبیات فارسی به اوج خود رسید، به ویژه از طریق حافظ. غزل سنتی شامل موارد زیر است:
 
-- **Structure:** Typically 5-15 couplets (bayts), each independent but thematically connected
-- **Rhyme scheme:** AA, BA, CA, DA, etc. (the first couplet establishes the rhyme, which continues in subsequent couplets)
-- **Radif:** A repeated word or phrase at the end of each couplet (optional but common in Hafez)
-- **Takhallus:** The poet's pen name appears in the final couplet
+- **ساختار:** معمولاً ۵-۱۵ بیت، هر کدام مستقل اما از نظر موضوعی مرتبط
+- **الگوی قافیه:** AA، BA، CA، DA و غیره (بیت اول قافیه را تعیین می‌کند، که در ابیات بعدی ادامه می‌یابد)
+- **ردیف:** یک کلمه یا عبارت تکراری در پایان هر بیت (اختیاری اما در حافظ رایج)
+- **تخلص:** تخلص شاعر در بیت آخر ظاهر می‌شود
 
-Hafez elevated the ghazal to unprecedented heights of artistic perfection. His ghazals are characterized by:
+حافظ غزل را به ارتفاعات بی‌سابقه‌ای از کمال هنری ارتقا داد. غزل‌های او با موارد زیر مشخص می‌شوند:
 
-- **Lyrical beauty:** Musical language with perfect rhythm and flow
-- **Emotional depth:** Genuine expressions of love, longing, joy, and sorrow
-- **Mystical layers:** Multiple levels of meaning, from earthly love to divine union
-- **Ambiguity:** Deliberate use of ambiguity that allows for multiple interpretations
-- **Wit and paradox:** Clever wordplay, paradoxes, and intellectual sophistication
+- **زیبایی غنایی:** زبان موسیقیایی با ریتم و جریان کامل
+- **عمق احساسی:** بیان‌های صادقانه عشق، اشتیاق، شادی و اندوه
+- **لایه‌های عرفانی:** سطوح متعدد معنایی، از عشق زمینی تا اتحاد الهی
+- **ابهام:** استفاده عمدی از ابهام که امکان تفسیرهای متعدد را فراهم می‌کند
+- **ظرافت و پارادوکس:** بازی کلمات هوشمندانه، پارادوکس‌ها و پیچیدگی فکری
 
-## Themes and Symbolism
+## مضامین و نمادشناسی
 
-Hafez's poetry explores a rich tapestry of themes, often using a sophisticated symbolic language that operates on multiple levels simultaneously:
+شعر حافظ فرش غنی از مضامین را کاوش می‌کند، اغلب با استفاده از زبان نمادین پیچیده‌ای که به طور همزمان در سطوح متعدد عمل می‌کند:
 
-### Love (Eshq)
+### عشق
 
-Love is the central theme of Hafez's poetry. However, his concept of love is multilayered:
+عشق مضمون مرکزی شعر حافظ است. با این حال، مفهوم او از عشق چندلایه است:
 
-- **Earthly love:** Romantic love between human beings, with all its passion, longing, and suffering
-- **Divine love:** The soul's yearning for union with God, a central theme in Sufi mysticism
-- **Universal love:** A cosmic force that unites all existence
+- **عشق زمینی:** عشق رمانتیک بین انسان‌ها، با تمام اشتیاق، اشتیاق و رنج آن
+- **عشق الهی:** اشتیاق روح برای اتحاد با خدا، مضمون مرکزی در عرفان صوفیانه
+- **عشق جهانی:** نیروی کیهانی که همه وجود را متحد می‌کند
 
-Hafez often blurs the boundaries between these levels, creating poetry that can be read as both secular love poetry and mystical allegory. This ambiguity is one of the defining characteristics of his art.
+حافظ اغلب مرزهای بین این سطوح را محو می‌کند، شعری ایجاد می‌کند که می‌تواند هم به عنوان شعر عشق سکولار و هم تمثیل عرفانی خوانده شود. این ابهام یکی از ویژگی‌های تعریف‌کننده هنر او است.
 
-### Wine and the Tavern
+### باده و میخانه
 
-Wine (mey/badeh) and the tavern (mey-kadeh) are among the most prominent symbols in Hafez's poetry. Their meanings operate on multiple levels:
+باده و میخانه از برجسته‌ترین نمادها در شعر حافظ هستند. معانی آن‌ها در سطوح متعدد عمل می‌کند:
 
-- **Literal:** Celebration of earthly pleasures, wine-drinking, and conviviality
-- **Mystical:** Wine symbolizes divine love, spiritual intoxication, and the annihilation of the self in God
-- **Subversive:** The tavern represents a space of spiritual freedom outside the constraints of religious orthodoxy
+- **لفظی:** جشن لذت‌های زمینی، باده‌نوشی و معاشرت
+- **عرفانی:** باده نماد عشق الهی، مستی معنوی و فنا در خدا است
+- **شورش‌گرانه:** میخانه فضایی از آزادی معنوی خارج از محدودیت‌های ارتدوکسی مذهبی را نمایان می‌کند
 
-Hafez's "wine" is not necessarily literal alcohol but a metaphor for the intoxicating experience of divine love and spiritual ecstasy. The "tavern" is the spiritual gathering place where seekers of truth find liberation from dogma.
+«باده» حافظ لزوماً الکل لفظی نیست بلکه استعاره‌ای از تجربه مست‌کننده عشق الهی و وجد معنوی است. «میخانه» مکان گردهمایی معنوی است که جویندگان حقیقت در آن رهایی از دگم را می‌یابند.
 
-### The Beloved
+### معشوق
 
-The "Beloved" (yar, mahbub, dust) in Hafez's poetry is an enigmatic figure who can represent:
+«معشوق» (یار، محبوب، دوست) در شعر حافظ شخصیتی رمزآلود است که می‌تواند نمایانگر موارد زیر باشد:
 
-- **Human beloved:** A specific person, often idealized
-- **Divine beloved:** God or the ultimate reality
-- **Abstract ideal:** Beauty, truth, or perfection itself
+- **معشوق انسانی:** یک شخص خاص، اغلب آرمانی شده
+- **معشوق الهی:** خدا یا حقیقت نهایی
+- **آرمان انتزاعی:** زیبایی، حقیقت یا کمال itself
 
-The Beloved is typically portrayed as distant, capricious, and cruel—traits that reflect both the nature of earthly love and the Sufi concept of God's apparent indifference to the seeker's suffering.
+معشوق معمولاً به عنوان دور، دمدمی‌مزاج و بی‌رحم به تصویر کشیده می‌شود—ویژگی‌هایی که هم ماهیت عشق زمینی و هم مفهوم صوفیانه بی‌تفاوتی ظاهری خدا به رنج جوینده را منعکس می‌کنند.
 
-### The Sufi Path
+### مسیر صوفی
 
-Hafez frequently uses the imagery and terminology of Sufism:
+حافظ مکرراً از تصویرسازی و اصطلاحات تصوف استفاده می‌کند:
 
-- **The Way (tariqat):** The spiritual path toward God
-- **The Guide (pir, murshid):** The spiritual master who guides the seeker
-- **Annihilation (fana):** The dissolution of the ego in divine union
-- **The Friend (dust):** God or the spiritual guide
+- **طریقت:** مسیر معنوی به سوی خدا
+- **پیر، مرشد:** استاد معنوی که جوینده را هدایت می‌کند
+- **فنا:** انحلال خود در اتحاد الهی
+- **دوست:** خدا یا راهنمای معنوی
 
-However, Hafez often critiques institutional Sufism and the hypocrisy of those who claim spiritual attainment while lacking genuine devotion.
+با این حال، حافظ اغلب تصوف نهادی و ریاکاری کسانی را که ادعای attainment معنوی دارند در حالی که devotion واقعی ندارند، نقد می‌کند.
 
-### Critique of Religious Hypocrisy
+### نقد ریاکاری مذهبی
 
-One of Hafez's most distinctive themes is his sharp critique of religious hypocrisy. He frequently attacks:
+یکی از متمایزترین مضامین حافظ نقد تیز او از ریاکاری مذهبی است. او مکرراً حمله می‌کند به:
 
-- **The ascetic (zahed):** Who practices outward piety but lacks inner spirituality
-- **The preacher (va'ez):** Who preaches moral rules he doesn't follow
-- **The Sufi hypocrite (sufi-riya):** Who uses spirituality for social status
-- **The jurist (faqih):** Who focuses on legalistic interpretations while missing the spirit of religion
+- **زاهد:** که پارسایی بیرونی را تمرین می‌کند اما معنویت درونی ندارد
+- **واعظ:** که قوانین اخلاقی را موعظه می‌کند که خودش دنبال نمی‌کند
+- **صوفی ریاکار:** که از معنویت برای جایگاه اجتماعی استفاده می‌کند
+- **فقیه:** که بر تفسیرهای قانون‌گرایانه تمرکز می‌کند در حالی که روح دین را از دست می‌دهد
 
-Hafez champions genuine spiritual experience over religious formalism, advocating for a direct, personal relationship with the divine rather than adherence to external rules.
+حافظ تجربه معنوی واقعی را بر رسمی‌گرایی مذهبی تأیید می‌کند، و از رابطه مستقیم و شخصی با الهی به جای پایبندی به قوانین بیرونی حمایت می‌کند.
 
-## Literary Style and Innovations
+## سبک ادبی و نوآوری‌ها
 
-### Linguistic Mastery
+### تسلط زبانی
 
-Hafez's language is renowned for its:
+زبان حافظ به خاطر موارد زیر مشهور است:
 
-- **Musicality:** Perfect rhythm and melodic flow that makes his poems ideal for singing
-- **Conciseness:** Ability to express complex ideas in minimal words
-- **Rich vocabulary:** Extensive use of Persian vocabulary with precise word choice
-- **Metaphorical density:** Multiple layers of meaning packed into each verse
+- **موسیقیایی بودن:** ریتم کامل و جریان آهنگین که اشعار او را برای آواز خواندن ایده‌آل می‌کند
+- **ایجاز:** توانایی بیان ایده‌های پیچیده در کلمات حداقل
+- **واژگان غنی:** استفاده گسترده از واژگان فارسی با انتخاب دقیق کلمات
+- **تراکم استعاری:** لایه‌های متعدد معنایی فشرده در هر بیت
 
-### Ambiguity and Multivalence
+### ابهام و چندمعنایی
 
-Perhaps Hafez's greatest innovation is his deliberate use of **ambiguity** (ihham). His verses often have multiple valid interpretations:
+شاید بزرگترین نوآوری حافظ استفاده عمدی او از **ابهام** (ایهام) باشد. ابیات او اغلب تفسیرهای معتبر متعدد دارند:
 
-- A verse can be read as describing earthly love or divine love
-- "Wine" can mean literal wine or spiritual ecstasy
-- The "Beloved" can be human or divine
+- یک بیت می‌تواند به عنوان توصیف عشق زمینی یا عشق الهی خوانده شود
+- «باده» می‌تواند باده لفظی یا وجد معنوی باشد
+- «معشوق» می‌تواند انسانی یا الهی باشد
 
-This multivalence allows readers from different backgrounds and with different perspectives to find meaning in his poetry. It also protects his more subversive ideas from censorship by religious authorities.
+این چندمعنایی به خوانندگانی از پیشینه‌های مختلف و با دیدگاه‌های مختلف اجازه می‌دهد معنایی در شعر او بیابند. همچنین از ایده‌های شورش‌گرانه‌تر او در برابر سانسور توسط مقامات مذهبی محافظت می‌کند.
 
-### The Riddle-like Quality
+### کیفیت چیستانی
 
-Many of Hafez's ghazals have a riddle-like quality, where the meaning is not immediately apparent but reveals itself through contemplation. This intellectual depth invites repeated readings and ongoing interpretation.
+بسیاری از غزل‌های حافظ کیفیت چیستانی دارند، جایی که معنی بلافاصله آشکار نیست بلکه از طریق تأمل خود را نشان می‌دهد. این عمق فکری خواندن‌های مکرر و تفسیر مداوم را دعوت می‌کند.
 
-### Integration of Opposites
+### تلفیق متضادها
 
-Hafez masterfully integrates seemingly contradictory elements:
+حافظ به طور ماهرانه عناصر به ظاهر متضاد را ادغام می‌کند:
 
-- Joy and sorrow
-- Earthly and divine
-- Seriousness and playfulness
-- Rebellion and submission
-- Certainty and doubt
+- شادی و اندوه
+- زمینی و الهی
+- جدیت و بازیگوشی
+- شورش و تسلیم
+- یقین و شک
 
-This integration reflects the Sufi understanding that apparent opposites are ultimately unified in the divine reality.
+این تلفیق درک صوفیانه را منعکس می‌کند که متضادهای ظاهری در نهایت در حقیقت الهی متحد می‌شوند.
 
-## Hafez and Sufism
+## حافظ و تصوف
 
-### Relationship to Sufi Traditions
+### رابطه با سنت‌های صوفیانه
 
-Hafez is often classified as a Sufi poet, but his relationship to institutional Sufism is complex:
+حافظ اغلب به عنوان شاعر صوفی طبقه‌بندی می‌شود، اما رابطه او با تصوف نهادی پیچیده است:
 
-- **Deeply influenced by Sufism:** His imagery, terminology, and spiritual concerns are rooted in Sufi tradition
-- **Critical of institutional Sufism:** He frequently critiques Sufi orders, teachers, and practices when they become formalistic or hypocritical
-- **Independent spiritual path:** Hafez appears to have followed his own spiritual path rather than affiliating with a specific Sufi order
+- **عمیقاً تحت تأثیر تصوف:** تصویرسازی، اصطلاحات و نگرانی‌های معنوی او در سنت صوفیانه ریشه دارد
+- **منتقد تصوف نهادی:** او مکرراً طریقت‌های صوفی، استادان و اعمال را وقتی رسمی‌گرا یا ریاکار می‌شوند، نقد می‌کند
+- **مسیر معنوی مستقل:** حافظ به نظر می‌رسد مسیر معنوی خود را دنبال می‌کرد تا اینکه با طریقت صوفی خاصی مرتبط شود
 
-### Spiritual Philosophy
+### فلسفه معنوی
 
-Hafez's spiritual philosophy emphasizes:
+فلسفه معنوی حافظ بر موارد زیر تأکید می‌کند:
 
-- **Direct experience:** Personal, immediate encounter with the divine rather than secondhand knowledge
-- **Love as the path:** Love (eshq) as the primary means of spiritual transformation
-- **Annihilation of ego:** The necessity of transcending the self to achieve union with God
-- **Rejection of dogma:** Skepticism toward rigid religious doctrines and institutional authority
-- **Celebration of life:** Embracing the present moment and the beauty of existence
+- **تجربه مستقیم:** مواجهه شخصی و فوری با الهی به جای دانش دست دوم
+- **عشق به عنوان مسیر:** عشق (عشق) به عنوان وسیله اصلی تحول معنوی
+- **فنا خود:** ضرورت فراتر رفتن از خود برای دستیابی به اتحاد با خدا
+- **رد دگم:** شکاکیت نسبت به آموزه‌های مذهبی سخت‌گیرانه و اقتدار نهادی
+- **جشن زندگی:** پذیرش لحظه حال و زیبایی وجود
 
-### Influence of Ibn Arabi
+### تأثیر ابن عربی
 
-Some scholars have identified the influence of Ibn Arabi's concept of **wahdat al-wujud** (unity of existence) in Hafez's poetry. This Sufi doctrine holds that all existence is a manifestation of the divine, and the apparent multiplicity of the world is ultimately an illusion.
+برخی محققان تأثیر مفهوم ابن عربی **وحدت وجود** را در شعر حافظ شناسایی کرده‌اند. این دکترین صوفیانه معتقد است که همه وجود تجلی الهی است، و کثرت ظاهری جهان در نهایت توهم است.
 
-## Historical Reception and Legend
+## پذیرش تاریخی و افسانه
 
-### During His Lifetime
+### در طول زندگی‌اش
 
-Hafez appears to have been recognized as a great poet during his lifetime, though he did not achieve the universal acclaim he would later receive. He had patrons among the ruling elite of Shiraz, particularly Shah Shoja, to whom he addressed several poems.
+حافظ به نظر می‌رسد به عنوان شاعر بزرگی در طول زندگی‌اش شناخته شده بود، هرچند تحسین جهانی که بعداً دریافت می‌کرد را نداشت. او حامیانی میان نخبگان حاکم شیراز داشت، به ویژه شاه شجاع، که چندین شعر به او خطاب کرد.
 
-However, Hafez also faced opposition from conservative religious authorities who were troubled by his celebration of wine, his critiques of religious hypocrisy, and the ambiguous nature of his poetry.
+با این حال، حافظ همچنین با مخالفت از مقامات مذهبی محافظه‌کار مواجه شد که توسط جشن او از باده، نقدهایش از ریاکاری مذهبی، و ماهیت مبهم شعر او آشفته شده بودند.
 
-### Legends and Hagiography
+### افسانه‌ها و زندگی‌نامه‌نویسی مقدس
 
-After his death, numerous legends and hagiographical accounts developed around Hafez:
+پس از مرگ او، افسانه‌ها و گزارش‌های زندگی‌نامه‌نویسی مقدس متعددی حول حافظ توسعه یافت:
 
-- **The story of his memorization:** Legends claim he memorized the Quran at a young age and knew it by heart throughout his life
-- **The forty-year vigil:** A famous (though historically dubious) story tells of Hafez undertaking a forty-day vigil to attain spiritual vision, during which he encountered a celestial being
-- **His relationship with Attar:** Some accounts suggest Hafez was a disciple of Attar, though this is chronologically impossible
-- **Miraculous powers:** Various miracles and supernatural abilities are attributed to him in popular tradition
+- **داستان حفظ او:** افسانه‌ها ادعا می‌کنند او قرآن را در سنین جوانی حفظ کرد و آن را در طول زندگی‌اش از حفظ می‌دانست
+- **چله‌نشینی چهل روزه:** داستان مشهوری (هرچند از نظر تاریخی مشکوک) می‌گوید حافظ چله‌نشینی چهل روزه را برای دستیابی به رؤیت معنوی undertaking کرد، در طول آن او با موجودی آسمانی ملاقات کرد
+- **رابطه او با عطار:** برخی گزارش‌ها نشان می‌دهند حافظ مرید عطار بود، هرچند این از نظر زمانی غیرممکن است
+- **قدرت‌های معجزه‌آسا:** معجزات و توانایی‌های فراطبیعی مختلفی در سنت عامیانه به او نسبت داده می‌شود
 
-### The Hafez Oracle (Fal-e Hafez)
+### فال حافظ
 
-One of the most remarkable aspects of Hafez's legacy is the practice of **fal-e Hafez** (divination using Hafez's poetry). This practice involves:
+یکی از قابل توجه‌ترین جنبه‌های میراث حافظ عمل **فال حافظ** (پیشگویی با استفاده از شعر حافظ) است. این عمل شامل موارد زیر است:
 
-1. Making a wish or asking a question
-2. Randomly opening the Divan-e Hafez
-3. Reading the verse that appears
-4. Interpreting the verse as guidance or an answer
+۱. آرزو کردن یا پرسیدن سؤال
+۲. باز کردن تصادفی دیوان حافظ
+۳. خواندن بیتی که ظاهر می‌شود
+۴. تفسیر بیت به عنوان راهنمایی یا پاسخ
 
-This practice is extremely popular in Iran and among Persian speakers worldwide. It reflects the belief that Hafez's poetry contains universal wisdom and that his words can provide guidance in times of uncertainty.
+این عمل در ایران و در میان فارسی‌زبانان در سراسر جهان بسیار محبوب است. این باور را منعکس می‌کند که شعر حافظ حاوی خرد جهانی است و کلمات او می‌توانند در زمان‌های عدم قطعیت راهنمایی ارائه دهند.
 
-The fal-e Hafez is particularly common during Nowruz (Persian New Year) and Yalda Night (winter solstice celebration), when families gather to read Hafez and seek his guidance for the coming year.
+فال حافظ به ویژه در نوروز (سال نو فارسی) و شب یلدا (جشن انقلاب زمستانی) رایج است، زمانی که خانواده‌ها گرد هم می‌آیند تا حافظ بخوانند و برای سال آینده راهنمایی او را بجویند.
 
-## Cultural Impact and Legacy
+## تأثیر فرهنگی و میراث
 
-### The Most Beloved Persian Poet
+### محبوب‌ترین شاعر فارسی
 
-Hafez is widely regarded as the most beloved poet in the Persian-speaking world. His status is unique:
+حافظ به طور گسترده‌ای به عنوان محبوب‌ترین شاعر در جهان فارسی‌زبان در نظر گرفته می‌شود. جایگاه او منحصر به فرد است:
 
-- **Universal appeal:** His poetry resonates with people of all backgrounds, education levels, and religious beliefs
-- **Daily presence:** His verses are quoted in everyday conversation, written on walls, inscribed on objects, and used in various contexts
-- **Cultural touchstone:** Knowledge of Hafez is considered a mark of cultural refinement and education
-- **Spiritual guide:** Many Iranians turn to Hafez for spiritual guidance and comfort
+- **جذب جهانی:** شعر او با مردم از همه پیشینه‌ها، سطوح آموزش و باورهای مذهبی طنین‌انداز می‌شود
+- **حضور روزمره:** ابیات او در مکالمات روزمره نقل قول می‌شوند، روی دیوارها نوشته می‌شوند، روی اشیاء حک می‌شوند و در زمینه‌های مختلف استفاده می‌شوند
+- **سنگ محک فرهنگی:** دانش حافظ به عنوان نشانه‌ای از ظرافت و آموزش فرهنگی در نظر گرفته می‌شود
+- **راهنمای معنوی:** بسیاری از ایرانیان برای راهنمایی و آرامش معنوی به حافظ مراجعه می‌کنند
 
-### Influence on Persian Literature
+### تأثیر بر ادبیات فارسی
 
-Hafez's influence on subsequent Persian literature is immeasurable:
+تأثیر حافظ بر ادبیات فارسی بعدی غیرقابل اندازه‌گیری است:
 
-- **The ghazal tradition:** He established the standard for the Persian ghazal that all subsequent poets aspired to reach
-- **Lyrical poetry:** His emphasis on musicality, emotion, and personal expression shaped the direction of Persian lyric poetry
-- **Mystical poetry:** His integration of mystical themes with lyrical beauty influenced all later Sufi poets
-- **Literary language:** His vocabulary and style became a model for literary Persian
+- **سنت غزل:** او استاندارد غزل فارسی را تعیین کرد که همه شاعران بعدی آرزوی رسیدن به آن را داشتند
+- **شعر غنایی:** تأکید او بر موسیقیایی بودن، احساس و بیان شخصی جهت شعر غنایی فارسی را شکل داد
+- **شعر عرفانی:** ادغام او از مضامین عرفانی با زیبایی غنایی بر تمام شاعران صوفی بعدی تأثیر گذاشت
+- **زبان ادبی:** واژگان و سبک او الگویی برای فارسی ادبی شد
 
-### Influence on World Literature
+### تأثیر بر ادبیات جهان
 
-Hafez's influence extends far beyond the Persian-speaking world:
+تأثیر حافظ فراتر از جهان فارسی‌زبان گسترش می‌یابد:
 
-- **Western literature:** Hafez has been translated into numerous Western languages and has influenced poets including Goethe, Emerson, and Nietzsche
-- **Goethe's West-Eastern Divan:** The German poet Goethe was deeply inspired by Hafez and dedicated his West-Eastern Divan to him
-- **American transcendentalism:** Ralph Waldo Emerson admired Hafez and wrote about him extensively
-- **Modern poetry:** Contemporary poets worldwide continue to find inspiration in Hafez's work
+- **ادبیات غربی:** حافظ به زبان‌های غربی متعدد ترجمه شده و بر شاعرانی از جمله گوته، امرسون و نیچه تأثیر گذاشته است
+- **دیوان غربی-شرقی گوته:** شاعر آلمانی گوته عمیقاً توسط حافظ الهام گرفته شد و دیوان غربی-شرقی خود را به او تقدیم کرد
+- **استعلایی‌گرایی آمریکایی:** رالف والدو امرسون حافظ را تحسین کرد و به طور گسترده درباره او نوشت
+- **شعر مدرن:** شاعران معاصر در سراسر جهان همچنان از کار حافظ الهام می‌گیرند
 
-### Musical Settings
+### تنظیمات موسیقی
 
-Hafez's poetry is exceptionally well-suited for musical performance, and it has been set to music in various Persian musical traditions:
+شعر حافظ به طور استثنایی برای اجرای موسیقی مناسب است، و در سنت‌های موسیقی فارسی مختلف به موسیقی تنظیم شده است:
 
-- **Traditional Persian music:** His ghazals are frequently performed in the classical Persian musical tradition (dastgah system)
-- **Popular music:** Many contemporary Iranian musicians have set Hafez's poems to music
-- **Qawwali:** In South Asia, Hafez's poetry is sometimes performed in the qawwali tradition
-- **Western classical music:** Some Western composers have also been inspired by Hafez's verses
+- **موسیقی سنتی فارسی:** غزل‌های او مکرراً در سنت موسیقی کلاسیک فارسی (سیستم دستگاه) اجرا می‌شوند
+- **موسیقی عامیانه:** بسیاری از موسیقی‌دانان معاصر ایرانی اشعار حافظ را به موسیقی تنظیم کرده‌اند
+- **قوالی:** در آسیای جنوبی، شعر حافظ گاهی در سنت قوالی اجرا می‌شود
+- **موسیقی کلاسیک غربی:** برخی آهنگسازان غربی نیز توسط ابیات حافظ الهام گرفته‌اند
 
-### Art and Calligraphy
+### هنر و خوشنویسی
 
-Hafez's poetry has inspired countless works of visual art:
+شعر حافظ الهام‌بخش آثار بی‌شماری از هنر تجسمی بوده است:
 
-- **Calligraphy:** His verses are among the most frequently calligraphed texts in Persian art
-- **Miniature painting:** Many Persian miniatures illustrate scenes from Hafez's poetry
-- **Decorative arts:** His poems appear on ceramics, textiles, metalwork, and other decorative objects
-- **Architecture:** Verses from Hafez are inscribed on buildings, particularly in Shiraz
+- **خوشنویسی:** ابیات او از پرتکرارترین متون خوشنویسی شده در هنر فارسی هستند
+- **نگارگری:** بسیاری از نگارگری‌های فارسی صحنه‌هایی از شعر حافظ را تصویر می‌کنند
+- **هنرهای تزئینی:** اشعار او روی سرامیک‌ها، منسوجات، فلزکاری و سایر اشیاء تزئینی ظاهر می‌شوند
+- **معماری:** ابیات حافظ روی ساختمان‌ها، به ویژه در شیراز حک شده‌اند
 
-## The Tomb of Hafez (Hafeziyeh)
+## آرامگاه حافظ (حافظیه)
 
-Hafez was buried in Shiraz, in the Musalla Gardens. His tomb, known as the **Hafeziyeh**, is one of the most visited cultural sites in Iran.
+حافظ در شیراز، در باغ‌های مصلی دفن شد. مقبره او، که به عنوان **حافظیه** شناخته می‌شود، یکی از پربازدیدترین سایت‌های فرهنگی در ایران است.
 
-### History of the Tomb
+### تاریخ مقبره
 
-The original tomb was a simple structure built shortly after Hafez's death. Over the centuries, it was renovated and expanded multiple times. The current structure was designed by the French archaeologist and architect André Godard in 1935, during the reign of Reza Shah Pahlavi.
+مقبره اصلی سازه ساده‌ای بود که اندکی پس از مرگ حافظ ساخته شد. در طول قرن‌ها، چندین بار بازسازی و گسترش یافت. سازه فعلی توسط باستان‌شناس و معمار فرانسوی آندره گدار در ۱۳۱۴ شمسی، در دوران حکومت رضاشاه پهلوی، طراحی شد.
 
-### Architectural Features
+### ویژگی‌های معماری
 
-The Hafeziyeh is a beautiful example of modern Persian architecture that incorporates traditional elements:
+حافظیه نمونه‌ای زیبا از معماری مدرن فارسی است که عناصر سنتی را ادغام می‌کند:
 
-- **Open pavilion:** The tomb is housed in an open pavilion with a distinctive mushroom-shaped dome supported by eight columns
-- **Gardens:** The tomb is surrounded by beautiful gardens with orange trees, flowers, and fountains
-- **Inscriptions:** Verses from Hafez's poetry are inscribed on the columns and walls
-- **Atmosphere:** The open design creates a contemplative, serene atmosphere
+- **ایوان باز:** مقبره در ایوانی باز با گنبد قارچی شکل متمایز قرار دارد که توسط هشت ستون پشتیبانی می‌شود
+- **باغ‌ها:** مقبره توسط باغ‌های زیبا با درختان نارنج، گل‌ها و فواره‌ها احاطه شده است
+- **کتیبه‌ها:** ابیات از شعر حافظ روی ستون‌ها و دیوارها حک شده‌اند
+- **فضا:** طراحی باز فضای تأملی و آرام ایجاد می‌کند
 
-### Cultural Significance
+### اهمیت فرهنگی
 
-The Hafeziyeh is more than just a tomb; it is a cultural and spiritual center:
+حافظیه بیش از یک مقبره است؛ این یک مرکز فرهنگی و معنوی است:
 
-- **Pilgrimage site:** People from all over Iran and the world visit to pay respects to Hafez
-- **Gathering place:** Iranians gather at the Hafeziyeh to read poetry, contemplate, and celebrate
-- **Hafez Day:** On the 20th of Mehr (October 12), Hafez Day is celebrated at the tomb with poetry readings, music, and ceremonies
-- **Tourist attraction:** The Hafeziyeh is one of the most popular tourist destinations in Shiraz
+- **مکان زیارتی:** مردم از سراسر ایران و جهان برای ادای احترام به حافظ بازدید می‌کنند
+- **مکان گردهمایی:** ایرانیان در حافظیه گرد هم می‌آیند تا شعر بخوانند، تأمل کنند و جشن بگیرند
+- **روز حافظ:** در ۲۰ مهر (۱۲ اکتبر)، روز حافظ در مقبره با خواندن شعر، موسیقی و مراسم گرامی داشته می‌شود
+- **جاذبه توریستی:** حافظیه یکی از محبوب‌ترین مقاصد توریستی در شیراز است
 
-## Hafez in the Modern World
+## حافظ در دنیای مدرن
 
-### Contemporary Relevance
+### ارتباط معاصر
 
-Despite living over 600 years ago, Hafez remains remarkably relevant to contemporary life:
+با وجود زندگی بیش از ۶۰۰ سال پیش، حافظ به طور قابل توجهی به زندگی معاصر مرتبط باقی مانده است:
 
-- **Spiritual guidance:** His poetry continues to provide comfort and guidance to people seeking meaning
-- **Cultural identity:** For Iranians and Persian speakers, Hafez is a powerful symbol of cultural identity
-- **Universal themes:** His exploration of love, loss, joy, and the human condition resonates across cultures and eras
-- **Artistic inspiration:** Contemporary artists, musicians, and writers continue to draw inspiration from his work
+- **راهنمایی معنوی:** شعر او همچنان به افرادی که به دنبال معنا هستند آرامش و راهنمایی ارائه می‌دهد
+- **هویت فرهنگی:** برای ایرانیان و فارسی‌زبانان، حافظ نمادی قدرتمند از هویت فرهنگی است
+- **مضامین جهانی:** کاوش او از عشق، فقدان، شادی و شرایط انسانی در فرهنگ‌ها و دوران‌ها طنین‌انداز می‌شود
+- **الهام هنری:** هنرمندان، موسیقی‌دانان و نویسندگان معاصر همچنان از کار او الهام می‌گیرند
 
-### Global Recognition
+### به رسمیت شناختن جهانی
 
-Hafez is increasingly recognized as one of the great poets of world literature:
+حافظ به طور فزاینده‌ای به عنوان یکی از شاعران بزرگ ادبیات جهان شناخته می‌شود:
 
-- **UNESCO recognition:** UNESCO has celebrated Hafez and his contributions to world literature
-- **Academic study:** Hafez is studied in universities worldwide, with extensive scholarly literature on his work
-- **Translations:** His poetry has been translated into numerous languages, making it accessible to global audiences
-- **Cultural diplomacy:** Hafez serves as a cultural ambassador, introducing Persian culture to the world
+- **به رسمیت شناختن یونسکو:** یونسکو حافظ و سهم‌های او در ادبیات جهان را گرامی داشته است
+- **مطالعه آکادمیک:** حافظ در دانشگاه‌های سراسر جهان مطالعه می‌شود، با ادبیات علمی گسترده درباره کار او
+- **ترجمه‌ها:** شعر او به زبان‌های متعددی ترجمه شده و آن را برای مخاطبان جهانی قابل دسترس کرده است
+- **دیپلماسی فرهنگی:** حافظ به عنوان سفیر فرهنگی خدمت می‌کند و فرهنگ فارسی را به جهان معرفی می‌کند
 
-## Further Reading
+## برای مطالعه بیشتر
 
-- [Wikipedia: Hafez](https://en.wikipedia.org/wiki/Hafez)
-- [Encyclopædia Iranica: Hafez](https://www.iranicaonline.org/articles/hafez)
-- [Ganjur: Divan-e Hafez](https://ganjoor.net/hafez)
-- [Ilkhanate Era](../eras/ilkhanate.md) - The historical context of Hafez's early life
-- [Timurid Era](../eras/timurid.md) - The historical context of Hafez's later years
+- [ویکی‌پدیای فارسی: حافظ](https://fa.wikipedia.org/wiki/%D8%AD%D8%A7%D9%81%D8%B8)
+- [دانشنامه ایرانیکا: حافظ](https://www.iranicaonline.org/articles/hafez)
+- [گنجور: دیوان حافظ](https://ganjoor.net/hafez)
+- [دوره ایلخانیان](../eras/ilkhanate.fa.md) - زمینه تاریخی زندگی اولیه حافظ
+- [دوره تیموریان](../eras/timurid.fa.md) - زمینه تاریخی سال‌های آخر حافظ

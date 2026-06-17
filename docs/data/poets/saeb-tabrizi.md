@@ -1,327 +1,326 @@
-# Saeb Tabrizi (1603–1676 CE)
+# صائب تبریزی (۱۰۱۲–۱۰۸۲ هجری قمری / ۱۶۰۳–۱۶۷۶ میلادی)
 
-!!! info "Quick Facts"
+!!! info "اطلاعات کلی"
     | | |
     |---|---|
-    | **Full Name** | Muhammad 'Ali ibn Muhammad Shams Tabrizi |
-    | **Pen Name (Takhallus)** | Saeb |
-    | **Born** | 1603 CE (1012 AH), Tabriz |
-    | **Died** | 1676 CE (1082 AH), Isfahan |
-    | **Occupation** | Poet, Court Poet Laureate |
-    | **Era** | Safavid / Mughal India |
-    | **Cities** | Tabriz (birthplace), Isfahan (life and death) |
-    | **Masterpiece** | Divan-e Saeb (approximately 40,000 couplets) |
-    | **Known For** | Master of the Indian Style (Isfahani Style), greatest ghazal poet of the Indian Style, "Poet Laureate of the Safavid Court" |
+    | **نام کامل** | محمدعلی بن محمد شمس تبریزی |
+    | **تخلص** | صائب |
+    | **تولد** | ۱۰۱۲ هجری قمری (۱۶۰۳ میلادی)، تبریز |
+    | **وفات** | ۱۰۸۲ هجری قمری (۱۶۷۶ میلادی)، اصفهان |
+    | **پیشه** | شاعر، ندیم دربار |
+    | **دوره** | صفوی / گورکانی هند |
+    | **شهر** | تبریز (زادگاه)، اصفهان (محل زندگی و وفات) |
+    | **شاهکار** | دیوان صائب (حدود ۴۰٬۰۰۰ بیت) |
+    | **معروف به** | استاد سبک هندی (اصفهانی)، بزرگترین غزل‌سرای سبک هندی، «ملک‌الشعرای دربار صفوی» |
 
-## Biography
+## زندگی‌نامه
 
-### Birth and Family
+### تولد و خانواده
 
-Muhammad 'Ali ibn Muhammad Shams Tabrizi was born in 1012 AH (1603 CE) in the city of Tabriz. His family was originally from Tabriz, but due to political turmoil and Ottoman attacks on Azerbaijan, they migrated to Isfahan during his childhood. Isfahan at that time was the magnificent capital of the Safavid Empire and had become one of the largest cities in the world.
+محمدعلی بن محمد شمس تبریزی در سال ۱۰۱۲ هجری قمری (۱۶۰۳ میلادی) در شهر تبریز متولد شد. خانواده او اصالتاً اهل تبریز بودند، اما به دلیل آشوب‌های سیاسی و حمله عثمانیان به آذربایجان، در دوران کودکی به همراه خانواده به اصفهان مهاجرت کردند. اصفهان در آن زمان پایتخت شکوهمند امپراتوری صفوی بود و به یکی از بزرگترین شهرهای جهان تبدیل شده بود.
 
-His father, Muhammad Shams, was himself a poet and man of letters, and therefore the young Muhammad 'Ali became familiar with Persian literature and poetry from an early age. His father was his first teacher and introduced him to the works of great Persian poets.
+پدرش، محمد شمس، خود از شاعران و ادیبان بود و به همین دلیل محمدعلی جوان از همان کودکی با ادبیات فارسی و شعر آشنا شد. پدرش اولین معلم او بود و او را با آثار شاعران بزرگ فارسی آشنا کرد.
 
-### Education and Youth
+### تحصیلات و دوران جوانی
 
-Saeb completed his education in Isfahan. He studied religious sciences, Arabic literature, history, and philosophy, and quickly demonstrated his exceptional talent in poetry. In his youth, his poems attracted the attention of the notables and literati of Isfahan.
+صائب در اصفهان تحصیلات خود را تکمیل کرد. او در علوم دینی، ادبیات عربی، تاریخ و فلسفه تحصیل کرد و به سرعت استعداد استثنایی خود را در شعر نشان داد. در جوانی، اشعار او توجه بزرگان و ادیبان اصفهان را جلب کرد.
 
-During this period, Isfahan had reached the peak of its flourishing under the reign of Shah Abbas the Great (1588–1629). The city, with Naqsh-e Jahan Square, magnificent palaces, and bustling bazaars, was one of the most beautiful cities in the world, and the young Saeb grew up in this rich cultural environment.
+در این دوران، اصفهان در دوران حکومت شاه عباس کبیر (۱۵۸۸–۱۶۲۹) به اوج شکوفایی خود رسیده بود. این شهر با میدان نقش جهان، کاخ‌های باشکوه و بازارهای پررونق، یکی از زیباترین شهرهای جهان بود و صائب جوان در این محیط فرهنگی غنی رشد کرد.
 
-### Journey to India (1631–1633 CE)
+### سفر به هند (۱۶۳۱–۱۶۳۳ میلادی)
 
-One of the most important events in Saeb's life was his journey to India. In 1041 AH (1631 CE), Saeb, at about 28 years of age, traveled to India with his father.
+یکی از مهم‌ترین رویدادهای زندگی صائب، سفر او به هند بود. در سال ۱۰۴۱ هجری قمری (۱۶۳۱ میلادی)، صائب در حدود ۲۸ سالگی به همراه پدرش به هند سفر کرد.
 
-#### Reasons for the Journey
-- **Attraction to the Mughal court:** The Mughal court of India at that time was one of the greatest centers of patronage for Persian-speaking poets
-- **Economic opportunities:** Persian-speaking poets received generous rewards in India
-- **Cultural attraction:** India at that time was one of the most important centers of Persian culture in the world
+#### دلایل سفر
+- **جذب دربار گورکانی:** دربار گورکانی هند در آن زمان یکی از بزرگترین مراکز حمایت از شاعران فارسی‌زبان بود
+- **فرصت‌های اقتصادی:** شاعران فارسی‌زبان در هند پاداش‌های سخاوتمندانه‌ای دریافت می‌کردند
+- **جذب فرهنگی:** هند در آن زمان یکی از مهم‌ترین مراکز فرهنگ فارسی در جهان بود
 
-#### Life in India
-Saeb found his place at the court of Emperor Jahangir and then Shah Jahan. He resided in the cities of Lahore, Agra, and Delhi, and became acquainted with great Persian-speaking poets of India, including Abu Talib Kalim and Qudsi Mashhadi.
+#### زندگی در هند
+صائب در دربار امپراتور جهان‌گیر و سپس شاه جهان حضور یافت. او در شهرهای لاهور، آگرا و دهلی اقامت گزید و با شاعران بزرگ فارسی‌زبان هند از جمله ابوطالب کلیم و قدسی مشهدی آشنا شد.
 
-The experience of living in India had a profound impact on Saeb's poetry. He became familiar with Indian culture, Indian nature, and its literary traditions, and these experiences were reflected in his poems.
+تجربه زندگی در هند تأثیر عمیقی بر شعر صائب گذاشت. او با فرهنگ هندی، طبیعت هند، و سنت‌های ادبی آن آشنا شد و این تجربیات در اشعار او بازتاب یافت.
 
-#### Influence of the Indian Style
-In India, Saeb became acquainted with a new poetic style known as the "Indian Style." This style, which had emerged in the late Timurid period, was characterized by:
-- **Complex and abstract imagery**
-- **Use of philosophical themes and practical wisdom**
-- **Linguistic games and verbal subtleties**
-- **Emphasis on mental meaning rather than external description**
+#### تأثیر سبک هندی
+در هند، صائب با سبک شعری جدیدی آشنا شد که به «سبک هندی» معروف بود. این سبک که در اواخر دوره تیموری پدید آمده بود، با ویژگی‌های زیر مشخص می‌شد:
+- **تصویرسازی‌های پیچیده و انتزاعی**
+- **استفاده از مضامین فلسفی و حکمت عملی**
+- **بازی‌های زبانی و ظرافت‌های کلامی**
+- **تأکید بر معنای ذهنی به جای توصیف بیرونی**
 
-Saeb embraced this style and became one of its greatest masters.
+صائب این سبک را پذیرفت و به یکی از بزرگترین استادان آن تبدیل شد.
 
-### Return to Iran (1633 CE)
+### بازگشت به ایران (۱۶۳۳ میلادی)
 
-After about two years of residence in India, Saeb returned to Iran in 1043 AH (1633 CE). He was now a mature poet with his own style, and quickly found a special place in the Safavid court.
+پس از حدود دو سال اقامت در هند، صائب در سال ۱۰۴۳ هجری قمری (۱۶۳۳ میلادی) به ایران بازگشت. او دیگر شاعری پخته و صاحب سبک بود و به سرعت در دربار صفوی جایگاه ویژه‌ای یافت.
 
-### Poet of Shah Abbas II's Court
+### شاعر دربار شاه عباس دوم
 
-Saeb's return to Iran coincided with the reign of Shah Abbas II (1642–1666), one of the important Safavid kings known for his patronage of literature and art.
+بازگشت صائب به ایران همزمان بود با دوران حکومت شاه عباس دوم (۱۶۴۲–۱۶۶۶)، یکی از پادشاهان مهم صفوی که به حمایت از ادبیات و هنر معروف بود.
 
-#### Position of Poet Laureate
-Saeb reached the position of **Malek al-Sho'ara** (court poet laureate) and became one of the closest companions of Shah Abbas II. He attended court assemblies, celebrations, and official ceremonies, and composed occasional poems.
+#### مقام ملک‌الشعرا
+صائب به مقام **ملک‌الشعرا** (شاعر رسمی دربار) رسید و به یکی از نزدیک‌ترین ندیمان شاه عباس دوم تبدیل شد. او در مجالس درباری، جشن‌ها و مراسم رسمی حضور داشت و اشعار مناسبتی سرود.
 
-#### Life in Isfahan
-Isfahan during Shah Abbas II's reign was still one of the greatest cultural centers in the world. Saeb lived in the Abbasabad neighborhood of Isfahan, and his house was a gathering place for poets, literati, and artists.
+#### زندگی در اصفهان
+اصفهان در دوران شاه عباس دوم همچنان یکی از بزرگترین مراکز فرهنگی جهان بود. صائب در محله عباس‌آباد اصفهان زندگی می‌کرد و خانه او محل گردهمایی شاعران، ادیبان و هنرمندان بود.
 
-#### Character and Morals
-Saeb was known as a humble, good-natured, and sociable person. He had good relations with all social classes, from kings to ordinary people, and this characteristic is also reflected in his poems.
+#### شخصیت و اخلاق
+صائب به عنوان فردی متواضع، خوش‌اخلاق و اهل معاشرت شناخته می‌شد. او با همه طبقات اجتماعی از پادشاهان تا مردم عادی ارتباط خوبی داشت و این ویژگی در اشعار او نیز بازتاب یافته است.
 
-### Final Years and Death
+### سال‌های پایانی و وفات
 
-Saeb remained in Isfahan until the end of his life, continuing to compose poetry and guide his students. He died in 1082 AH (1676 CE) in Isfahan and was buried in a garden on the outskirts of the city.
+صائب تا پایان عمر در اصفهان ماند و به سرودن شعر و هدایت شاگردان پرداخت. او در سال ۱۰۸۲ هجری قمری (۱۶۷۶ میلادی) در اصفهان درگذشت و در باغی در حومه شهر دفن شد.
 
-## Major Works
+## آثار اصلی
 
-### Divan-e Saeb
+### دیوان صائب
 
-#### Introduction
-The **Divan-e Saeb** is his largest and most important work. This divan contains approximately **40,000 couplets** of poetry in various forms and is considered one of the largest collections of Persian poetry.
+#### معرفی
+**دیوان صائب** بزرگترین و مهم‌ترین اثر اوست. این دیوان شامل حدود **۴۰٬۰۰۰ بیت** شعر در قالب‌های مختلف است و یکی از بزرگترین دیوان‌های شعر فارسی محسوب می‌شود.
 
-#### Structure of the Divan
-The Divan of Saeb includes the following sections:
+#### ساختار دیوان
+دیوان صائب شامل بخش‌های زیر است:
 
-- **Qasidas:** Approximately 300 qasidas in praise of kings, description of nature, and moral themes
-- **Ghazals:** Approximately 3,000 ghazals, which is the most important section of the divan
-- **Rubaiyat:** Approximately 500 philosophical and wise quatrains
-- **Qit'as:** Short poems on various subjects
-- **Mathnawis:** Several short mathnawis
-- **Occasional poems:** Poems composed for special ceremonies and events
+- **قصاید:** حدود ۳۰۰ قصیده در مدح پادشاهان، توصیف طبیعت، و مضامین اخلاقی
+- **غزلیات:** حدود ۳٬۰۰۰ غزل، که مهم‌ترین بخش دیوان است
+- **رباعیات:** حدود ۵۰۰ رباعی فلسفی و حکیمانه
+- **قطعات:** اشعار کوتاه در موضوعات مختلف
+- **مثنوی‌ها:** چندین مثنوی کوتاه
+- **اشعار مناسبتی:** اشعار سروده شده برای مراسم و رویدادهای خاص
 
-#### Characteristics of the Divan
-- **Thematic diversity:** From praise and love to philosophy and practical wisdom
-- **Intellectual depth:** Each couplet contains a wise or philosophical point
-- **Linguistic subtlety:** Skillful use of language and verbal games
-- **Innovative imagery:** Original and creative metaphors and similes
+#### ویژگی‌های دیوان
+- **تنوع موضوعی:** از مدح و عشق تا فلسفه و حکمت عملی
+- **عمق فکری:** هر بیت حاوی نکته‌ای حکیمانه یا فلسفی است
+- **ظرافت زبانی:** استفاده ماهرانه از زبان و بازی‌های کلامی
+- **تصویرسازی‌های نوآورانه:** استعاره‌ها و تشبیهات بدیع و خلاقانه
 
-### Mathnawis
+### مثنوی‌ها
 
-Saeb composed several short mathnawis, the most important of which are:
+صائب چندین مثنوی کوتاه سروده است که مهم‌ترین آن‌ها عبارتند از:
 
-#### Mathnawi "Rindan va Zahedan" (The Libertines and the Ascetics)
-This mathnawi deals with the confrontation between rinds (free-spirited lovers) and zahedan (formalists) and is one of Saeb's important works in criticizing religious hypocrisy.
+#### مثنوی «رندان و زاهدان»
+این مثنوی به تقابل رندان (عاشقان آزاده) و زاهدان (ظاهرگرایان) می‌پردازد و یکی از آثار مهم صائب در نقد ریاکاری مذهبی است.
 
-#### Mathnawi "Aql va Eshq" (Reason and Love)
-This mathnawi deals with the philosophical discussion about the relationship between reason and love and expresses Saeb's view on the superiority of love over partial reason.
+#### مثنوی «عقل و عشق»
+این مثنوی به بحث فلسفی درباره رابطه عقل و عشق می‌پردازد و دیدگاه صائب را درباره برتری عشق بر عقل جزئی بیان می‌کند.
 
-### Saeb's Prose
+### نثر صائب
 
-Saeb, in addition to poetry, was also a stylist in prose. Some of his prose writings have remained in the introductions to his divan and in his letters.
+صائب علاوه بر شعر، در نثر نیز صاحب‌سبک بود. برخی از نوشته‌های نثری او در مقدمه‌های دیوانش و نامه‌هایش باقی مانده است.
 
-## Literary Style: The Indian Style (Isfahani)
+## سبک ادبی: سبک هندی (اصفهانی)
 
-### Introduction to the Indian Style
+### معرفی سبک هندی
 
-The **Indian Style**, also known as the "Isfahani Style" and "Safavid Style," is one of the most important styles of Persian poetry that emerged in the late Timurid period and reached its peak of flourishing during the Safavid period.
+**سبک هندی** که به نام‌های «سبک اصفهانی» و «سبک صفوی» نیز شناخته می‌شود، یکی از مهم‌ترین سبک‌های شعر فارسی است که در اواخر دوره تیموری پدید آمد و در دوره صفوی به اوج شکوفایی خود رسید.
 
-Saeb Tabrizi is recognized as the **greatest master of this style**, and many call him the "Poet Laureate of the Indian Style."
+صائب تبریزی به عنوان **بزرگترین استاد این سبک** شناخته می‌شود و بسیاری او را «ملک‌الشعرای سبک هندی» می‌نامند.
 
-### Characteristics of the Indian Style in Saeb's Poetry
+### ویژگی‌های سبک هندی در شعر صائب
 
-#### 1. Abstract and Mental Imagery
-Unlike the Khorasani Style, which emphasized external and objective description, the Indian Style focuses on mental and abstract images. Saeb is a master of this type of imagery:
+#### ۱. تصویرسازی‌های انتزاعی و ذهنی
+برخلاف سبک خراسانی که بر توصیف بیرونی و عینی تأکید داشت، سبک هندی بر تصاویر ذهنی و انتزاعی تمرکز دارد. صائب استاد این نوع تصویرسازی است:
 
-!!! quote "Example of mental imagery"
-    My soul and my beloved's soul go up to the Pleiades  
-    Wherever it is, this is the sign of you
+!!! quote "نمونه تصویرسازی ذهنی"
+    تا ثریا می‌رود جان من و جانان من  
+    هر کجا هست همین‌جاست نشانهٔ تو
 
-#### 2. Philosophical Themes and Practical Wisdom
-Saeb's poetry is filled with philosophical themes, practical wisdom, and life advice. He uses poetry to express deep truths about life, love, and humanity.
+#### ۲. مضامین فلسفی و حکمت عملی
+شعر صائب سرشار از مضامین فلسفی، حکمت عملی و پندهای زندگی است. او از شعر برای بیان حقایق عمیق درباره زندگی، عشق، و انسان استفاده می‌کند.
 
-!!! quote "Practical wisdom"
-    If in the desert you wish to stride toward the Kaaba with longing  
-    Do not grieve if the thorns of the desert reproach you
+!!! quote "حکمت عملی"
+    در بیابان گر به شوق کعبه خواهی زد قدم  
+    سرزنش‌ها گر کند خار مغیلان غم مخور
 
-#### 3. Linguistic Games and Verbal Subtleties
-Saeb is a master of using linguistic subtleties:
-- **Iham (Ambiguity):** Using words with multiple meanings
-- **Mora'at-e Nazir:** Proportionality between words
-- **Jenas:** Playing with similar sounds
-- **Contrast:** Using opposites to create meaning
+#### ۳. بازی‌های زبانی و ظرافت‌های کلامی
+صائب استاد استفاده از ظرافت‌های زبانی است:
+- **ایهام:** استفاده از کلمات با معانی چندگانه
+- **مراعات نظیر:** تناسب بین کلمات
+- **جناس:** بازی با صداهای مشابه
+- **تضاد:** استفاده از متضادها برای ایجاد معنا
 
-#### 4. Tolerance in Rhyme and Meter
-Unlike poets of the Khorasani and Iraqi styles, poets of the Indian Style sometimes showed tolerance in rhyme and meter. This characteristic is also seen in Saeb's poetry.
+#### ۴. مسامحه در قافیه و وزن
+برخلاف شاعران سبک خراسانی و عراقی، شاعران سبک هندی گاهی در قافیه و وزن مسامحه می‌کردند. این ویژگی در شعر صائب نیز دیده می‌شود.
 
-#### 5. Emphasis on Mental Meaning
-In the Indian Style, meaning takes precedence over form. Saeb sometimes disregards grammatical rules to express a profound concept.
+#### ۵. تأکید بر معنای ذهنی
+در سبک هندی، معنا بر فرم ارجحیت دارد. صائب گاهی برای بیان یک مفهوم عمیق، از قواعد دستوری صرف‌نظر می‌کند.
 
-#### 6. Use of Everyday Themes
-Saeb used everyday and ordinary themes to express deep concepts. This characteristic made his poetry understandable to ordinary readers.
+#### ۶. استفاده از مضامین روزمره
+صائب از مضامین روزمره و عادی برای بیان مفاهیم عمیق استفاده می‌کرد. این ویژگی شعر او را برای خوانندگان عادی قابل فهم می‌کرد.
 
-### Differences from Previous Styles
+### تفاوت با سبک‌های قبلی
 
-| Characteristic | Khorasani Style | Iraqi Style | Indian Style |
-|----------------|-----------------|-------------|--------------|
-| **Description** | Objective and external | Emotional and internal | Mental and abstract |
-| **Language** | Simple and fluent | Musical and lyrical | Complex and subtle |
-| **Theme** | Praise and nature | Love and mysticism | Philosophy and wisdom |
-| **Dominant form** | Qasida | Ghazal | Ghazal and Rubai |
-| **Representative** | Rudaki, Ferdowsi | Hafez, Saadi | Saeb, Bidil |
+| ویژگی | سبک خراسانی | سبک عراقی | سبک هندی |
+|--------|----------------|-------------|-----------|
+| **توصیف** | عینی و بیرونی | احساسی و درونی | ذهنی و انتزاعی |
+| **زبان** | ساده و روان | موسیقیایی و غنایی | پیچیده و ظریف |
+| **مضمون** | مدح و طبیعت | عشق و عرفان | فلسفه و حکمت |
+| **قالب غالب** | قصیده | غزل | غزل و رباعی |
+| **نماینده** | رودکی، فردوسی | حافظ، سعدی | صائب، بیدل |
 
-## Main Themes in Saeb's Poetry
+## مضامین اصلی در شعر صائب
 
-### 1. Love and Being a Lover
+### ۱. عشق و عاشقی
 
-Love is one of the main themes of Saeb's poetry, but love in his poetry differs from love in the poetry of Hafez or Rumi. Love in Saeb's poetry is more rational and philosophical than emotional and ecstatic.
+عشق یکی از مضامین اصلی شعر صائب است، اما عشق در شعر او با عشق در شعر حافظ یا مولانا تفاوت دارد. عشق در شعر صائب بیشتر عقلانی و فلسفی است تا احساسی و وجدآمیز.
 
-!!! quote "Love in Saeb's poetry"
-    We are of love, and of love is our water and clay  
-    Otherwise, every particle of dust has water and clay
+!!! quote "عشق در شعر صائب"
+    ما ز عشقیم و ز عشق آب و گل ماست  
+    ور نه هر ذرهٔ خاک آب و گلی دارد
 
-### 2. Practical Wisdom and Life Advice
+### ۲. حکمت عملی و پندهای زندگی
 
-Saeb is one of the greatest wise poets in Persian. His poems are filled with practical advice about life, ethics, and human behavior.
+صائب یکی از بزرگترین شاعران حکیم فارسی است. اشعار او سرشار از پندهای عملی درباره زندگی، اخلاق، و رفتار انسانی است.
 
-!!! quote "Practical wisdom"
-    As long as a man has not spoken  
-    His fault and virtue remain hidden
+!!! quote "حکمت عملی"
+    تا مرد سخن نگفته باشد  
+    عیب و هنرش نهفته باشد
 
-### 3. Criticism of Hypocrisy
+### ۳. نقد ریاکاری
 
-Like Hafez, Saeb is also a critic of religious and social hypocrisy. He strongly criticizes hypocritical ascetics, false Sufis, and formalist scholars.
+مانند حافظ، صائب نیز منتقد ریاکاری مذهبی و اجتماعی است. او زاهدان ریاکار، صوفیان دروغین، و عالمان ظاهرگرا را به شدت نقد می‌کند.
 
-!!! quote "Criticism of hypocrisy"
-    The formalist ascetic is not aware of our state  
-    Whatever he says about us, there is no objection
+!!! quote "نقد ریاکاری"
+    زاهد ظاهرپرست از حال ما آگاه نیست  
+    در حق ما هر چه گوید جای هیچ اکراه نیست
 
-### 4. Transience of the World
+### ۴. ناپایداری دنیا
 
-Like many Persian poets, Saeb also emphasizes the transience of the world and the passage of time.
+مانند بسیاری از شاعران فارسی، صائب نیز بر ناپایداری دنیا و گذر زمان تأکید می‌کند.
 
-!!! quote "Transience of the world"
-    The world is a caravanserai, and we are travelers  
-    Either we reached by our own fortune or by the fortune of others
+!!! quote "ناپایداری دنیا"
+    عالم، کاروانسرایی است و ما مسافران  
+    یا به بخت خود رسیدیم یا به بخت دیگران
 
-### 5. Freedom and Libertinism
+### ۵. آزادی و رندی
 
-Saeb supports rindi (spiritual freedom) and liberation from external bonds.
+صائب از رندی (آزادگی معنوی) و رهایی از قید و بندهای ظاهری حمایت می‌کند.
 
-!!! quote "Libertinism"
-    Be a libertine and drink wine and do not grieve for the world  
-    For this old wheel turns a thousand times again
+!!! quote "رندی"
+    رند باش و می‌نوش و غم جهان مخور  
+    کین چرخهٔ کهنه هزار باره شود
 
-### 6. Description of Nature and Seasons
+### ۶. توصیف طبیعت و فصول
 
-Saeb is a master in describing nature, especially spring, autumn, and night. His descriptions of nature are combined with philosophical and mystical themes.
+صائب در توصیف طبیعت، به ویژه بهار، پاییز، و شب، استاد است. توصیفات او از طبیعت با مضامین فلسفی و عرفانی ترکیب می‌شود.
 
-!!! quote "Description of spring"
-    The spring of souls has come, O fresh branch, dance  
-    Come, for the garden would sacrifice itself for you
+!!! quote "توصیف بهار"
+    آمد بهار جان‌ها، ای شاخ تر به رقص  
+    در آ که بوستان به فدای تو باد
 
-### 7. Praise and Court Description
+### ۷. مدح و توصیف دربار
 
-A significant portion of Saeb's poems is dedicated to praising Shah Abbas II and the court notables. These poems, although valuable from a literary perspective, are less important in terms of content.
+بخش قابل توجهی از اشعار صائب به مدح شاه عباس دوم و بزرگان دربار اختصاص دارد. این اشعار اگرچه از نظر ادبی ارزشمندند، اما از نظر محتوایی کمتر اهمیت دارند.
 
-## Historical Context
+## زمینه تاریخی
 
-### Safavid Period
+### دوره صفوی
 
-Saeb lived during the Safavid period, one of the most important ruling dynasties in Iranian history. This period was characterized by:
+صائب در دوران صفویان زندگی می‌کرد، یکی از مهم‌ترین سلسله‌های حاکم در تاریخ ایران. این دوره با موارد زیر مشخص می‌شد:
 
-- **Official adoption of Shi'ism:** Twelver Shi'ism became the official religion of Iran
-- **Flourishing of art and architecture:** Isfahan became one of the most beautiful cities in the world
-- **Development of trade:** Iran was at the center of global trade
-- **Patronage of literature:** The Safavid court patronized poets and artists
+- **رسمیت یافتن تشیع:** تشیع دوازده امامی به دین رسمی ایران تبدیل شد
+- **شکوفایی هنر و معماری:** اصفهان به یکی از زیباترین شهرهای جهان تبدیل شد
+- **توسعه تجارت:** ایران در مرکز تجارت جهانی قرار گرفت
+- **حمایت از ادبیات:** دربار صفوی از شاعران و هنرمندان حمایت می‌کرد
 
-### Isfahan in Saeb's Time
+### اصفهان در دوران صائب
 
-Isfahan in Saeb's time was one of the largest and most magnificent cities in the world. This city, with a population of about 500,000, was larger than most European cities.
+اصفهان در دوران صائب یکی از بزرگترین و شکوهمندترین شهرهای جهان بود. این شهر با جمعیتی حدود ۵۰۰٬۰۰۰ نفر، بزرگتر از بیشتر شهرهای اروپایی بود.
 
-#### Cultural Attractions of Isfahan
-- **Naqsh-e Jahan Square:** One of the largest squares in the world
-- **Shah Mosque:** A masterpiece of Islamic architecture
-- **Ali Qapu Palace:** The center of Safavid government
-- **Si-o-se Pol and Khaju Bridge:** Masterpieces of engineering and architecture
-- **Jolfa Quarter:** The center of Armenians and international trade
+#### جاذبه‌های فرهنگی اصفهان
+- **میدان نقش جهان:** یکی از بزرگترین میدان‌های جهان
+- **مسجد شاه:** شاهکار معماری اسلامی
+- **کاخ عالی‌قاپو:** مرکز حکومت صفوی
+- **سی‌وسه پل و خواجو:** شاهکارهای مهندسی و معماری
+- **محله جلفا:** مرکز ارمنیان و تجارت بین‌المللی
 
-### Mughal India
+### هند گورکانی
 
-Saeb's journey to India was at a time when the Mughal Empire was at the height of its power. The Mughal court was one of the most important centers of Persian culture in the world.
+سفر صائب به هند در زمانی بود که امپراتوری گورکانی در اوج قدرت خود قرار داشت. دربار گورکانی یکی از مهم‌ترین مراکز فرهنگ فارسی در جهان بود.
 
-#### Importance of Persian Culture in India
-- **Official language:** Persian was the official language of the court and bureaucracy
-- **Persian literature:** Persian-speaking poets had a special place in India
-- **Cultural synthesis:** Persian culture was combined with Indian culture
+#### اهمیت فرهنگ فارسی در هند
+- **زبان رسمی:** فارسی زبان رسمی دربار و دیوان‌سالاری بود
+- **ادبیات فارسی:** شاعران فارسی‌زبان در هند جایگاه ویژه‌ای داشتند
+- **تلفیق فرهنگی:** فرهنگ فارسی با فرهنگ هندی ترکیب شده بود
 
-## Legacy and Cultural Impact
+## میراث و تأثیر فرهنگی
 
-### Impact on Persian Literature
+### تأثیر بر ادبیات فارسی
 
-Saeb had a profound impact on Persian literature:
+صائب تأثیر عمیقی بر ادبیات فارسی گذاشت:
 
-- **Establishment of the Indian Style:** He brought the Indian Style to its peak of perfection
-- **Model for later poets:** Many later poets imitated him
-- **Development of the ghazal:** He enriched Persian ghazal with new themes
-- **Wisdom in poetry:** He strengthened the tradition of wise poetry in Persian
+- **تثبیت سبک هندی:** او سبک هندی را به اوج کمال خود رساند
+- **الگوی شاعران بعدی:** بسیاری از شاعران بعدی از او تقلید کردند
+- **توسعه غزل:** او غزل فارسی را با مضامین جدید غنی کرد
+- **حکمت در شعر:** او سنت شعر حکیمانه را در فارسی تقویت کرد
 
-### Impact on Indian Literature
+### تأثیر بر ادبیات هند
 
-Saeb had a profound impact on Persian literature in India:
+صائب تأثیر عمیقی بر ادبیات فارسی در هند گذاشت:
 
-- **Indian poets:** Persian-speaking poets of India imitated him
-- **Establishment of the Indian Style:** The Indian Style became the dominant style in India
-- **Bidil Dehlavi:** The greatest Indian poet of the Indian Style was influenced by Saeb
+- **شاعران هندی:** شاعران فارسی‌زبان هند از او تقلید کردند
+- **تثبیت سبک هندی:** سبک هندی در هند به سبک غالب تبدیل شد
+- **بیدل دهلیوی:** بزرگترین شاعر هندی سبک هندی، تحت تأثیر صائب بود
 
-### Impact on Ottoman Literature
+### تأثیر بر ادبیات عثمانی
 
-Ottoman poets were also influenced by Saeb and studied and imitated his poems.
+شاعران عثمانی نیز از صائب تأثیر گرفتند و اشعار او را مطالعه و تقلید می‌کردند.
 
-### Impact on Western Literature
+### تأثیر بر ادبیات غرب
 
-Although Saeb is not as well-known in the West as Hafez or Rumi, in recent years the attention of Western scholars has been drawn to him.
+اگرچه صائب در غرب به اندازه حافظ یا مولانا شناخته نشده است، اما در سال‌های اخیر توجه محققان غربی به او جلب شده است.
 
-## Saeb's Tomb
+## آرامگاه صائب
 
-### History
-Saeb was buried in Isfahan. His tomb was located in a garden on the outskirts of the city and was renovated several times over the centuries.
+### تاریخچه
+صائب در اصفهان دفن شد. آرامگاه او در باغی در حومه شهر قرار داشت و در طول قرن‌ها چندین بار بازسازی شد.
 
-### Today's Tomb
-Today, Saeb's tomb is located in Isfahan and is considered one of the city's cultural attractions. His tomb is located in a neighborhood known by his name.
+### مقبره امروزی
+امروزه آرامگاه صائب در اصفهان قرار دارد و یکی از جاذبه‌های فرهنگی شهر محسوب می‌شود. مقبره او در محله‌ای که به نام او معروف است، قرار دارد.
 
-### Cultural Importance
-Saeb's tomb is a place for gatherings of Persian literature lovers and scholars. Every year on special days, commemorative ceremonies are held at the tomb.
+### اهمیت فرهنگی
+آرامگاه صائب مکانی برای گردهمایی دوستداران ادبیات فارسی و محققان است. هر سال در روزهای ویژه، مراسم بزرگداشتی در مقبره برگزار می‌شود.
 
-## Saeb in the Modern World
+## صائب در دنیای مدرن
 
-### Contemporary Relevance
-Despite living nearly 400 years ago, Saeb's poems are still relevant:
+### ارتباط معاصر
+با وجود زندگی نزدیک به ۴۰۰ سال پیش، اشعار صائب همچنان مرتبط هستند:
 
-- **Practical wisdom:** His advice about life is still applicable
-- **Criticism of hypocrisy:** His criticisms of religious and social hypocrisy are still timely
-- **Literary beauty:** His linguistic subtleties are attractive to today's readers
-- **Philosophical depth:** The philosophical themes of his poems align with the concerns of modern humans
+- **حکمت عملی:** پندهای او درباره زندگی همچنان کاربرد دارند
+- **نقد ریاکاری:** نقدهای او از ریاکاری مذهبی و اجتماعی همچنان به موقع هستند
+- **زیبایی ادبی:** ظرافت‌های زبانی او برای خوانندگان امروزی جذاب است
+- **عمق فلسفی:** مضامین فلسفی اشعار او با دغدغه‌های انسان مدرن همخوانی دارند
 
-### Academic Study
+### مطالعه آکادمیک
 
-Saeb is the subject of extensive scholarly study:
+صائب موضوع مطالعه علمی گسترده‌ای است:
 
-- **Literary history:** Scholars analyze his style in the history of Persian literature
-- **Stylistics:** The characteristics of the Indian Style in his poetry are studied
-- **Comparative literature:** His works are compared with Indian and Ottoman poets
-- **Philosophy:** The philosophical themes of his poems are analyzed
+- **تاریخ ادبیات:** محققان سبک او را در تاریخ ادبیات فارسی تحلیل می‌کنند
+- **سبک‌شناسی:** ویژگی‌های سبک هندی در شعر او مطالعه می‌شود
+- **ادبیات تطبیقی:** آثار او با شاعران هندی و عثمانی مقایسه می‌شود
+- **فلسفه:** مضامین فلسفی اشعار او تحلیل می‌شوند
 
-### Digital Access
+### دسترسی دیجیتال
 
-Saeb's works are widely available in digital formats:
+آثار صائب به طور گسترده‌ای در قالب‌های دیجیتال در دسترس هستند:
 
-- **Online versions:** His divan is available on numerous websites
-- **Ganjur and other platforms:** His poems are available on Persian literary websites
-- **Academic resources:** Scientific databases have published numerous articles about Saeb
+- **نسخه‌های آنلاین:** دیوان او در وب‌سایت‌های متعدد موجود است
+- **گنجور و سایر پلتفرم‌ها:** اشعار او در وب‌سایت‌های ادبی فارسی در دسترس است
+- **منابع آکادمیک:** پایگاه‌های داده علمی مقالات متعددی درباره صائب منتشر کرده‌اند
 
-### Cultural Symbol
+### نماد فرهنگی
 
-Saeb is today recognized as a symbol of:
+صائب امروزه به عنوان نمادی از موارد زیر شناخته می‌شود:
 
-- **Indian Style:** Representing the peak of the Indian Style in Persian poetry
-- **Practical wisdom:** Master of wise poetry and life advice
-- **Linguistic subtlety:** Representing the peak of subtlety and complexity in the Persian language
-- **Cultural synthesis:** Representing the cultural connection between Iran and India
+- **سبک هندی:** نمایانگر اوج سبک هندی در شعر فارسی
+- **حکمت عملی:** استاد شعر حکیمانه و پندهای زندگی
+- **ظرافت زبانی:** نمایانگر اوج ظرافت و پیچیدگی در زبان فارسی
+- **تلفیق فرهنگی:** نمایانگر ارتباط فرهنگی بین ایران و هند
 
-## Further Reading
+## برای مطالعه بیشتر
 
-- [Wikipedia: Saeb Tabrizi](https://en.wikipedia.org/wiki/Saeb_Tabrizi)
-- [Encyclopædia Iranica: Saeb Tabrizi](https://www.iranicaonline.org/articles/saeb-tabrizi)
-- [Ganjur: Divan-e Saeb](https://ganjoor.net/saeb)
-- [Safavid Era](../eras/safavid.md) - The historical context of Saeb's life and work
-- [City of Tabriz](../cities/tabriz.md) - Saeb's birthplace
-- [City of Isfahan](../cities/isfahan.md) - Saeb's place of life and death
+- [ویکی‌پدیای فارسی: صائب تبریزی](https://fa.wikipedia.org/wiki/%D8%B5%D8%A7%D8%A6%D8%A8_%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2%DB%8C)
+- [دانشنامه ایرانیکا: صائب تبریزی](https://www.iranicaonline.org/articles/saeb-tabrizi)
+- [گنجور: دیوان صائب](https://ganjoor.net/saeb)
+- [دوره صفویان](../eras/safavid.fa.md) - زمینه تاریخی زندگی و کار صائب
+- [شهر اصفهان](../cities/isfahan.fa.md) - محل زندگی و وفات صائب

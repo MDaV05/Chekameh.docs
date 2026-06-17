@@ -1,149 +1,190 @@
-# Rudaki
+# رودکی
 
-|   category  |    info     |
+
+
+|   دسته  |    اطلاعات     |
 | ----------- | ----------- |
-| **Full Name**| Abu Abd Allah Ja'far ibn Muhammad ibn Hakim ibn Abd al-Rahman ibn Adam al-Rudhaki al-Sha'ir al-Samarqandi|
-| **Persian Name** | ابوعبدالله جعفر بن محمد بن حکیم بن عبدالرحمن بن آدم الرودکی الشاعر سمرقندی|
-| **Born** | c. 858 CE, Banoj (Panjrud), Samanid Empire (present-day Tajikistan) |
-| **Died** | 940/41 CE (aged 82–83), Banoj |
-| **Occupation** | Poet, Singer, Musician |
-| **Language** | New Persian (Dari) |
-| **Era** | Samanid |
-| **Court** | Samanid Court, Bukhara |
-| **Known For** | Father of New Persian Poetry, Founder of Persian Literature |
+| **نام کامل**| ابوعبدالله جعفر بن محمد بن حکیم بن عبدالرحمن بن آدم |
+| **تخلص** | رودَکی |
+| **تولد** | حوالی ۸۵۸ میلادی، بنج (رودک امروزی)، امپراتوری سامانی |
+| **وفات** | ۹۴۰/۴۱ میلادی (۸۲ یا ۸۳ سال)، بنج |
+| **پیشه** | شاعر، خواننده، موسیقی‌دان |
+| **زبان** | فارسی نو |
+| **دوره** | سامانیان |
+| **شهر** | بخارا |
+| **معروف به** | پدر شعر فارسی، بنیان‌گذار شعر فارسی نو |
 
-## Overview
+## معرفی
 
-**Rudaki** (also spelled **Rodaki**; Persian: رودکی; c. 858 – 940/41) was a poet, singer, and musician who is regarded as the first major poet to write in New Persian. A court poet under the Samanids, he reportedly composed more than 180,000 verses, yet only a small portion of his work has survived, most notably parts of his versification of the _Kalīla wa-Dimna_, an Arabic translation of _Panchatantra_.
+**ابوعبدالله جعفر بن محمد بن حکیم بن عبدالرحمن بن آدم** (حوالی ۸۵۸ – ۹۴۰/۴۱ میلادی) متخلص به **رودَکی**، شاعر، خواننده و موسیقی‌دانی بود که به‌عنوان نخستین شاعر برجسته‌ای که به زبان فارسی نو سرود شناخته می‌شود. او که شاعر دربار سامانیان بود، بنا بر گزارش‌ها بیش از ۱۸۰٬۰۰۰ بیت شعر سروده، اما تنها بخش کوچکی از آثار او به جا مانده است؛ از جمله قسمت‌هایی از نسخۀ منظومۀ _کلیله و دمنه_ که مجموعه‌ای از حکایات هندی است.
 
-Born in the village of Banoj (located in the present-day Rudak area), the most important part of Rudaki's career was spent at the court of the Samanids. While biographical information connects him to the Samanid _amir_ (ruler) Nasr II (r. 914–943), he may have already joined the court under the latter's predecessor, Ahmad Samani (r. 907–914).
+رودکی در روستای بَنُج (واقع در منطقهٔ کنونی رودک در تاجیکستان) به دنیا آمد. بخش مهمی از دوران کاری خود را در دربار سامانیان گذراند. اطلاعات زندگی‌نامه‌ای او را به امیر سامانی، نصر دوم (حکومت: ۹۱۴–۹۴۳)، پیوند می‌دهد، اما ممکن است او پیش از آن نیز در زمان امیر پیش از نصر، احمد سامانی (حکومت: ۹۰۷–۹۱۴)، به دربار پیوسته باشد.
 
-Rudaki's success was largely due to the support of his primary patron, the vizier Abu'l-Fadl al-Bal'ami (died 940), who played an important role in the blooming of New Persian literature in the 10th century. Following the downfall of Bal'ami in 937, Rudaki's career deteriorated, eventually being dismissed from the court. He thereafter lived his last years in poverty, dying blind and alone in his hometown.
+موفقیت رودکی تا حد زیادی به‌سبب حمایت حامی اصلی‌اش، وزیر ابوالفضل بلعمی (درگذشته ۹۴۰) بود، که نقش مهمی در شکوفایی ادبیات فارسی نو در قرن دهم داشت. پس از سقوط بلعمی در سال ۹۳۷، دوران کار رودکی رو به زوال رفت و سرانجام از دربار اخراج شد. او آخرین سال‌های زندگی خود را در فقر سپری کرد و در زادگاهش نابینا و تنها درگذشت.
 
-!!! quote "Historical Significance"
-    In Iran, Rudaki is acknowledged as the "founder of New Persian poetry" and in Tajikistan as the "father of Tajik literature".
+در ایران، رودکی به‌عنوان «بنیان‌گذار شعر فارسی نو» شناخته می‌شود و در تاجیکستان به‌عنوان «پدر ادبیات تاجیک» مورد تقدیر قرار می‌گیرد. رودکی را نخستین شاعر بزرگ پارسی‌گوی و پدر شعر پارسی می‌دانند به این دلیل که تا پیش از وی کسی دیوان شعر نداشته است.
 
-## Name
+!!! quote "اهمیت رودکی"
+    از تمام آثار رودکی که گفته می‌شود بیش از یک میلیون و سیصد هزار بیت و نیز شش مثنوی بوده، تنها ابیات پراکنده به همراه چند قصیده، غزل و رباعی باقی مانده است. تعداد ابیات باقی‌مانده از رودکی را ۱۰۴۷ بیت گزارش می‌کنند.
 
-His full name was Abu Abd Allah Ja'far ibn Muhammad ibn Hakim ibn Abd al-Rahman ibn Adam al-Rudhaki al-Sha'ir al-Samarqandi (Persian: ابوعبدالله جعفر بن محمد بن حکیم بن عبدالرحمن بن آدم الرودکی الشاعر سمرقندی). The proper transliteration of his name is _Rōdhakī_, while _al-Rūdhakī_ is an arabicised form. Other transliterations include _Rudagi_, _Rawdhagi_ and _Rudhagi_.
+درونمایۀ اشعار رودکی باور به ناپایداری و بی‌وفایی جهان، اندیشهٔ غنیمت‌شمردن فرصت، شادی و شادنوشی است.
 
-## Background
+## زندگی و مرگ
 
-Little information is available about Rudaki's life, much of which has been reconstructed from his poems. He lived during the era of the Samanid Empire (819–999), under which New Persian literature began to develop and flourish. Of Persian stock, Rudaki was born in c. 858, in the village of Banoj (Panjrud), located in the Rudak area between Samarqand and Bukhara.
+او در روستایی به‌نام بَنُج رودک (پنجکنت در تاجیکستان امروزی) در ناحیهٔ رودَکی در نزدیکی نَخشَب و سمرقند به دنیا آمد. رودکی در دربار امیر نصر سامانی بسیار محبوب شد و ثروت بسیاری به دست آورد. می‌گویند رودکی حدود یک صدهزار بیت شعر سروده است و در موسیقی، ترجمه و آواز نیز دستی داشته است.
 
-!!! info "On Rudaki's Blindness"
-    Rudaki's blindness is implied by the writings of early poets such as Daqiqi (died 977), Ferdowsi (died 1020/25), Abu Zura'ah al-Mu'ammari (fl. 10th-century) and Nasir Khusraw (died after 1070). The historian Awfi (died 1242) even says that Rudaki was born blind, but this has been questioned by some modern scholars due to the expressive picture of nature given by Rudaki in his writings.
+رودکی در سه سال پایانی عمر مورد بی‌مهری امرا قرار گرفته بود. او در اواخر عمر به زادگاهش بُنَج رودک بازگشت و همان‌جا در سال ۳۲۹ هجری (۹۴۱ میلادی) در گذشت.
 
-### Musical Background
+او مدح‌کنندهٔ امیر سعید نصر بن احمد اسماعیل (۳۰۱–۳۳۱ هجری) امیر سامانی، ابوجعفر احمد بن محمد (امیر سیستان)، ماکان پسر کاکی سردار دیلمی و خواجه ابوالفضل بلعمی وزیر سامانیان — که رودکی را به نظم کلیله و دمنه برانگیخت — بوده است.
 
-Besides being a poet, Rudaki was also a singer and musician. Since the era of Sasanian Iran (224–651), poems were commonly carried out as songs used in music. Under the Sasanians, the official, religious and literary language was Middle Persian. Following the Muslim conquest of Iran, the language entered a new phase, known as New Persian.
+!!! quote "صله‌های گران"
+    بداد میرِ خراسانش چل هزار درم  
+    وز او فزونی یک‌پنجِ میرِ ماکان بود
 
-However, it is not descended from the literary form of Middle Persian (known as _pārsīk_, commonly called Pahlavi), which was spoken by the people of Fars and used in Zoroastrian religious writings. Instead, it is descended from the dialect spoken by the court of the Sasanian capital Ctesiphon and the northeastern Iranian region of Khurasan. During this period, New Persian was known as _darī_ or _parsī-i darī_.
+رودکی فرزندی به نام عبدالله داشته است که در بیشتر تذکره‌ها پیش از نام خودش می‌آمده و از این رو به ابوعبدالله معروف شده بود.
 
-## Career
+## فعالیت رودکی در شعر
 
-By the age of eight, Rudaki had reportedly memorized the Qur'an and was skilled in poetry. He was instructed on how to play the chang (a harp-like instrument) by a prominent musician named Abu'l-Abak Bakhtiar. In his early years, Rudaki became a popular figure due to his fine voice, skill with poetry and playing the chang.
+رودکی در بسیاری از موارد از اولین‌ها در ادبیات پارسی است. او آثار بسیاری را خلق نمود که متأسفانه جز پاره‌ای از آن‌ها به دستمان نرسیده است. شمس قیس رازی در کتاب المعجم فی معاییر اشعار عجم خود رودکی را آفرینندهٔ رباعی دانسته و آغاز شاعری رودکی را از آنجا می‌داند که وی صدای شادی کودکی که در حال گردوبازی کردن بود را می‌شنود که از فرط شادی بابت هنر بازی خود زبان شاعری وی گشوده شده و با کلامی آهنگین می‌گوید:
 
-### Court Poet
+!!! quote "آغاز شاعری"
+    _غلتان غلتان همی رود تا بن گو_
 
-Surviving biographical information connects Rudaki with the Samanid _amir_ (ruler) Nasr II (r. 914–943) or with his vizier Abu'l-Fadl al-Bal'ami (died 940). However, according to literary scholar Sasson Tabatabai, Rudaki had apparently already joined the Samanid court under Nasr II's father and predecessor Ahmad Samani (r. 907–914). Tabatabai states that this is proven in a poem by Rudaki, where he tries to comfort Ahmad Samani after the death of his father Ismail Samani in 907.
+دولتشاه سمرقندی (قرن نهم) در تذکرهٔ معروف خود آن کودک را پسر یعقوب لیث سر سلسلهٔ صفاریان می‌داند؛ و شاعر با شنیدن آهنگ این کلام تحت تأثیر قرار گرفته و به خانه می‌رود و بر همان وزن به شاعری می‌پردازد؛ و از آنجا که اشعارش در دوبیت بودند به رباعی معروف می‌شوند. به هر حال او را مبتکر قالب رباعی دانسته‌اند.
 
-!!! note "The Role of Court Poets"
-    Rudaki's career at the Samanid court is regarded as the most important part of his life. The role of a court poet was more than just entertaining others, and was an essential aspect of the Persian court. According to the first Sasanian king Ardashir I (r. 224–242), a poet was "part of government and the means of strengthening rulership." Besides applauding the suzerain and his domain, a poet was also expected to give advice and moral guidance, which meant that Rudaki was most likely experienced in that field as well.
+### موسیقی و رودکی
 
-Rudaki's success was largely due to the support of his primary patron, Bal'ami. The latter played an important role in the blooming of Persian literature in the 10th century. Bal'ami regarded Rudaki as the best amongst Persian and Arab poets.
+در تذکره‌ها آمده رودکی چنگ نواز بوده است. می‌گویند توان و چیرگی رودکی در شعر و موسیقی به اندازه‌ای بوده است که نیروی افسونگری شعر و نوازندگی وی در ابونصر سامانی چنان تأثیر گذاشت که وی پس از شنیدن شعر «بوی جوی مولیان» بدون کفش، هرات را به مقصد بخارا ترک کرد.
 
-### Later Years
+!!! info "داستان بوی جوی مولیان"
+    این داستان که در کتاب چهار مقاله از نظامی عروضی آمده است بر این قرار است که امیرنصر سامانی (یا امیری دیگر) از بخارا به هرات می‌رود و دلبستهٔ هوای هرات می‌شود. بازگشت به بخارا را چنان فصل به فصل عقب می‌اندازد که مدت چهار سال او و ملازمانش در هرات می‌مانند. لشکریانش که دل‌تنگِ بخارا شده بودند به رودکی که در آن زمان نزد امیر محتشم و مقبول القول بود روی آورده و به او گفتند اگر هنری بورزد و شاه را برای بازگشت به بخارا ترغیب کند پنجاه هزار درم به او پاداش می‌دهند.
 
-Rudaki was a close friend to his student Shahid Balkhi, a leading poet and scholar of the Samanid realm. Following Shahid Balkhi's death in 936, Rudaki wrote an elegy for him. Rudaki's career started to decline following the downfall of Bal'ami in 937. He soon fell out of favour with the _amir_ and was dismissed from the court. Rudaki thereafter lived his last years in poverty, dying blind and alone in his hometown in 940 or 941.
+    رودکی نیز می‌دانست در این هوای لطیف نثر کارگر نیست و باید چیزی بسراید و بنوازد که از هوای هرات لطیف‌تر باشد. از این رو قصیده ای می‌سراید و هنگامی که امیر سامانی صبوحی کرده بود، چنگ نواخته و آن تصنیف را با آواز می‌خواند؛ و امیر چنان تحت تأثیر قرار می‌گیرد که بدون آنکه کفش را در پایش کند سوار بر اسب می‌شود و مستقیم به سوی بخارا می‌تازد.
 
-## Works
+!!! quote "قصیده بوی جوی مولیان"
+    بوی جوی مولیان آید همی | یاد یار مهربان آید همی  
+    ریگ آموی و درُشتی‌های او | زیر پایم پرنیان آید همی  
+    آب جیحون از نشاط روی دوست | خنگ ما را تا میان آید همی  
+    ای بخارا، شاد باش و دیر زی | میر زی تو شادمان آید همی  
+    میر سرو است و بخارا بوستان | سرو سوی بوستان آید همی  
+    میر ماه ست و بخارا آسمان | ماه سوی آسمان آید همی
 
-According to Asadi Tusi, the _divan_ (collection of short poems) of Rudaki consisted of more than 180,000 verses, but most of it has been lost. What little remains of Rudaki's writings, mostly single verses, can be found in Persian dictionaries, particularly the _Lughat-i Furs_ of Asadi Tusi. A few complete poems have also survived, most notably a _qasida_ (eulogy or ode) consisting of almost 100 verses quoted in the anonymous _Tarikh-i Sistan_.
+او برای سروده‌های آهنگین خود یک راوی داشته که نامش احتمالاً _مج_ یا _ماج_ که اشعار رودکی را با صدای خوش می‌خوانده است. خود رودکی در شعر خود از او به نام _مج_ یاد می‌کند.
 
-The _qasida_ was dedicated to Abu Ja'far Ahmad ibn Muhammad, who ruled the region of Sistan as a Samanid governor from 923 to 963. In it, Rudaki calls Abu Ja'far an aristocrat of Sasanian ancestry and "pride of Iran", thus indicating a sense of continuity in Iranian identity from the Sasanian to the Samanid period. For this poem, Abu Ja'far rewarded Rudaki with 10,000 dinars.
+## ویژگی‌های سروده‌ها
 
-### Kalīla wa-Dimna
+سبک شعری رودکی، سبک غالب آن روزگار یعنی سبک خراسانی است. ویژگی‌های سبک خراسانی در شعر رودکی نمود کامل و جامعی دارد و به همین دلیل می‌توان او را نمایندهٔ تام و تمام این سبک از شعر فارسی دانست.
 
-!!! quote "Most Famous Work"
-    Rudaki's best known work is his versification of the _Kalila wa-Dimna_, a collection of Indian fables. Nasr II had ordered Bal'ami to translate the book from Arabic to Persian, and then appointed "interpreters" to read it out loud, so that Rudaki, who was blind, could versify it. Only a few of the verses made by Rudaki have survived. Some of them have been identified in the _Lughat-i Furs_.
+اگرچه سروده‌های وی در دایرهٔ ادبیات غنایی و بعضاً تعلیمی جای می‌گیرد، اما اندکی تأمل در شعر او نشان می‌دهد که وی از داستان‌ها و موضوعات حماسی، به خوبی آگاهی داشته و با استادی و مهارت تمام توانسته این مسئله را در شعر خود بازتاب دهد. جدا از این، شعر رودکی نشان‌دهندهٔ فضا و حال و هوای حماسی است که بر جامعهٔ آن روزگار سایه افکنده بود. رودکی اغلب در توصیفات غنایی از عنصر حماسه بهره برده و بدین وسیله به شعر خود صلابت و فخامت ویژه‌ای بخشیده است.
 
-Rudaki's surviving poetry is generally easy for literate native Persian readers to understand despite variations in terminology, word forms, and phrase and sentence patterns.
+یکی از مهارت‌های او کاربرد صور خیال، از جمله تشبیه و استعاره در اشعار است، تصاویری که رودکی در اشعارش به کار برده، بر عکس شعرای دیگر سبک خراسانی، متحرک و جاندار است. در میان تصویرهای گوناگون، تشبیه مهم‌ترین آرایه در شعرهای رودکی به‌شمار می‌آید.
 
-### Religious and Cultural Context
+!!! note "نکته"
+    منطقه‌ای که رودکی در آن زاده شد و زیست در دوره‌های پیشین منطقه‌ای سُغدی‌زبان بود و تأثیر این زبان بر فارسی دوره‌های اولیه، یعنی فارسی دوره رودکی هنوز نمایان بود. برآورد می‌شود که در سروده‌های باقی‌مانده از رودکی در حدود ۸۰ واژه سغدی به‌کار رفته است.
 
-Although Rudaki displayed pro-Isma'ili sympathies in his writings, his poetry is fully secular in nature. Islam was firmly established by the 10th century; however, Persians still remembered their deep-rooted Zoroastrian history. Rudaki was more prone to evoke ancient Iranian and Zoroastrian notions instead of Muslim ones.
+## آثار
 
-Some of Rudaki's poems were written in the pre-Islamic _andarz_ style, i.e., ethical teachings, friendly criticism and advice for correct behavior in both private and public.
+رودکی با وجود تقدم نسبت به شاعران بزرگ ایران زمین از پرکارترین‌ها نیز به‌شمار می‌رود. ابیات او در گزارش‌های رشیدی سمرقندی، جامی در بهارستان، نجاتی و شیخ منینی و مؤلفان «حبیب السیر» و «زینت المجالس» و «مفتاح التواریخ» در همه و همه تعداد ابیات رودکی بیش از یک میلیون محاسبه کرده‌اند.
 
-!!! quote "Zoroastrian Influence"
-    An example of Rudaki's Zoroastrian roots can be seen in an excerpt where he is talking about his patron:
-    
-    > It's a puzzle, describing his grace and will:  
-    > He is the Avesta in wisdom, the Zand in essence...
+### کلیله و دمنه
 
-## Legacy and Assessment
+مهم‌ترین اثر او کلیله و دمنه منظوم است. جز آن سه مثنوی از او به ما رسیده و از بقیه اشعارش جز اندکی باقی نمانده است. کلیله و دمنه در اصل کتابی است هندی که در دورهٔ ساسانیان به دستور بزرگمهر و به‌دست برزویه به پارسی میانه ترجمه شد؛ و داستانی است رازآلود از زبان حیوانات. روزبه دادویه مشهور به ابن مقفع پس از اسلام آن را به عربی برگرداند و همان اثر ابن مقفع یا متن پهلوی به‌دست رودکی به شعر فارسی درآمد.
 
-Rudaki is considered to have been the first major poet to write in New Persian. Although he was predated by other poets who wrote in New Persian, such as Abu Hafs Sughdi (died 902), most of their work has not survived.
+!!! quote "نمونه‌ای از کلیله و دمنه"
+    دمنه را گفتا که تا این بانگ چیست | با نهیب و سهم این آوای کیست؟  
+    دمنه گفت اورا: جز این آوا دگر | کار تو نه هست و سهمی بیشتر  
+    آب هرچه بیشتر نیرو کند | بند ورغ سست بوده بفگند  
+    دل گسسته داری از بانگ بلند | رنجکی باشدت و آواز بلند
 
-!!! info "Cultural Recognition"
-    - In **Iran**: Acknowledged as the "founder of New Persian poetry"
-    - In **Tajikistan**: Honored as the "father of Tajik literature"
-    
-    According to the Iranologist Richard Foltz, both claims are not contradictory.
+### سندبادنامه
 
-### Cultural Depictions
+از دیگر آثار رودکی می‌توان به سندبادنامه اشاره کرد. اثر سندبادنامه هم از اصلی هندی بوده که از عصر ساسانیان به ایران شده و از ایران به ادبیات عرب و اروپا راه یافته است. سندبادنامه در دورهٔ سامانیان به فرمان نوح بن نصر سامانی به فارسی ترجمه شد.
 
-Rudaki's life is depicted in the 1957 film of _A Poet's Fate_, written by Satim Ulugzade (died 1997). The following year, the latter wrote a play focused on Rudaki, entitled _Rudaki_, which was the first Tajik biographical drama.
+!!! quote "نمونه‌ای از سندبادنامه"
+    آن گرنج و آن شکر برداشت پاک | وندر آن دستار آن زن بست خاک  
+    آن زن از دکان فرود آمد چو باد | پس فلرزنگش به‌دست اندر نهاد
 
-### 1100th Anniversary Commemoration
+### اشعار غنایی
 
-The 1100th anniversary of Rudaki's birth was commemorated by Iran and the Tajik Soviet Socialist Republic in 1958, who together held a conference which was joined by several eminent Iranian and Tajik academics. It was during this period that Rudaki's burial place in Panjrud was discovered. The Soviet archaeologist and anthropologist Mikhail Mikhaylovich Gerasimov (died 1970) dug out and analyzed Rudaki's remains, which he used to recreate the latter's face on a sculpture.
+عمدهٔ اشعار غنایی رودکی را غزلها و رباعیهای وی تشکیل می‌دهند. این اشعار که برپایهٔ دم‌غنیمت‌شمری و خوشی و گذران زندگی و معاشقه استوار است شباهت زیادی با اشعار هوراس و آناکرئون و ابونواس دارد و در حقیقت تجدیدگر راهی‌ست که از اپیکور آغاز شده در ایران به رودکی رسیده و از همین راه به دست خیام و حافظ سپرده شده است.
 
-Following the collapse of the Soviet Union, Rudaki started to become a stronger representation of Tajik identity and also reinforced their ties to the rest of the Persian-speaking world.
+!!! quote "خمریات معروف رودکی"
+    بیار آن می که پنداری روان یاقوت نابستی | و یا چون برکشیده ابر پیش آفتابستی  
+    سحابستی قدح گویی و می‌قطرهٔ سحابستی | طرب گویی که اندر دل دعای مستجابستی  
+    اگر می‌نیستی یکسر همه دل‌ها خرابستی | اگر در کالبد جان را ندیدستی شرابستی
 
-### Scholarly Assessment
+### مدایح
 
-!!! quote "Nile Green"
-    Rudaki "heralded a new era for Persian letters."
+رودکی نیز مانند غالب شعرا شاعری درباری بود و در مدح و تکریم شاهان و فضلا بیت می‌سرود. مدایح او غالباً به صورت قصیده ‌اند. او در مدح بسیار میانه‌رو بوده و اثری از تملق و چاپلوسی در مدحیاتش نمی‌توان یافت.
 
-!!! quote "François de Blois"
-    Rudaki "was the most celebrated Persian poet prior to Ferdowsi."
+!!! quote "پند و اندرز"
+    زمانه پندی آزادوار داد مرا | زمانه را چو نکو بنگری همه پند است  
+    به روز نیک کسان گفت تا که غم نخوری | بسا کسا که به روز تو آرزومند است  
+    زمانه گفت مرا: خشم خویش دار نگاه | کرا زبان نه به بند است پای دربند است
 
-Following his death, Rudaki continued to remain a highly popular figure for around two centuries, until the Mongol period, where he became unpopular amongst the highly skilled poets of that time. However, he had not been forgotten, as demonstrated by the attribution of his name to the Pseudo-_Diwan-i Rudaki_, called "one of the notorious literary frauds" by de Blois. Scholars such as Hasan ibn Luft Allah al-Razi in the 17th century and Reza-Qoli Khan Hedayat in the 19th century easily recognized that the Pseudo-_Diwan-i Rudaki_ was mostly composed of poems by Qatran Tabrizi (died after 1088), while the rest were already-known poems of Rudaki that had been mentioned in _tadhkiras_ (biographical dictionaries).
+## نابینایی رودکی
 
-During the 19th century, Rudaki experienced a resurgence in popularity along with other ancient Khorasani poets.
+برخی از نویسندگان همانند محمد عوفی در لباب‌الالباب رودکی را کور بدو تولد دانسته‌اند، همچنین قدیمی‌ترین منبع، رودکی را اکمه (کور مادرزاد) خوانده است. ولی برخی تنها از نابینایی او سخن گفته‌اند.
 
-## Famous Verses
+با این همه برخی هیچ سخنی از کوری او نمی‌گویند مانند **سمعانی** در **الانساب** یا نظامی عروضی در چهار مقاله و نیز در کتاب تاریخ سیستان. از دیگر سو شعرهایی نیز از رودکی به‌جامانده که او را بینا می‌نمایاند:
 
-!!! quote "The Scent of the Mulian River"
-    The scent of the Mulian river comes to me,  
-    Reminding me of my dear friends.  
-    The waters of the Jayhun flow,  
-    Between my home and where I now reside.  
-    
-    O Bukhara, be joyful and live long,  
-    The ruler returns to you, happy and content.  
-    The ruler is a cypress tree, and Bukhara is the garden,  
-    The cypress returns to the garden.
+!!! quote "ابیاتی که نشان از بینایی دارد"
+    همیشه چشمم زی زلفکان چابک بود | همیشه گوشم زی مردم سخندان بود
 
-!!! quote "On the Transience of Life"
-    The world is but a caravanserai,  
-    And we are passing travelers.  
-    Today you are here, tomorrow you depart—  
-    Such is the nature of this fleeting world.
+!!! quote "توصیف طبیعت بهار"
+    لاله میان کشت بخندد همی ز دور | چون پنجهٔ عروس به حنّا شده خضیب  
+    نفاط برق روشن و تندرش طبل زن | دیدم هزار خیل و ندیدم چنین مهیب
 
-!!! quote "On Wisdom and Poetry"
-    Time gave me a lesson, freely and clear:  
-    If you look at time well, it's all a lesson.  
-    On good days, people said: don't grieve,  
-    Many are those who wish for your day.  
-    Time told me: watch your anger,  
-    Whose tongue is not bound, their feet are in chains.
+!!! quote "تشبیه طبیعت به کتاب ارژنگ مانی"
+    اکنون ز بهار مانوی طبع | پر نقش و نگار همچو ژنگست
 
-## Further Reading
+!!! info "نتیجه‌گیری"
+    با توجه به این اشعار و اشعار دیگری که رودکی به تصریح از فعل «دیدن» استفاده کرده است، اندیشمندان فارسی بر این نظر هستند که نوشته **محمود بن عمر نجاتی** نویسنده کتاب **بساتین‌الفضلاء** را که در ۷۰۹ (قمری) نوشته شده درست می‌انگارد که چنین می‌گوید: «رودکی در پایان عمر کور شده است.»
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Rudaki)
-- [Encyclopædia Iranica](https://www.iranicaonline.org/articles/rudaki-abu-abdallah/)
-- [Britannica](https://www.britannica.com/biography/Rudaki)
-- [Ganjoor](https://ganjoor.net/rudaki)
+## رودکی در ادبیات فارسی
+
+### یادکرد رودکی در شاهنامه فردوسی
+
+فردوسی در شاهنامه از رودکی یاد کرده و او را به عنوان شاعری نابینا معرفی کرده است:
+
+!!! quote "فردوسی درباره رودکی"
+    گزارنده را پیش بنشاندند | همه نامه بر رودکی خواندند
+
+### رودکی در سایر آثار
+
+بسیاری از شاعران و نویسندگان بعدی از رودکی یاد کرده‌اند و او را به عنوان پدر شعر فارسی ستوده‌اند.
+
+## آیین بزرگداشت رودکی و جایگاه جهانی
+
+رودکی در ایران و تاجیکستان جایگاه ویژه‌ای دارد. در تاجیکستان زادروز او به عنوان تعطیلی ملی جشن گرفته می‌شود و آرامگاه او در رودک به عنوان یک مکان تاریخی و فرهنگی مورد بازدید قرار می‌گیرد.
+
+## میراث و ارزیابی
+
+ریچارد فرای باور دارد که رودکی در تغییر خط از خط پهلوی به خط فارسی نقش داشته است. رودکی را نخستین شاعر بزرگ پارسی‌گوی و پدر شعر پارسی می‌دانند.
+
+## نمونه سرودها
+
+### نمونهٔ تعلیمی
+
+!!! quote "پند زمانه"
+    زمانه پندی آزادوار داد مرا | زمانه را چو نکو بنگری همه پند است  
+    به روز نیک کسان گفت تا که غم نخوری | بسا کسا که به روز تو آرزومند است  
+    زمانه گفت مرا: خشم خویش دار نگاه | کرا زبان نه به بند است پای دربند است
+
+### نمونهٔ غنایی
+
+!!! quote "وصف بهار"
+    لاله میان کشت بخندد همی ز دور | چون پنجهٔ عروس به حنّا شده خضیب  
+    نفاط برق روشن و تندرش طبل زن | دیدم هزار خیل و ندیدم چنین مهیب
+
+## آرامگاه
+
+آرامگاه رودکی در روستای رودک (بنج) تاجیکستان قرار دارد. این مکان به عنوان یک بنای تاریخی و فرهنگی ثبت شده و هر ساله هزاران نفر از آن بازدید می‌کنند.
+
+## برای مطالعه بیشتر
+
+- [ویکی‌پدیای فارسی](https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%DA%A9%DB%8C)
+- [دانشنامه ایرانیکا ](https://www.iranicaonline.org/articles/rudaki-abu-abdallah/)
+- [ویکی‌پدیای انگلیسی](https://en.wikipedia.org/wiki/Rudaki)
+- [گنجور](https://ganjoor.net/rudaki)
+

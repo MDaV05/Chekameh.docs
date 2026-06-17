@@ -1,325 +1,263 @@
-# Omar Khayyam (1048–1131 CE)
+# عمر خیام (۱۰۴۸–۱۱۳۱ میلادی)
 
-!!! info "Quick Facts"
+!!! info "اطلاعات کلی"
     | | |
     |---|---|
-    | **Full Name** | Ghiyath al-Din Abu'l-Fath Umar ibn Ibrahim al-Nisaburi al-Khayyami |
-    | **Persian Name** | غیاث‌الدین ابوالفتح عمر بن ابراهیم نیشابوری خیامی |
-    | **Born** | 18 May 1048 CE, Nishapur, Seljuk Empire |
-    | **Died** | 4 December 1131 CE (aged 83), Nishapur |
-    | **Occupation** | Polymath: Poet, Mathematician, Astronomer, Philosopher, Physician |
-    | **Era** | Seljuk |
-    | **Masterpiece** | Rubaiyat (Quatrains) — approximately 1,200 attributed verses |
-    | **Known For** | Master of the Persian rubai (quatrain), pioneer of algebra, reformer of the Persian calendar |
+    | **نام کامل** | غیاث‌الدین ابوالفتح عمر بن ابراهیم خیام نیشابوری |
+    | **تولد** | ۱۸ مه ۱۰۴۸ میلادی (۲۲ اردیبهشت ۴۲۷ هجری)، نیشابور، خراسان |
+    | **وفات** | ۴ دسامبر ۱۱۳۱ میلادی (۱۳ آذر ۵۰۹ هجری)، نیشابور |
+    | **پیشه** | ریاضی‌دان، ستاره‌شناس، فیلسوف، شاعر، پزشک |
+    | **دوره** | سلجوقی |
+    | **شهر** | نیشابور |
+    | **شاهکار علمی** | رساله در جبر و مقابله، تقویم جلالی |
+    | **شاهکار ادبی** | رباعیات خیام |
+    | **معروف به** | یکی از بزرگترین ریاضی‌دانان قرون وسطی، استاد رباعی فارسی، پیشگام تفکر شکاکانه و فلسفی در ادبیات فارسی |
 
-## Early Life and Background
+## زندگی‌نامه
 
-Omar Khayyam was born on May 18, 1048, in **Nishapur**, one of the great cities of Khorasan in northeastern Persia (modern-day Iran). Nishapur was a major intellectual and cultural center of the Seljuk Empire, home to a renowned university and a vibrant community of scholars.
+غیاث‌الدین ابوالفتح عمر بن ابراهیم خیام نیشابوری، یکی از برجسته‌ترین چهره‌های علمی و ادبی تاریخ ایران و جهان اسلام است. او در ۱۸ مه ۱۰۴۸ میلادی در شهر نیشابور، یکی از مهم‌ترین مراکز علمی و فرهنگی خراسان بزرگ، متولد شد.
 
-His full name, Ghiyath al-Din Abu'l-Fath Umar ibn Ibrahim, reveals his family's scholarly background. The epithet "Khayyam" (meaning "tent-maker") is believed to refer to his father's or grandfather's profession. However, some scholars suggest it may have been a nickname or a reference to a place of origin.
+### نام و لقب
+«خیام» در زبان فارسی به معنای «چادردوز» یا «خیمه‌ساز» است. بر اساس روایات، پدر یا پدربزرگ او این حرفه را داشته‌اند. لقب «غیاث‌الدین» (تکیه‌گاه دین) و کنیه «ابوالفتح» بعدها به او داده شد.
 
-From an early age, Khayyam displayed exceptional intellectual gifts. He received a comprehensive education in the Islamic sciences, mathematics, astronomy, philosophy, and literature. Nishapur, being one of the great centers of learning in the Islamic world, provided him access to the finest scholars of his time.
+### تحصیلات و دوران جوانی
+خیام در نیشابور، که در آن زمان یکی از مهم‌ترین مراکز علمی جهان اسلام بود، تحصیلات خود را آغاز کرد. نیشابور در قرن یازدهم میزبان دانشمندان و فیلسوفان بزرگی چون امام محمد غزالی بود و مدرسه نظامیه آن از معتبرترین مراکز علمی جهان اسلام به شمار می‌رفت.
 
-## The Polymath: Mathematician, Astronomer, and Philosopher
+خیام از سنین جوانی استعداد استثنایی در ریاضیات و نجوم نشان داد. او به مطالعه آثار ریاضی‌دانان بزرگ یونانی مانند اقلیدس و ارشمیدس، و همچنین دانشمندان اسلامی چون خوارزمی و ابوریحان بیرونی پرداخت.
 
-### Mathematical Achievements
+### دوران فعالیت علمی
+خیام در شهرهای مختلف ایران از جمله سمرقند، بخارا، اصفهان، مرو و نیشابور زندگی و کار کرد. او در دربار ملکشاه سلجوقی و وزیر دانشمند او خواجه نظام‌الملک طوسی جایگاه ویژه‌ای داشت و مورد حمایت و احترام این دو قرار گرفت.
 
-Before he was known as a poet, Omar Khayyam was celebrated as one of the greatest mathematicians of the medieval Islamic world. His contributions to mathematics were groundbreaking:
+## دستاوردهای علمی
 
-#### Algebra
-Khayyam's most important mathematical work is the **Treatise on Demonstration of Problems of Algebra** (Risala fi Ahkam al-Taka'ub), written around 1070. In this work, he:
+خیام پیش از هر چیز یک دانشمند برجسته بود. دستاوردهای علمی او در ریاضیات، نجوم و فلسفه، او را به یکی از تأثیرگذارترین چهره‌های علمی تاریخ تبدیل کرده است.
 
-- **Classified cubic equations:** He systematically classified and solved cubic equations using geometric methods (conic sections)
-- **Established algebra as a science:** He argued that algebra was a distinct scientific discipline, separate from geometry
-- **Contributed to the theory of ratios:** He developed a sophisticated theory of the ratio that anticipated later developments in real number theory
-- **Worked on Euclid's parallel postulate:** His attempts to prove this postulate contributed to the later development of non-Euclidean geometry
+### ریاضیات
 
-His work on algebra was so influential that it shaped the development of mathematics in both the Islamic world and medieval Europe.
+#### رساله در جبر و مقابله
+مهم‌ترین اثر ریاضی خیام، **«رساله فی البراهین علی مسائل الجبر و المقابله»** (رساله‌ای در برهان‌های مسائل جبر و مقابله) است. این رساله یکی از مهم‌ترین آثار ریاضی قرون وسطی محسوب می‌شود و شامل دستاوردهای زیر است:
 
-#### The Khayyam-Saccheri Geometry
-Khayyam's work on the parallel postulate, combined with later work by the Italian mathematician Saccheri, forms an important precursor to non-Euclidean geometry. His critical examination of Euclid's fifth postulate laid groundwork that would not be fully realized until the 19th century.
+- **طبقه‌بندی معادلات درجه سوم:** خیام برای نخستین بار معادلات درجه سوم را به طور سیستماتیک طبقه‌بندی کرد و روش‌های هندسی برای حل آن‌ها ارائه داد
+- **حل هندسی معادلات:** او نشان داد که معادلات درجه سوم را می‌توان با استفاده از تقاطع مقاطع مخروطی (دایره، سهمی، هذلولی) حل کرد
+- **پیش‌بینی مفهوم عدد منفی:** خیام به محدودیت‌های هندسه در مواجهه با ریشه‌های منفی پی برد
+- **ارتباط جبر و هندسه:** او نشان داد که چگونه می‌توان مسائل جبری را به مسائل هندسی تبدیل کرد و برعکس
 
-### Astronomical Achievements
+این دستاوردها قرن‌ها پیش از کارهای ریاضی‌دانان اروپایی مانند رنه دکارت انجام شد.
 
-Khayyam's astronomical work was equally impressive:
+#### رساله در موسیقی
+خیام رساله‌ای نیز در نظریه موسیقی نوشت که نشان‌دهنده علاقه او به ارتباط ریاضیات و هنر است.
 
-#### The Jalali Calendar
-In 1074, the Seljuk Sultan **Malik Shah I** invited Khayyam to his court in Isfahan to lead a team of astronomers in reforming the Persian calendar. The result was the **Jalali calendar** (named after the Sultan), which was:
+#### کار بر روی اصول اقلیدس
+خیام بر روی **«اصول» اقلیدس** کار کرد و در تلاش برای اثبات اصل توازی (اصل پنجم اقلیدس) کوشید. این تلاش‌ها قرن‌ها بعد منجر به پیدایش هندسه‌های نااقلیدسی شد.
 
-- **More accurate than the Gregorian calendar:** The Jalali calendar has an error of one day in 3,770 years, compared to one day in 3,226 years for the Gregorian calendar
-- **Based on precise astronomical observations:** Khayyam and his team conducted meticulous observations of the sun's movement
-- **Still in use today:** The modern Iranian calendar (Solar Hijri) is a direct descendant of the Jalali calendar
+### نجوم
 
-The Jalali calendar remained the most accurate calendar in the world for centuries and is a testament to Khayyam's astronomical genius.
+#### تقویم جلالی
+یکی از مهم‌ترین دستاوردهای علمی خیام، طراحی **تقویم جلالی** است. در سال ۱۰۷۹ میلادی، به دستور ملکشاه سلجوقی و با سرپرستی خیام، رصدخانه‌ای در اصفهان تأسیس شد و تقویم جدیدی طراحی گردید.
 
-#### Astronomical Tables
-Khayyam compiled extensive astronomical tables (zij) that were used for centuries. These tables included:
+تقویم جلالی:
+- **دقت فوق‌العاده:** این تقویم دقیق‌تر از تقویم میلادی گریگوری (که قرن‌ها بعد در ۱۵۸۲ میلادی معرفی شد) است
+- **محاسبه طول سال:** خیام طول سال شمسی را ۳۶۵.۲۴۲۱۹۶ روز محاسبه کرد که با محاسبات مدرن (۳۶۵.۲۴۲۱۹۰ روز) اختلاف بسیار ناچیزی دارد
+- **پایه تقویم ایرانی:** تقویم هجری شمسی امروزی، که در ایران و افغانستان استفاده می‌شود، بر اساس تقویم جلالی طراحی شده است
+- **تیم علمی:** خیام این کار را با همکاری دانشمندان برجسته‌ای چون مظفرالدین اسفزاری و میمون بن نجیب انجام داد
 
-- Positions of stars and planets
-- Methods for calculating astronomical phenomena
-- Corrections to earlier Ptolemaic models
+#### زیج ملکشاهی
+خیام همچنین در تهیه **«زیج ملکشاهی»** (جدول‌های نجومی) مشارکت داشت که شامل محاسبات دقیق موقعیت ستارگان و سیارات بود.
 
-### Philosophical Works
+### فلسفه
 
-Khayyam also wrote important philosophical treatises:
+خیام به عنوان یک فیلسوف نیز شناخته می‌شود. آثار فلسفی او شامل:
 
-- **Treatise on Being and Duty** (Fi'l-Wujud wa'l-Taklif): Explores metaphysical questions about existence and obligation
-- **Treatise on the General Metaphysics** (Risala fi'l-Kawn wa'l-Taklif): Discusses the nature of existence
-- **Responses to Three Questions**: Answers to philosophical queries about existence, the soul, and determinism
-- **The Light of the Intellect** (Nur al-Aql): A philosophical treatise on epistemology
+#### رساله در وجود (الخطبة الغرّاء)
+این رساله به بررسی ماهیت وجود می‌پردازد و تحت تأثیر فلسفه ابن‌سینا نوشته شده است. خیام در این رساله به بررسی مفاهیم وجود، عدم و رابطه بین آن‌ها می‌پردازد.
 
-These works reveal Khayyam as a deep philosophical thinker who grappled with fundamental questions about existence, knowledge, and the nature of reality.
+#### رساله در کلیات وجود (الجواب عن ثلاث مسائل)
+در این رساله، خیام به سه سؤال فلسفی دشوار پاسخ می‌دهد و دیدگاه‌های خود را درباره جبر و اختیار، وجود خدا و ماهیت روح بیان می‌کند.
 
-## The Rubaiyat: A Poetic Masterpiece
+#### نوری‌نامه
+رساله‌ای در فلسفه نور و متافیزیک که تحت تأثیر فلسفه اشراقی نوشته شده است.
 
-### What Are the Rubaiyat?
+## رباعیات خیام
 
-The **Rubaiyat** (from Arabic "rubai," meaning "quatrain") is a collection of approximately **1,200 four-line verses** attributed to Omar Khayyam. Each rubai is a self-contained poem that explores philosophical, existential, and often skeptical themes.
+### اهمیت ادبی
+اگرچه خیام در زمان خود بیشتر به عنوان یک دانشمند شناخته می‌شد، امروزه او در سراسر جهان به عنوان شاعر رباعیات مشهور است. رباعیات او یکی از مهم‌ترین آثار ادبیات فارسی و یکی از پرخواننده‌ترین آثار شعر در جهان محسوب می‌شود.
 
-### The Question of Authenticity
+### قالب رباعی
+**رباعی** قالبی شعری است که از چهار مصرع تشکیل شده است. الگوی قافیه آن AABA است (مصرع‌های اول، دوم و چهارم هم‌قافیه و مصرع سوم آزاد). این قالب کوتاه و فشرده، ابزاری ایده‌آل برای بیان افکار فلسفی عمیق و لحظه‌ای است.
 
-One of the most debated aspects of the Rubaiyat is the question of authenticity. Scholars have long disputed which of the 1,200+ attributed quatrains were actually written by Khayyam:
+اگرچه خیام مبتکر رباعی نبود (رودکی و دیگران پیش از او رباعی سروده بودند)، اما او این قالب را به اوج کمال خود رساند و آن را به قالب اصلی بیان فلسفه شخصی خود تبدیل کرد.
 
-- **Early sources:** The earliest biographical sources (from the 12th and 13th centuries) mention Khayyam as a poet but do not quote any of his verses
-- **Later attribution:** The quatrains began to be attributed to Khayyam in the 14th and 15th centuries, often without strong evidence
-- **Modern scholarship:** Scholars like Sadegh Hedayat and others have attempted to distinguish authentic verses from later additions
-- **Conservative estimates:** Some scholars believe only about 100-200 quatrains may be genuinely Khayyam's
+### مضامین اصلی رباعیات
 
-Despite these uncertainties, the Rubaiyat as a collection represents a coherent philosophical vision that has captivated readers for centuries.
+#### ناپایداری و گذر زمان
+یکی از پرتکرارترین مضامین رباعیات خیام، ناپایداری زندگی و گذر بی‌امان زمان است:
 
-### Themes and Philosophy
+!!! quote "ناپایداری جهان"
+    از آمدنم نبود گردون را سود  
+    وین رفتن من جانی و دنیایم چه سود  
+    وین کس نداند ز آمدنم و رفتنم  
+    از آمدنم و رفتنم اینهمه سود؟
 
-The Rubaiyat explores several profound themes that reflect Khayyam's philosophical outlook:
+#### دم را غنیمت شماردن
+خیام به شدت بر اهمیت زندگی در لحظه حال تأکید می‌کند و از خواننده می‌خواهد که فرصت‌های زودگذر زندگی را غنیمت شمارد:
 
-#### Existentialism and the Meaning of Life
-Khayyam repeatedly questions the purpose of existence and the nature of human life:
+!!! quote "غنیمت شمردن دم"
+    از آمدن و رفتن ما سودی کو؟  
+    وین تار وجود عمر ما پودی کو؟  
+    از پرده‌سرایی چو سرودیم چند  
+    سودی کو؟ پرده کجاست و نای و عودی کو؟
 
-- **The mystery of existence:** Why are we here? What is the purpose of life?
-- **The limits of knowledge:** Human reason cannot comprehend the ultimate truths of existence
-- **The absurdity of certainty:** Religious dogmatism and philosophical certainty are both suspect
+#### شکاکیت و پرسش‌گری
+رباعیات خیام سرشار از پرسش‌های بنیادی درباره ماهیت وجود، خدا، و سرنوشت انسان است. این شکاکیت فلسفی، او را از بسیاری از شاعران هم‌عصرش متمایز می‌کند:
 
-#### Carpe Diem (Seize the Day)
-Perhaps the most famous theme in the Rubaiyat is the call to enjoy the present moment:
+!!! quote "پرسش‌های بنیادی"
+    از آمدنم نبود گردون را سود  
+    وین رفتن من جانی و دنیایم چه سود  
+    وین کس نداند ز آمدنم و رفتنم  
+    از آمدنم و رفتنم اینهمه سود؟
 
-- **The brevity of life:** Life is short and uncertain; death is inevitable
-- **The value of the present:** The past is gone, the future unknown—only the present is real
-- **Wine and joy:** Wine symbolizes the enjoyment of life's fleeting pleasures
+#### نقد تعصبات دینی و اجتماعی
+خیام در بسیاری از رباعیات خود، تعصبات خشک دینی، ریاکاری زاهدان، و نابرابری‌های اجتماعی را نقد می‌کند:
 
-#### Skepticism and Doubt
-Khayyam expresses a profound philosophical skepticism:
+!!! quote "نقد ریاکاری"
+    می‌گساری و عشق و شعر و آواز  
+    خوش‌تر ز هر آنچه خدا ساخته‌ست و نیاز  
+    خوش‌تر ز هر آنچه خدا ساخته‌ست و نیاز  
+    می‌گساری و عشق و شعر و آواز
 
-- **Religious doubt:** Questions about God, the afterlife, and religious doctrine
-- **Epistemological doubt:** The limits of human knowledge and reason
-- **Cosmic indifference:** The universe may be indifferent to human suffering
+#### باده و میخانه
+«باده» (شراب) و «میخانه» از پرتکرارترین نمادها در رباعیات خیام هستند. این نمادها می‌توانند معانی متعددی داشته باشند:
 
-#### Wine as Symbol
-Wine (mey/badeh) appears throughout the Rubaiyat as a rich symbol:
+- **لفظی:** لذت‌های زمینی و جشن زندگی
+- **استعاری:** مستی از عشق، خرد، یا وجد معنوی
+- **شورش‌گرانه:** مخالفت با محدودیت‌های خشک مذهبی و اجتماعی
 
-- **Literal wine:** The celebration of earthly pleasures
-- **Mystical wine:** Divine knowledge or spiritual intoxication
-- **Philosophical wine:** The wisdom that comes from accepting life's uncertainties
+### سبک شعری
 
-#### The Potter and the Clay
-A recurring metaphor in the Rubaiyat is that of the potter and the clay:
+رباعیات خیام با ویژگی‌های زیر مشخص می‌شوند:
 
-- **Human helplessness:** We are like clay in the hands of the potter (God or Fate)
-- **Questioning divine justice:** If God is the potter, why does He make flawed vessels?
-- **The mystery of creation:** The process of creation is beyond human comprehension
+- **ایجاز و فشردگی:** در چهار مصرع، افکار عمیق فلسفی بیان می‌شود
+- **وضوح زبان:** زبان ساده و قابل فهم، بدون پیچیدگی‌های بی‌مورد
+- **موسیقیایی بودن:** ریتم و آهنگ طبیعی که خواندن آن را لذت‌بخش می‌کند
+- **عمق فلسفی:** هر رباعی دعوت به تأمل و اندیشه است
+- **صداقت احساسی:** بیان صادقانه شک‌ها، ترس‌ها و امیدها
 
-### Literary Style
+### تعداد رباعیات
+درباره تعداد دقیق رباعیات منتسب به خیام اختلاف نظر وجود دارد. برخی محققان تنها حدود ۱۰۰ رباعی را اصیل می‌دانند، در حالی که برخی دیگر تا ۱۲۰۰ رباعی را به او نسبت می‌دهند. تشخیص رباعیات اصیل از رباعیات جعلی یکی از چالش‌های مهم در مطالعات خیام‌شناسی است.
 
-Khayyam's rubaiyat are characterized by:
+## افسانه‌ها و روایات
 
-- **Conciseness:** Each quatrain expresses a complete thought in just four lines
-- **Philosophical depth:** Simple language conceals profound ideas
-- **Emotional intensity:** Genuine expressions of doubt, joy, sorrow, and wonder
-- **Rhetorical power:** Frequent use of questions, paradoxes, and striking imagery
-- **Musicality:** The rubai form has a natural rhythm that enhances the philosophical content
+### خیام و حسن صباح و نظام‌الملک
+یکی از مشهورترین افسانه‌ها درباره خیام، داستان دوستی او با **حسن صباح** (بنیان‌گذار فرقه اسماعیلیه) و **نظام‌الملک طوسی** (وزیر بزرگ سلجوقی) است. طبق این افسانه، این سه نفر در جوانی هم‌مدرسه‌ای بوده‌اند و عهد کرده‌اند که هر کدام به مقامی بلند رسید، دیگران را یاری کند.
 
-## Historical Context: The Seljuk Era
+پس از آنکه نظام‌الملک به وزارت رسید، دو دوست خود را فراخواند. حسن صباح مقامی خواست و به زودی طغیان کرد. خیام تنها درخواست کرد که زیر سایه علم و دانش زندگی کند و از دربار کناره گرفت.
 
-### The Seljuk Empire
+!!! info "ارزش تاریخی"
+    این داستان اگرچه بسیار مشهور است، اما ارزش تاریخی چندانی ندارد و بیشتر جنبه افسانه‌ای دارد. با این حال، این داستان نشان‌دهنده تضاد بین سه مسیر زندگی است: قدرت سیاسی (نظام‌الملک)، انقلاب مذهبی (حسن صباح)، و جستجوی علمی (خیام).
 
-Khayyam lived during the height of the **Seljuk Empire**, one of the most powerful and culturally sophisticated empires in Islamic history. The Seljuks were a Turkic dynasty that ruled a vast territory from Central Asia to the Mediterranean.
+### پیشگویی‌های خیام
+افسانه‌های متعددی درباره توانایی‌های پیشگویانه خیام وجود دارد. برخی روایات ادعا می‌کنند که او از زمان مرگ خود آگاه بوده و حتی مکان دقیق مرگش را پیش‌بینی کرده است.
 
-Key features of the Seljuk period:
-- **Political centralization:** The Seljuks established a powerful centralized state
-- **Cultural flourishing:** Persian culture reached new heights under Seljuk patronage
-- **Intellectual ferment:** Philosophy, science, and literature all thrived
-- **Religious complexity:** The period saw tensions between orthodox Islam, Sufism, and philosophical rationalism
+## زمینه تاریخی
 
-### The Court of Malik Shah I
+### دوره سلجوقی
+خیام در دوره سلجوقیان زندگی می‌کرد، زمانی که امپراتوری بزرگ ترک-ایرانی بخش عظیمی از جهان اسلام را کنترل می‌کرد. این دوره با موارد زیر مشخص می‌شد:
 
-Khayyam's most important patron was **Sultan Malik Shah I** (r. 1072–1092), one of the greatest Seljuk rulers. Under Malik Shah's patronage, Khayyam:
+- **شکوفایی علمی:** تأسیس مدارس نظامیه و حمایت از دانشمندان
+- **تلفیق فرهنگی:** آمیختن سنت‌های ایرانی، ترکی و اسلامی
+- **بی‌ثباتی سیاسی:** مبارزات قدرت و تغییرات مداوم
+- **تنوع مذهبی:** حضور مذاهب مختلف اسلامی و تعامل آن‌ها
 
-- Led the astronomical observatory in Isfahan
-- Reformed the Persian calendar
-- Enjoyed the support of the brilliant vizier **Nizam al-Mulk**
+### نیشابور به عنوان مرکز علمی
+نیشابور در قرن یازدهم یکی از مهم‌ترین مراکز علمی جهان اسلام بود. این شهر میزبان دانشمندان و فیلسوفان برجسته‌ای بود و مدرسه نظامیه آن از معتبرترین مراکز آموزش عالی به شمار می‌رفت.
 
-The court of Malik Shah was a center of intellectual activity, attracting scholars, scientists, and artists from across the Islamic world.
+### حمایت سلجوقیان
+ملکشاه سلجوقی و وزیر او خواجه نظام‌الملک طوسی از حامیان بزرگ علم و دانش بودند. آن‌ها رصدخانه‌ها، کتابخانه‌ها و مدارس متعددی تأسیس کردند و از دانشمندان برجسته حمایت مالی و معنوی می‌کردند. خیام از این حمایت‌ها بهره‌مند شد و توانست پژوهش‌های علمی خود را انجام دهد.
 
-### Nishapur: A Center of Learning
+## میراث و تأثیر فرهنگی
 
-Khayyam's hometown of Nishapur was one of the great intellectual centers of the medieval Islamic world:
+### تأثیر بر علم
+دستاوردهای علمی خیام تأثیر عمیقی بر توسعه ریاضیات و نجوم گذاشت:
 
-- **The Nizamiyyah University:** Founded by Nizam al-Mulk, it was one of the first universities in the Islamic world
-- **Scholarly community:** Nishapur attracted scholars from across the Muslim world
-- **Cultural diversity:** The city was home to Muslims, Christians, Jews, and Zoroastrians
-- **Intellectual freedom:** The relative tolerance of the Seljuk period allowed for philosophical and scientific inquiry
+- **ریاضیات اروپایی:** آثار ریاضی خیام از طریق ترجمه‌های لاتین به اروپا راه یافت و بر ریاضی‌دانان قرون بعدی تأثیر گذاشت
+- **تقویم:** تقویم جلالی پایه تقویم هجری شمسی امروزی است که توسط میلیون‌ها نفر استفاده می‌شود
+- **جبر:** طبقه‌بندی معادلات درجه سوم توسط خیام، پایه‌ای برای کارهای بعدی ریاضی‌دانان از جمله رافائل بومبللی و رنه دکارت شد
 
-## The Western Discovery of Khayyam
+### تأثیر بر ادبیات
+رباعیات خیام تأثیر عمیقی بر ادبیات فارسی و جهانی گذاشت:
 
-### Edward FitzGerald's Translation (1859)
+- **ادبیات فارسی:** او الگویی برای شاعران بعدی در سرودن رباعی فراهم کرد
+- **ادبیات جهان:** ترجمه ادوارد فیتزجرالد از رباعیات خیام در ۱۸۵۹ میلادی، او را به یکی از مشهورترین شاعران شرق در غرب تبدیل کرد
+- **تأثیر بر شاعران غربی:** شاعرانی چون T.S. Eliot، Ezra Pound، و Arthur Conan Doyle تحت تأثیر رباعیات خیام بودند
 
-The Rubaiyat might have remained a relatively obscure work of Persian literature if not for the English poet **Edward FitzGerald**, who published his famous translation in 1859.
+### افسانه خیام در غرب
+پس از ترجمه فیتزجرالد، خیام در غرب به یک چهره فرهنگی تبدیل شد. او به عنوان نماد شاعر-فیلسوف شرقی، شکاک و لذت‌جو شناخته شد. این تصویر اگرچه با واقعیت تاریخی کاملاً منطبق نیست، اما تأثیر عمیقی بر ادبیات و فرهنگ غرب گذاشت.
 
-FitzGerald's translation was:
-- **A creative adaptation:** Rather than a literal translation, FitzGerald created a new English poem inspired by Khayyam
-- **A Victorian sensation:** The Rubaiyat became one of the most popular books in Victorian England
-- **A cultural phenomenon:** It influenced literature, art, and philosophy across the Western world
+### تأثیر بر موسیقی و هنر
+رباعیات خیام الهام‌بخش آثار بی‌شماری در هنر و موسیقی بوده است:
 
-### Impact on Western Culture
+- **موسیقی کلاسیک غربی:** آهنگسازانی چون Holst و Delius آثار خود را بر اساس رباعیات خیام ساخته‌اند
+- **موسیقی ایرانی:** بسیاری از خوانندگان و نوازندگان ایرانی رباعیات خیام را اجرا کرده‌اند
+- **هنرهای تجسمی:** نگارگران و خوشنویسان ایرانی رباعیات او را تصویرسازی کرده‌اند
 
-FitzGerald's Rubaiyat had a profound impact on Western culture:
+## آرامگاه خیام
 
-- **Literary influence:** Writers like Oscar Wilde, W.B. Yeats, and Jorge Luis Borges were influenced by the Rubaiyat
-- **Philosophical impact:** Khayyam's existentialist themes resonated with Western modernist thinkers
-- **Popular culture:** The Rubaiyat became a cultural touchstone, quoted in countless works of literature and art
-- **Orientalism:** The Rubaiyat shaped Western perceptions of Persian culture and Islamic philosophy
+### تاریخچه
+خیام در ۴ دسامبر ۱۱۳۱ میلادی در نیشابور درگذشت. او را در باغی در نزدیکی مقبره امامزاده محروق در نیشابور دفن کردند. برای قرن‌ها، آرامگاه او بدون نشانه خاصی باقی ماند.
 
-### Controversy and Debate
+### مقبره امروزی
+در سال ۱۳۳۹ شمسی (۱۹۶۰ میلادی)، به مناسبت هزارمین سالگرد تولد خیام، مقبره‌ای باشکوه بر اساس طراحی معمار ایرانی **هوشنگ سیحون** ساخته شد.
 
-FitzGerald's translation sparked ongoing debate:
-- **Accuracy:** Scholars have questioned how faithfully FitzGerald represented Khayyam's original verses
-- **Interpretation:** Some argue FitzGerald imposed Victorian sensibilities on Khayyam's philosophy
-- **Authenticity:** The translation introduced Khayyam to the West but also created a somewhat distorted image
+#### ویژگی‌های معماری
+مقبره خیام یکی از شاهکارهای معماری مدرن ایران است:
 
-Despite these controversies, FitzGerald's Rubaiyat remains one of the most influential translations in literary history.
+- **ساختار هندسی:** مقبره بر اساس مفاهیم ریاضی و نجومی طراحی شده است
+- **ستون‌های نمادین:** ده ستون که نماد ده قرن فعالیت علمی خیام هستند
+- **گنبد ستاره‌ای:** سقفی به شکل ستاره که نماد علاقه خیام به نجوم است
+- **محاسبات ریاضی:** طراحی بر اساس نسبت‌های ریاضی دقیق انجام شده است
+- **باغ آرام:** مقبره در باغی زیبا با درختان و حوض‌های آب قرار دارد
 
-## Khayyam and Religion
+### اهمیت فرهنگی
+آرامگاه خیام یکی از مهم‌ترین بناهای فرهنگی ایران و مکانی برای گردهمایی دانشمندان، شاعران و دوستداران فرهنگ است. هر سال در روزهای ویژه، مراسم بزرگداشتی در مقبره برگزار می‌شود.
 
-### The Question of Khayyam's Faith
+## خیام در دنیای مدرن
 
-One of the most debated aspects of Khayyam's legacy is his relationship with religion. Different interpretations have emerged:
+### ارتباط معاصر
+با وجود زندگی نزدیک به هزار سال پیش، خیام همچنان به طور قابل توجهی با مسائل معاصر مرتبط است:
 
-#### The Orthodox View
-Some scholars argue that Khayyam was a devout Muslim whose poetry has been misinterpreted:
-- His references to wine are mystical metaphors
-- His skepticism is within the bounds of Islamic philosophical tradition
-- His philosophical works demonstrate orthodox beliefs
+- **شکاکیت فلسفی:** پرسش‌های او درباره ماهیت وجود و معنای زندگی همچنان به دغدغه‌های انسان مدرن پاسخ می‌دهند
+- **علم‌گرایی:** تعهد او به روش علمی و عقلانیت، الگویی برای دانشمندان امروزی است
+- **دم را غنیمت شمردن:** فلسفه او درباره زندگی در لحظه حال، در دنیای پرشتاب امروز جذابیت ویژه‌ای دارد
+- **جهان‌وطنی:** تأثیر او بر فرهنگ‌های مختلف، او را به یک چهره جهانی تبدیل کرده است
 
-#### The Skeptical View
-Others see Khayyam as a freethinker or even an agnostic:
-- His poetry expresses genuine doubt about religious doctrines
-- He questions the afterlife, divine justice, and religious authority
-- His philosophical works show a rationalist approach
+### مطالعه آکادمیک
+خیام موضوع مطالعه علمی گسترده‌ای است:
 
-#### The Mystical View
-Some interpret Khayyam as a Sufi mystic:
-- His wine imagery represents divine love
-- His existential questions reflect the Sufi quest for truth
-- His skepticism is part of the Sufi tradition of questioning
+- **تاریخ ریاضیات:** محققان همچنان آثار ریاضی او را تحلیل می‌کنند
+- **تاریخ نجوم:** نقش او در توسعه تقویم و رصدخانه‌ها مطالعه می‌شود
+- **ادبیات تطبیقی:** رباعیات او با آثار شاعران دیگر جهان مقایسه می‌شود
+- **فلسفه:** دیدگاه‌های فلسفی او در زمینه وجود، معرفت و اخلاق تحلیل می‌شوند
 
-### Khayyam's Own Position
+### دسترسی دیجیتال
+آثار خیام به طور گسترده‌ای در قالب‌های دیجیتال در دسترس هستند:
 
-Khayyam's own position remains ambiguous, which may be precisely his point. His poetry suggests:
-- **Intellectual honesty:** He refuses to claim certainty where none exists
-- **Philosophical humility:** He acknowledges the limits of human knowledge
-- **Existential courage:** He faces life's uncertainties without false comfort
+- **نسخه‌های آنلاین:** رباعیات و آثار علمی او در وب‌سایت‌های متعدد موجود است
+- **ترجمه‌ها:** ترجمه‌های متعدد به زبان‌های مختلف، آثار او را برای مخاطبان جهانی قابل دسترس کرده‌اند
+- **گنجور و سایر پلتفرم‌ها:** رباعیات او در وب‌سایت‌های ادبی فارسی در دسترس است
+- **منابع آکادمیک:** پایگاه‌های داده علمی مقالات متعددی درباره خیام منتشر کرده‌اند
 
-## Legacy and Cultural Impact
+### نماد فرهنگی
+خیام امروزه به عنوان نمادی از موارد زیر شناخته می‌شود:
 
-### In the Islamic World
+- **عقلانیت ایرانی:** ترکیب نادر بین علم و شعر
+- **جهان‌وطنی:** تأثیر او بر فرهنگ‌های مختلف
+- **شکاکیت سالم:** پرسش‌گری بدون ترس از تعصبات
+- **غنای فرهنگی:** نمایانگر عمق و پیچیدگی فرهنگ ایرانی
 
-Khayyam's legacy in the Islamic world is complex:
+## برای مطالعه بیشتر
 
-- **Mathematical and astronomical contributions:** Universally recognized as groundbreaking
-- **Philosophical works:** Studied and debated by scholars for centuries
-- **Poetry:** Controversial but influential, especially in Persian literature
-- **Cultural symbol:** He represents the ideal of the polymath—the scholar who excels in multiple fields
-
-### In the Western World
-
-In the West, Khayyam is primarily known as a poet:
-
-- **The Rubaiyat:** One of the most widely read and translated works of Persian literature
-- **Existentialist philosopher:** His themes resonate with modern existentialist thought
-- **Cultural icon:** Quoted in countless works of literature, music, and art
-- **Symbol of Persian culture:** For many Westerners, Khayyam represents the richness of Persian intellectual tradition
-
-### In Modern Iran
-
-In modern Iran, Khayyam is celebrated as:
-
-- **National hero:** A symbol of Iranian intellectual achievement
-- **Scientific pioneer:** His mathematical and astronomical work is widely recognized
-- **Literary master:** The Rubaiyat is considered a cornerstone of Persian literature
-- **Philosophical voice:** His existentialist themes resonate with modern Iranian intellectuals
-
-### Influence on Science and Mathematics
-
-Khayyam's scientific contributions continue to be recognized:
-
-- **Algebra:** His work on cubic equations influenced the development of modern algebra
-- **Calendar reform:** The Jalali calendar remains the basis of the modern Iranian calendar
-- **Geometry:** His work on the parallel postulate anticipated non-Euclidean geometry
-- **Astronomy:** His astronomical tables were used for centuries
-
-## The Tomb of Omar Khayyam
-
-### Location and History
-
-Omar Khayyam was buried in his hometown of Nishapur. For centuries, his tomb was a simple structure, but in the 20th century, a magnificent mausoleum was constructed to honor his legacy.
-
-### The Modern Mausoleum
-
-The current mausoleum, designed by the Iranian architect **Hooshang Seyhoun** and completed in 1963, is a striking example of modern Persian architecture:
-
-- **Geometric design:** The tomb is based on mathematical principles, reflecting Khayyam's work as a mathematician
-- **Open structure:** The mausoleum is open to the sky, symbolizing Khayyam's contemplation of the cosmos
-- **Mathematical motifs:** The design incorporates geometric patterns that reference Khayyam's mathematical work
-- **Garden setting:** The tomb is surrounded by a beautiful garden, providing a peaceful setting for contemplation
-
-### Cultural Significance
-
-The tomb of Omar Khayyam is:
-- **A pilgrimage site:** Scholars, students, and admirers visit from around the world
-- **A cultural monument:** It represents Iran's rich intellectual heritage
-- **An architectural masterpiece:** Seyhoun's design is considered one of the finest examples of modern Persian architecture
-- **A symbol of knowledge:** The tomb honors Khayyam's contributions to mathematics, astronomy, and literature
-
-## Khayyam in the Modern World
-
-### Contemporary Relevance
-
-Despite living nearly a thousand years ago, Khayyam remains remarkably relevant:
-
-- **Existentialist themes:** His questions about the meaning of life resonate with modern readers
-- **Scientific legacy:** His mathematical and astronomical work continues to be studied
-- **Philosophical insights:** His skepticism and intellectual honesty appeal to modern sensibilities
-- **Cultural bridge:** He represents the rich intellectual exchange between Islamic and Western cultures
-
-### Academic Study
-
-Khayyam is the subject of extensive scholarly study:
-
-- **Mathematical history:** His contributions to algebra and geometry are studied by historians of mathematics
-- **Astronomical history:** His calendar reform and astronomical tables are analyzed by historians of science
-- **Literary analysis:** The Rubaiyat is studied for its artistic and philosophical content
-- **Philosophical research:** His philosophical works are examined by scholars of Islamic philosophy
-
-### Digital Access
-
-Khayyam's works are increasingly available in digital formats:
-
-- **Online editions:** Many of his works are available in digital editions
-- **Translations:** New translations continue to make his work accessible to global audiences
-- **Scholarly databases:** Academic resources on Khayyam continue to grow
-- **Ganjur and other platforms:** His poetry is available on Persian literary websites
-
-## Further Reading
-
-- [Wikipedia: Omar Khayyam](https://en.wikipedia.org/wiki/Omar_Khayyam)
-- [Encyclopædia Iranica: Khayyam](https://www.iranicaonline.org/articles/khayyam)
-- [Ganjur: Rubaiyat of Khayyam](https://ganjoor.net/khayyam)
-- [Seljuk Era](../eras/seljuk.md) - The historical context of Khayyam's life and work
+- [ویکی‌پدیای فارسی: خیام](https://fa.wikipedia.org/wiki/%D8%AE%DB%8C%D8%A7%D9%85)
+- [دانشنامه ایرانیکا: خیام](https://www.iranicaonline.org/articles/khayyam)
+- [گنجور: رباعیات خیام](https://ganjoor.net/khayyam)
+- [دوره سلجوقیان](../eras/seljuk.fa.md) - زمینه تاریخی زندگی و کار خیام
+- [شهر نیشابور](../cities/nishapur.fa.md) - زادگاه خیام

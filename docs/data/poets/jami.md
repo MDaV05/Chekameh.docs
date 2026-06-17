@@ -1,296 +1,296 @@
-# Jami (1414–1492 CE)
+# جامی (۱۴۱۴–۱۴۹۲ میلادی)
 
-    | category | info |
-    |----------|------|
-    | **Full Name** | Nur al-Din Abd al-Rahman ibn Ahmad Jami |
-    | **Persian Name** | نورالدین عبدالرحمن بن احمد جامی |
-    | **Pen Name (Takhallus)** | Jami (derived from his birthplace, Jam) |
-    | **Born** | 1414 CE (7 November), Jam, Khorasan, Timurid Empire |
-    | **Died** | 1492 CE (9 November, aged 78), Herat, Timurid Empire |
-    | **Occupation** | Poet, Sufi mystic, Scholar, Historian |
-    | **Sufi Order** | Naqshbandi |
-    | **Era** | Timurid |
-    | **Masterpiece** | Haft Awrang (Seven Thrones), Baharistan, Yusuf and Zulaikha |
-    | **Known For** | "Seal of the Classical Poets" (Khatam al-Shu'ara), last great master of classical Persian poetry |
+!!! info "اطلاعات کلی"
+    | | |
+    |---|---|
+    | **نام کامل** | نورالدین عبدالرحمن بن احمد جامی |
+    | **تخلص** | جامی (برگرفته از زادگاهش، جام) |
+    | **تولد** | ۷ نوامبر ۱۴۱۴ میلادی، جام، خراسان، تیموریان |
+    | **وفات** | ۹ نوامبر ۱۴۹۲ میلادی (۷۸ سالگی)، هرات، تیموریان |
+    | **پیشه** | شاعر، عارف صوفی، عالم، تاریخ‌نگار |
+    | **طریقت صوفی** | نقشبندیه |
+    | **دوره** | تیموریان |
+    | **شاهکار** | هفت اورنگ، بهارستان، یوسف و زلیخا |
+    | **معروف به** | «خاتم‌الشعرا»، آخرین استاد بزرگ شعر کلاسیک فارسی |
 
-## Early Life and Background
+## زندگی اولیه و زمینه خانوادگی
 
-Nur al-Din Abd al-Rahman Jami was born on November 7, 1414, in the town of **Jam** in the Khorasan region (in modern-day western Afghanistan). His family name, "Jami," is derived from this town of origin — a common Persian naming convention. His father, Nizam al-Din Ahmad, was a prominent scholar and preacher, and the young Abd al-Rahman received a comprehensive education in theology, philosophy, mathematics, astronomy, and literature.
+نورالدین عبدالرحمن جامی در ۷ نوامبر ۱۴۱۴ میلادی در شهر **جام** در منطقه خراسان (در غرب افغانستان امروزی) متولد شد. نام خانوادگی او، «جامی»، از این شهر زادگاهش گرفته شده است — یک روش نام‌گذاری رایج فارسی. پدرش، نظام‌الدین احمد، عالم و واعظ برجسته‌ای بود و عبدالرحمن جوان آموزش جامعی در الهیات، فلسفه، ریاضیات، نجوم و ادبیات دریافت کرد.
 
-Jami showed exceptional intellectual gifts from an early age. He memorized the Quran and mastered Arabic grammar, Persian literature, and Islamic sciences. His early education took place in Herat, the brilliant cultural capital of the Timurid Empire, where he studied under some of the most distinguished scholars of his time.
+جامی از سنین اولیه استعدادهای فکری استثنایی نشان داد. او قرآن را حفظ کرد و به دستور زبان عربی، ادبیات فارسی و علوم اسلامی تسلط یافت. آموزش اولیه او در هرات، پایتخت درخشان فرهنگی امپراتوری تیموری، رخ داد، جایی که تحت آموزش برخی از متمایزترین عالمان زمان خود قرار گرفت.
 
-### Education and Intellectual Formation
+### آموزش و شکل‌گیری فکری
 
-Jami's education was remarkably broad, reflecting the polymathic tradition of Islamic scholarship:
+آموزش جامی به طور قابل توجهی گسترده بود و سنت همه‌چیزدانی دانش اسلامی را منعکس می‌کرد:
 
-- **Religious sciences:** Quranic exegesis (tafsir), hadith, jurisprudence (fiqh), and theology (kalam)
-- **Philosophy:** He studied the works of Ibn Sina (Avicenna) and other Islamic philosophers
-- **Mathematics and astronomy:** He wrote treatises on both subjects
-- **Literature:** He mastered Arabic and Persian poetry, rhetoric, and literary criticism
-- **Sufism:** He was initiated into the Naqshbandi Sufi order, which would profoundly shape his spiritual life and literary output
+- **علوم دینی:** تفسیر قرآن، حدیث، فقه و کلام
+- **فلسفه:** او آثار ابن سینا و سایر فیلسوفان اسلامی را مطالعه کرد
+- **ریاضیات و نجوم:** او رسالاتی در هر دو موضوع نوشت
+- **ادبیات:** او به شعر عربی و فارسی، بلاغت و نقد ادبی تسلط یافت
+- **تصوف:** او به طریقت صوفی نقشبندیه وارد شد، که به طور عمیقی زندگی معنوی و خروجی ادبی او را شکل داد
 
-This encyclopedic education made Jami one of the most learned figures of his era, capable of writing authoritatively on virtually every field of Islamic knowledge.
+این آموزش دانشنامه‌ای جامی را به یکی از آموخته‌ترین چهره‌های عصر خود تبدیل کرد، قادر به نوشتن معتبرانه در تقریباً هر زمینه از دانش اسلامی.
 
-## Historical Context: The Timurid Renaissance
+## زمینه تاریخی: رنسانس تیموری
 
-Jami lived during the final flowering of the Timurid Empire, a period of extraordinary cultural achievement centered in Herat. Under the patronage of **Sultan Husayn Bayqara** (r. 1469–1506) and his brilliant vizier **Alisher Nava'i**, Herat became one of the great cultural capitals of the world.
+جامی در طول شکوفایی نهایی امپراتوری تیموری زندگی کرد، دوره‌ای از دستاورد فرهنگی استثنایی که در هرات متمرکز بود. تحت حمایت **سلطان حسین بایقرا** (حکومت: ۱۴۶۹–۱۵۰۶) و وزیر درخشان او **علیشیر نوایی**، هرات به یکی از پایتخت‌های بزرگ فرهنگی جهان تبدیل شد.
 
-This era was characterized by:
-- **Courtly patronage:** Unprecedented support for poets, artists, and scholars
-- **Cultural synthesis:** The blending of Persian, Turkic, and Islamic traditions
-- **Artistic refinement:** The perfection of miniature painting, calligraphy, and architecture
-- **Intellectual ferment:** Flourishing of philosophy, mysticism, and literary criticism
-- **Cosmopolitan atmosphere:** Herat attracted intellectuals from across the Islamic world
+این دوره با موارد زیر مشخص می‌شد:
+- **حمایت درباری:** پشتیبانی بی‌سابقه از شاعران، هنرمندان و عالمان
+- **تلفیق فرهنگی:** آمیختن سنت‌های فارسی، ترکی و اسلامی
+- **ظرافت هنری:** کمال نگارگری، خوشنویسی و معماری
+- **جوشش فکری:** شکوفایی فلسفه، عرفان و نقد ادبی
+- **فضای کسموپولیتن:** هرات روشنفکران را از سراسر جهان اسلامی جذب می‌کرد
 
-Jami was at the heart of this cultural renaissance, moving in the most elite intellectual circles and enjoying the patronage of the highest-ranking figures in the Timurid court.
+جامی در قلب این رنسانس فرهنگی بود، در نخبه‌گراترین حلقه‌های فکری حرکت می‌کرد و از حمایت بالاترین مقامات در دربار تیموری برخوردار بود.
 
-## The Naqshbandi Sufi Path
+## مسیر صوفی نقشبندی
 
-### Initiation and Spiritual Development
+### ورود و توسعه معنوی
 
-Jami's spiritual life was centered on the **Naqshbandi Sufi order**, one of the most influential Sufi traditions in Islamic history. He was initiated into the order by the renowned Naqshbandi master **Sa'd al-Din Kashgari**, and later became a disciple of **Khwaja Ahrar**, the powerful head of the Naqshbandi order who wielded significant political influence across Central Asia.
+زندگی معنوی جامی بر **طریقت صوفی نقشبندیه** متمرکز بود، یکی از تأثیرگذارترین سنت‌های صوفیانه در تاریخ اسلامی. او توسط استاد معروف نقشبندی **سعدالدین کاشغری** وارد طریقت شد، و بعدها مرید **خواجه احرار**، رئیس قدرتمند طریقت نقشبندیه شد که نفوذ سیاسی قابل توجهی در سراسر آسیای مرکزی داشت.
 
-The Naqshbandi order emphasized:
-- **Silent dhikr:** Remembrance of God through silent meditation rather than vocal chanting
-- **Spiritual discipline:** Strict adherence to ethical and spiritual practices
-- **Social engagement:** Unlike some Sufi orders that advocated withdrawal from society, the Naqshbandis encouraged active participation in worldly affairs while maintaining spiritual detachment
-- **Scholarly rigor:** Integration of Sufi practice with Islamic scholarship
+طریقت نقشبندیه بر موارد زیر تأکید می‌کرد:
+- **ذکر خفی:** یاد خدا از طریق مراقبه خاموش به جای ذکر شفاهی
+- **نظم معنوی:** پایبندی سخت‌گیرانه به اعمال اخلاقی و معنوی
+- **مشارکت اجتماعی:** برخلاف برخی طریقت‌های صوفی که انزوا از جامعه را تبلیغ می‌کردند، نقشبندیان مشارکت فعال در امور دنیوی را در حالی که detachment معنوی را حفظ می‌کردند، تشویق می‌کردند
+- **دقت علمی:** ادغام عمل صوفی با دانش اسلامی
 
-Jami's commitment to the Naqshbandi path profoundly influenced his poetry and prose, infusing his works with deep mystical insights while maintaining intellectual rigor.
+تعهد جامی به مسیر نقشبندی به طور عمیقی بر شعر و نثر او تأثیر گذاشت و آثارش را با بینش‌های عمیق عرفانی در حالی که دقت فکری را حفظ می‌کرد، آغشته کرد.
 
-### Sufi Writings
+### نوشته‌های صوفیانه
 
-Jami wrote several important treatises on Sufism:
+جامی رسالات مهم متعددی در تصوف نوشت:
 
-#### Lawa'ih (Flashes of Light)
-A concise but profound treatise on the nature of divine love and the spiritual path. Written in a mixture of prose and verse, it explores the central themes of Sufi metaphysics with remarkable clarity.
+#### لمعات (پرتوهای نور)
+رساله‌ای موجز اما عمیق در ماهیت عشق الهی و مسیر معنوی. نوشته شده به ترکیبی از نثر و نظم، مضامین مرکزی متافیزیک صوفیانه را با وضوح قابل توجهی کاوش می‌کند.
 
-#### Lawami' (Flashes of Light)
-A commentary on the Lawa'ih, further elaborating on the mystical concepts introduced in the earlier work.
+#### لوايح (درخشش‌های نور)
+شرحی بر لمعات، که بیشتر مفاهیم عرفانی معرفی شده در اثر قبلی را بسط می‌دهد.
 
-#### Ashi'at al-Lama'at (Rays of the Flashes)
-A detailed commentary on the famous Sufi treatise *Lama'at* by Fakhruddin Iraqi, demonstrating Jami's deep understanding of the Ibn Arabi school of Sufi metaphysics.
+#### اشعة اللمعات (پرتوهای درخشش‌ها)
+شرحی دقیق بر رساله صوفیانه معروف *لمعات* توسط فخرالدین عراقی، که درک عمیق جامی از مکتب متافیزیک صوفی ابن عربی را نشان می‌دهد.
 
-#### Nafahat al-Uns (Breaths of Fellowship)
-One of Jami's most important prose works, this is a comprehensive biographical dictionary of Sufi saints and masters from the earliest generations to Jami's own time. It remains an invaluable source for the history of Islamic mysticism.
+#### نفحات الانس (نفس‌های انس)
+یکی از مهم‌ترین آثار نثر جامی، این یک فرهنگ‌نامه زندگی‌نامه‌ای جامع از اولیا و استادان صوفی از نسل‌های اولیه تا زمان خود جامی است. این اثر همچنان منبعی ارزشمند برای تاریخ عرفان اسلامی باقی مانده است.
 
-## Major Literary Works
+## آثار ادبی اصلی
 
-### Haft Awrang (The Seven Thrones)
+### هفت اورنگ
 
-The **Haft Awrang** (also spelled *Haft Aurang*) is Jami's magnum opus — a collection of seven long narrative poems (mathnawis) written over many years. Modeled after Nizami Ganjavi's *Khamsa* (Five Treasures), the Haft Awrang established Jami as the greatest narrative poet of his generation.
+**هفت اورنگ** شاهکار جامی است — مجموعه‌ای از هفت شعر روایی طولانی (مثنوی) که در طول سال‌های متعدد نوشته شده است. این اثر که بر اساس *خمسه* نظامی گنجوی مدل شده است، جامی را به عنوان بزرگترین شاعر روایی نسل خود تثبیت کرد.
 
-The seven poems are:
+هفت شعر عبارتند از:
 
-#### 1. Salsalat al-Dhahab (The Chain of Gold)
-A didactic poem on ethics and wisdom, composed in 1467. It explores themes of moral philosophy, the transience of worldly life, and the importance of spiritual development.
+#### ۱. سلسلة الذهب (زنجیر طلا)
+شعری تعلیمی در اخلاق و خرد، سروده شده در ۱۴۶۷. مضامین فلسفه اخلاقی، ناپایداری زندگی دنیوی و اهمیت توسعه معنوی را کاوش می‌کند.
 
-#### 2. Subhat al-Abrar (The Rosary of the Righteous)
-A narrative poem telling the stories of pious figures, composed in 1470. It combines storytelling with moral instruction, following the tradition of Saadi's *Gulistan*.
+#### ۲. تحفة الابرار (تسبیح نیکان)
+شعری روایی که داستان‌های چهره‌های پارسا را روایت می‌کند، سروده شده در ۱۴۷۰. داستان‌سرایی را با آموزش اخلاقی ترکیب می‌کند و سنت گلستان سعدی را دنبال می‌کند.
 
-#### 3. Salaman va Absal (Salaman and Absal)
-An allegorical romance composed in 1480, considered one of Jami's masterpieces. The poem tells the story of Prince Salaman, who is torn between his love for his nurse Absal and his duty to his kingdom. On the allegorical level, it represents the soul's struggle between earthly desire and spiritual aspiration.
+#### ۳. سلامان و ابسال
+رمانی تمثیلی سروده شده در ۱۴۸۰، که یکی از شاهکارهای جامی در نظر گرفته می‌شود. شعر داستان شاهزاده سلامان را روایت می‌کند که بین عشقش به دایه‌اش ابصال و وظیفه‌اش به پادشاهی‌اش کشیده شده است. در سطح تمثیلی، نمایانگر نبرد روح بین میل زمینی و آرزوی معنوی است.
 
-#### 4. Yusuf va Zulaikha (Joseph and Zulaikha)
-Perhaps Jami's most famous work, composed in 1483. This is a retelling of the Quranic story of Joseph (Yusuf) and Potiphar's wife (Zulaikha), transformed into a profound mystical allegory about divine love. Zulaikha's passionate love for Joseph represents the soul's yearning for God, and her eventual union with him symbolizes the mystic's attainment of divine union.
+#### ۴. یوسف و زلیخا
+شاید مشهورترین اثر جامی، سروده شده در ۱۴۸۳. این بازگویی داستان قرآنی یوسف و همسر عزیز (زلیخا) است، که به تمثیل عرفانی عمیقی درباره عشق الهی تبدیل شده است. عشق پرشور زلیخا به یوسف نمایانگر اشتیاق روح برای خدا است، و اتحاد نهایی او با او نماد attainment عارف به اتحاد الهی است.
 
-!!! quote "On Yusuf and Zulaikha"
-    This work is considered one of the greatest romantic-mystical poems in Persian literature, combining exquisite lyrical beauty with deep philosophical and mystical insights.
+!!! quote "درباره یوسف و زلیخا"
+    این اثر به عنوان یکی از بزرگترین اشعار عاشقانی-عرفانی در ادبیات فارسی در نظر گرفته می‌شود، که زیبایی غنایی بی‌نظیر را با بینش‌های عمیق فلسفی و عرفانی ترکیب می‌کند.
 
-#### 5. Layli va Majnun (Layla and Majnun)
-Jami's version of the famous Arabic love story, composed in 1484. Like Yusuf va Zulaikha, it transforms a secular love story into a mystical allegory about the soul's passionate longing for God.
+#### ۵. لیلی و مجنون
+نسخه جامی از داستان عاشقانه معروف عربی، سروده شده در ۱۴۸۴. مانند یوسف و زلیخا، داستان عاشقانه سکولار را به تمثیل عرفانی درباره اشتیاق پرشور روح برای خدا تبدیل می‌کند.
 
-#### 6. Kherad-nameh-ye Iskandari (The Book of the Wisdom of Alexander)
-A philosophical poem composed in 1485, exploring the wisdom and adventures of Alexander the Great (Iskandar). It combines historical narrative with philosophical reflection.
+#### ۶. خردنامه اسکندری (کتاب خرد اسکندر)
+شعری فلسفی سروده شده در ۱۴۸۵، که خرد و ماجراهای اسکندر مقدونی را کاوش می‌کند. روایت تاریخی را با تأمل فلسفی ترکیب می‌کند.
 
-#### 7. Khatam al-Nubuwwah (The Seal of Prophethood)
-Jami's final work in the Haft Awrang, composed in 1487. This poem deals with the life of the Prophet Muhammad and the nature of prophethood.
+#### ۷. خاتم‌النبوة (مهر پیامبری)
+آخرین اثر جامی در هفت اورنگ، سروده شده در ۱۴۸۷. این شعر با زندگی حضرت محمد (ص) و ماهیت پیامبری سروکار دارد.
 
-### Baharistan (The Abode of Spring)
+### بهارستان
 
-Composed in 1487, the **Baharistan** is Jami's masterpiece of Persian prose, deliberately modeled after Saadi's *Gulistan* (The Rose Garden). Like its model, it is a collection of anecdotes, moral stories, and witty observations, organized into eight chapters (rawdas or "gardens").
+سروده شده در ۱۴۸۷، **بهارستان** شاهکار نثر فارسی جامی است، که عمداً بر اساس گلستان سعدی مدل شده است. مانند مدل خود، مجموعه‌ای از حکایات، داستان‌های اخلاقی و مشاهدات ظریف است، سازماندهی شده در هشت فصل (روضة یا «باغ‌ها»).
 
-The Baharistan demonstrates Jami's mastery of Persian prose at its most elegant and refined. It covers topics ranging from ethics and governance to poetry and mysticism, offering both entertainment and instruction. While often compared to Saadi's work, the Baharistan has its own distinctive character, reflecting the more sophisticated literary culture of the Timurid court.
+بهارستان تسلط جامی بر نثر فارسی را در ظریف‌ترین و پیراسته‌ترین شکل آن نشان می‌دهد. مضامینی از اخلاق و حکومت تا شعر و عرفان را پوشش می‌دهد و هم سرگرمی و هم آموزش را ارائه می‌دهد. در حالی که اغلب با اثر سعدی مقایسه می‌شود، بهارستان شخصیت متمایز خود را دارد که فرهنگ ادبی پیچیده‌تر دربار تیموری را منعکس می‌کند.
 
-### Divan-e Jami (Collected Poems)
+### دیوان جامی
 
-Jami's collected poems (Divan) contain thousands of verses in various forms:
+اشعار گردآوری شده جامی (دیوان) شامل هزاران بیت در قالب‌های مختلف است:
 
-- **Ghazals:** Lyric poems on love, mysticism, and philosophical themes
-- **Qasidas:** Odes on moral, religious, and courtly themes
-- **Rubaiyat:** Philosophical quatrains
-- **Qit'as:** Short poems on various subjects
+- **غزلیات:** اشعار غنایی درباره عشق، عرفان و مضامین فلسفی
+- **قصاید:** قصاید درباره مضامین اخلاقی، مذهبی و درباری
+- **رباعیات:** رباعیات فلسفی
+- **قطعات:** اشعار کوتاه درباره موضوعات مختلف
 
-His ghazals are particularly notable for their musicality, emotional depth, and mystical sophistication. Many are considered among the finest in the Persian language.
+غزلیات او به طور خاص به خاطر موسیقیایی بودن، عمق احساسی و پیچیدگی عرفانی قابل توجه هستند. بسیاری از آن‌ها به عنوان یکی از بهترین‌ها در زبان فارسی در نظر گرفته می‌شوند.
 
-### Scholarly and Scientific Works
+### آثار علمی و دانشوری
 
-Beyond poetry and Sufi writings, Jami produced important scholarly works:
+علاوه بر شعر و نوشته‌های صوفیانه، جامی آثار دانشوری مهمی تولید کرد:
 
-- **Treatises on Arabic grammar:** Demonstrating his mastery of linguistic sciences
-- **Works on music theory:** Reflecting his understanding of musical traditions
-- **Commentaries on philosophical texts:** Engaging with the Islamic philosophical tradition
-- **Historical works:** Including biographical dictionaries and historical accounts
+- **رسالات در دستور زبان عربی:** که تسلط او بر علوم زبانی را نشان می‌دهد
+- **آثاری در نظریه موسیقی:** که درک او از سنت‌های موسیقی را منعکس می‌کند
+- **شروح بر متون فلسفی:** درگیر شدن با سنت فلسفی اسلامی
+- **آثار تاریخی:** شامل فرهنگ‌نامه‌های زندگی‌نامه‌ای و حساب‌های تاریخی
 
-## Literary Style and Innovations
+## سبک ادبی و نوآوری‌ها
 
-### The "Seal of the Poets"
+### «خاتم‌الشعرا»
 
-Jami is often called **Khatam al-Shu'ara** (the Seal of the Poets) — a title suggesting that he brought classical Persian poetry to its final perfection. This title reflects the widespread recognition that after Jami, the classical tradition reached a point of completion that later poets could only imitate, not surpass.
+جامی اغلب **خاتم‌الشعرا** (مهر شاعران) نامیده می‌شود — لقبی که نشان می‌دهد او شعر کلاسیک فارسی را به کمال نهایی خود رساند. این لقب انعکاس به رسمیت شناختن گسترده‌ای است که پس از جامی، سنت کلاسیک به نقطه تکمیلی رسید که شاعران بعدی فقط می‌توانستند تقلید کنند، نه فراتر رفتن.
 
-### Stylistic Characteristics
+### ویژگی‌های سبکی
 
-Jami's literary style is distinguished by:
+سبک ادبی جامی با موارد زیر متمایز می‌شود:
 
-- **Classical refinement:** His language represents the pinnacle of refined Persian literary expression
-- **Scholarly depth:** His works demonstrate encyclopedic knowledge of Islamic sciences
-- **Mystical sophistication:** His Sufi poetry integrates complex metaphysical concepts with accessible expression
-- **Narrative mastery:** His storytelling combines entertainment with moral and spiritual instruction
-- **Versatility:** He excelled in virtually every literary form, from the ghazal to the mathnawi to prose
+- **ظرافت کلاسیک:** زبان او نشان‌دهنده اوج بیان ادبی فارسی پیراسته است
+- **عمق علمی:** آثار او دانش دانشنامه‌ای از علوم اسلامی را نشان می‌دهند
+- **پیچیدگی عرفانی:** شعر صوفیانه او مفاهیم پیچیده متافیزیکی را با بیان قابل دسترس ادغام می‌کند
+- **تسلط روایی:** داستان‌سرایی او سرگرمی را با آموزش اخلاقی و معنوی ترکیب می‌کند
+- **چند-sided بودن:** او در تقریباً هر قالب ادبی، از غزل تا مثنوی تا نثر، برتری داشت
 
-### Relationship to Earlier Poets
+### رابطه با شاعران قبلی
 
-Jami saw himself as the heir and synthesizer of the entire Persian literary tradition. His works consciously echo and respond to:
+جامی خود را وارث و سنتزگر کل سنت ادبی فارسی می‌دید. آثار او آگاهانه با آثار شاعران قبلی پژواک و پاسخ می‌دهند:
 
-- **Saadi:** The Baharistan is a deliberate homage to the Gulistan
-- **Nizami:** The Haft Awrang follows the model of the Khamsa
-- **Rumi:** Jami drew extensively on Rumi's mystical insights
-- **Hafez:** His ghazals show the influence of Hafez's lyrical mastery
-- **Jami's contemporaries:** He engaged with the work of other Timurid poets
+- **سعدی:** بهارستان ادای احترامی عمدی به گلستان است
+- **نظامی:** هفت اورنگ بر اساس مدل خمسه است
+- **مولانا:** جامی به طور گسترده از بینش‌های عرفانی مولانا بهره گرفت
+- **حافظ:** غزلیات او تأثیر تسلط غنایی حافظ را نشان می‌دهند
+- **معاصران جامی:** او با کار سایر شاعران تیموری درگیر شد
 
-This synthesizing quality makes Jami's work a kind of culmination of the classical Persian tradition.
+این کیفیت سنتزگر آثار جامی را به نوعی culmination سنت کلاسیک فارسی تبدیل می‌کند.
 
-## Friendship with Alisher Nava'i
+## دوستی با علیشیر نوایی
 
-### A Remarkable Literary Partnership
+### یک شراکت ادبی قابل توجه
 
-One of the most fascinating aspects of Jami's life was his close friendship with **Alisher Nava'i** (1441–1501), the great Turkic poet and vizier of the Timurid court. This friendship represents one of the most important cross-cultural literary relationships in Islamic history.
+یکی از جذاب‌ترین جنبه‌های زندگی جامی دوستی نزدیک او با **علیشیر نوایی** (۱۴۴۱–۱۵۰۱)، شاعر بزرگ ترکی و وزیر دربار تیموری بود. این دوستی یکی از مهم‌ترین روابط ادبی بین‌فرهنگی در تاریخ اسلامی را نمایان می‌کند.
 
-Nava'i, a Turkic speaker from Herat, chose to write in Chagatai Turkic rather than Persian — a bold decision at a time when Persian was the dominant literary language. Despite this linguistic difference, Nava'i and Jami formed a deep friendship based on mutual respect and shared literary interests.
+نوایی، یک سخنور ترکی از هرات، انتخاب کرد که به جای فارسی به ترکی چگتای بنویسد — تصمیمی جسورانه در زمانی که فارسی زبان ادبی غالب بود. با وجود این تفاوت زبانی، نوایی و جامی دوستی عمیقی بر اساس احترام متقابل و علایق ادبی مشترک شکل دادند.
 
-### Literary Exchange
+### تبادل ادبی
 
-The two poets maintained a rich correspondence and literary dialogue:
+دو شاعر مکاتبات و گفتگوی ادبی غنی را حفظ کردند:
 
-- **Mutual admiration:** Each praised the other's work in their respective languages
-- **Literary debate:** They engaged in discussions about the relative merits of Persian and Turkic as literary languages
-- **Cultural bridge:** Their friendship symbolized the cultural synthesis of the Timurid era, where Persian and Turkic traditions coexisted and enriched each other
-- **Patronage:** Nava'i, as a powerful vizier, was a major patron of Jami and supported his literary work
+- **تحسین متقابل:** هر کدام اثر دیگری را در زبان‌های مربوطه‌شان ستودند
+- **مباحثه ادبی:** آن‌ها در بحث‌هایی درباره مزایای نسبی فارسی و ترکی به عنوان زبان‌های ادبی درگیر شدند
+- **پل فرهنگی:** دوستی آن‌ها نماد تلفیق فرهنگی دوره تیموری بود، جایی که سنت‌های فارسی و ترکی همزیستی داشتند و یکدیگر را غنی می‌کردند
+- **حمایت:** نوایی، به عنوان وزیر قدرتمند، حامی بزرگ جامی بود و از کار ادبی او پشتیبانی می‌کرد
 
-### Nava'i's Tribute
+### ادای احترام نوایی
 
-In his famous work *Majalis al-Nafa'is* (Assemblies of the Refined), Nava'i included a biographical entry on Jami, praising him as the greatest poet of the age. This tribute from a Turkic poet to a Persian master exemplifies the cosmopolitan spirit of Timurid culture.
+در اثر معروف خود *مجالس النفایس*، نوایی یک ورودی زندگی‌نامه‌ای درباره جامی گنجاند، و او را به عنوان بزرگترین شاعر عصر ستود. این ادای احترام از یک شاعر ترکی به یک استاد فارسی روح کسموپولیتن فرهنگ تیموری را نمونه می‌کند.
 
-## Court Life and Patronage
+## زندگی درباری و حمایت
 
-### Relationship with Sultan Husayn Bayqara
+### رابطه با سلطان حسین بایقرا
 
-Jami enjoyed the patronage of **Sultan Husayn Bayqara**, the last great Timurid ruler. The Sultan held Jami in the highest esteem, regarding him not only as a poet but as a spiritual guide and moral authority.
+جامی از حمایت **سلطان حسین بایقرا**، آخرین حاکم بزرگ تیموری برخوردار بود. سلطان جامی را در بالاترین احترام نگه می‌داشت، او را نه تنها به عنوان شاعر بلکه به عنوان راهنمای معنوی و مرجع اخلاقی می‌دانست.
 
-However, Jami's relationship with the court was complex:
-- **Spiritual independence:** Unlike many court poets, Jami maintained his spiritual independence and was willing to criticize the ruler when necessary
-- **Moral authority:** He served as a kind of moral conscience for the court, using his position to advocate for justice and ethical governance
-- **Selective patronage:** He accepted gifts and support from the court but was not dependent on it, thanks to his reputation and the respect he commanded
+با این حال، رابطه جامی با دربار پیچیده بود:
+- **استقلال معنوی:** برخلاف بسیاری از شاعران درباری، جامی استقلال معنوی خود را حفظ کرد و مایل بود در صورت لزوم حاکم را نقد کند
+- **اقتدار اخلاقی:** او به عنوان نوعی وجدان اخلاقی برای دربار خدمت می‌کرد، از موقعیت خود برای حمایت از عدالت و حکومت اخلاقی استفاده می‌کرد
+- **حمایت انتخابی:** او هدایا و پشتیبانی از دربار را می‌پذیرفت اما به آن وابسته نبود، به لطف شهرت و احترامی که فرمان می‌داد
 
-### The Circle of Herat
+### حلقه هرات
 
-Jami was the central figure in the brilliant intellectual circle that gathered in Herat under Sultan Husayn Bayqara and Alisher Nava'i. This circle included:
+جامی چهره مرکزی در حلقه فکری درخشان بود که تحت سلطان حسین بایقرا و علیشیر نوایی در هرات گرد هم می‌آمد. این حلقه شامل موارد زیر بود:
 
-- **Poets and writers:** Including Nava'i himself and other literary figures
-- **Artists and calligraphers:** Such as the great painter Bihzad and the calligrapher Sultan Ali Mashhadi
-- **Scholars and philosophers:** Representing various fields of Islamic learning
-- **Sufi masters:** From different Sufi orders
+- **شاعران و نویسندگان:** از جمله خود نوایی و سایر چهره‌های ادبی
+- **هنرمندان و خوشنویسان:** مانند نقاش بزرگ بهزاد و خوشنویس سلطان علی مشهدی
+- **عالمان و فیلسوفان:** نمایانگر زمینه‌های مختلف دانش اسلامی
+- **استادان صوفی:** از طریقت‌های صوفی مختلف
 
-This cultural milieu provided Jami with the intellectual stimulation and support he needed to produce his remarkable body of work.
+این محیط فرهنگی برای جامی تحریک فکری و پشتیبانی مورد نیاز برای تولید بدنه قابل توجه کارش را فراهم کرد.
 
-## Later Years and Death
+## سال‌های آخر و مرگ
 
-### Final Years
+### سال‌های پایانی
 
-In his later years, Jami retired from active court life and devoted himself increasingly to spiritual practice and writing. He continued to receive visitors, students, and admirers at his home in Herat, where he served as a spiritual guide and teacher.
+در سال‌های آخر، جامی از زندگی فعال درباری بازنشسته شد و خود را فزاینده به عمل معنوی و نوشتن اختصاص داد. او همچنان در خانه‌اش در هرات بازدیدکنندگان، دانشجویان و admirer دریافت می‌کرد، جایی که به عنوان راهنما و معلم معنوی خدمت می‌کرد.
 
-Despite his advanced age, Jami remained intellectually active until the end of his life. He continued to write, revise his works, and correspond with scholars and poets across the Islamic world.
+با وجود سن پیشرفته‌اش، جامی تا پایان زندگی از نظر فکری فعال باقی ماند. او به نوشتن، بازبینی آثارش و مکاتبه با عالمان و شاعران در سراسر جهان اسلامی ادامه داد.
 
-### Death and Burial
+### مرگ و تدفین
 
-Jami died on November 9, 1492, in Herat, at the age of 78. His death was mourned throughout the Islamic world as the passing of a great cultural figure. He was buried in Herat, where his tomb became a site of pilgrimage and veneration.
+جامی در ۹ نوامبر ۱۴۹۲ در هرات، در سن ۷۸ سالگی درگذشت. مرگ او در سراسر جهان اسلامی به عنوان گذر یک چهره بزرگ فرهنگی سوگواری شد. او در هرات دفن شد، جایی که مقبره‌اش به مکان زیارت و احترام تبدیل شد.
 
-Sultan Husayn Bayqara, who survived Jami by only a few years, was deeply affected by the poet's death. The Timurid court lost not only its greatest poet but also its moral and spiritual center.
+سلطان حسین بایقرا، که تنها چند سال پس از جامی زنده ماند، به شدت تحت تأثیر مرگ شاعر قرار گرفت. دربار تیموری نه تنها بزرگترین شاعر خود را بلکه مرکز اخلاقی و معنوی خود را نیز از دست داد.
 
-## Legacy and Cultural Impact
+## میراث و تأثیر فرهنگی
 
-### The "Seal" of Classical Persian Poetry
+### «مهر» شعر کلاسیک فارسی
 
-Jami's reputation as the "Seal of the Poets" reflects the widespread recognition that he brought classical Persian poetry to its culmination. After Jami, subsequent generations of Persian poets increasingly looked back to the classical masters rather than innovating new forms.
+شهرت جامی به عنوان «خاتم‌الشعرا» انعکاس به رسمیت شناختن گسترده‌ای است که او شعر کلاسیک فارسی را به culmination خود رساند. پس از جامی، نسل‌های بعدی شاعران فارسی فزاینده به استادان کلاسیک نگاه می‌کردند تا اینکه قالب‌های جدیدی نوآوری کنند.
 
-This is not to say that Persian poetry declined after Jami — the Safavid, Mughal, and Ottoman periods produced many fine poets — but the classical tradition that Jami represented reached a point of completion that later poets could only admire and emulate.
+این به این معنا نیست که شعر فارسی پس از جامی کاهش یافت — دوره‌های صفوی، مغولی و عثمانی شاعران خوب بسیاری تولید کردند — اما سنت کلاسیکی که جامی نمایان می‌کرد به نقطه تکمیلی رسید که شاعران بعدی فقط می‌توانستند تحسین و تقلید کنند.
 
-### Influence Across the Islamic World
+### تأثیر در سراسر جهان اسلامی
 
-Jami's influence extended far beyond the Persian-speaking world:
+تأثیر جامی فراتر از جهان فارسی‌زبان گسترش یافت:
 
-- **Ottoman Empire:** His works were widely read and imitated by Ottoman poets, who considered him a master of the Persian literary tradition
-- **Mughal India:** Jami was enormously influential in Mughal courts, where Persian was the language of high culture. His works were studied, copied, and illustrated by Mughal artists
-- **Central Asia:** As a native of the region, Jami was particularly revered in Central Asia, where his tomb in Herat remained a pilgrimage site
-- **Southeast Asia:** Persian literary culture, including Jami's works, spread to Indonesia, Malaysia, and other parts of Southeast Asia
+- **امپراتوری عثمانی:** آثار او به طور گسترده توسط شاعران عثمانی خوانده و تقلید می‌شد، که او را استاد سنت ادبی فارسی می‌دانستند
+- **هند مغولی:** جامی در دربارهای مغولی بسیار تأثیرگذار بود، جایی که فارسی زبان فرهنگ عالی بود. آثار او توسط هنرمندان مغولی مطالعه، کپی و تصویرسازی می‌شد
+- **آسیای مرکزی:** به عنوان بومی منطقه، جامی به طور خاص در آسیای مرکزی مورد احترام بود، جایی که مقبره‌اش در هرات همچنان مکان زیارتی باقی ماند
+- **جنوب شرقی آسیا:** فرهنگ ادبی فارسی، از جمله آثار جامی، به اندونزی، مالزی و سایر بخش‌های جنوب شرقی آسیا گسترش یافت
 
-### Artistic Legacy
+### میراث هنری
 
-Jami's works have inspired countless works of visual art:
+آثار جامی الهام‌بخش آثار بی‌شماری از هنر تجسمی بوده است:
 
-- **Mughal miniature painting:** The Yusuf va Zulaikha and other poems were frequently illustrated by Mughal artists
-- **Ottoman calligraphy:** His verses were among the most commonly calligraphed texts in Ottoman art
-- **Safavid manuscript illustration:** Persian manuscripts of Jami's works were lavishly illustrated
-- **Central Asian art:** His tomb and associated buildings in Herat became important artistic monuments
+- **نگارگری مغولی:** یوسف و زلیخا و سایر اشعار مکرراً توسط هنرمندان مغولی تصویرسازی می‌شدند
+- **خوشنویسی عثمانی:** ابیات او از پرتکرارترین متون خوشنویسی شده در هنر عثمانی بودند
+- **تصویرسازی نسخه خطی صفوی:** نسخه‌های خطی فارسی آثار جامی به طور مجللی تصویرسازی می‌شدند
+- **هنر آسیای مرکزی:** مقبره او و ساختمان‌های مرتبط در هرات به بناهای هنری مهم تبدیل شدند
 
-### Scholarly Legacy
+### میراث علمی
 
-Jami's scholarly works, particularly the *Nafahat al-Uns*, remain important sources for the study of Islamic mysticism and intellectual history. His treatises on Sufism continue to be studied by scholars of Islamic philosophy and mysticism.
+آثار علمی جامی، به ویژه نفحات الانس، همچنان منابع مهمی برای مطالعه عرفان اسلامی و تاریخ فکری باقی مانده‌اند. رسالات او در تصوف همچنان توسط محققان فلسفه و عرفان اسلامی مطالعه می‌شود.
 
-### The Tomb of Jami
+### آرامگاه جامی
 
-Jami's tomb in Herat is one of the most important cultural monuments of Afghanistan. Although the original structure has been damaged and rebuilt over the centuries, it remains a site of great cultural and spiritual significance.
+آرامگاه جامی در هرات یکی از مهم‌ترین بناهای فرهنگی افغانستان است. اگرچه سازه اصلی در طول قرن‌ها آسیب دیده و بازسازی شده است، همچنان مکانی با اهمیت فرهنگی و معنوی عظیم باقی مانده است.
 
-The tomb complex includes:
-- **The mausoleum:** Housing Jami's remains
-- **A mosque:** Used for prayer and religious gatherings
-- **A garden:** Providing a peaceful setting for contemplation
-- **Associated buildings:** Including schools and cultural centers
+مجموعه مقبره شامل موارد زیر است:
+- **مقبره:** که بقایای جامی را در خود جای داده است
+- **مسجد:** برای نماز و گردهمایی‌های مذهبی استفاده می‌شود
+- **باغ:** فضایی آرام برای تأمل فراهم می‌کند
+- **ساختمان‌های مرتبط:** از جمله مدارس و مراکز فرهنگی
 
-Despite the political turmoil in Afghanistan in recent decades, the tomb of Jami remains a symbol of the country's rich cultural heritage and its historical role as a center of Persian literary culture.
+با وجود آشوب سیاسی در افغانستان در دهه‌های اخیر، مقبره جامی همچنان نمادی از میراث فرهنگی غنی کشور و نقش تاریخی آن به عنوان مرکز فرهنگ ادبی فارسی باقی مانده است.
 
-## Jami in the Modern World
+## جامی در دنیای مدرن
 
-### Contemporary Relevance
+### ارتباط معاصر
 
-Despite living over 500 years ago, Jami's works remain relevant to contemporary readers:
+با وجود زندگی بیش از ۵۰۰ سال پیش، آثار جامی همچنان برای خوانندگان معاصر مرتبط باقی مانده‌اند:
 
-- **Spiritual guidance:** His Sufi writings continue to provide insight into the mystical dimensions of Islam
-- **Literary appreciation:** His poetry is studied for its artistic excellence and historical importance
-- **Cultural heritage:** For Persian speakers, Jami represents a vital link to their literary heritage
-- **Cross-cultural dialogue:** His friendship with Nava'i exemplifies the possibility of cultural exchange across linguistic boundaries
+- **راهنمایی معنوی:** نوشته‌های صوفیانه او همچنان بینشی در ابعاد عرفانی اسلام ارائه می‌دهند
+- **قدردانی ادبی:** شعر او برای برتری هنری و اهمیت تاریخی‌اش مطالعه می‌شود
+- **میراث فرهنگی:** برای فارسی‌زبانان، جامی پیوندی حیاتی با میراث ادبی آن‌ها را نمایان می‌کند
+- **گفتگوی بین‌فرهنگی:** دوستی او با نوایی امکان‌پذیری تبادل فرهنگی در مرزهای زبانی را نمونه می‌کند
 
-### Academic Study
+### مطالعه آکادمیک
 
-Jami is the subject of extensive scholarly study:
+جامی موضوع مطالعه علمی گسترده‌ای است:
 
-- **Textual criticism:** Scholars continue to edit and study his manuscripts
-- **Literary analysis:** His works are analyzed for their artistic and philosophical content
-- **Historical research:** His biographical works provide valuable information about Islamic intellectual history
-- **Comparative literature:** His works are compared with those of other Islamic and world literary traditions
+- **نقد متنی:** محققان همچنان نسخه‌های خطی او را ویرایش و مطالعه می‌کنند
+- **تحلیل ادبی:** آثار او برای محتوای هنری و فلسفی‌شان تحلیل می‌شوند
+- **پژوهش تاریخی:** آثار زندگی‌نامه‌ای او اطلاعات ارزشمندی درباره تاریخ فکری اسلامی ارائه می‌دهند
+- **ادبیات تطبیقی:** آثار او با آثار سایر سنت‌های ادبی اسلامی و جهانی مقایسه می‌شوند
 
-### Digital Access
+### دسترسی دیجیتال
 
-Increasingly, Jami's works are becoming available in digital formats:
+فزاینده، آثار جامی در قالب‌های دیجیتال در دسترس می‌شوند:
 
-- **Online editions:** Many of his works are now available in digital editions
-- **Translations:** New translations are making his works accessible to non-Persian readers
-- **Scholarly databases:** Academic resources on Jami continue to grow
-- **Ganjur and other platforms:** His poetry is available on Persian literary websites
+- **نسخه‌های آنلاین:** بسیاری از آثار او اکنون در نسخه‌های دیجیتال در دسترس هستند
+- **ترجمه‌ها:** ترجمه‌های جدید آثار او را برای خوانندگان غیر فارسی‌زبان قابل دسترس می‌کنند
+- **پایگاه‌های داده علمی:** منابع آکادمیک درباره جامی همچنان رشد می‌کنند
+- **گنجور و سایر پلتفرم‌ها:** شعر او در وب‌سایت‌های ادبی فارسی در دسترس است
 
-## Further Reading
+## برای مطالعه بیشتر
 
-- [Wikipedia: Jami](https://en.wikipedia.org/wiki/Jami)
-- [Encyclopædia Iranica: Jami](https://www.iranicaonline.org/articles/jami)
-- [Ganjur: Divan-e Jami](https://ganjoor.net/jami)
-- [Timurid Era](../eras/timurid.md) - The historical context of Jami's life and work
+- [ویکی‌پدیای فارسی: جامی](https://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%DB%8C)
+- [دانشنامه ایرانیکا: جامی](https://www.iranicaonline.org/articles/jami)
+- [گنجور: دیوان جامی](https://ganjoor.net/jami)
+- [دوره تیموریان](../eras/timurid.fa.md) - زمینه تاریخی زندگی و کار جامی

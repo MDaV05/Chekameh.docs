@@ -1,81 +1,81 @@
-# Nishapur
+# نیشابور
 
-!!! info "Quick Facts"
+!!! info "اطلاعات کلی"
     | | |
     |---|---|
-    | **Location** | Northeastern Iran, Khorasan Province |
-    | **Historical Region** | Greater Khorasan |
-    | **Significance** | Major center of Persian culture and learning |
-    | **Era** | Samanid, Seljuk (peak), and later periods |
+    | **موقعیت** | شمال شرقی ایران، استان خراسان |
+    | **منطقه تاریخی** | خراسان بزرگ |
+    | **اهمیت** | مرکز بزرگ فرهنگ و دانش فارسی |
+    | **دوره** | سامانیان، سلجوقیان (اوج) و دوره‌های بعدی |
 
-## Historical Overview
+## نمای کلی تاریخی
 
-Nishapur (also spelled Neyshabur) was one of the four great cities of Khorasan (along with Herat, Balkh, and Merv) and a major center of Persian culture, learning, and commerce. It reached its zenith during the Seljuk period and was home to some of Persia's greatest poets and scholars.
+نیشابور یکی از چهار شهر بزرگ خراسان (همراه با هرات، بلخ و مرو) و مرکز بزرگ فرهنگ، دانش و تجارت فارسی بود. این شهر در دوره سلجوقی به اوج شکوفایی خود رسید و خانه برخی از بزرگترین شاعران و دانشمندان ایران بود.
 
-### Ancient and Early Islamic Period
-Nishapur has a long and distinguished history:
-- **Sasanian Era**: Founded or rebuilt by the Sasanian king Shapur I
-- **Islamic Conquest**: Conquered by Arab Muslims in the 7th century
-- **Samanid Period**: Flourished as a center of learning and culture
-- **Mongol Destruction**: Completely destroyed by the Mongols in 1221
+### دوره باستانی و اولیه اسلامی
+نیشابور تاریخ طولانی و متمایزی دارد:
+- **دوره ساسانی**: توسط پادشاه ساسانی شاپور اول تأسیس یا بازسازی شد
+- **فتح اسلامی**: توسط مسلمانان عرب در قرن هفتم فتح شد
+- **دوره سامانی**: به عنوان مرکز دانش و فرهنگ شکوفا شد
+- **ویرانی مغول**: توسط مغولان در ۱۲۲۱ کاملاً ویران شد
 
-### Seljuk Golden Age
-Under the Seljuks, particularly in the 11th century, Nishapur reached its peak:
-- **Nizamiyyah Madrasa**: Founded by Nizam al-Mulk, one of the most important educational institutions in the Islamic world
-- **Intellectual Center**: Home to renowned scholars like Omar Khayyam and Imam Muhammad Ghazali
-- **Cultural Hub**: Major center of Persian literature and learning
-- **Political Importance**: One of the key cities of the Seljuk Empire
+### عصر طلایی سلجوقی
+تحت سلجوقیان، به ویژه در قرن یازدهم، نیشابور به اوج خود رسید:
+- **مدرسه نظامیه**: تأسیس شده توسط خواجه نظام‌الملک، یکی از مهم‌ترین مؤسسات آموزشی در جهان اسلامی
+- **مرکز فکری**: خانه دانشمندان مشهوری چون عمر خیام و امام محمد غزالی
+- **مرکز فرهنگی**: مرکز بزرگ ادبیات و دانش فارسی
+- **اهمیت سیاسی**: یکی از شهرهای کلیدی امپراتوری سلجوقی
 
-## Famous Poets
+## شاعران مشهور
 
-### [Attar of Nishapur](../poets/attar.md)
-**Attar of Nishapur** (c. 1145–1221) was born, lived, and died in Nishapur. He was one of the greatest Sufi poets in Persian literature and a major influence on Rumi.
+### [عطار نیشابوری](../poets/attar.fa.md)
+**عطار نیشابوری** (حدود ۱۱۴۵–۱۲۲۱ میلادی) در نیشابور متولد شد، زندگی کرد و درگذشت. او یکی از بزرگترین شاعران صوفی در ادبیات فارسی و تأثیرگذار بزرگ بر مولانا بود.
 
-!!! quote "Attar in Nishapur"
-    Attar worked as a perfumer (attar) in Nishapur, and his profession deeply influenced his poetry. He was killed during the Mongol invasion of Nishapur in 1221, choosing to stay with his precious manuscripts rather than flee.
+!!! quote "عطار در نیشابور"
+    عطار به عنوان عطار (داروساز) در نیشابور کار می‌کرد، و حرفه او تأثیر عمیقی بر شعر او گذاشت. او در حمله مغول به نیشابور در ۱۲۲۱ کشته شد، و انتخاب کرد که با دست‌نوشته‌های ارزشمندش بماند تا فرار کند.
 
-### [Omar Khayyam](../poets/khayyam.md)
-**Omar Khayyam** (1048–1131) was born in Nishapur and spent most of his life there. He was one of the greatest mathematicians, astronomers, and poets of the medieval Islamic world.
+### [عمر خیام](../poets/khayyam.fa.md)
+**عمر خیام** (۱۰۴۸–۱۱۳۱ میلادی) در نیشابور متولد شد و بیشتر عمر خود را در آنجا گذراند. او یکی از بزرگترین ریاضی‌دانان، ستاره‌شناسان و شاعران جهان اسلامی قرون وسطی بود.
 
-!!! quote "Khayyam in Nishapur"
-    Khayyam's tomb in Nishapur, designed by the architect Hoshyng Seyhoun in the 1960s, is a masterpiece of modern Persian architecture that incorporates mathematical and astronomical concepts, reflecting Khayyam's scientific achievements.
+!!! quote "خیام در نیشابور"
+    آرامگاه خیام در نیشابور، طراحی شده توسط معمار هوشنگ سیحون در دهه ۱۳۳۰ شمسی، شاهکاری از معماری مدرن فارسی است که مفاهیم ریاضی و نجومی را ادغام می‌کند و دستاوردهای علمی خیام را منعکس می‌کند.
 
-### Other Notable Figures
-- **Imam Muhammad Ghazali**: Taught at the Nizamiyyah Madrasa in Nishapur
-- **Farid al-Din Attar**: Not to be confused with Attar of Nishapur, but also associated with the region
-- **Numerous scholars and poets** who contributed to the city's intellectual life
+### سایر چهره‌های برجسته
+- **امام محمد غزالی**: در مدرسه نظامیه نیشابور تدریس می‌کرد
+- **فریدالدین عطار**: نباید با عطار نیشابوری اشتباه گرفته شود، اما همچنین با منطقه مرتبط است
+- **دانشمندان و شاعران متعدد** که در زندگی فکری شهر مشارکت داشتند
 
-### Cultural Environment
-Nishapur in the 11th-12th centuries:
-- **Scholarly Hub**: Attracted scholars from across the Islamic world
-- **Nizamiyyah System**: Part of the network of Nizamiyyah madrasas
-- **Intellectual Diversity**: Home to various schools of thought
-- **Literary Production**: Center of Persian poetry and prose
+### محیط فرهنگی
+نیشابور در قرن‌های یازدهم-دوازدهم:
+- **مرکز علمی**: دانشمندان را از سراسر جهان اسلامی جذب می‌کرد
+- **سیستم نظامیه**: بخشی از شبکه مدارس نظامیه
+- **تنوع فکری**: خانه مکاتب فکری مختلف
+- **تولید ادبی**: مرکز شعر و نثر فارسی
 
-## Cultural Legacy
+## میراث فرهنگی
 
-Nishapur's legacy is primarily intellectual and literary:
+میراث نیشابور عمدتاً فکری و ادبی است:
 
-### Intellectual Heritage
-- **Mathematics**: Khayyam's groundbreaking work on algebra and geometry
-- **Astronomy**: Development of the Jalali calendar
-- **Philosophy**: Contributions to Islamic philosophy and theology
-- **Sufi Poetry**: Attar's mystical poetry influenced generations of poets
+### میراث فکری
+- **ریاضیات**: کار پیشگام خیام در جبر و هندسه
+- **نجوم**: توسعه تقویم جلالی
+- **فلسفه**: سهم‌ها در فلسفه و الهیات اسلامی
+- **شعر صوفیانه**: شعر عرفانی عطار نسل‌های شاعران را تحت تأثیر قرار داد
 
-### Architectural Heritage
-- **Khayyam's Tomb**: Modern architectural masterpiece
-- **Archaeological Sites**: Remains of ancient Nishapur
-- **Nizamiyyah Madrasa**: Though largely destroyed, its legacy continues
+### میراث معماری
+- **آرامگاه خیام**: شاهکار معماری مدرن
+- **سایت‌های باستان‌شناسی**: بقایای نیشابور باستان
+- **مدرسه نظامیه**: اگرچه تا حد زیادی ویران شده، میراث آن ادامه دارد
 
-### Modern Significance
-- **Cultural Symbol**: Represents the intellectual achievements of medieval Persia
-- **Academic Study**: Center for study of Khayyam and Attar
-- **Archaeological Research**: Important site for understanding medieval Islamic cities
-- **Cultural Tourism**: Attracts visitors interested in Persian literature and science
+### اهمیت امروزی
+- **نماد فرهنگی**: نمایانگر دستاوردهای فکری ایران قرون وسطی
+- **مطالعه آکادمیک**: مرکز مطالعه خیام و عطار
+- **پژوهش باستان‌شناسی**: سایت مهم برای درک شهرهای اسلامی قرون وسطی
+- **گردشگری فرهنگی**: بازدیدکنندگان علاقه‌مند به ادبیات و علم فارسی را جذب می‌کند
 
-## Further Reading
+## برای مطالعه بیشتر
 
-- [Attar](../poets/attar.md) - Born, lived, and died in Nishapur
-- [Khayyam](../poets/khayyam.md) - Born and lived in Nishapur
-- [Seljuk Era](../eras/seljuk.md) - Nishapur's golden age
-- [Samanid Era](../eras/samanid.md) - Early period of cultural flourishing
+- [عطار](../poets/attar.fa.md) - متولد، ساکن و درگذشته در نیشابور
+- [خیام](../poets/khayyam.fa.md) - متولد و ساکن نیشابور
+- [دوره سلجوقیان](../eras/seljuk.fa.md) - عصر طلایی نیشابور
+- [دوره سامانیان](../eras/samanid.fa.md) - دوره اولیه شکوفایی فرهنگی

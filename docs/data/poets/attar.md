@@ -1,79 +1,63 @@
-# Attar of Nishapur (c. 1145–c. 1221 CE)
+# عطار نیشابوری (حدود ۱۱۴۵–۱۲۲۱ میلادی)
 
-!!! info "Quick Facts"
+!!! info "اطلاعات کلی"
     | | |
     |---|---|
-    | **Full Name** | Farid al-Din Abu Hamid Muhammad ibn Ibrahim Attar Nishapuri |
-    | **Persian Name** | فریدالدین ابوحامد محمد بن ابراهیم عطار نیشابوری |
-    | **Born** | c. 1145 CE, Nishapur, Seljuk Empire |
-    | **Died** | c. 1221 CE (killed during Mongol invasion of Nishapur) |
-    | **Era** | Seljuk |
-    | **Occupation** | Poet, Sufi mystic, Pharmacist (Attar means "perfumer" or "pharmacist") |
-    | **Known For** | Pioneer of mystical allegorical poetry, author of Mantiq al-Tayr (Conference of the Birds) |
+    | **نام کامل** | فریدالدین ابوطالب ابراهیم بن محمد عطار نیشابوری |
+    | **تولد** | حدود ۱۱۴۵–۱۱۴۶ میلادی، نیشابور، دوره سلجوقی |
+    | **وفات** | ۱۲۲۱ میلادی (در حمله مغول به نیشابور کشته شد) |
+    | **پیشه** | شاعر، عارف صوفی، عطار (داروساز) |
+    | **دوره** | سلجوقی / خوارزمشاهی |
+    | **معروف به** | استاد شعر تمثیلی عرفانی، نویسنده «منطق‌الطیر» |
 
-## Biography
+## زندگی‌نامه
 
-Farid al-Din Abu Hamid Muhammad ibn Ibrahim Attar Nishapuri was one of the most influential Persian Sufi poets and mystics. He was born in Nishapur, a major cultural and intellectual center in northeastern Iran during the Seljuk period.
+فریدالدین ابوطالب ابراهیم بن محمد نیشابوری، معروف به **عطار**، یکی از بزرگترین شاعران صوفی در ادبیات فارسی بود. او در نیشابور، یکی از مراکز مهم فرهنگی و فکری در شمال شرقی ایران (ایران امروزی) متولد شد.
 
-Unlike many court poets of his time, Attar lived a relatively humble life. He worked as a pharmacist (hence his pen name "Attar," meaning "perfumer" or "apothecary") in his father's shop in Nishapur. This profession gave him deep insight into human nature, as people from all walks of life came to seek remedies for their ailments.
+نام «عطار» از پیشه او به عنوان عطار یا داروساز گرفته شده است، حرفه‌ای که او در مغازه پدرش انجام می‌داد. این پیشه تأثیر عمیقی بر شعر او گذاشت، زیرا او مکرراً از استعاره عطر، جوهر و تحول برای توصیف سفر معنوی روح استفاده می‌کرد.
 
-Attar was not a professional court poet and did not seek patronage from rulers. Instead, he dedicated his life to spiritual pursuits and writing mystical poetry that would guide seekers on the path to divine truth.
+## حمله مغول و مرگ
 
-## The Mongol Invasion
+زندگی عطار به طور تراژیکی در حمله مغول به نیشابور در سال ۱۲۲۱ به پایان رسید. طبق روایات مختلف، وقتی مغولان شهر را غارت کردند، عطار دستگیر شد. گفته می‌شود یک سرباز مغول می‌خواست این شاعر پیر را نجات دهد، اما عطار از جدا شدن از دست‌نوشته‌های ارزشمند و دانش معنوی خود امتناع ورزید. استقامت او در برابر مرگ، انتخاب خرد بر بقا، به بخشی افسانه‌ای از داستان او تبدیل شده است.
 
-Attar's life ended tragically during the Mongol invasion of Nishapur in 1221. According to various accounts, when a Mongol soldier captured him, Attar asked for a moment to pray. The soldier granted his wish, but when Attar did not immediately comply with the soldier's demands afterward, the soldier beheaded him.
+## آثار ادبی
 
-Another version of the story tells that Attar had offered the Mongol soldier anything he wanted in exchange for his life. The soldier asked for a handful of gold, and Attar took him to his shop and showed him a large cache of gold. The soldier, amazed, asked why Attar would offer such wealth for his life. Attar replied that he was offering the least valuable thing he possessed. The soldier, intrigued, asked to see what was more valuable. Attar said it was his life, and when the soldier asked for that, Attar refused, saying he could not give what he valued most.
+عطار بسیار پرکار بود و اشعار و رسالات عرفانی متعددی نوشت. مهم‌ترین آثار او عبارتند از:
 
-## Literary Works
+### منطق‌الطیر (مقامات طیور)
+این شاهکار عطار و یکی از ستوده‌ترین آثار ادبیات صوفی است. این یک شعر تمثیلی است که در آن پرندگان جهان گرد هم می‌آیند تا پادشاه خود، سیمرغ، را بیابند. این سفر نمایانگر مسیر روح به سوی خداست، با هر پرنده که نمادی از یک نقص انسانی یا مانع معنوی است. شعر با این افشاگری به اوج می‌رسد که سیمرغی که به دنبال آن هستند در واقع در درون خودشان است—بیانی عمیق از مفهوم وحدت وجود صوفیانه.
 
-Attar was a prolific writer whose works form a crucial bridge between early Sufi poetry and the later mystical masterpieces of Rumi and others. His major works include:
+### الهی‌نامه
+مجموعه‌ای از داستان‌ها و تمثیل‌ها که مضامین معنوی را کاوش می‌کند، به شکل گفتگویی بین یک پادشاه و شش پسرش نوشته شده است، هر کدام نمایانگر جنبه‌ای متفاوت از روح انسانی.
 
-### Mantiq al-Tayr (The Conference of the Birds)
-This is Attar's most famous work, an allegorical masterpiece in which the birds of the world gather to choose a king. They embark on a perilous journey through seven valleys in search of the legendary Simurgh. The journey represents the Sufi path to God, with each valley symbolizing a stage of spiritual development. At the end, only thirty birds survive, and they discover that they themselves are the Simurgh they sought—a profound mystical revelation about the nature of the divine and the self.
+### مصیبت‌نامه
+یکی دیگر از آثار مهم عرفانی که سفر روح از طریق آزمایش‌ها و مصیبت‌ها به سوی روشنگری معنوی را کاوش می‌کند.
 
-### Ilahi-Nama (The Book of Divine)
-A philosophical and mystical work written in the form of a dialogue between a king and his six sons, each representing a human vice or flaw. The work explores themes of ethics, spirituality, and the nature of reality.
+### اسرارنامه
+مجموعه‌ای از داستان‌ها و تعالیم عرفانی که بر ابعاد درونی ایمان و عمل معنوی تمرکز دارد.
 
-### Musibat-Nama (The Book of Affliction)
-This work describes the soul's journey through various stages of spiritual suffering and enlightenment. It is a deeply introspective exploration of the mystic's path.
+## اهمیت ادبی
 
-### Asrar-Nama (The Book of Secrets)
-A collection of mystical stories and teachings that explore the hidden truths of existence and the nature of divine love.
+عطار به عنوان یکی از بنیان‌گذاران شعر عرفانی فارسی شناخته می‌شود. سهم‌های او شامل موارد زیر است:
 
-### Tadhkirat al-Auliya (Memorial of the Saints)
-A prose work containing biographies of famous Sufi saints and mystics, providing valuable insights into the history of Sufism.
+- **تسلط تمثیلی:** او استفاده از تمثیل‌های طولانی را برای بیان مفاهیم پیچیده عرفانی به کمال رساند
+- **داستان‌سرایی:** توانایی او در بافتن تعالیم معنوی به روایت‌های جذاب، فلسفه صوفیانه را برای مخاطبان گسترده قابل دسترس کرد
+- **زبان استعاری:** با الهام از پیشه‌اش به عنوان عطار، او واژگان غنی از عطر، جوهر و تحول را توسعه داد
+- **تأثیر بر مولانا:** کار عطار تأثیر عمیقی بر جلال‌الدین مولانا گذاشت، که عطار را پیشگام معنوی خود می‌دانست
 
-## Literary Style and Themes
+## میراث
 
-Attar's poetry is characterized by:
+تأثیر عطار بر ادبیات فارسی و تصوف غیرقابل انکار است:
 
-- **Allegorical Storytelling:** He mastered the art of using stories, parables, and metaphors to convey complex spiritual truths
-- **Accessibility:** Unlike many mystical writers, Attar's language is clear and accessible, making profound concepts understandable to ordinary readers
-- **Humor and Wit:** He often used humor and irony to make his points, making his work engaging and memorable
-- **Psychological Depth:** His works explore the inner struggles of the seeker, including doubt, fear, ego, and the difficulty of spiritual transformation
+- **پل بین دوران‌ها:** او شعر عرفانی اولیه سنایی و انفجار عرفانی بعدی مولانا را به هم پیوند داد
+- **مضامین جهانی:** کاوش او از سفر روح در فرهنگ‌ها و قرن‌ها طنین‌انداز است
+- **محبوبیت پایدار:** «منطق‌الطیر» همچنان یکی از پرخواننده‌ترین و ترجمه‌شده‌ترین آثار ادبیات فارسی است
+- **راهنمای معنوی:** آثار او همچنان به عنوان راهنمایی برای جویندگان معنوی و محققان تصوف خدمت می‌کند
 
-The central themes of Attar's work include:
-- The journey of the soul toward God
-- The annihilation of the ego (fana)
-- Divine love and longing
-- The unity of existence (wahdat al-wujud)
-- The importance of spiritual guidance and the master-disciple relationship
+خود مولانا تأثیر عطار را به رسمیت شناخت و گفت: «عطار روح جهان بود و من تنها سایه او هستم.»
 
-## Influence and Legacy
+## برای مطالعه بیشتر
 
-Attar's influence on Persian literature and Sufism cannot be overstated:
-
-- **Bridge to Rumi:** Attar is often seen as the crucial link between early Sufi poets like Sanai and the later mystical explosion represented by Rumi. Rumi himself acknowledged Attar's influence, reportedly saying: "Attar was the soul of mysticism, and I am following in his footsteps."
-
-- **Master of Allegory:** His allegorical style, particularly in Mantiq al-Tayr, set the standard for mystical storytelling in Persian literature.
-
-- **Popularization of Sufism:** Attar's accessible language and engaging stories helped spread Sufi ideas beyond elite intellectual circles to a broader audience.
-
-- **Enduring Popularity:** His works remain widely read and studied throughout the Persian-speaking world and beyond. Mantiq al-Tayr, in particular, continues to be celebrated as one of the greatest works of mystical literature in any language.
-
-## Further Reading
-
-- [Wikipedia: Attar of Nishapur](https://en.wikipedia.org/wiki/Attar_of_Nishapur){:target="_blank"}
-- [Encyclopædia Iranica: Attar](https://www.iranicaonline.org/articles/attar){:target="_blank"}
-- [Seljuk Era](../eras/seljuk.md)
+- [ویکی‌پدیای فارسی: عطار](https://fa.wikipedia.org/wiki/%D8%B9%D8%B7%D8%A7%D8%B1){:target="_blank"}
+- [دانشنامه ایرانیکا: عطار](https://www.iranicaonline.org/articles/attar){:target="_blank"}
+- [دوره سلجوقیان](../eras/seljuk.fa.md)

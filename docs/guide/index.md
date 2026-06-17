@@ -1,54 +1,56 @@
 ---
 template: main.html
-title: User Guide - Chekameh
+title: راهنمای کاربر - چکامه
+dir: rtl
+lang: fa
 ---
 
-# User Guide
+# راهنمای کاربر
 
-Learn how to get the most out of Chekameh.
+یاد بگیرید چگونه بیشترین استفاده را از چکامه ببرید.
 
-## Navigating the Site
+## ناوبری در سایت
 
-The site has four main sections:
+سایت چهار بخش اصلی دارد:
 
-1. **Home** — Project overview and introduction
-2. **Data** — Poets, eras, cities, and poem collections
-3. **Technical** — How the site was built
-4. **Resources** — Guides, FAQ, and contribution info
+۱. **خانه** — مرور کلی پروژه و مقدمه
+۲. **داده‌ها** — شاعران، دوره‌ها، شهرها و مجموعه‌های اشعار
+۳. **فنی** — چگونه سایت ساخته شد
+۴. **منابع** — راهنماها، سوالات متداول و اطلاعات مشارکت
 
-## Using the Interactive Map
+## استفاده از نقشه تعاملی
 
-<!-- Detailed map guide to be added -->
+<!-- راهنمای دقیق نقشه بعداً اضافه می‌شود -->
 
-The map shows literary centers across the Persian-speaking world. Features include:
+نقشه مراکز ادبی را در سراسر جهان فارسی‌زبان نشان می‌دهد. ویژگی‌ها شامل:
 
-- Zoom and pan to explore regions
-- Click cities for poet information
-- Filter by era using the timeline
-- Search for specific poets or locations
+- زوم و پن برای کاوش مناطق
+- کلیک روی شهرها برای اطلاعات شاعر
+- فیلتر بر اساس دوره با استفاده از خط زمانی
+- جستجوی شاعران یا مکان‌های خاص
 
-## Timeline Feature
+## ویژگی خط زمانی
 
-<!-- Timeline guide to be added -->
+<!-- راهنمای خط زمانی بعداً اضافه می‌شود -->
 
-Slide through centuries to see when poets were active. The timeline syncs with the map.
+در طول قرن‌ها لغزش کنید تا ببینید شاعران کی فعال بودند. خط زمانی با نقشه همگام می‌شود.
 
-## Poet Profiles
+## پروفایل شاعران
 
-<!-- Profile guide to be added -->
+<!-- راهنمای پروفایل بعداً اضافه می‌شود -->
 
-Each poet page includes biographical info, major works, and connections.
+هر صفحه شاعر شامل اطلاعات بیوگرافی، آثار مهم و ارتباطات است.
 
-## Search
+## جستجو
 
-<!-- Search guide to be added -->
+<!-- راهنمای جستجو بعداً اضافه می‌شود -->
 
-Find poets by name, era, location, or keywords.
+شاعران را بر اساس نام، دوره، مکان یا کلمات کلیدی پیدا کنید.
 
-## Language Switching
+## تغییر زبان
 
-Use the language toggle in the navigation bar to switch between English and Persian. Content is available in both languages.
+از دکمه تغییر زبان در نوار ناوبری برای جابه‌جایی بین انگلیسی و فارسی استفاده کنید. محتوا به هر دو زبان موجود است.
 
 ---
 
-*More detailed guides coming soon.*
+*راهنماهای دقیق‌تر به زودی.*

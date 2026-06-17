@@ -1,25 +1,25 @@
-# Safavid Era (1501–1736 CE)
+# دوره صفویان (۱۵۰۱–۱۳۶ میلادی)
 
-!!! abstract "Era Overview"
-    - **Period:** 1501 – 1736 CE
-    - **Literary Style:** The Indian Style / Sabk-e-Hindi (Abstract, complex, and highly intellectual)
-    - **Cultural Centers:** Isfahan, Qazvin, Tabriz
-    - **Core Theme:** The dominance of the Indian Style, the rise of prose, and the shifting role of poetry in a Shi'a state.
+!!! abstract "نمای کلی دوره"
+    - **بازه زمانی:** ۱۵۰۱ – ۱۷۳۶ میلادی
+    - **سبک ادبی:** سبک هندی (انتزاعی، پیچیده و به شدت فکری)
+    - **مراکز فرهنگی:** اصفهان، قزوین، تبریز
+    - **مضمون اصلی:** غلبه سبک هندی، ظهور نثر و تغییر نقش شعر در یک دولت شیعی.
 
-## Historical and Cultural Context
-The Safavid dynasty established one of the most significant ruling dynasties in Iranian history, most notably for establishing Twelver Shi'ism as the official state religion of Persia. This religious shift profoundly altered the cultural and intellectual landscape of the region. 
+## زمینه تاریخی و فرهنگی
+سلسله صفوی یکی از مهم‌ترین سلسله‌های حاکم در تاریخ ایران را تأسیس کرد و به ویژه به دلیل رسمیت بخشیدن به تشیع دوازده امامی به عنوان دین رسمی دولت ایران شناخته می‌شود. این تغییر مذهبی چشم‌انداز فرهنگی و فکری منطقه را به طور عمیقی تغییر داد.
 
-Under Shah Abbas the Great, the capital was moved to Isfahan, which became a magnificent global city known for its grand architecture, bustling bazaars, and cosmopolitan atmosphere. While the Safavid court patronized the arts, the intellectual energy of the era was increasingly directed toward theology, philosophy, and historiography, reflecting the new religious orthodoxy.
+تحت حکومت شاه عباس کبیر، پایتخت به اصفهان منتقل شد که به یک شهر بزرگ جهانی با معماری باشکوه، بازارهای پررونق و فضای کسموپولیتن تبدیل شد. اگرچه دربار صفوی از هنر حمایت می‌کرد، انرژی فکری این دوره فزاینده به سمت الهیات، فلسفه و تاریخ‌نگاری معطوف شد که بازتاب‌دهنده ارتدوکسی مذهبی جدید بود.
 
-## Literary Significance
-Poetry during the Safavid era was dominated by the **Indian Style (Sabk-e-Hindi)**. Originating in the later Timurid period, this style reached its absolute peak under the Safavids. 
+## اهمیت ادبی
+شعر در دوره صفوی تحت سلطه **سبک هندی** بود. این سبک که در اواخر دوره تیموری ریشه داشت، تحت صفویان به اوج مطلق خود رسید.
 
-The Indian Style is characterized by:
-- **Abstract Imagery:** Moving away from physical descriptions to conceptual and philosophical metaphors.
-- **Complex Syntax:** Intricate sentence structures and "delayed predicates" that require deep contemplation to understand.
-- **Intellectual Depth:** A focus on wit, paradox, and intricate wordplay rather than pure emotional or mystical expression.
+سبک هندی با ویژگی‌های زیر مشخص می‌شود:
+- **تصویرسازی انتزاعی:** حرکت از توصیفات فیزیکی به سمت استعاره‌های مفهومی و فلسفی.
+- **ساختار دستوری پیچیده:** ساختارهای جمله‌ای پیچیده و «مسندهای دور» که برای درک نیاز به تأمل عمیق دارد.
+- **عمق فکری:** تمرکز بر ظرافت، پارادوکس و بازی‌های پیچیده کلمات به جای بیان صرفاً احساسی یا عرفانی.
 
-While poetry remained important, this era also saw a significant rise in Persian prose, particularly in the form of historical chronicles, religious treatises, and travelogues. The role of the poet shifted from a central cultural figure to a more specialized intellectual artisan.
+اگرچه شعر همچنان مهم بود، این دوره شاهد رشد قابل توجه نثر فارسی، به ویژه در شکل وقایع‌نگاری تاریخی، رساله‌های مذهبی و سفرنامه‌ها نیز بود. نقش شاعر از یک چهره فرهنگی مرکزی به یک پیشه‌ور فکری تخصصی‌تر تغییر کرد.
 
-## Poets of the Era
-- [Saeb Tabrizi](../poets/saeb-tabrizi.md)
+## شاعران این دوره
+- [صائب تبریزی](../poets/saeb-tabrizi.md)
