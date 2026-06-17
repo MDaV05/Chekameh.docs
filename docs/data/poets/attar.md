@@ -58,6 +58,6 @@
 
 ## برای مطالعه بیشتر
 
-- [ویکی‌پدیای فارسی: عطار](https://fa.wikipedia.org/wiki/%D8%B9%D8%B7%D8%A7%D8%B1){:target="_blank"}
-- [دانشنامه ایرانیکا: عطار](https://www.iranicaonline.org/articles/attar){:target="_blank"}
-- [دوره سلجوقیان](../eras/seljuk.fa.md)
+- [ویکی‌پدیای فارسی: عطار](https://fa.wikipedia.org/wiki/%D8%B9%D8%B7%D8%A7%D8%B1)
+- [دانشنامه ایرانیکا: عطار](https://www.iranicaonline.org/articles/attar)
+- [دوره سلجوقیان](../eras/seljuk.md)

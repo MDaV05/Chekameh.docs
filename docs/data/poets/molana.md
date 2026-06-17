@@ -335,5 +335,5 @@
 - [دانشنامه ایرانیکا: مولانا جلال‌الدین رومی](https://www.iranicaonline.org/articles/mawlana-jalal-al-din)
 - [گنجور: مثنوی معنوی](https://ganjoor.net/molavi/masnavi)
 - [گنجور: دیوان شمس](https://ganjoor.net/molavi/shams)
-- [دوره ایلخانیان](../eras/ilkhanate.fa.md) - زمینه تاریخی دوران مولانا
-- [شهر بلخ](../cities/balkh.fa.md) - زادگاه مولانا
+- [دوره ایلخانیان](../eras/ilkhanate.md) - زمینه تاریخی دوران مولانا
+- [شهر بلخ](../cities/balkh.md) - زادگاه مولانا

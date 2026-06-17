@@ -259,5 +259,5 @@
 - [ویکی‌پدیای فارسی: خیام](https://fa.wikipedia.org/wiki/%D8%AE%DB%8C%D8%A7%D9%85)
 - [دانشنامه ایرانیکا: خیام](https://www.iranicaonline.org/articles/khayyam)
 - [گنجور: رباعیات خیام](https://ganjoor.net/khayyam)
-- [دوره سلجوقیان](../eras/seljuk.fa.md) - زمینه تاریخی زندگی و کار خیام
-- [شهر نیشابور](../cities/nishapur.fa.md) - زادگاه خیام
+- [دوره سلجوقیان](../eras/seljuk.md) - زمینه تاریخی زندگی و کار خیام
+- [شهر نیشابور](../cities/nishapur.md) - زادگاه خیام

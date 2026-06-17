@@ -47,4 +47,4 @@
 
 - [ویکی‌پدیای فارسی: دقیقی](https://fa.wikipedia.org/wiki/%D8%AF%D9%82%DB%8C%D9%82%DB%8C)
 - [دانشنامه ایرانیکا: دقیقی](https://www.iranicaonline.org/articles/daqiqi)
-- [دوره سامانیان](../eras/samanid.fa.md)
+- [دوره سامانیان](../eras/samanid.md)

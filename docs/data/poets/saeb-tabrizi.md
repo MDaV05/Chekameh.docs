@@ -322,5 +322,5 @@
 - [ویکی‌پدیای فارسی: صائب تبریزی](https://fa.wikipedia.org/wiki/%D8%B5%D8%A7%D8%A6%D8%A8_%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2%DB%8C)
 - [دانشنامه ایرانیکا: صائب تبریزی](https://www.iranicaonline.org/articles/saeb-tabrizi)
 - [گنجور: دیوان صائب](https://ganjoor.net/saeb)
-- [دوره صفویان](../eras/safavid.fa.md) - زمینه تاریخی زندگی و کار صائب
-- [شهر اصفهان](../cities/isfahan.fa.md) - محل زندگی و وفات صائب
+- [دوره صفویان](../eras/safavid.md) - زمینه تاریخی زندگی و کار صائب
+- [شهر اصفهان](../cities/isfahan.md) - محل زندگی و وفات صائب

@@ -359,4 +359,4 @@
 - [ویکی‌پدیای فارسی: سعدی](https://fa.wikipedia.org/wiki/%D8%B3%D8%B9%D8%AF%DB%8C)
 - [دانشنامه ایرانیکا: سعدی](https://www.iranicaonline.org/articles/saadi)
 - [گنجور: آثار سعدی](https://ganjoor.net/saadi)
-- [دوره ایلخانیان](../eras/ilkhanate.fa.md) - زمینه تاریخی زندگی و کار سعدی
+- [دوره ایلخانیان](../eras/ilkhanate.md) - زمینه تاریخی زندگی و کار سعدی

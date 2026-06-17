@@ -302,5 +302,5 @@
 - [ویکی‌پدیای فارسی: حافظ](https://fa.wikipedia.org/wiki/%D8%AD%D8%A7%D9%81%D8%B8)
 - [دانشنامه ایرانیکا: حافظ](https://www.iranicaonline.org/articles/hafez)
 - [گنجور: دیوان حافظ](https://ganjoor.net/hafez)
-- [دوره ایلخانیان](../eras/ilkhanate.fa.md) - زمینه تاریخی زندگی اولیه حافظ
-- [دوره تیموریان](../eras/timurid.fa.md) - زمینه تاریخی سال‌های آخر حافظ
+- [دوره ایلخانیان](../eras/ilkhanate.md) - زمینه تاریخی زندگی اولیه حافظ
+- [دوره تیموریان](../eras/timurid.md) - زمینه تاریخی سال‌های آخر حافظ

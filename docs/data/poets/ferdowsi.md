@@ -158,5 +158,5 @@
 - [ویکی‌پدیای فارسی: فردوسی](https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%AF%D9%88%D8%B3%DB%8C)
 - [دانشنامه ایرانیکا: فردوسی](https://www.iranicaonline.org/articles/ferdowsi)
 - [گنجور: شاهنامه](https://ganjoor.net/ferdowsi/shahname)
-- [دوره سامانیان](../eras/samanid.fa.md) - زمینه تاریخی دوران اولیه فردوسی
-- [دوره غزنویان](../eras/ghaznavid.fa.md) - زمینه تاریخی سال‌های آخر فردوسی
+- [دوره سامانیان](../eras/samanid.md) - زمینه تاریخی دوران اولیه فردوسی
+- [دوره غزنویان](../eras/ghaznavid.md) - زمینه تاریخی سال‌های آخر فردوسی

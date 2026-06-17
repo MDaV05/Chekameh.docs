@@ -293,4 +293,4 @@
 - [ویکی‌پدیای فارسی: جامی](https://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%DB%8C)
 - [دانشنامه ایرانیکا: جامی](https://www.iranicaonline.org/articles/jami)
 - [گنجور: دیوان جامی](https://ganjoor.net/jami)
-- [دوره تیموریان](../eras/timurid.fa.md) - زمینه تاریخی زندگی و کار جامی
+- [دوره تیموریان](../eras/timurid.md) - زمینه تاریخی زندگی و کار جامی
