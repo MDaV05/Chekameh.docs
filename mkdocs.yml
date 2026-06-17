@@ -81,9 +81,6 @@ nav:
       - صائب تبریزی: data/poets/saeb-tabrizi.md
   - ⚙️ فنی: technical/index.md
   - 📚 منابع: resources/index.md
-  - 🔗 لینک‌ سریع:
-    - نمایش زنده: https://chekameh.xyz
-    - مخزن گیت‌هاب: https://github.com/MDaV05/PersianCultureMap
 
 plugins:
   - search
