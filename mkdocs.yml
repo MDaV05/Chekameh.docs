@@ -105,10 +105,14 @@ markdown_extensions:
 
 extra:
   social:
+    - icon: custom/46
+      link: https://web.bale.ai/@FerdowsBaleBot
     - icon: fontawesome/brands/github
       link: https://github.com/MDaV05/PersianCultureMap
     - icon: material/web
       link: https://chekameh.xyz
+    - icon: fontawesome/brands/telegram
+      link: http://t.me/MDaV05
 
 extra_css:
   - stylesheets/extra.css
